@@ -1,0 +1,764 @@
+{
+	"time_scale": {
+		"geologic": [
+			{
+				"name": "Hadean",
+				"type": "Eon",
+				"color": "#",
+				"start": -4600000000,
+				"end": -4000000001,
+				"sub": []
+			},
+			{
+				"name": "Archean",
+				"type": "Eon",
+				"color": "#",
+				"start": -4000000000,
+				"end": -2500000001,
+				"sub": [
+					{
+						"name": "Eoarchean",
+						"type": "Era",
+						"color": "#",
+						"start": -4000000000,
+						"end": -3600000001,
+						"sub": []
+					},
+					{
+						"name": "Paleoarchean",
+						"type": "Era",
+						"color": "#",
+						"start": -3600000000,
+						"end": -3200000001,
+						"sub": []
+					},
+					{
+						"name": "Mesoarchean",
+						"type": "Era",
+						"color": "#",
+						"start": -3200000000,
+						"end": -2800000001,
+						"sub": []
+					},
+					{
+						"name": "Neoarchean",
+						"type": "Era",
+						"color": "#",
+						"start": -2800000000,
+						"end": -2500000001,
+						"sub": []
+					}
+				]
+			},
+			{
+				"name": "Proterozoic",
+				"type": "Eon",
+				"color": "#",
+				"start": -2500000000,
+				"end": -540000001,
+				"sub": [
+					{
+						"name": "Paleoproterozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -2500000000,
+						"end": -1600000001,
+						"sub": [
+							{
+								"name": "Siderian",
+								"type": "Period",
+								"color": "#",
+								"start": -2500000000,
+								"end": -2300000001,
+								"sub": []
+							},
+							{
+								"name": "Rhyacian",
+								"type": "Period",
+								"color": "#",
+								"start": -2300000000,
+								"end": -2050000001,
+								"sub": []
+							},
+							{
+								"name": "Orosirian",
+								"type": "Period",
+								"color": "#",
+								"start": -2050000000,
+								"end": -1800000001,
+								"sub": []
+							},
+							{
+								"name": "Statherian",
+								"type": "Period",
+								"color": "#",
+								"start": -1800000000,
+								"end": -1600000001,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Mesoproterozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -1600000000,
+						"end": -1000000001,
+						"sub": [
+							{
+								"name": "Calymmian",
+								"type": "Period",
+								"color": "#",
+								"start": -1600000000,
+								"end": -1400000001,
+								"sub": []
+							},
+							{
+								"name": "Ectasian",
+								"type": "Period",
+								"color": "#",
+								"start": -1400000000,
+								"end": -1200000001,
+								"sub": []
+							},
+							{
+								"name": "Stenian",
+								"type": "Period",
+								"color": "#",
+								"start": -1200000000,
+								"end": -1000000001,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Neoproterozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -1000000000,
+						"end": -540000001,
+						"sub": [
+							{
+								"name": "Tonian",
+								"type": "Period",
+								"color": "#",
+								"start": -1000000000,
+								"end": -720000001,
+								"sub": []
+							},
+							{
+								"name": "Cryogenian",
+								"type": "Period",
+								"color": "#",
+								"start": -720000000,
+								"end": -635000001,
+								"sub": []
+							},
+							{
+								"name": "Ediacaran",
+								"type": "Period",
+								"color": "#",
+								"start": -635000000,
+								"end": -540000001,
+								"sub": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Phanerozoic",
+				"type": "Eon",
+				"color": "#",
+				"start": -540000000,
+				"end": 800000000,
+				"sub": [
+					{
+						"name": "Paleozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -540000000,
+						"end": -252000001,
+						"sub": [
+							{
+								"name": "Cambrian",
+								"type": "Period",
+								"color": "#",
+								"start": -540000000,
+								"end": -485000001,
+								"sub": []
+							},
+							{
+								"name": "Ordovician",
+								"type": "Period",
+								"color": "#",
+								"start": -485000000,
+								"end": -444000001,
+								"sub": []
+							},
+							{
+								"name": "Silurian",
+								"type": "Period",
+								"color": "#",
+								"start": -444000000,
+								"end": -41900001,
+								"sub": []
+							},
+							{
+								"name": "Devonian",
+								"type": "Period",
+								"color": "#",
+								"start": -419000000,
+								"end": -35900001,
+								"sub": []
+							},
+							{
+								"name": "Carboniferous",
+								"type": "Period",
+								"color": "#",
+								"start": -359000000,
+								"end": -29900001,
+								"sub": []
+							},
+							{
+								"name": "Permian",
+								"type": "Period",
+								"color": "#",
+								"start": -299000000,
+								"end": -252000001,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Mesozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -252000000,
+						"end": -66000001,
+						"sub": [
+							{
+								"name": "Triassic",
+								"type": "Period",
+								"color": "#",
+								"start": -252000000,
+								"end": -202000001,
+								"sub": []
+							},
+							{
+								"name": "Jurassic",
+								"type": "Period",
+								"color": "#",
+								"start": -202000000,
+								"end": -145000001,
+								"sub": []
+							},
+							{
+								"name": "Cretaceous",
+								"type": "Period",
+								"color": "#",
+								"start": -145000000,
+								"end": -66000001,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Cenozoic",
+						"type": "Era",
+						"color": "#",
+						"start": -66000000,
+						"end": 100000,
+						"sub": [
+							{
+								"name": "Paleogene",
+								"type": "Period",
+								"color": "#",
+								"start": -66000000,
+								"end": -23000001,
+								"sub": [
+									{
+										"name": "Paleocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -252000000,
+										"end": -202000001,
+										"sub": []
+									},
+									{
+										"name": "Eocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -202000000,
+										"end": -145000001,
+										"sub": []
+									},
+									{
+										"name": "Oligocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -145000000,
+										"end": -66000001,
+										"sub": []
+									}
+								]
+							},
+							{
+								"name": "Neogene",
+								"type": "Period",
+								"color": "#",
+								"start": -23000000,
+								"end": -2580001,
+								"sub": [
+									{
+										"name": "Miocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -252000000,
+										"end": -202000001,
+										"sub": []
+									},
+									{
+										"name": "Pliocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -202000000,
+										"end": -145000001,
+										"sub": []
+									}
+								]
+							},
+							{
+								"name": "Quarternary",
+								"type": "Period",
+								"color": "#",
+								"start": -2580000,
+								"end": 100000,
+								"sub": [
+									{
+										"name": "Pleistocene",
+										"type": "Epoch",
+										"color": "#",
+										"start": -2580000,
+										"end": -9702,
+										"sub": []
+									},
+									{ "name": "Holocene", "type": "Epoch", "color": "#", "start": -9701, "end": 100000, "sub": [] }
+								]
+							}
+						]
+					}
+				]
+			}
+		],
+		"climatic": {
+			"name": "Quarternary glaciation",
+			"short_name": "",
+			"alt_name": "Pleistocene glaciation",
+			"type": "Glaciation",
+			"color": "#",
+			"start": -2580000,
+			"end": 100000,
+			"sub": [
+				{
+					"name": "Eemian",
+					"short_name": "",
+					"alt_name": "",
+					"type": "Interglacial period",
+					"color": "#",
+					"start": -128000,
+					"end": -113001,
+					"sub": []
+				},
+				{
+					"name": "Last Glacial Period",
+					"short_name": "LGP",
+					"alt_name": "Ice Age",
+					"type": "Glacial period",
+					"color": "#",
+					"start": -113000,
+					"end": -9702,
+					"sub": [
+						{
+							"name": "Last Glacial Maximum",
+							"short_name": "LGM",
+							"alt_name": "",
+							"type": "Glacial maximum",
+							"color": "#",
+							"start": -31000,
+							"end": -12671,
+							"sub": []
+						},
+						{
+							"name": "Late Glacial Interstadial",
+							"short_name": "LGI",
+							"alt_name": "",
+							"type": "Interstadial period",
+							"color": "#",
+							"start": -12670,
+							"end": -10891,
+							"sub": []
+						},
+						{
+							"name": "Younger Dryas",
+							"short_name": "",
+							"alt_name": "",
+							"type": "Postglacial period",
+							"color": "#",
+							"start": -10890,
+							"end": -9702,
+							"sub": []
+						}
+					]
+				},
+				{
+					"name": "Holocene interglacial",
+					"short_name": "",
+					"alt_name": "Holocene",
+					"type": "Interglacial period",
+					"color": "#",
+					"start": -9701,
+					"end": 50000,
+					"sub": [
+						{
+							"name": "8.2-kiloyear cooling",
+							"short_name": "",
+							"alt_name": "",
+							"type": "Climatic period",
+							"color": "#",
+							"start": -6400,
+							"end": -6100,
+							"sub": []
+						},
+						{
+							"name": "4.2-kiloyear event",
+							"short_name": "",
+							"alt_name": "4.2-kiloyear aridification event",
+							"type": "Climatic period",
+							"color": "#",
+							"start": -2200,
+							"end": -2100,
+							"sub": []
+						},
+						{
+							"name": "Roman Warm Period",
+							"short_name": "",
+							"alt_name": "Roman Climatic Optimum",
+							"type": "Climatic period",
+							"color": "#",
+							"start": -250,
+							"end": 400,
+							"sub": []
+						},
+						{
+							"name": "Late Antique Little Ice Age",
+							"short_name": "",
+							"alt_name": "",
+							"type": "Climatic period",
+							"color": "#",
+							"start": 536,
+							"end": 560,
+							"sub": []
+						},
+						{
+							"name": "Medieval Warm Period",
+							"short_name": "MWP",
+							"alt_name": "Medieval Climatic Anomaly",
+							"type": "Climatic period",
+							"color": "#",
+							"start": 950,
+							"end": 1250,
+							"sub": []
+						},
+						{
+							"name": "Little Ice Age",
+							"short_name": "LIA",
+							"alt_name": "",
+							"type": "Climatic period",
+							"color": "#",
+							"start": 1400,
+							"end": 1850,
+							"sub": []
+						},
+						{
+							"name": "Global Warming",
+							"short_name": "",
+							"alt_name": "Climate Change",
+							"type": "Climatic period",
+							"color": "#",
+							"start": 1900,
+							"end": 2100,
+							"sub": []
+						}
+					]
+				}
+			]
+		},
+		"archeological": [
+			{
+				"name": "Stone Age",
+				"alt_name": "",
+				"type": "",
+				"color": "#",
+				"start": -3400000,
+				"end": -4000,
+				"sub": [
+					{
+						"name": "Paleolithic",
+						"alt_name": "Old Stone Age",
+						"type": "",
+						"color": "#",
+						"start": -3400000,
+						"end": -10000,
+						"sub": [
+							{
+								"name": "Lower Paleolithic",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": -3400000,
+								"end": -248000,
+								"sub": []
+							},
+							{
+								"name": "Middle Paleolithic",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": -298000,
+								"end": -28000,
+								"sub": []
+							},
+							{
+								"name": "Upper Paleolithic",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": -48000,
+								"end": -10000,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Mesolithic",
+						"alt_name": "Middle Stone Age",
+						"type": "",
+						"color": "#",
+						"start": -18000,
+						"end": -5000,
+						"sub": [
+							{
+								"name": "Southwest Asian Mesolithic",
+								"alt_name": "",
+								"type": "Asia",
+								"color": "#",
+								"start": -18000,
+								"end": -8000,
+								"sub": []
+							},
+							{
+								"name": "European Mesolithic",
+								"alt_name": "",
+								"type": "Europe",
+								"color": "#",
+								"start": -13000,
+								"end": -3000,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Neolithic",
+						"alt_name": "New Stone Age",
+						"type": "",
+						"color": "#",
+						"start": -8000,
+						"end": -4500,
+						"sub": [
+							{
+								"name": "Western European Neolithic",
+								"alt_name": "",
+								"type": "Western Europe",
+								"color": "#",
+								"start": -6000,
+								"end": -2200,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Copper Age",
+						"alt_name": "Chalcolithic",
+						"type": "",
+						"color": "#",
+						"start": -5000,
+						"end": -2000,
+						"sub": []
+					},
+					{
+						"name": "Bronze Age",
+						"alt_name": "",
+						"type": "",
+						"color": "#",
+						"start": -3300,
+						"end": -1200,
+						"sub": [
+							{
+								"name": "Nordic Bronze Age",
+								"alt_name": "",
+								"type": "Scandinavia",
+								"color": "#",
+								"start": -1750,
+								"end": -500,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Iron Age",
+						"alt_name": "",
+						"type": "",
+						"color": "#",
+						"start": -1199,
+						"end": -500,
+						"sub": []
+					}
+				]
+			}
+		],
+		"anthropologic": [
+			{
+				"name": "Prehistory",
+				"alt_name": "",
+				"type": "",
+				"color": "#",
+				"start": -34000000,
+				"end": -3401,
+				"sub": []
+			},
+			{
+				"name": "Recorded history",
+				"alt_name": "History",
+				"type": "",
+				"color": "#",
+				"start": -3400,
+				"end": 2025,
+				"sub": [
+					{
+						"name": "Classical Antiquity",
+						"alt_name": "Antiquity",
+						"type": "",
+						"color": "#",
+						"start": -800,
+						"end": 499,
+						"sub": [
+							{
+								"name": "Late Antiquity",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": 284,
+								"end": 622,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Middle Ages",
+						"alt_name": "Medieval period",
+						"type": "",
+						"color": "#",
+						"start": 500,
+						"end": 1499,
+						"sub": [
+							{
+								"name": "Early Middle Ages",
+								"alt_name": "Early medieval period",
+								"type": "",
+								"color": "#",
+								"start": 500,
+								"end": 999,
+								"sub": []
+							},
+							{
+								"name": "High Middle Ages",
+								"alt_name": "High medieval period",
+								"type": "",
+								"color": "#",
+								"start": 1000,
+								"end": 1299,
+								"sub": []
+							},
+							{
+								"name": "Late Middle Ages",
+								"alt_name": "Late medieval period",
+								"type": "",
+								"color": "#",
+								"start": 1300,
+								"end": 1499,
+								"sub": []
+							}
+						]
+					},
+					{
+						"name": "Modern Era",
+						"alt_name": "",
+						"type": "",
+						"color": "#",
+						"start": 1500,
+						"end": 2025,
+						"sub": [
+							{
+								"name": "Early modern period",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": 1500,
+								"end": 1799,
+								"sub": []
+							},
+							{
+								"name": "Late modern period",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": 1800,
+								"end": 1944,
+								"sub": []
+							},
+							{
+								"name": "Contemporary modern period",
+								"alt_name": "",
+								"type": "",
+								"color": "#",
+								"start": 1945,
+								"end": 2025,
+								"sub": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Future",
+				"alt_name": "",
+				"type": "",
+				"color": "#",
+				"start": 2030,
+				"end": 10000000000,
+				"sub": [
+					{
+						"name": "Far future",
+						"alt_name": "Distant future",
+						"type": "",
+						"color": "#",
+						"start": 10000,
+						"end": 10000000000,
+						"sub": []
+					}
+				]
+			}
+		]
+	}
+}
