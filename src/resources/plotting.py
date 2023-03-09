@@ -1,8 +1,9 @@
-import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 import plotly.figure_factory as ff
 import matplotlib.pyplot as plt
+
+
 
 def timeline_chart(df, rangestart, rangeend):
     # Filter rows with "Unit" in the "type" column
@@ -23,21 +24,29 @@ def timeline_chart(df, rangestart, rangeend):
             width=df_sortfiltered["end"] - df_sortfiltered["start"], 
             left=df_sortfiltered["start"], 
             height=0.5, 
-            align="center")
+            align="center",
+            color='indianred')
     
     # Set the chart title and axis labels
-    ax.set_title("Timeline of Units")
-    ax.set_xlabel("Date")
-    ax.set_ylabel("Event")
+    ax.set_title("Timeline of Units", color='white')
+    ax.set_xlabel("Date", color='white')
+    ax.set_ylabel("Event", color='white')
     
     # Invert the y-axis so that the units are listed from top to bottom
     ax.invert_yaxis()
     
     # Show dates in range
     ax.set_xlim(rangestart, rangeend)
+
+    # Set the tick labels to white
+    ax.tick_params(colors='white')
+
+    # Set the spines to white
+    for spine in ax.spines.values():
+        spine.set_edgecolor('white')
     
     # Save the plot to a file
-    plt.savefig("Images/{}.png".format("timeline_units"), dpi=500, bbox_inches="tight")
+    plt.savefig("Images/{}_({}-{}).png".format("timeline_units", rangestart, rangeend), dpi=400, bbox_inches="tight", transparent=True)
 
 
 
@@ -46,7 +55,7 @@ def plot_centuries_histogram(df, filename):
     df['century'] = (df['start'] // 100) + 1
 
     # Filter the DataFrame to include only rows between 0 AD and 2000 AD
-    df_filtered = df[(df['start'] >= 0) & (df['start'] < 2000)]
+    df_filtered = df[(df['start'] >= 0) & (df['start'] <= 2000)]
 
     # Count the occurrences of each century
     century_counts = df_filtered['century'].value_counts()
