@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import re
 
 def alg_geo(data, start, end, i, list, df):
   for j in range(len(data)):
@@ -65,6 +66,22 @@ def time_scales(df):
   return df
 
 
+
+def add_id(df):
+    # adding numbers instead 
+    id_values = list(range(1, len(df)+1))
+    df['id_num'] = id_values
+
+    # Modify the "name" column to generate the "id" column
+    df['id'] = df['name'].apply(lambda x: re.sub(r'[^a-z0-9\-]+', '', str(x).lower().replace(' ', '-')))
+
+    # Add the new column to the DataFrame
+    df = df[['id', 'name'] + list(df.columns.difference(['id', 'name']))]
+
+    return df
+
+
+
 def convert_to_json(df):
     # Convert the dataframe to a JSON object with formatting
     json_obj = df.to_json(orient='records', indent=4)
@@ -72,7 +89,6 @@ def convert_to_json(df):
     # Replace the escaped forward slashes with regular forward slashes in the JSON string
     json_obj = json_obj.replace('\\/', '/')
 
-    # Write the resulting JSON object to a file
     with open('World_History.json', 'w') as f:
         f.write(json_obj)
     f.close()

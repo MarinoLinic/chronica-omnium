@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 from plotting import plot_centuries_histogram, timeline_chart
-from data_manipulation import convert_to_json, time_scales
+from data_manipulation import convert_to_json, time_scales, add_id
 
 # Define the name of the input CSV file
 input_file = 'World_History.csv'
@@ -17,15 +17,18 @@ except UnicodeDecodeError:
 # print(df.head())
 
 ### Functions
-# Add stuff
+# Add and remove columns in the dataframe
 df = time_scales(df)
+df = add_id(df)
 
 # Convert to JSON
 convert_to_json(df)
 
 # Call the function to create the histogram and save it as an image
-plot_centuries_histogram(df, 'histogram')
+# plot_centuries_histogram(df, 'histogram')
 
 # Create a timeline of empires, nations, and kingdoms in a given time window
-timeline_chart(df, 0, 2000)
-timeline_chart(df, -4000, 0)
+# timeline_chart(df, 0, 2000, "Unit", "Units")
+# timeline_chart(df, -4000, 0, "Unit", "Units")
+# timeline_chart(df, 1700, 1900, "Unit", "Units")
+# timeline_chart(df, 1750, 1850, "Person", "People")
