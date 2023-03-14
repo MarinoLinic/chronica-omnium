@@ -1,6 +1,19 @@
 import json
 import pandas as pd
 import re
+from wiki_scraping import wiki
+
+
+
+def add_wiki(df):
+    for i, row in df.iterrows():
+        source = row["source"]
+        if pd.notna(source) and source.strip():
+            wiki_text = wiki(source)
+            df.at[i, "wiki"] = wiki_text
+    return df
+
+
 
 def alg_geo(data, start, end, i, list, df):
   for j in range(len(data)):

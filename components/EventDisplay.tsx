@@ -44,6 +44,16 @@ const EventDisplay = ({ event }: any) => {
 							</a>
 						)}
 					</p>
+					<div className="text-sm font-light text-gray-200">
+						{event.wiki &&
+							event.wiki.split('\n').map((line, index) => (
+								<>
+									<p className="my-4" key={index}>
+										{line}
+									</p>
+								</>
+							))}
+					</div>
 				</div>
 
 				<div className="">
