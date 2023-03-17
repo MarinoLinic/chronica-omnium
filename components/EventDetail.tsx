@@ -27,41 +27,41 @@ const EventDetail = () => {
 				<EventPrevious event={event} />
 			</section>
 
-			{charts === 1 && event.start && (
-				<>
-					<div className="fixed-pos">
-						<TimelineChart
-							data={data}
-							rangestart={event.start - 100}
-							rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
-							type={'Unit'}
-							title={'Units'}
-						/>
-					</div>
+			<section>
+				<div className="fixed-half-v fixed-chart-1">
+					<TimelineChart
+						data={data}
+						rangestart={event.start - 100}
+						rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
+						type={'Unit'}
+						title={'Units'}
+					/>
+				</div>
 
-					<div className="fixed-pos">
-						<TimelineChart
-							data={data}
-							rangestart={event.start - 30}
-							rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
-							type={'Person'}
-							title={'People'}
-						/>
-					</div>
+				<div className="fixed-half-v fixed-chart-2">
+					<TimelineChart
+						data={data}
+						rangestart={event.start - 30}
+						rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
+						type={'Person'}
+						title={'People'}
+					/>
+				</div>
 
-					<div className="fixed-pos">
-						<TimelineChart
-							data={data}
-							rangestart={event.start - 10}
-							rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
-							type={'Event'}
-							title={'Random Events'}
-						/>
-					</div>
+				<div className="fixed-half-v fixed-chart-3">
+					<TimelineChart
+						data={data}
+						rangestart={event.start - 10}
+						rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
+						type={'Event'}
+						title={'Random Events'}
+					/>
+				</div>
 
-					{/* <EventMap locationInfo={event.location_info} /> */}
-				</>
-			)}
+				<div className="fixed-half-v fixed-chart-4">
+					{event.location_info && <EventMap locationInfo={event.location_info} />}
+				</div>
+			</section>
 
 			<section className="container">
 				<EventDisplay event={event} />

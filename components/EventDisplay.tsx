@@ -20,6 +20,7 @@ const EventDisplay = ({ event }: any) => {
 					{event.generations !== null && event.generations > 1 && (
 						<p>{event.generations.toLocaleString()} generations ago</p>
 					)}
+					{event.location !== null && <p>{event.location}</p>}
 				</div>
 
 				<div className="center">
@@ -27,7 +28,11 @@ const EventDisplay = ({ event }: any) => {
 				</div>
 
 				<div className="parent-image">
-					{event.image && <img src={event.image} alt="image" className="detail-image" />}
+					{event.image && (
+						<a href={event.image} target="_blank" rel="noopener noreferrer">
+							<img src={event.image} alt="image" className="detail-image" />
+						</a>
+					)}
 				</div>
 
 				<div className="margin-y blue">

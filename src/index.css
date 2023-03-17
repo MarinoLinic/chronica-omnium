@@ -65,8 +65,9 @@ img:hover {
 }
 
 .leaflet-container {
-	width: 10px;
-	height: 10px;
+	width: 600px;
+	height: 400px;
+	margin-left: 100px;
 }
 
 .container {
@@ -187,6 +188,19 @@ h3 {
 	transform: translate(780%, -50%);
 }
 
+.fixed-chart-1 {
+	transform: translate(-155%, -130%);
+}
+.fixed-chart-2 {
+	transform: translate(-155%, 29%);
+}
+.fixed-chart-3 {
+	transform: translate(50%, -130%);
+}
+.fixed-chart-4 {
+	transform: translate(50%, 29%);
+}
+
 .parent-image {
 	display: flex;
 	justify-content: center;
@@ -197,4 +211,9 @@ h3 {
 	border-radius: 0rem;
 	max-width: 100%;
 	max-height: 400px;
+}
+
+.chart-size {
+	width: 100px;
+	height: 100px;
 }

@@ -18,10 +18,10 @@ function TimelineChart({ data, rangestart, rangeend, type, title }: any) {
 				x: df_sortfiltered.map((row) => row.end - row.start),
 				base: df_sortfiltered.map((row) => row.start),
 				orientation: 'h',
-				marker: { color: 'indianred' },
+				marker: { color: '#C7CBDD' },
 				type: 'bar',
 				text: df_sortfiltered.map((row) => `${row.duration}`), // add text to each bar
-				textfont: { color: 'indianred', size: 1 }, // set the color of the text to white
+				textfont: { color: '#21306a', size: 1 }, // set the color of the text to white
 				hovertemplate: '%{y}<br>%{base}-%{x}<br>%{text} years<extra></extra>',
 				// text: df_sortfiltered.map((row) => `${row.start}-${row.end}`),
 				// text: df_sortfiltered.map((row) => `${row.name}`), // add text to each bar
@@ -35,24 +35,24 @@ function TimelineChart({ data, rangestart, rangeend, type, title }: any) {
 				title: 'Date',
 				range: [rangestart, rangeend],
 				showspikes: true,
-				spikecolor: 'white',
+				spikecolor: 'black',
 				spikemode: 'across',
 				spikesnap: 'cursor',
-				tickfont: { color: 'white' },
+				tickfont: { color: 'black' },
 			},
 			yaxis: {
 				title: title,
 				autorange: 'reversed',
 				showspikes: true,
-				spikecolor: 'white',
+				spikecolor: 'black',
 				spikemode: 'across',
 				spikesnap: 'cursor',
-				tickfont: { color: 'white' },
+				tickfont: { color: 'black' },
 			},
-			plot_bgcolor: '#27252F',
-			paper_bgcolor: '#27252F',
+			plot_bgcolor: '#fff',
+			paper_bgcolor: '#fff',
 			margin: {
-				l: 250, // adjust the left margin
+				l: 280, // adjust the left margin
 				r: 50, // adjust the right margin
 				t: 50, // adjust the top margin
 				b: 50, // adjust the bottom margin
@@ -63,7 +63,7 @@ function TimelineChart({ data, rangestart, rangeend, type, title }: any) {
 
 	// style={{ width: '800px', height: '600px' }} ↓ add below after layout
 
-	return <Plot data={fig.data} layout={fig.layout} />
+	return <Plot data={fig.data} layout={fig.layout} style={{ width: '700px', height: '400px' }} />
 }
 
 export default TimelineChart
