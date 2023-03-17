@@ -1,41 +1,67 @@
 const EventDisplay = ({ event }: any) => {
 	return (
 		<>
-			<section className="my-4 grid-cols-3 gap-2 items-center">
-				<div className="text-sm flex-col">
-					<div className="mt-4 text-orange-300 font-semibold flex items-center justify-end">
+			<section className="center">
+				<h1>{event.name}</h1>
+				<div className="flex-row margin-y flex-center">
+					<h1 className="blue">
 						{event.start}
 						{event.end && ` - ${event.end}`}
-					</div>
-					<div className="mt-2 text-gray-300 flex items-center justify-end">{event.location}</div>
-					<div className="mb-4 text-gray-400 mt-2 flex items-center justify-end">{event.type}</div>
+					</h1>
+					{event.end && event.range_type === null && <h3 className="gray padding-x">({event.duration} years)</h3>}
 				</div>
 
-				<div className="flex-col text-center px-36">
-					<p className="mt-4 font-bold text-xl text-gray-300">{event.name}</p>
-					<p className="text-sm font-light text-gray-200">{event.short_desc}</p>
-					<p className="mb-4">
-						{event.source && (
-							<a className="text-xs text-blue-500 hover:text-blue-400" href={event.source}>
-								External info / Source
-							</a>
-						)}
+				<div className="margin-y blue">
+					<p>
+						{`${event.time_bp_start.toLocaleString()}`}
+						{event.time_bp_end !== null && event.time_bp_end !== 0 && ` - ` + `${event.time_bp_end.toLocaleString()}`}
+						{event.time_bp_end === 0 ? ` years ago - ` + `present` : ` years ago`}
 					</p>
-					<div className="text-sm font-light text-gray-200">
-						{event.wiki &&
-							event.wiki.split('\n').map((line, index) => (
-								<>
-									<p className="my-4" key={index}>
-										{line}
-									</p>
-								</>
-							))}
-					</div>
+					{event.generations !== null && event.generations > 1 && (
+						<p>{event.generations.toLocaleString()} generations ago</p>
+					)}
 				</div>
 
-				<div className="">
-					{event.image && <img src={event.image} alt="image" width="100%" className="rounded-lg bg-slate-100" />}
+				<div className="center">
+					<h3 className="font-normal margin-y">{event.short_desc}</h3>
 				</div>
+
+				<div className="parent-image">
+					{event.image && <img src={event.image} alt="image" className="detail-image" />}
+				</div>
+
+				<div className="margin-y blue">
+					<p>Field: {event.field}</p>
+					<p>Type: {event.type}</p>
+					{event.anthropologic && <p>Anthropologic period: {event.anthropologic}</p>}
+					{event.archeological && <p>Archeological period: {event.archeological}</p>}
+					{event.geologic_eon && <p>Geologic eon: {event.geologic_eon}</p>}
+					{event.geologic_epoch && <p>Geologic epoch: {event.geologic_epoch}</p>}
+					{event.geologic_era && <p>Geologic era: {event.geologic_era}</p>}
+					{event.geologic_period && <p>Geologic period: {event.geologic_period}</p>}
+				</div>
+			</section>
+
+			<br />
+
+			<section>
+				{event.wiki && (
+					<>
+						<h2>
+							From{' '}
+							<a className="hypertext-underline" href={event.source}>
+								Wikipedia
+							</a>
+							:
+						</h2>
+
+						{event.wiki.split('\n').map((line: any, index: any) => (
+							<p className="margin-y text-sm font-normal" key={index}>
+								{line}
+							</p>
+						))}
+					</>
+				)}
 			</section>
 		</>
 	)

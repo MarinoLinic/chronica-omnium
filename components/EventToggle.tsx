@@ -1,33 +1,26 @@
 import { Link } from 'react-router-dom'
+import ArrowIcon from './ArrowIcon'
 
-const EventToggle = ({ event }: any) => {
+export const EventPrevious = ({ event }: any) => {
 	return (
-		<div className="my-4 grid grid-cols-3 gap-2 items-center">
-			<section>
-				{event.id_num && (
-					<Link to={`/${event.id_num - 1}`} className="text-xs text-blue-500 hover:text-blue-400">
-						Previous event
-					</Link>
-				)}
-			</section>
-
-			<section>
-				{event.id_num && (
-					<Link to={`/`} className="text-xs text-blue-500 hover:text-blue-400">
-						Go back
-					</Link>
-				)}
-			</section>
-
-			<section>
-				{event.id_num && (
-					<Link to={`/${event.id_num + 1}`} className="text-xs text-blue-500 hover:text-blue-400">
-						Next event
-					</Link>
-				)}
-			</section>
+		<div className="flex justify-content-center fixed-half-v fixed-left">
+			{event.id_num && (
+				<Link to={`/${event.id_num - 1}`} className="arrow-icon">
+					<ArrowIcon direction="left" />
+				</Link>
+			)}
 		</div>
 	)
 }
 
-export default EventToggle
+export const EventNext = ({ event }: any) => {
+	return (
+		<div className="flex justify-content-center fixed-half-v fixed-right">
+			{event.id_num && (
+				<Link to={`/${event.id_num + 1}`} className="arrow-icon">
+					<ArrowIcon direction="right" />
+				</Link>
+			)}
+		</div>
+	)
+}
