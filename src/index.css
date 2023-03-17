@@ -17,8 +17,12 @@
 	-webkit-text-size-adjust: 100%;
 }
 
-body {
-	margin: 0;
-	display: flex;
-	place-items: center;
+.leaflet-container {
+	width: 10px;
+	height: 10px;
+}
+
+.container {
+	max-width: 800px;
+	width: 100%;
 }

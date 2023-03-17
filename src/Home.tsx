@@ -4,9 +4,6 @@ import Title from '../components/Title'
 import Border from '../components/Border'
 
 function Home() {
-	// console.log(data)
-	// console.log(data[1].image)
-
 	return (
 		<div className="bg-[#27252F]">
 			<Title />
