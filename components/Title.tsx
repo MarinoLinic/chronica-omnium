@@ -1,13 +1,13 @@
 const Title = () => {
 	return (
-		<div className="p-16 flex-col">
-			<p className="text-center text-4xl font-extrabold uppercase">Curated History of the World</p>
-			<p className="mt-4 text-center font-normal">
+		<div className="margin-y center">
+			<h1 className="">Curated History of the World</h1>
+			<h3 className="margin-y">
 				By{' '}
-				<a className="hover:text-orange-400" href="https://linic.net">
+				<a className="red" href="https://linic.net">
 					Marino Linić
 				</a>
-			</p>
+			</h3>
 		</div>
 	)
 }

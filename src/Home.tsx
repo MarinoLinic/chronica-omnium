@@ -7,6 +7,15 @@ function Home() {
 	return (
 		<div className="scrollbar-top">
 			<Title />
+			<div>
+				<p className="center">
+					Check out the{' '}
+					<Link to={`/timeline`} className="red">
+						Canvas Timeline
+					</Link>
+					!
+				</p>
+			</div>
 
 			{data.map((data) => {
 				return (
