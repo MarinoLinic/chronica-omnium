@@ -146,10 +146,10 @@ h3 {
 }
 
 .hypertext-underline {
-	border-bottom: 1px solid deepskyblue;
+	border-bottom: 2px solid #21306a;
 }
 .hypertext-underline:hover {
-	border-bottom: 2px dashed deepskyblue;
+	border-bottom: 3px dashed #21306a;
 }
 
 .justify-content-center {

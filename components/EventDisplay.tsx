@@ -54,7 +54,7 @@ const EventDisplay = ({ event }: any) => {
 					<>
 						<h2>
 							From{' '}
-							<a className="hypertext-underline" href={event.source}>
+							<a className="hypertext-underline" href={event.source} target="_blank" rel="noopener noreferrer">
 								Wikipedia
 							</a>
 							:
