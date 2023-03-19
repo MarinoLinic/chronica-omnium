@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objs as go
 from plotting import plot_centuries_histogram, timeline_chart, timeline_chart_plotly
-from data_manipulation import convert_to_json, time_scales, add_id, add_wiki
+from data_manipulation import convert_to_json, time_scales, add_id, add_wiki, add_map, add_img_sizes
 
 # Define the name of the input CSV file
 input_file = 'World_History.csv'
@@ -21,6 +21,8 @@ except UnicodeDecodeError:
 df = time_scales(df)
 df = add_id(df)
 df = add_wiki(df)
+df = add_map(df)
+df = add_img_sizes(df)
 
 # Convert to JSON
 convert_to_json(df)

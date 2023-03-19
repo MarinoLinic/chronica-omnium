@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 
 
 
-def timeline_chart(df, rangestart, rangeend):
+def timeline_chart(df, rangestart, rangeend, type, title):
     # Filter rows with "Unit" in the "type" column
-    df_filtered = df[df["type"] == "Unit"]
+    df_filtered = df[df["type"] == type]
 
     # Drop rows where either the start or end year is missing
     df_filtered = df_filtered.dropna(subset=['start', 'end'])
@@ -28,9 +28,9 @@ def timeline_chart(df, rangestart, rangeend):
             color='indianred')
     
     # Set the chart title and axis labels
-    ax.set_title("Timeline of Units", color='white')
+    ax.set_title("Timeline of {}".format(title), color='white')
     ax.set_xlabel("Date", color='white')
-    ax.set_ylabel("Event", color='white')
+    ax.set_ylabel(title, color='white')
     
     # Invert the y-axis so that the units are listed from top to bottom
     ax.invert_yaxis()
@@ -46,7 +46,49 @@ def timeline_chart(df, rangestart, rangeend):
         spine.set_edgecolor('white')
     
     # Save the plot to a file
-    plt.savefig("Images/{}_({}-{}).png".format("timeline_units", rangestart, rangeend), dpi=400, bbox_inches="tight", transparent=True)
+    plt.savefig("Images/{}_({}-{}).png".format(str("timeline" + title), rangestart, rangeend), dpi=400, bbox_inches="tight", transparent=True)
+
+
+
+def timeline_chart_plotly(df, rangestart, rangeend, type, title):
+    # Filter rows with "Unit" in the "type" column
+    df_filtered = df[df["type"] == type]
+
+    # Drop rows where either the start or end year is missing
+    df_filtered = df_filtered.dropna(subset=['start', 'end'])
+
+    # Sort rows by start date
+    df_sorted = df_filtered.sort_values(by=["start"])
+
+    # Filter rows by range
+    df_sortfiltered = df_sorted[(df_sorted["end"] >= rangestart) & (df_sorted["start"] <= rangeend)]
+
+    # Create a horizontal bar chart of the units
+    fig = go.Figure()
+    fig.add_trace(go.Bar(y=df_sortfiltered["name"],
+                         x=df_sortfiltered["end"] - df_sortfiltered["start"],
+                         base=df_sortfiltered["start"],
+                         orientation='h',
+                         marker=dict(color='indianred')))
+    
+    # Set the chart title and axis labels
+    fig.update_layout(title_text="Timeline of {}".format(title),
+                      xaxis_title="Date",
+                      yaxis_title=title,
+                      xaxis=dict(range=[rangestart, rangeend]),
+                      yaxis=dict(autorange='reversed'))
+
+    # Set the tick labels to white
+    fig.update_xaxes(tickfont=dict(color='white'))
+    fig.update_yaxes(tickfont=dict(color='white'))
+
+    # Set the spines to white
+    fig.update_layout(plot_bgcolor='black', paper_bgcolor='black')
+    fig.update_xaxes(showspikes=True, spikecolor='white', spikemode='across', spikesnap='cursor')
+    fig.update_yaxes(showspikes=True, spikecolor='white', spikemode='across', spikesnap='cursor')
+
+    # Save the plot to a file
+    fig.write_image("Images/{}_({}-{}).png".format(str("timeline_plotly_" + title), rangestart, rangeend), width=1200, height=800, scale=2, engine='kaleido')
 
 
 
@@ -72,3 +114,4 @@ def plot_centuries_histogram(df, filename):
 
     # fig.show()
     fig.write_image("Images/{}.png".format(filename), scale=10)
+

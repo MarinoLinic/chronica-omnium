@@ -24,6 +24,15 @@ body {
 	overflow: auto;
 }
 
+::selection {
+	background: rgb(233, 222, 8); /* WebKit/Blink Browsers */
+	color: currentColor;
+}
+::-moz-selection {
+	background: rgb(233, 222, 8); /* Gecko Browsers */
+	color: currentColor;
+}
+
 ::-webkit-scrollbar {
 	/* display: none; */
 	width: 13px;
@@ -50,6 +59,9 @@ body {
 .gray {
 	color: #555;
 }
+.white {
+	color: #fff;
+}
 
 .bg-b {
 	background-color: black;
@@ -65,7 +77,6 @@ body {
 
 img {
 	border: 4px dashed transparent;
-	transition: border-color 0.25s;
 }
 
 img:hover {

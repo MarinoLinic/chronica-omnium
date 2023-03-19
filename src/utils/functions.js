@@ -1,8 +1,11 @@
 export function filterData(data) {
-	return data.filter((obj) => obj.start >= 2020) // !== null
+	return data.filter((obj) => obj.start !== null && obj.type !== null && obj.field !== null) // !== null // >= 2020
 }
 
 export function filterDataTypes(data, types) {
-	console.log(types)
 	return data.filter((obj) => types.includes(obj.type))
+}
+
+export function filterDataFields(data, fields) {
+	return data.filter((obj) => fields.includes(obj.field))
 }

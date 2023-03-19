@@ -5,8 +5,8 @@ const EventDisplay = ({ event }) => {
 				<h1>{event.name}</h1>
 				<div className="flex-row margin-y flex-center">
 					<h1 className="blue">
-						{event.start}
-						{event.end && ` - ${event.end}`}
+						{event.time_start}
+						{event.time_end && ` - ${event.time_end}`}
 					</h1>
 					{event.end && event.range_type === null && <h3 className="gray padding-x">({event.duration} years)</h3>}
 				</div>

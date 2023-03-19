@@ -2,6 +2,41 @@ import json
 import pandas as pd
 import re
 from wiki_scraping import wiki
+from maps import get_location_info
+
+
+
+def add_img_sizes(df):
+    # Create new columns in your existing DataFrame
+    df['img_sm'] = ''
+    df['img_md'] = ''
+
+    for index in df.index:
+        row = df.loc[index]
+        if isinstance(row['image'], str):
+            if re.match(r"^https://upload\.wikimedia\.org/wikipedia/commons/(?!.*\.svg$).*", row['image'], flags=re.IGNORECASE):
+                
+                # 320, 640 px
+
+                if re.match(r"^https://upload\.wikimedia\.org/wikipedia/commons/thumb/.*", row['image']):
+                    img_sm = re.sub(r'/(\d+)px-', r'/320px-', row['image'])
+                    img_md = re.sub(r'/(\d+)px-', r'/640px-', row['image'])
+                    
+                else: 
+                    img = re.sub(r"(commons/)", r"\g<1>thumb/", row['image'])
+                    img_sm = re.sub(r'([^/]+\.*)$', r'\1/320px-\1', img)
+                    img_md = re.sub(r'([^/]+\.*)$', r'\1/640px-\1', img)
+                
+                df.loc[index, 'img_sm'] = img_sm
+                df.loc[index, 'img_md'] = img_md
+                    
+    return df
+
+
+
+def add_map(df):
+    df['location_info'] = df['location'].apply(get_location_info)
+    return df
 
 
 

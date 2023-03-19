@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import '../styles/rainbow.css'
+import ScrollPercentage from './ScrollPercentage'
 
 function BackToTop() {
 	const [isVisible, setIsVisible] = useState(false)
@@ -29,8 +30,9 @@ function BackToTop() {
 	}
 
 	return (
-		<div className={`back-to-top text-rainbow ${isVisible ? '' : 'invisible'}`} onClick={handleBackToTopClick}>
-			<p>Back to top</p>
+		<div className={`back-to-top ${isVisible ? '' : 'invisible'}`} onClick={handleBackToTopClick}>
+			<p className="text-rainbow">Back to top</p>
+			<ScrollPercentage />
 		</div>
 	)
 }
