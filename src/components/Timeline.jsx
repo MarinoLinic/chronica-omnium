@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react'
-import data from '../src/resources/World_History.json'
+import { useEffect, useRef } from 'react'
+import data from '../resources/World_History.json'
 
 const Timeline = () => {
 	const canvasRef = useRef(null)

@@ -1,7 +1,7 @@
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 
-function EventMap({ locationInfo }: any) {
+function EventMap({ locationInfo }) {
 	let coordinates = locationInfo.coordinates
 	console.log(coordinates)
 	const position = [51.505, -0.09]

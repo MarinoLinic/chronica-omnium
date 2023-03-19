@@ -1,6 +1,6 @@
 import Plot from 'react-plotly.js'
 
-function TimelineChart({ data, rangestart, rangeend, type, title }: any) {
+function TimelineChart({ data, rangestart, rangeend, type, title }) {
 	// Filter rows with "Unit" in the "type" column
 	const df_filtered = data.filter((row) => row.type === type)
 

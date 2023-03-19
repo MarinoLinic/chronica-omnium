@@ -1,4 +1,4 @@
-const ArrowIcon = ({ direction }: any) => {
+const ArrowIcon = ({ direction }) => {
 	return (
 		<svg
 			className={`${direction === 'left' && 'transform-x-mirror'}`}

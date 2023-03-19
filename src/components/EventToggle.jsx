@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import ArrowIcon from './ArrowIcon'
 
-export const EventPrevious = ({ event }: any) => {
+export const EventPrevious = ({ event }) => {
 	return (
 		<div className="flex justify-content-center fixed-half-v fixed-left">
 			{event.id_num && (
@@ -13,7 +13,7 @@ export const EventPrevious = ({ event }: any) => {
 	)
 }
 
-export const EventNext = ({ event }: any) => {
+export const EventNext = ({ event }) => {
 	return (
 		<div className="flex justify-content-center fixed-half-v fixed-right">
 			{event.id_num && (

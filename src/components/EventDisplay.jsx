@@ -1,4 +1,4 @@
-const EventDisplay = ({ event }: any) => {
+const EventDisplay = ({ event }) => {
 	return (
 		<>
 			<section className="center">
@@ -60,7 +60,7 @@ const EventDisplay = ({ event }: any) => {
 							:
 						</h2>
 
-						{event.wiki.split('\n').map((line: any, index: any) => (
+						{event.wiki.split('\n').map((line, index) => (
 							<p className="margin-y text-sm font-normal" key={index}>
 								{line}
 							</p>

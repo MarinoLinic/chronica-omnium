@@ -1,4 +1,4 @@
-import data from '../src/resources/World_History.json'
+import data from '../resources/World_History.json'
 import { useParams } from 'react-router-dom'
 import EventDisplay from './EventDisplay'
 import TimelineChart from './TimelineChart'
@@ -6,7 +6,7 @@ import EventMap from './EventMap'
 import { EventPrevious, EventNext } from './EventToggle'
 import { Link } from 'react-router-dom'
 
-const EventDetail = () => {
+const Event = () => {
 	let { eventId } = useParams()
 
 	let eventIdInt = parseInt(eventId)
@@ -74,4 +74,4 @@ const EventDetail = () => {
 	)
 }
 
-export default EventDetail
+export default Event
