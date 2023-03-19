@@ -2,11 +2,13 @@ import { Link } from 'react-router-dom'
 import data from './resources/World_History.json'
 import Title from '../components/Title'
 import Border from '../components/Border'
+import BackToTop from '../components/BackToTop'
 
 function Home() {
 	return (
 		<div className="scrollbar-top">
 			<Title />
+			<BackToTop />
 			<div>
 				<p className="center">
 					Check out the{' '}
@@ -45,7 +47,7 @@ function Home() {
 							</div>
 
 							<div className="">
-								{data.image && <img src={data.image} alt="image" className="w-[25%] rounded-lg" />}
+								{data.img_sm && <img src={data.img_sm} alt="image" className="w-[25%] rounded-lg" />}
 							</div>
 						</section>
 					</>

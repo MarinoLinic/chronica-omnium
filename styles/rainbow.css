@@ -1,0 +1,27 @@
+/* Credit: https://codepen.io/inteo/pen/JjMoGBy */
+
+.rainbow {
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	text-align: center;
+	transform: translate(-50%, -50%);
+}
+
+.text-rainbow {
+	display: inline-block;
+	background-image: repeating-linear-gradient(45deg, #21306a, deepskyblue, #21306a);
+	background-clip: text;
+	animation: rainbow 3000s alternate-reverse linear infinite;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+@keyframes rainbow {
+	from {
+		background-position-x: 0vw;
+	}
+	to {
+		background-position-x: 5000vw;
+	}
+}
