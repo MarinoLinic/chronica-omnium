@@ -13,6 +13,10 @@ const Timeline = () => {
 		let yvalues = []
 		let yvaluesfinal = []
 
+		ctx.font = '24px sans-serif'
+		ctx.fillText('Timeline for the past 2000 years below ↓', 30, 20 * 10)
+		ctx.font = '10px sans-serif'
+
 		filteredData.forEach((item) => {
 			if (item.end === null) item.end = item.start
 

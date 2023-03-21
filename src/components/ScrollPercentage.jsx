@@ -9,7 +9,7 @@ const ScrollPercentage = () => {
 			const documentHeight = document.documentElement.scrollHeight
 			const scrollTop = window.scrollY
 			const trackLength = documentHeight - windowHeight
-			const percentage = Math.floor((scrollTop / trackLength) * 100 + 1)
+			const percentage = Math.floor((scrollTop / trackLength) * 100)
 			setScrollPercentage(percentage)
 		}
 
