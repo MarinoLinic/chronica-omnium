@@ -71,8 +71,8 @@ function Home() {
 					<section>
 						<p>Filter by type:</p>
 						{types.map((type) => (
-							<div className="flex-row">
-								<label key={type}>
+							<div className="flex-row" key={type}>
+								<label>
 									<input
 										type="checkbox"
 										value={type}
@@ -105,8 +105,8 @@ function Home() {
 					<section>
 						<p>Filter by field:</p>
 						{fields.map((field) => (
-							<div className="flex-row">
-								<label key={field}>
+							<div className="flex-row" key={field}>
+								<label>
 									<input
 										type="checkbox"
 										value={field}
@@ -161,10 +161,10 @@ function Home() {
 			{filteredDataState.length > 0 ? (
 				filteredDataState.map((data) => {
 					return (
-						<>
+						<div key={data.id_num}>
 							<Border />
 							<HomeEvent data={data} />
-						</>
+						</div>
 					)
 				})
 			) : (
