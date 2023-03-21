@@ -1,5 +1,7 @@
 export function filterData(data) {
-	return data.filter((obj) => obj.start !== null && obj.id_num < 442 && obj.type !== null && obj.field !== null) // !== null // >= 2020
+	return data.filter(
+		(obj) => obj.start !== null && obj.id_num < 442 && obj.id_num > 140 && obj.type !== null && obj.field !== null
+	) // !== null // >= 2020
 }
 
 export function filterDataTypes(data, types) {
