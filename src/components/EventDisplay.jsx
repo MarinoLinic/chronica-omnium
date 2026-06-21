@@ -21,7 +21,7 @@ function EventImage({ src, alt }) {
 	)
 }
 
-const EventDisplay = ({ event }) => {
+const EventDisplay = ({ event, showWiki = true }) => {
 	const tags = [event.type, event.field].filter((t) => t && t !== 'Uncategorized')
 
 	return (
@@ -73,7 +73,7 @@ const EventDisplay = ({ event }) => {
 				{event.image && <EventImage key={event.id_num} src={event.image} alt={event.name} />}
 			</header>
 
-			{event.wiki && (
+			{showWiki && event.wiki && (
 				<section className="mt-10">
 					<h2 className="text-xl font-bold text-slate-900">
 						From{' '}

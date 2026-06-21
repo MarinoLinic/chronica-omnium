@@ -67,7 +67,7 @@ const Event = () => {
 	return (
 		<div className="min-h-screen bg-slate-50/40">
 			<header className="sticky top-0 z-20 border-b border-slate-200 bg-white/80 backdrop-blur">
-				<div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-3">
+				<div className="mx-auto flex max-w-[1400px] items-center justify-between gap-3 px-4 py-3">
 					<Link
 						to="/"
 						className="inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-slate-700 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-[#21306a]"
@@ -81,59 +81,106 @@ const Event = () => {
 				</div>
 			</header>
 
-			<div className="mx-auto max-w-7xl px-4 py-8 sm:py-12 lg:flex lg:items-start lg:gap-8">
-				<main className="min-w-0 flex-1">
-					<EventDisplay event={event} />
-				</main>
+			<div className="mx-auto max-w-[1400px] px-4 py-8 sm:py-12">
+				{showContext ? (
+					<div className="xl:grid xl:grid-cols-[340px_1fr_340px] xl:gap-6">
+						<main className="min-w-0 xl:col-start-2 xl:row-start-1">
+							<EventDisplay event={event} showWiki={false} />
+						</main>
 
-				{hasVisuals && (
-					<aside className="mt-10 w-full shrink-0 space-y-4 lg:mt-0 lg:w-[340px] xl:w-[380px]">
-						<div>
-							<h2 className="text-lg font-bold text-slate-900">In context</h2>
-							<p className="mt-0.5 text-sm text-slate-500">
-								{showContext ? 'What else was happening around this time.' : 'Where this took place.'}
+						<aside className="mt-8 space-y-4 xl:col-start-1 xl:row-start-1 xl:mt-0">
+							<p className="hidden text-xs font-semibold uppercase tracking-widest text-slate-400 xl:block">
+								In context
 							</p>
-						</div>
-						{showContext && (
-							<>
-								<ChartCard label="Civilizations &amp; units">
-									<TimelineChart
-										data={data}
-										rangestart={event.start - 100}
-										rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
-										type={'Unit'}
-										title={'Units'}
-										markerYear={event.start}
-									/>
+							<div className="xl:hidden">
+								<h2 className="text-xl font-bold text-slate-900">In context</h2>
+								<p className="mt-1 text-sm text-slate-500">What else was happening around this time.</p>
+							</div>
+							<ChartCard label="Civilizations &amp; units">
+								<TimelineChart
+									data={data}
+									rangestart={event.start - 100}
+									rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
+									type={'Unit'}
+									title={'Units'}
+									markerYear={event.start}
+								/>
+							</ChartCard>
+							<ChartCard label="Notable people">
+								<TimelineChart
+									data={data}
+									rangestart={event.start - 30}
+									rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
+									type={'Person'}
+									title={'People'}
+									markerYear={event.start}
+								/>
+							</ChartCard>
+						</aside>
+
+						<aside className="mt-4 space-y-4 xl:col-start-3 xl:row-start-1 xl:mt-0">
+							<p className="hidden text-xs font-semibold uppercase tracking-widest text-slate-400 xl:block">
+								&nbsp;
+							</p>
+							<ChartCard label="Events">
+								<TimelineChart
+									data={data}
+									rangestart={event.start - 10}
+									rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
+									type={'Event'}
+									title={'Events'}
+									markerYear={event.start}
+								/>
+							</ChartCard>
+							{showMap && (
+								<ChartCard label="Location">
+									<EventMap locationInfo={event.location_info} />
 								</ChartCard>
-								<ChartCard label="Notable people">
-									<TimelineChart
-										data={data}
-										rangestart={event.start - 30}
-										rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
-										type={'Person'}
-										title={'People'}
-										markerYear={event.start}
-									/>
-								</ChartCard>
-								<ChartCard label="Events">
-									<TimelineChart
-										data={data}
-										rangestart={event.start - 10}
-										rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
-										type={'Event'}
-										title={'Events'}
-										markerYear={event.start}
-									/>
-								</ChartCard>
-							</>
+							)}
+						</aside>
+
+						{event.wiki && (
+							<div className="mt-10 xl:col-start-2 xl:row-start-2 xl:mt-0">
+								<section className="mx-auto max-w-3xl px-4">
+									<h2 className="text-xl font-bold text-slate-900">
+										From{' '}
+										<a className="hypertext-underline" href={event.source} target="_blank" rel="noopener noreferrer">
+											Wikipedia
+										</a>
+									</h2>
+									<div className="mt-4 space-y-4">
+										{event.wiki
+											.split('\n')
+											.filter((line) => line.trim() !== '')
+											.map((line, index) => (
+												<p className="text-base font-normal leading-relaxed text-slate-700" key={index}>
+													{line}
+												</p>
+											))}
+									</div>
+								</section>
+							</div>
 						)}
-						{showMap && (
+					</div>
+				) : showMap ? (
+					<div className="lg:flex lg:items-start lg:gap-8">
+						<main className="min-w-0 flex-1">
+							<EventDisplay event={event} />
+						</main>
+						<aside className="mt-10 w-full shrink-0 space-y-4 lg:mt-0 lg:w-[340px]">
+							<div>
+								<h2 className="text-lg font-bold text-slate-900">In context</h2>
+								<p className="mt-0.5 text-sm text-slate-500">Where this took place.</p>
+							</div>
 							<ChartCard label="Location">
 								<EventMap locationInfo={event.location_info} />
 							</ChartCard>
-						)}
-					</aside>
+						</aside>
+					</div>
+				) : (
+					<main>
+						<EventDisplay event={event} />
+					</main>
 				)}
 			</div>
 		</div>

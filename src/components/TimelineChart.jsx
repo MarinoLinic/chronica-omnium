@@ -29,6 +29,7 @@ function buildOption({ rows, rangestart, rangeend, title, markerYear }) {
 		},
 		tooltip: {
 			trigger: 'item',
+			confine: true,
 			formatter: (p) => {
 				const [, start, end, name, dur] = p.value
 				return `<b>${name}</b><br/>${start} – ${end}${dur ? `<br/>${dur}\u202fyrs` : ''}`
@@ -63,6 +64,7 @@ function buildOption({ rows, rangestart, rangeend, title, markerYear }) {
 				markLine:
 					markerYear != null
 						? {
+								animation: false,
 								silent: true,
 								symbol: ['none', 'none'],
 								label: { show: false },
