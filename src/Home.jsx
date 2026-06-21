@@ -1,7 +1,8 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useRef } from 'react'
 import { Link } from 'react-router-dom'
-import { Virtuoso } from 'react-virtuoso'
+import { GroupedVirtuoso } from 'react-virtuoso'
 import data from './resources/World_History.json'
+import timeScales from './resources/time_scales.json'
 import { filterData } from './utils/functions'
 import Title from './components/Title'
 import HomeEvent from './components/HomeEvent'
@@ -42,6 +43,58 @@ const CheckGroup = ({ heading, options, selected, onToggle, onAll, onNone }) => 
 	</section>
 )
 
+const PeriodDivider = ({ label }) => (
+	<div className="flex items-center gap-3 px-4 py-3">
+		<div className="h-px flex-1 bg-slate-200" />
+		<span className="flex-shrink-0 text-xs font-semibold uppercase tracking-widest text-slate-400">{label}</span>
+		<div className="h-px flex-1 bg-slate-200" />
+	</div>
+)
+
+function ordinal(n) {
+	if (n % 100 >= 11 && n % 100 <= 13) return `${n}th`
+	const r = n % 10
+	if (r === 1) return `${n}st`
+	if (r === 2) return `${n}nd`
+	if (r === 3) return `${n}rd`
+	return `${n}th`
+}
+
+function findArchaeological(year) {
+	for (const ts of timeScales.time_scale.archeological) {
+		if (year >= ts.start && year <= ts.end) {
+			for (const sub of ts.sub || []) {
+				if (year >= sub.start && year <= sub.end) return sub.name
+			}
+			return ts.name
+		}
+	}
+	return null
+}
+
+function findGeologic(year) {
+	for (const ts of timeScales.time_scale.geologic) {
+		if (year >= ts.start && year <= ts.end) {
+			for (const sub of ts.sub || []) {
+				if (year >= sub.start && year <= sub.end) {
+					for (const ss of sub.sub || []) {
+						if (year >= ss.start && year <= ss.end) return ss.name
+					}
+					return sub.name
+				}
+			}
+			return ts.name
+		}
+	}
+	return 'Cosmic era'
+}
+
+function getPeriodLabel(year) {
+	if (year >= 1) return `${ordinal(Math.ceil(year / 100))} century CE`
+	if (year >= -4999) return `${ordinal(Math.floor(-year / 1000) + 1)} millennium BCE`
+	return findArchaeological(year) || findGeologic(year)
+}
+
 function Home() {
 	const allData = useMemo(() => filterData(data), [])
 
@@ -68,6 +121,33 @@ function Home() {
 
 	const toggle = (setter, list, value) =>
 		setter(list.includes(value) ? list.filter((v) => v !== value) : [...list, value])
+
+	const { groups, groupCounts, groupStartIndices } = useMemo(() => {
+		const groups = []
+		const groupCounts = []
+		let lastPeriod = null
+		for (const item of displayedData) {
+			const period = getPeriodLabel(item.start)
+			if (period !== lastPeriod) {
+				groups.push(period)
+				groupCounts.push(1)
+				lastPeriod = period
+			} else {
+				groupCounts[groupCounts.length - 1]++
+			}
+		}
+		const groupStartIndices = []
+		let sum = 0
+		for (const count of groupCounts) {
+			groupStartIndices.push(sum)
+			sum += count
+		}
+		return { groups, groupCounts, groupStartIndices }
+	}, [displayedData])
+
+	const virtuosoRef = useRef(null)
+	const jumpTo = (groupIdx) =>
+		virtuosoRef.current?.scrollToIndex({ index: groupStartIndices[groupIdx], align: 'start', behavior: 'smooth' })
 
 	return (
 		<div className="min-h-screen">
@@ -111,6 +191,22 @@ function Home() {
 					</div>
 				</div>
 
+				{groups.length > 0 && (
+					<div className="overflow-x-auto border-t border-slate-100 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+						<div className="flex min-w-max gap-0.5 px-3 py-1.5">
+							{groups.map((label, idx) => (
+								<button
+									key={label + idx}
+									onClick={() => jumpTo(idx)}
+									className="flex-shrink-0 rounded px-2 py-0.5 text-xs font-medium text-slate-400 transition hover:bg-slate-100 hover:text-[#21306a]"
+								>
+									{label}
+								</button>
+							))}
+						</div>
+					</div>
+				)}
+
 				{showFilters && (
 					<div className="border-t border-slate-200 bg-white">
 						<div className="mx-auto flex max-w-5xl flex-wrap gap-6 px-4 py-4">
@@ -137,13 +233,16 @@ function Home() {
 
 			<main className="mx-auto max-w-4xl px-4 py-2">
 				{displayedData.length > 0 ? (
-					<Virtuoso
+					<GroupedVirtuoso
+						ref={virtuosoRef}
 						useWindowScroll
 						increaseViewportBy={400}
-						data={displayedData}
-						itemContent={(index, item) => (
-							<div className={index > 0 ? 'border-t border-slate-200' : ''}>
-								<HomeEvent data={item} />
+						groups={groups}
+						groupCounts={groupCounts}
+						groupContent={(index) => <PeriodDivider label={groups[index]} />}
+						itemContent={(index, groupIndex) => (
+							<div className={index !== groupStartIndices[groupIndex] ? 'border-t border-slate-200' : ''}>
+								<HomeEvent data={displayedData[index]} />
 							</div>
 						)}
 					/>

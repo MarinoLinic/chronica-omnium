@@ -14,7 +14,7 @@ const CONTEXT_MIN_START = -10000
 const GLOBAL_LOCATION = /^(world|global|worldwide|earth|international|universal|everywhere)$/i
 
 const ChartCard = ({ label, children }) => (
-	<div className="flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
+	<div className="flex flex-col overflow-hidden border border-slate-200 bg-white shadow-sm">
 		<div className="border-b border-slate-100 px-4 py-2 text-sm font-semibold text-slate-700">{label}</div>
 		<div className="h-[260px] w-full">{children}</div>
 	</div>
@@ -61,6 +61,7 @@ const Event = () => {
 
 	const showContext = event.start >= CONTEXT_MIN_START
 	const showMap =
+		event.start >= CONTEXT_MIN_START &&
 		!!(event.location_info && event.location && !GLOBAL_LOCATION.test(event.location.trim()) && canShowMap(event.location_info))
 	const hasVisuals = showContext || showMap
 

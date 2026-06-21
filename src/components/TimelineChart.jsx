@@ -35,7 +35,7 @@ function buildOption({ rows, rangestart, rangeend, title, markerYear }) {
 				return `<b>${name}</b><br/>${start} – ${end}${dur ? `<br/>${dur}\u202fyrs` : ''}`
 			},
 		},
-		grid: { left: 8, right: 16, top: 40, bottom: 24, containLabel: true },
+		grid: { left: 2, right: 4, top: 40, bottom: 24, containLabel: true },
 		xAxis: {
 			type: 'value',
 			min: rangestart,
@@ -49,7 +49,7 @@ function buildOption({ rows, rangestart, rangeend, title, markerYear }) {
 			type: 'category',
 			data: names,
 			inverse: true,
-			axisLabel: { color: '#475569', fontSize: 10, width: 110, overflow: 'truncate' },
+			axisLabel: { color: '#475569', fontSize: 10, width: 85, overflow: 'truncate' },
 			axisLine: { show: false },
 			axisTick: { show: false },
 			splitLine: { show: false },
