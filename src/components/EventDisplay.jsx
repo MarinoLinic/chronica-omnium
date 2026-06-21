@@ -1,13 +1,27 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 
-const EventDisplay = ({ event, visuals }) => {
-	const [imgLoaded, setImgLoaded] = useState(false)
+// Separate component so React resets `visible` state on navigation via key={event.id_num}.
+// This avoids the useEffect race condition where onLoad fires before the effect resets state.
+function EventImage({ src, alt }) {
+	const [visible, setVisible] = useState(false)
+	const [broken, setBroken] = useState(false)
+	if (broken) return null
+	return (
+		<div className="mt-6 flex justify-center">
+			<a href={src} target="_blank" rel="noopener noreferrer" className="group">
+				<img
+					src={src}
+					alt={alt}
+					onLoad={() => setVisible(true)}
+					onError={() => setBroken(true)}
+					className={`max-h-[420px] w-auto rounded-xl shadow-md ring-1 ring-slate-200 transition-opacity duration-300 group-hover:shadow-lg ${visible ? 'opacity-100' : 'opacity-0'}`}
+				/>
+			</a>
+		</div>
+	)
+}
 
-	// Reset skeleton whenever we navigate to a new event.
-	useEffect(() => {
-		setImgLoaded(false)
-	}, [event.id_num])
-
+const EventDisplay = ({ event }) => {
 	const tags = [event.type, event.field].filter((t) => t && t !== 'Uncategorized')
 
 	return (
@@ -56,29 +70,8 @@ const EventDisplay = ({ event, visuals }) => {
 					<p className="mt-4 text-lg font-normal leading-relaxed text-slate-700">{event.short_desc}</p>
 				)}
 
-				{event.image && (
-					<div className="mt-6 flex justify-center">
-						<div className="relative min-h-[14rem] min-w-[16rem] sm:min-h-[18rem] sm:min-w-[24rem]">
-							{!imgLoaded && (
-								<div className="absolute inset-0 animate-pulse rounded-xl bg-slate-200" />
-							)}
-							<a href={event.image} target="_blank" rel="noopener noreferrer" className="group block">
-								<img
-									key={event.id_num}
-									src={event.image}
-									alt={event.name}
-									onLoad={() => setImgLoaded(true)}
-									className={`max-h-[420px] w-auto rounded-xl shadow-md ring-1 ring-slate-200 transition-opacity duration-500 group-hover:shadow-lg ${
-										imgLoaded ? 'opacity-100' : 'opacity-0'
-									}`}
-								/>
-							</a>
-						</div>
-					</div>
-				)}
+				{event.image && <EventImage key={event.id_num} src={event.image} alt={event.name} />}
 			</header>
-
-			{visuals}
 
 			{event.wiki && (
 				<section className="mt-10">

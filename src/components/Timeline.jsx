@@ -102,8 +102,8 @@ const Timeline = () => {
 	}
 
 	return (
-		<div className="min-h-screen bg-slate-50/40">
-			<header className="sticky top-0 z-20 border-b border-slate-200 bg-white/85 px-4 py-3 backdrop-blur">
+		<div className="flex h-screen flex-col bg-slate-50/40">
+			<header className="shrink-0 border-b border-slate-200 bg-white px-4 py-3">
 				<div className="mx-auto flex max-w-5xl items-center justify-between gap-3">
 					<Link
 						to="/"
@@ -135,7 +135,7 @@ const Timeline = () => {
 				</div>
 			</header>
 
-			<div className="overflow-x-auto">
+			<div className="flex-1 overflow-auto">
 				<div ref={canvasRef} className="relative bg-white" style={{ height: totalHeight, width: totalWidth }}>
 					{/* Century gridlines + year labels */}
 					{ticks.map((year) => {
