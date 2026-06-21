@@ -76,21 +76,6 @@ function TimelineChart({ data, rangestart, rangeend, type, title, markerYear }) 
 							},
 					  ]
 					: [],
-			annotations:
-				markerYear != null && markerYear >= rangestart && markerYear <= rangeend
-					? [
-							{
-								x: markerYear,
-								xref: 'x',
-								yref: 'paper',
-								y: 1.04,
-								text: 'this event',
-								showarrow: false,
-								font: { color: '#5f1212', size: 10 },
-								xanchor: 'center',
-							},
-					  ]
-					: [],
 		},
 	}
 

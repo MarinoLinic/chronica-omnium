@@ -292,6 +292,7 @@
     "name": "Lucy",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/960px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg/330px-Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg"
     }
@@ -1706,6 +1707,7 @@
     "name": "Umayyad Caliphate",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/960px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/330px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png"
     }
@@ -1971,7 +1973,6 @@
     "name": "Black Death",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/960px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/330px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png"
     }
@@ -2045,6 +2046,7 @@
     "name": "Christopher Columbus",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg"
     }
@@ -2176,7 +2178,6 @@
     "name": "Magellan expedition",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Magellan_Elcano_Circumnavigation-en.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/960px-Magellan_Elcano_Circumnavigation-en.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/330px-Magellan_Elcano_Circumnavigation-en.svg.png"
     }
@@ -2222,6 +2223,7 @@
     "name": "Mughal Empire",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/960px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/330px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg"
     }
@@ -2277,6 +2279,7 @@
     "name": "Polish-Lithuanian Commonwealth",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png/960px-Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png/330px-Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png"
     }
@@ -2500,6 +2503,7 @@
     "name": "Saint Petersburg founded",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg/960px-Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg/330px-Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg.png"
     }
@@ -2763,6 +2767,7 @@
     "name": "Charles Darwin",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/330px-Charles_Darwin_seated_crop.jpg"
     }
@@ -3207,7 +3212,6 @@
     "name": "Yugoslavia",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yugoslavia_location_map.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yugoslavia_location_map.svg/960px-Yugoslavia_location_map.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yugoslavia_location_map.svg/330px-Yugoslavia_location_map.svg.png"
     }
@@ -3253,7 +3257,6 @@
     "name": "Nazi Party (NSDAP)",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg/960px-Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg/330px-Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg.png"
     }
@@ -3281,7 +3284,6 @@
     "name": "Soviet Union",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg/960px-Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg/330px-Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg.png"
     }
@@ -3383,6 +3385,7 @@
     "name": "New Deal",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/New_Deal_collage.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Deal_collage.jpg/960px-New_Deal_collage.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Deal_collage.jpg/330px-New_Deal_collage.jpg"
     }
@@ -3628,6 +3631,7 @@
     "name": "Eliezer Yudkowsky",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg/960px-Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg/330px-Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg"
     }
@@ -3637,7 +3641,6 @@
     "name": "Ronald Reagan (in office)",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/960px-Official_Portrait_of_President_Reagan_1981.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg"
     }
@@ -3692,7 +3695,6 @@
     "name": "Google",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/960px-Googleplex_HQ_%28cropped%29.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg"
     }
@@ -3774,7 +3776,6 @@
     "name": "Donald Trump (in office)",
     "status": "fixed",
     "changes": {
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/960px-Donald_Trump_official_portrait.jpg",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/330px-Donald_Trump_official_portrait.jpg"
     }
@@ -3784,6 +3785,7 @@
     "name": "COVID-19 pandemic",
     "status": "fixed",
     "changes": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png",
       "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/960px-Coronavirus._SARS-CoV-2.png",
       "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/330px-Coronavirus._SARS-CoV-2.png"
     }

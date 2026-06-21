@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { MapContainer, TileLayer, Marker, Popup, Rectangle, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
 import L from 'leaflet'
 import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png'
@@ -84,45 +84,32 @@ function EventMap({ locationInfo }) {
 	}
 
 	const span = boundsSpanDegrees(bounds)
-	const approximate = span != null && span > 1 // > ~100km: treat as an area, not a point
+	// A small bounding box (< ~25km) means a precise point worth pinning.
+	// Anything larger (a city, region or country) is shown by fitting the view
+	// to its extent rather than dropping a misleading pin.
+	const isPrecise = center && (span == null || span <= 0.25)
 	const initialCenter = center || [(bounds[0][0] + bounds[1][0]) / 2, (bounds[0][1] + bounds[1][1]) / 2]
 
 	return (
-		<div className="relative h-full w-full">
-			<MapContainer
-				center={initialCenter}
-				zoom={4}
-				scrollWheelZoom={false}
-				style={{ width: '100%', height: '100%' }}
-			>
-				<TileLayer
-					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-				/>
+		<MapContainer
+			center={initialCenter}
+			zoom={4}
+			scrollWheelZoom={false}
+			style={{ width: '100%', height: '100%' }}
+		>
+			<TileLayer
+				attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+				url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+			/>
 
-				{bounds && (
-					<Rectangle
-						bounds={bounds}
-						pathOptions={{ color: '#21306a', weight: 1, fillOpacity: approximate ? 0.08 : 0.04 }}
-					/>
-				)}
-
-				{/* Only drop a precise pin when the geocode is reasonably precise. */}
-				{center && !approximate && (
-					<Marker position={center} icon={DefaultIcon}>
-						<Popup>{locationInfo.display_name}</Popup>
-					</Marker>
-				)}
-
-				<FitView bounds={bounds} center={center} />
-			</MapContainer>
-
-			{approximate && (
-				<div className="pointer-events-none absolute left-2 top-2 z-[400] rounded bg-white/90 px-2 py-1 text-[11px] font-medium text-slate-600 shadow ring-1 ring-slate-200">
-					Approximate area
-				</div>
+			{isPrecise && (
+				<Marker position={center} icon={DefaultIcon}>
+					<Popup>{locationInfo.display_name}</Popup>
+				</Marker>
 			)}
-		</div>
+
+			<FitView bounds={bounds} center={center} />
+		</MapContainer>
 	)
 }
 
