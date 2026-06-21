@@ -1,182 +1,152 @@
-import { useState, useEffect } from 'react'
+import { useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import data from './resources/World_History.json'
-import { filterData, filterDataTypes, filterDataFields } from './utils/functions'
+import { filterData } from './utils/functions'
 import Title from './components/Title'
 import HomeEvent from './components/HomeEvent'
-import Border from './components/Border'
 import BackToTop from './components/BackToTop'
 
+const CheckGroup = ({ heading, options, selected, onToggle, onAll, onNone }) => (
+	<section className="min-w-[200px] flex-1">
+		<div className="mb-2 flex items-center justify-between">
+			<p className="text-sm font-semibold text-slate-700">{heading}</p>
+			<div className="flex gap-2 text-xs">
+				<button onClick={onAll} className="text-[#21306a] hover:underline">
+					All
+				</button>
+				<span className="text-slate-300">|</span>
+				<button onClick={onNone} className="text-slate-500 hover:underline">
+					None
+				</button>
+			</div>
+		</div>
+		<div className="flex flex-wrap gap-1.5">
+			{options.map((opt) => {
+				const active = selected.includes(opt)
+				return (
+					<button
+						key={opt}
+						onClick={() => onToggle(opt)}
+						className={`rounded-full px-3 py-1 text-xs font-medium ring-1 transition ${
+							active
+								? 'bg-[#21306a] text-white ring-[#21306a]'
+								: 'bg-white text-slate-600 ring-slate-200 hover:bg-slate-50'
+						}`}
+					>
+						{opt}
+					</button>
+				)
+			})}
+		</div>
+	</section>
+)
+
 function Home() {
-	let filteredData = filterData(data)
+	const allData = useMemo(() => filterData(data), [])
 
-	// Get all unique types from the data
-	const types = [...new Set(filteredData.map((item) => item.type))]
-	const fields = [...new Set(filteredData.map((item) => item.field))]
+	const types = useMemo(() => [...new Set(allData.map((item) => item.type))].sort(), [allData])
+	const fields = useMemo(() => [...new Set(allData.map((item) => item.field))].sort(), [allData])
 
-	// Create a state to store selected types
 	const [selectedTypes, setSelectedTypes] = useState(types)
 	const [selectedFields, setSelectedFields] = useState(fields)
-	const [settings, setSettings] = useState(false)
-	const [filteredDataState, setfilteredDataState] = useState(filteredData)
+	const [query, setQuery] = useState('')
+	const [showFilters, setShowFilters] = useState(false)
 
-	const handleButtonClick = () => {
-		setSettings((settings) => !settings)
-	}
+	const displayedData = useMemo(() => {
+		const q = query.trim().toLowerCase()
+		return allData.filter(
+			(item) =>
+				selectedTypes.includes(item.type) &&
+				selectedFields.includes(item.field) &&
+				(q === '' ||
+					item.name?.toLowerCase().includes(q) ||
+					item.short_desc?.toLowerCase().includes(q) ||
+					item.location?.toLowerCase().includes(q))
+		)
+	}, [allData, selectedTypes, selectedFields, query])
 
-	// Handler for checkbox change
-	const handleCheckboxChangeTypes = (event) => {
-		const { value, checked } = event.target
-
-		if (checked) {
-			// Add selected type to the array
-			setSelectedTypes([...selectedTypes, value])
-			setfilteredDataState(() => filterDataTypes(filteredData, [...selectedTypes, value]))
-		} else {
-			// Remove selected type from the array
-			setSelectedTypes(selectedTypes.filter((type) => type !== value))
-			setfilteredDataState(() =>
-				filterDataTypes(
-					filteredData,
-					selectedTypes.filter((type) => type !== value)
-				)
-			)
-		}
-	}
-
-	// Handler for checkbox change
-	const handleCheckboxChangeFields = (event) => {
-		const { value, checked } = event.target
-
-		if (checked) {
-			// Add selected type to the array
-			setSelectedFields([...selectedFields, value])
-			setfilteredDataState(() => filterDataFields(filteredData, [...selectedFields, value]))
-		} else {
-			// Remove selected type from the array
-			setSelectedFields(selectedFields.filter((field) => field !== value))
-			setfilteredDataState(() =>
-				filterDataFields(
-					filteredData,
-					selectedFields.filter((field) => field !== value)
-				)
-			)
-		}
-	}
+	const toggle = (setter, list, value) =>
+		setter(list.includes(value) ? list.filter((v) => v !== value) : [...list, value])
 
 	return (
-		<div className="">
-			<div className="flex justify-center">
-				<div className={`flex px-4 flex-column-2 gap-4 bg-b fixed white ${settings ? '' : 'invisible'}`}>
-					<section>
-						<p>Filter by type:</p>
-						{types.map((type) => (
-							<div className="flex-row" key={type}>
-								<label>
-									<input
-										type="checkbox"
-										value={type}
-										checked={selectedTypes.includes(type)}
-										onChange={handleCheckboxChangeTypes}
-									/>
-									{' ' + type}
-								</label>
-							</div>
-						))}
-						<button
-							onClick={() => {
-								setSelectedTypes(types)
-								setfilteredDataState(() => filterDataTypes(filteredData, types))
-							}}
-						>
-							Select all
-						</button>
-						<br />
-						<button
-							onClick={() => {
-								setSelectedTypes([])
-								setfilteredDataState(() => filterDataTypes(filteredData, []))
-							}}
-						>
-							Deselect all
-						</button>
-					</section>
-
-					<section>
-						<p>Filter by field:</p>
-						{fields.map((field) => (
-							<div className="flex-row" key={field}>
-								<label>
-									<input
-										type="checkbox"
-										value={field}
-										checked={selectedFields.includes(field)}
-										onChange={handleCheckboxChangeFields}
-									/>
-									{' ' + field}
-								</label>
-							</div>
-						))}
-						<button
-							onClick={() => {
-								setSelectedFields(fields)
-								setfilteredDataState(() => filterDataFields(filteredData, fields))
-							}}
-						>
-							Select all
-						</button>
-						<br />
-						<button
-							onClick={() => {
-								setSelectedFields([])
-								setfilteredDataState(() => filterDataFields(filteredData, []))
-							}}
-						>
-							Deselect all
-						</button>
-					</section>
-
-					<button onClick={handleButtonClick}>Close</button>
-				</div>
-			</div>
-
-			<section className="text-right mx-4">
-				<p>Number of events: {filteredDataState.length}</p>
-				<button onClick={handleButtonClick}>Settings</button>
-			</section>
-
-			<Title />
-			<BackToTop />
-
-			<div>
-				<p className="center">
-					Check out the{' '}
-					<Link to={`/timeline`} className="red">
+		<div className="min-h-screen">
+			<header className="bg-gradient-to-b from-slate-50 to-white pt-6">
+				<Title />
+				<p className="center text-sm text-slate-500">
+					Explore the{' '}
+					<Link to={`/timeline`} className="font-medium text-[#21306a] hover:underline">
 						Canvas Timeline
 					</Link>
-					!
 				</p>
+			</header>
+
+			<BackToTop />
+
+			<div className="sticky top-0 z-30 border-y border-slate-200 bg-white/85 backdrop-blur">
+				<div className="mx-auto flex max-w-5xl flex-col gap-3 px-4 py-3 sm:flex-row sm:items-center">
+					<div className="relative flex-1">
+						<input
+							type="search"
+							value={query}
+							onChange={(e) => setQuery(e.target.value)}
+							placeholder="Search events, places, descriptions..."
+							className="w-full rounded-lg border border-slate-200 bg-slate-50 px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-[#21306a] focus:bg-white focus:ring-2 focus:ring-[#21306a]/20"
+						/>
+					</div>
+					<div className="flex items-center justify-between gap-3 sm:justify-end">
+						<span className="text-sm text-slate-500">
+							{displayedData.length.toLocaleString()} of {allData.length.toLocaleString()}
+						</span>
+						<button
+							onClick={() => setShowFilters((s) => !s)}
+							className={`rounded-lg px-4 py-2 text-sm font-medium ring-1 transition ${
+								showFilters
+									? 'bg-[#21306a] text-white ring-[#21306a]'
+									: 'bg-white text-slate-700 ring-slate-200 hover:bg-slate-50'
+							}`}
+						>
+							Filters
+						</button>
+					</div>
+				</div>
+
+				{showFilters && (
+					<div className="border-t border-slate-200 bg-white">
+						<div className="mx-auto flex max-w-5xl flex-wrap gap-6 px-4 py-4">
+							<CheckGroup
+								heading="Type"
+								options={types}
+								selected={selectedTypes}
+								onToggle={(v) => toggle(setSelectedTypes, selectedTypes, v)}
+								onAll={() => setSelectedTypes(types)}
+								onNone={() => setSelectedTypes([])}
+							/>
+							<CheckGroup
+								heading="Field"
+								options={fields}
+								selected={selectedFields}
+								onToggle={(v) => toggle(setSelectedFields, selectedFields, v)}
+								onAll={() => setSelectedFields(fields)}
+								onNone={() => setSelectedFields([])}
+							/>
+						</div>
+					</div>
+				)}
 			</div>
 
-			{filteredDataState.length > 0 ? (
-				filteredDataState.map((data) => {
-					return (
-						<div key={data.id_num}>
-							<Border />
-							<HomeEvent data={data} />
-						</div>
-					)
-				})
-			) : (
-				<h2 className="container center opacity-25 gray">There is nothing here.</h2>
-			)}
+			<main className="mx-auto max-w-4xl px-4 py-2">
+				{displayedData.length > 0 ? (
+					<div className="divide-y divide-slate-200">
+						{displayedData.map((item) => (
+							<HomeEvent key={item.id_num} data={item} />
+						))}
+					</div>
+				) : (
+					<h2 className="py-20 text-center text-xl text-slate-300">There is nothing here.</h2>
+				)}
+			</main>
 		</div>
 	)
 }
 
 export default Home
-
-// #242424
-// #000
-// #fff
-// #1143

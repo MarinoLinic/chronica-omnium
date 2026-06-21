@@ -1,75 +1,134 @@
 import data from '../resources/World_History.json'
-import { useParams } from 'react-router-dom'
+import { useParams, Link } from 'react-router-dom'
+import { useEffect } from 'react'
 import EventDisplay from './EventDisplay'
 import TimelineChart from './TimelineChart'
 import EventMap from './EventMap'
-import { EventPrevious, EventNext } from './EventToggle'
-import { Link } from 'react-router-dom'
+
+// Only show the surrounding "In context" timelines for events recent enough to
+// have meaningful neighbours. Before the Holocene (~10,000 BCE) the dataset is
+// sparse (geological/evolutionary events), so the charts would be empty.
+const CONTEXT_MIN_START = -10000
+
+const ChartCard = ({ label, children }) => (
+	<div className="flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
+		<div className="border-b border-slate-100 px-4 py-2 text-sm font-semibold text-slate-700">{label}</div>
+		<div className="h-[300px] w-full sm:h-[340px]">{children}</div>
+	</div>
+)
+
+const NavButton = ({ to, direction, disabled }) => {
+	const base =
+		'inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition ring-1 ring-slate-200'
+	if (disabled) {
+		return <span className={`${base} cursor-not-allowed text-slate-300`} aria-hidden="true" />
+	}
+	return (
+		<Link
+			to={to}
+			className={`${base} text-slate-700 hover:bg-slate-50 hover:text-[#21306a]`}
+			aria-label={direction === 'left' ? 'Previous event' : 'Next event'}
+		>
+			{direction === 'left' ? '← Previous' : 'Next →'}
+		</Link>
+	)
+}
 
 const Event = () => {
-	let { eventId } = useParams()
-
-	let eventIdInt = parseInt(eventId)
-
+	const { eventId } = useParams()
+	const eventIdInt = parseInt(eventId)
 	const event = data.find((item) => item.id_num === eventIdInt)
 
+	useEffect(() => {
+		window.scrollTo({ top: 0 })
+	}, [eventId])
+
 	if (!event) {
-		return <div>Event not found.</div>
+		return (
+			<div className="flex min-h-screen flex-col items-center justify-center gap-4 text-center">
+				<h1 className="text-2xl font-bold text-slate-800">Event not found.</h1>
+				<Link to="/" className="hypertext-underline blue">
+					Back to all events
+				</Link>
+			</div>
+		)
 	}
 
-	// const window_width = 50
-	// className={`max-w-[${window_width}px]`}
-	let charts = 0
+	const maxId = data.reduce((m, i) => (i.id_num > m ? i.id_num : m), 0)
+
+	const showContext = event.start >= CONTEXT_MIN_START
+	const hasVisuals = showContext || event.location_info
+
+	const visuals = hasVisuals && (
+		<section className="mt-10">
+			<h2 className="text-xl font-bold text-slate-900">In context</h2>
+			<p className="mt-1 text-sm text-slate-500">
+				{showContext ? 'What else was happening around this time.' : 'Where this took place.'}
+			</p>
+			<div className="mt-4 grid grid-cols-1 gap-4 lg:grid-cols-2">
+				{showContext && (
+					<>
+						<ChartCard label="Civilizations &amp; units">
+							<TimelineChart
+								data={data}
+								rangestart={event.start - 100}
+								rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
+								type={'Unit'}
+								title={'Units'}
+								markerYear={event.start}
+							/>
+						</ChartCard>
+						<ChartCard label="Notable people">
+							<TimelineChart
+								data={data}
+								rangestart={event.start - 30}
+								rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
+								type={'Person'}
+								title={'People'}
+								markerYear={event.start}
+							/>
+						</ChartCard>
+						<ChartCard label="Events">
+							<TimelineChart
+								data={data}
+								rangestart={event.start - 10}
+								rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
+								type={'Event'}
+								title={'Events'}
+								markerYear={event.start}
+							/>
+						</ChartCard>
+					</>
+				)}
+				{event.location_info && (
+					<ChartCard label="Location">
+						<EventMap locationInfo={event.location_info} />
+					</ChartCard>
+				)}
+			</div>
+		</section>
+	)
 
 	return (
-		<div className="grid-temp grid-column-3 page-without-scrollbar">
-			<section>
-				<EventPrevious event={event} />
-			</section>
-
-			<section>
-				<div className="fixed-half-v fixed-chart-1">
-					<TimelineChart
-						data={data}
-						rangestart={event.start - 100}
-						rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
-						type={'Unit'}
-						title={'Units'}
-					/>
+		<div className="min-h-screen bg-slate-50/40">
+			<header className="sticky top-0 z-20 border-b border-slate-200 bg-white/80 backdrop-blur">
+				<div className="mx-auto flex max-w-5xl items-center justify-between gap-3 px-4 py-3">
+					<Link
+						to="/"
+						className="inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-slate-700 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-[#21306a]"
+					>
+						All events
+					</Link>
+					<nav className="flex items-center gap-2">
+						<NavButton to={`/${event.id_num - 1}`} direction="left" disabled={event.id_num <= 1} />
+						<NavButton to={`/${event.id_num + 1}`} direction="right" disabled={event.id_num >= maxId} />
+					</nav>
 				</div>
+			</header>
 
-				<div className="fixed-half-v fixed-chart-2">
-					<TimelineChart
-						data={data}
-						rangestart={event.start - 30}
-						rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
-						type={'Person'}
-						title={'People'}
-					/>
-				</div>
-
-				<div className="fixed-half-v fixed-chart-3">
-					<TimelineChart
-						data={data}
-						rangestart={event.start - 10}
-						rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
-						type={'Event'}
-						title={'Random Events'}
-					/>
-				</div>
-
-				<div className="fixed-half-v fixed-chart-4">
-					{event.location_info && <EventMap locationInfo={event.location_info} />}
-				</div>
-			</section>
-
-			<section className="container">
-				<EventDisplay event={event} />
-			</section>
-
-			<section>
-				<EventNext event={event} />
-			</section>
+			<main className="mx-auto max-w-5xl px-4 py-8 sm:py-12">
+				<EventDisplay event={event} visuals={visuals} />
+			</main>
 		</div>
 	)
 }
