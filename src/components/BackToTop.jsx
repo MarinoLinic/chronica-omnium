@@ -1,38 +1,37 @@
 import { useState, useEffect } from 'react'
 import '../styles/rainbow.css'
-import ScrollPercentage from './ScrollPercentage'
 
 function BackToTop() {
-	const [isVisible, setIsVisible] = useState(false)
+	const [state, setState] = useState({ visible: false, pct: 0 })
 
 	useEffect(() => {
-		// Add a scroll event listener to the window
-		window.addEventListener('scroll', handleScroll)
-
-		// Remove the scroll event listener when the component is unmounted
+		let raf = null
+		const onScroll = () => {
+			if (raf) return
+			raf = requestAnimationFrame(() => {
+				raf = null
+				const scrollY = window.scrollY
+				const trackLength = document.documentElement.scrollHeight - window.innerHeight
+				setState({
+					visible: scrollY > 100,
+					pct: trackLength > 0 ? Math.floor((scrollY / trackLength) * 100) : 0,
+				})
+			})
+		}
+		window.addEventListener('scroll', onScroll, { passive: true })
 		return () => {
-			window.removeEventListener('scroll', handleScroll)
+			window.removeEventListener('scroll', onScroll, { passive: true })
+			if (raf) cancelAnimationFrame(raf)
 		}
 	}, [])
 
-	const handleScroll = () => {
-		// Check if the user has scrolled more than 100 pixels from the top of the page
-		if (window.pageYOffset > 100) {
-			setIsVisible(true)
-		} else {
-			setIsVisible(false)
-		}
-	}
-
-	const handleBackToTopClick = () => {
-		// Scroll to the top of the page when the user clicks the button
-		window.scrollTo({ top: 0, behavior: 'smooth' })
-	}
-
 	return (
-		<div className={`back-to-top ${isVisible ? '' : 'invisible'}`} onClick={handleBackToTopClick}>
+		<div
+			className={`back-to-top ${state.visible ? '' : 'invisible'}`}
+			onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+		>
 			<p className="text-rainbow">Back to top</p>
-			<ScrollPercentage />
+			<p className="blue">{state.pct}%</p>
 		</div>
 	)
 }

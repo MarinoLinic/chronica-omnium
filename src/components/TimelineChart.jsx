@@ -1,93 +1,113 @@
-import Plotly from 'plotly.js-dist-min'
-import createPlotlyComponent from 'react-plotly.js/factory'
+import { useEffect, useRef, useMemo } from 'react'
+import * as echarts from 'echarts/core'
+import { CustomChart } from 'echarts/charts'
+import { GridComponent, TooltipComponent, TitleComponent, MarkLineComponent } from 'echarts/components'
+import { CanvasRenderer } from 'echarts/renderers'
 
-const Plot = createPlotlyComponent(Plotly)
+echarts.use([CustomChart, GridComponent, TooltipComponent, TitleComponent, MarkLineComponent, CanvasRenderer])
 
-function TimelineChart({ data, rangestart, rangeend, type, title, markerYear }) {
-	// Filter rows with "Unit" in the "type" column
-	const df_filtered = data.filter((row) => row.type === type)
+// Draws a single Gantt bar clipped to the chart area.
+function renderBar(params, api) {
+	const start = api.coord([api.value(1), api.value(0)])
+	const end = api.coord([api.value(2), api.value(0)])
+	const barH = api.size([0, 1])[1] * 0.6
+	const shape = echarts.graphic.clipRectByRect(
+		{ x: start[0], y: start[1] - barH / 2, width: Math.max(end[0] - start[0], 2), height: barH },
+		{ x: params.coordSys.x, y: params.coordSys.y, width: params.coordSys.width, height: params.coordSys.height }
+	)
+	return shape && { type: 'rect', transition: ['shape'], shape, style: api.style() }
+}
 
-	// Drop rows where either the start or end year is missing
-	const df_sorted = df_filtered.filter((row) => row.start && row.end).sort((a, b) => a.start - b.start)
+function buildOption({ rows, rangestart, rangeend, title, markerYear }) {
+	const names = rows.map((r) => r.name)
 
-	// Filter rows by range
-	const df_sortfiltered = df_sorted.filter((row) => row.end >= rangestart && row.start <= rangeend)
-
-	// Create a horizontal bar chart of the units
-	const fig = {
-		data: [
+	return {
+		title: {
+			text: title,
+			textStyle: { color: '#21306a', fontSize: 13, fontWeight: 600, fontFamily: 'inherit' },
+			padding: [10, 0, 0, 8],
+		},
+		tooltip: {
+			trigger: 'item',
+			formatter: (p) => {
+				const [, start, end, name, dur] = p.value
+				return `<b>${name}</b><br/>${start} – ${end}${dur ? `<br/>${dur}\u202fyrs` : ''}`
+			},
+		},
+		grid: { left: 8, right: 16, top: 40, bottom: 24, containLabel: true },
+		xAxis: {
+			type: 'value',
+			min: rangestart,
+			max: rangeend,
+			axisLabel: { color: '#475569', fontSize: 10 },
+			splitLine: { lineStyle: { color: '#eef2f7' } },
+			axisLine: { show: false },
+			axisTick: { show: false },
+		},
+		yAxis: {
+			type: 'category',
+			data: names,
+			inverse: true,
+			axisLabel: { color: '#475569', fontSize: 10, width: 110, overflow: 'truncate' },
+			axisLine: { show: false },
+			axisTick: { show: false },
+			splitLine: { show: false },
+		},
+		series: [
 			{
-				y: df_sortfiltered.map((row) => row.name),
-				x: df_sortfiltered.map((row) => row.end - row.start),
-				base: df_sortfiltered.map((row) => row.start),
-				orientation: 'h',
-				marker: { color: '#6172b8', line: { color: '#21306a', width: 0.5 } },
-				type: 'bar',
-				text: df_sortfiltered.map((row) => `${row.duration}`), // add text to each bar
-				textfont: { color: '#21306a', size: 1 }, // set the color of the text to white
-				hovertemplate: '%{y}<br>%{base}-%{x}<br>%{text} years<extra></extra>',
-				// text: df_sortfiltered.map((row) => `${row.start}-${row.end}`),
-				// text: df_sortfiltered.map((row) => `${row.name}`), // add text to each bar
-				// text: df_sortfiltered.map((row) => `${row.name}<br>${row.start}-${row.end}<br>${row.duration} years`), // add text to each bar
-				// hoverinfo: 'text', // specify that hoverinfo should display the text property
+				type: 'custom',
+				renderItem: renderBar,
+				encode: { x: [1, 2], y: 0 },
+				itemStyle: { color: '#6172b8', borderColor: '#21306a', borderWidth: 0.5 },
+				data: rows.map((r, i) => ({ value: [i, r.start, r.end, r.name, r.duration] })),
+				markLine:
+					markerYear != null
+						? {
+								silent: true,
+								symbol: ['none', 'none'],
+								label: { show: false },
+								data: [{ xAxis: markerYear }],
+								lineStyle: { color: '#5f1212', width: 2, type: 'dashed' },
+						  }
+						: undefined,
 			},
 		],
-		layout: {
-			title: { text: title, font: { color: '#21306a', size: 15 } },
-			autosize: true,
-			font: { family: 'Poppins, sans-serif', size: 11, color: '#334155' },
-			xaxis: {
-				range: [rangestart, rangeend],
-				showspikes: true,
-				spikecolor: '#94a3b8',
-				spikemode: 'across',
-				spikesnap: 'cursor',
-				spikethickness: 1,
-				gridcolor: '#eef2f7',
-				zeroline: false,
-				tickfont: { color: '#475569' },
-			},
-			yaxis: {
-				autorange: 'reversed',
-				automargin: true,
-				showspikes: true,
-				spikecolor: '#94a3b8',
-				spikemode: 'across',
-				spikesnap: 'cursor',
-				spikethickness: 1,
-				gridcolor: '#eef2f7',
-				tickfont: { color: '#475569', size: 10 },
-			},
-			plot_bgcolor: '#ffffff',
-			paper_bgcolor: '#ffffff',
-			margin: { l: 8, r: 16, t: 40, b: 36 },
-			shapes:
-				markerYear != null && markerYear >= rangestart && markerYear <= rangeend
-					? [
-							{
-								type: 'line',
-								xref: 'x',
-								yref: 'paper',
-								x0: markerYear,
-								x1: markerYear,
-								y0: 0,
-								y1: 1,
-								line: { color: '#5f1212', width: 2, dash: 'dot' },
-							},
-					  ]
-					: [],
-		},
 	}
+}
 
-	return (
-		<Plot
-			data={fig.data}
-			layout={fig.layout}
-			useResizeHandler={true}
-			config={{ responsive: true, displayModeBar: false }}
-			style={{ width: '100%', height: '100%' }}
-		/>
+function TimelineChart({ data, rangestart, rangeend, type, title, markerYear }) {
+	const rows = useMemo(
+		() =>
+			data
+				.filter((r) => r.type === type && r.start != null && r.end != null)
+				.filter((r) => r.end >= rangestart && r.start <= rangeend)
+				.sort((a, b) => a.start - b.start),
+		[data, type, rangestart, rangeend]
 	)
+
+	const containerRef = useRef(null)
+	const chartRef = useRef(null)
+
+	useEffect(() => {
+		const chart = echarts.init(containerRef.current, null, { renderer: 'canvas' })
+		chartRef.current = chart
+		const ro = new ResizeObserver(() => chart.resize())
+		ro.observe(containerRef.current)
+		return () => {
+			ro.disconnect()
+			chart.dispose()
+			chartRef.current = null
+		}
+	}, [])
+
+	useEffect(() => {
+		chartRef.current?.setOption(buildOption({ rows, rangestart, rangeend, title, markerYear }), {
+			notMerge: true,
+			lazyUpdate: true,
+		})
+	}, [rows, rangestart, rangeend, title, markerYear])
+
+	return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
 }
 
 export default TimelineChart

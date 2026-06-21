@@ -53,6 +53,13 @@ function boundsSpanDegrees(bounds) {
 	return Math.max(latSpan, lonSpan)
 }
 
+// Returns true only when locationInfo carries usable coordinates or a bounding box.
+// Use this to decide whether to render the map card at all.
+export function canShowMap(locationInfo) {
+	if (!locationInfo) return false
+	return !!(parseCoordinates(locationInfo) || parseBounds(locationInfo))
+}
+
 // Imperatively fit the view whenever the target location changes. Using the
 // geocoder's bounding box means the zoom level always matches the precision of
 // the match (a city zooms further out than a single address).

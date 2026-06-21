@@ -3,12 +3,15 @@ import { useParams, Link } from 'react-router-dom'
 import { useEffect } from 'react'
 import EventDisplay from './EventDisplay'
 import TimelineChart from './TimelineChart'
-import EventMap from './EventMap'
+import EventMap, { canShowMap } from './EventMap'
 
 // Only show the surrounding "In context" timelines for events recent enough to
 // have meaningful neighbours. Before the Holocene (~10,000 BCE) the dataset is
 // sparse (geological/evolutionary events), so the charts would be empty.
 const CONTEXT_MIN_START = -10000
+
+// Locations that describe the whole world or have no meaningful point to pin.
+const GLOBAL_LOCATION = /^(world|global|worldwide|earth|international|universal|everywhere)$/i
 
 const ChartCard = ({ label, children }) => (
 	<div className="flex flex-col overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm">
@@ -57,7 +60,9 @@ const Event = () => {
 	const maxId = data.reduce((m, i) => (i.id_num > m ? i.id_num : m), 0)
 
 	const showContext = event.start >= CONTEXT_MIN_START
-	const hasVisuals = showContext || event.location_info
+	const showMap =
+		!!(event.location_info && event.location && !GLOBAL_LOCATION.test(event.location.trim()) && canShowMap(event.location_info))
+	const hasVisuals = showContext || showMap
 
 	const visuals = hasVisuals && (
 		<section className="mt-10">
@@ -100,7 +105,7 @@ const Event = () => {
 						</ChartCard>
 					</>
 				)}
-				{event.location_info && (
+				{showMap && (
 					<ChartCard label="Location">
 						<EventMap locationInfo={event.location_info} />
 					</ChartCard>

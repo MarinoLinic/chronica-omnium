@@ -9,18 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "echarts": "^5.5.1",
     "html-to-image": "^1.11.13",
     "leaflet": "^1.9.4",
-    "plotly.js-dist-min": "^2.35.3",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-leaflet": "^5.0.0",
-    "react-plotly.js": "^2.6.0",
-    "react-router-dom": "^7.6.0"
-  },
-  "overrides": {
-    "plotly.js": "^2.35.3",
-    "word-wrap": "^1.2.5"
+    "react-router-dom": "^7.6.0",
+    "react-virtuoso": "^4.10.4"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.7",

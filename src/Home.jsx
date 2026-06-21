@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react'
 import { Link } from 'react-router-dom'
+import { Virtuoso } from 'react-virtuoso'
 import data from './resources/World_History.json'
 import { filterData } from './utils/functions'
 import Title from './components/Title'
@@ -75,7 +76,7 @@ function Home() {
 				<p className="center text-sm text-slate-500">
 					Explore the{' '}
 					<Link to={`/timeline`} className="font-medium text-[#21306a] hover:underline">
-						Canvas Timeline
+						Timeline
 					</Link>
 				</p>
 			</header>
@@ -136,11 +137,16 @@ function Home() {
 
 			<main className="mx-auto max-w-4xl px-4 py-2">
 				{displayedData.length > 0 ? (
-					<div className="divide-y divide-slate-200">
-						{displayedData.map((item) => (
-							<HomeEvent key={item.id_num} data={item} />
-						))}
-					</div>
+					<Virtuoso
+						useWindowScroll
+						increaseViewportBy={400}
+						data={displayedData}
+						itemContent={(index, item) => (
+							<div className={index > 0 ? 'border-t border-slate-200' : ''}>
+								<HomeEvent data={item} />
+							</div>
+						)}
+					/>
 				) : (
 					<h2 className="py-20 text-center text-xl text-slate-300">There is nothing here.</h2>
 				)}
