@@ -3,6 +3,8 @@
   --ink: #203536;
   --muted: #637570;
   --accent: #23665d;
+  --wordmark-blue: #21306a;
+  --wordmark-cyan: #00bfff;
   --line: #dce2da;
   --serif: Georgia, "Times New Roman", serif;
   color: var(--ink);
@@ -51,7 +53,31 @@ h3 {
   font: 700 23px var(--serif);
   letter-spacing: -0.5px;
 }
-.wordmark span {
+.wordmark-title {
+  color: var(--wordmark-blue);
+}
+/* Original gradient: legacy/designs/styles/rainbow.css.
+   Credit: https://codepen.io/inteo/pen/JjMoGBy */
+@supports (background-clip: text) or (-webkit-background-clip: text) {
+  .wordmark-title {
+    display: inline-block;
+    background-image: repeating-linear-gradient(
+      45deg,
+      var(--wordmark-blue),
+      var(--wordmark-cyan),
+      var(--wordmark-blue)
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: wordmark-gradient 3000s alternate-reverse linear infinite;
+  }
+}
+@keyframes wordmark-gradient {
+  from { background-position-x: 0vw; }
+  to { background-position-x: 5000vw; }
+}
+.wordmark-tagline {
   display: block;
   font:
     11px "Segoe UI",
@@ -383,8 +409,6 @@ h3 {
   align-items: center;
   justify-content: center;
   margin: 32px 0 44px;
-  background: #eeeee7;
-  border-radius: 4px;
   padding: 16px;
 }
 .story-image img {
@@ -508,7 +532,7 @@ h3 {
   .wordmark {
     font-size: 19px;
   }
-  .wordmark span {
+  .wordmark-tagline {
     font-size: 8px;
     letter-spacing: 1px;
   }
@@ -647,6 +671,12 @@ h3 {
     animation: none !important;
   }
 }
+@media (forced-colors: active) {
+  .wordmark-title {
+    background-image: none;
+    color: LinkText;
+  }
+}
 @media print {
   .site-header,
   .story-nav,
@@ -661,9 +691,6 @@ h3 {
   }
   .sources > div {
     display: block !important;
-  }
-  .story-image {
-    background: white;
   }
   body {
     background: white;

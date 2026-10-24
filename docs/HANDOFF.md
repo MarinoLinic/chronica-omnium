@@ -4,7 +4,7 @@ Updated 24 October 2026. **The engineering overhaul and requested public-reader 
 
 Workspace: `C:\Users\marin\OneDrive\Documents\My Programs\chronica-omnium`
 
-This continuation started from commit `46fc4bf` (`Sol updates`), which already contained the previous overhaul. The earlier handoff is preserved in [archive/HANDOFF-2026-10-24-baseline.md](archive/HANDOFF-2026-10-24-baseline.md); the original interrupted handoff remains in the archive too. Commit `2ff06b9` (`Big update`) appeared while work was underway and contains the broader overhaul. The latest summary edits, accessibility refinement and accompanying documentation remain uncommitted at this check; inspect Git before continuing. The agent did not commit, push, deploy, restart the migration, reset, renumber, delete user material, change accounts or add a backend. Original files under `src/resources/` are unchanged.
+This continuation started from commit `46fc4bf` (`Sol updates`), which already contained the previous overhaul. The earlier handoff is preserved in [archive/HANDOFF-2026-10-24-baseline.md](archive/HANDOFF-2026-10-24-baseline.md); the original interrupted handoff remains in the archive too. Commit `2ff06b9` (`Big update`) contains the broader overhaul; `70d2940` (`One line descriptions`) records the summary/accessibility follow-up. These commits appeared while work was underway. The latest design archive, animated header and image-frame edits remain uncommitted at this check; inspect Git before continuing. The agent did not commit, push, deploy, restart the migration, reset, renumber, delete user material, change accounts or add a backend. Original files under `src/resources/` are unchanged.
 
 ## Start here
 
@@ -42,6 +42,7 @@ Vite watches generated imports again, so a CLI data build can refresh its catalo
 
 ## Public reader completed
 
+- The original large title, animated gradient and percentage-based Back to Top are preserved as exact source copies in `legacy/designs/`, with provenance and a standalone preview. The current header reuses the original gradient/timing with current typography and reduced-motion support. Detail images keep their reserved dimensions without the coloured frame. The current instant Back to Top behaviour remains in use.
 - Shared warm-paper/system-font theme in `src/styles/reader.css`; Unicode-safe Segoe UI/system sans and Georgia headings. The Google Fonts request was removed.
 - Chronicle layout with a continuous line, reserved lazy-image spaces, compact period picker, previous/next period buttons, current-period tracking, search, filters, and a mobile period control. The intrusive horizontal period strip is gone.
 - Back to top uses one instant native scroll. The previous native/virtualizer combination was reproduced scrolling back down; desktop QA now reaches `scrollY = 0`.
@@ -93,6 +94,7 @@ Verified locally on Windows with Node 26.7.0, using Node 24 as the documented/CI
 - Production QA at desktop 1280 × 900 and mobile 390 × 844: period jumps, current period, Back to top, search/empty state, Unicode, date details, closed Sources, no horizontal page overflow, read-only catalog, independent periods, and complete-image story transitions.
 - A live transition was observed with the old heading/image still paired and complete while busy, then the new heading/image paired and complete after loading.
 - Latest reader checks verify that native date titles are absent, exactly one custom tooltip opens, mobile tooltip bounds remain inside 390px, and event pages display the concise estimate. Swastika's one-liner is a plain explanation rather than the article's pronunciation guide. A temporary whitespace edit built through the CLI reached an already open homepage through HMR; it and the editor integration edit were restored exactly.
+- The design-preservation follow-up also passes all 34 tests and the production build. Four archived design files match commit `89bfd7e9f4fa0f730b715d2432d67ad39547738c` byte for byte. Desktop/mobile QA verifies the current gradient animates, the wordmark retains its normal font size, detail-image frames are transparent and bounded, and the standalone legacy Back to Top percentage appears and returns to zero scroll. Evidence includes `legacy-gradient-current-desktop.jpg`, `legacy-gradient-current-mobile.jpg`, `legacy-title-desktop.jpg` and `legacy-back-to-top-desktop.jpg` under `.local/qa/`.
 - Horizontal and vertical main PNG/SVG exports include all 156 selected test periods. Verified PNG dimensions: 1967 × 4096 and 4096 × 439; SVG preserves full detail. A crowded vertical chart needs SVG or narrower filters for readable labels, as the UI explains.
 - Context PNG/SVG exports pass; the grouped full-window PNG is 982 × 4096. Fictional fixtures pass local/thumbnail/original fallback, exhausted fallback, changed-source reset, BCE crossing, equal/empty window, and 180 rows. The 180-row PNG is bounded at 447 × 4096. These examples never became catalog records.
 

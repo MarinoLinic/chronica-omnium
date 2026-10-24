@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chronica Omnium · Original designs</title>
+    <link rel="stylesheet" href="styles/rainbow.css">
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; background: white; color: black; font: 16px/24px Poppins, "Segoe UI", sans-serif; }
+      h1, h2, h3, p { margin: 0; }
+      h1 { font-size: 2.5rem; font-weight: 800; line-height: 1; }
+      h2 { font-size: 1.5rem; font-weight: 700; line-height: 1; }
+      h3 { font-size: 1.25rem; font-weight: 600; line-height: 1; }
+      a { color: inherit; text-decoration: inherit; }
+      .blue { color: #21306a; }
+      .center { text-align: center; }
+      .padding-y { padding-top: 1rem; padding-bottom: 1rem; }
+      .invisible { visibility: hidden; }
+      .back-to-top { position: fixed; bottom: 20px; right: 20px; z-index: 999; cursor: pointer; border: 0; padding: 0; background: transparent; font: inherit; font-size: 18px; text-align: left; }
+      .back-to-top span { display: block; }
+      main { max-width: 625px; margin: 0 auto; padding: 32px 20px; }
+      main p { margin: 24px 0; }
+      .scroll-sample { min-height: 180vh; padding-top: 25vh; color: #555; }
+      :focus-visible { outline: 2px solid #21306a; outline-offset: 5px; }
+      @media (prefers-reduced-motion: reduce) { .text-rainbow { animation: none; } }
+    </style>
+  </head>
+  <body>
+    <header class="padding-y center">
+      <h1 class="text-rainbow">Chronica Omnium</h1>
+      <h2 class="blue">A Brief History of the World</h2>
+      <h3 class="padding-y">By <a class="blue" href="https://linic.net">Marino Linić</a></h3>
+    </header>
+    <main>
+      <p>Original title and Back to Top design reference.</p>
+      <p>Scroll down to reveal the original gradient text and percentage indicator.</p>
+      <div class="scroll-sample"><p>The original component files and complete styles are preserved beside this preview.</p></div>
+      <p>End of preview. Use Back to Top to return to the title.</p>
+    </main>
+    <button type="button" class="back-to-top invisible" aria-label="Back to top">
+      <span class="text-rainbow">Back to top</span>
+      <span class="blue" id="percentage">0%</span>
+    </button>
+    <script>
+      const button = document.querySelector('.back-to-top');
+      const percentage = document.querySelector('#percentage');
+      let frame = null;
+      const update = () => {
+        frame = null;
+        const trackLength = document.documentElement.scrollHeight - innerHeight;
+        button.classList.toggle('invisible', scrollY <= 100);
+        percentage.textContent = `${trackLength > 0 ? Math.floor(scrollY / trackLength * 100) : 0}%`;
+      };
+      addEventListener('scroll', () => { if (frame === null) frame = requestAnimationFrame(update); }, { passive: true });
+      addEventListener('resize', update);
+      button.addEventListener('click', () => scrollTo({ top: 0, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' }));
+      update();
+    </script>
+  </body>
+</html>

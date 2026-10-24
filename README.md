@@ -19,6 +19,8 @@ The chronicle has a compact period picker, previous/next period controls, search
 
 Event pages show the article and selected image together after loading. Sources, image credits, revision/retrieval details, text download, and print controls are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 
+The header keeps the original animated blue/cyan gradient, with reduced-motion support. The original large title and percentage-based Back to Top designs are preserved in [legacy/designs/](legacy/designs/README.md), including a standalone preview. Event pictures retain their size limits without a coloured frame behind them.
+
 `/timeline` supports horizontal and vertical linear charts, subject grouping or chronological packing, filters, presets, pan/zoom, and full-chart PNG/SVG exports. Context charts use the same SVG/export approach and appear only for populated categories in a useful human-history window. Text lists remain available.
 
 ## Authoring

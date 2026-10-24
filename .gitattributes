@@ -8,6 +8,10 @@ src/*.js text eol=lf
 src/components/** text eol=lf
 src/styles/** text eol=lf
 src/utils/** text eol=lf
+# Keep the archived design source copies stable on Windows checkouts.
+legacy/designs/**/*.jsx text eol=lf
+legacy/designs/**/*.css text eol=lf
+legacy/designs/*.html text eol=lf
 docs/** text eol=lf
 package*.json text eol=lf
 *.md text eol=lf
