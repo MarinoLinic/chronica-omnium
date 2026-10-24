@@ -53,7 +53,9 @@ The validator is `scripts/lib/catalog.mjs`. `schema/event.schema.json` is an edi
 
 `config.json.referenceYear` is a deterministic build reference, not a live end date. Authored and published ongoing spans retain `end: null`; the reader resolves only `date_kind: "ongoing"` against the viewer’s current year. A missing end on a point stays a point. No annual rebuild is needed to display “present”. Dates are still recorded at year precision.
 
-Date tooltips use the viewer’s year and an explicit 25-year generation equivalent. This is a comparison of elapsed time, not inferred ancestry or a scientific BP conversion. Scientific ages must state their original reference (for example, calibrated BP relative to 1950) in `date_note`; do not reinterpret BP as the visitor’s present. The legacy generations columns and retained `generationYears` configuration do not override this disclosed reader convention.
+Date tooltips and the visible event-page estimate use the viewer’s year and 25 years per generation. Scientific ages must state their original reference (for example, calibrated BP relative to 1950) in `date_note`; do not reinterpret BP as the visitor’s present. The legacy generations columns and retained `generationYears` configuration do not override this reader convention.
+
+`short_desc` is an authored, plain-language explanation in one short sentence. Keep pronunciation guides, translated names, biographical date lists and encyclopedia opening formulas out of it. Source-card suggestions need rewriting before publication. `data/reports/reader-summary-review.json` records the 24 October pass across all original records; the underlying article snapshots and source URLs remain separate.
 
 ## Lifespan, office, and active work
 
@@ -151,6 +153,8 @@ Atomic writes use unique temporary filenames and bounded retries for short OneDr
 
 The image-only source sync also caches eligible lead images for records with no authored image. Manifest matching uses the selected original URL, so a changed choice cannot retain an unrelated local file. Existing original image choices were preserved, except for the user-identified repeated modern-irrigation images on domestication records. Their original URLs remain in the legacy archive and backups.
 
-Research evidence is in `reports/research-review.json` (scoped dates, interpretations and targeted corrections) and `reports/summary-research.json` (attributed article matches and introductory summaries). A general background link does not independently verify an imported date. All records remain open to source review; speculative future claims and concepts without defensible absolute dates remain undated. No original record was deleted to reduce warning counts.
+Research evidence is in `reports/research-review.json` (scoped dates, interpretations and targeted corrections), `reports/summary-research.json` (attributed article matching/retrieval), and `reports/reader-summary-review.json` (authored plain-language summaries). A general background link does not independently verify an imported date. All records remain open to source review; speculative future claims and concepts without defensible absolute dates remain undated. No original record was deleted to reduce warning counts.
 
 Public JSON writes stage temporary bytes under ignored `.local/staging/` and then atomically rename into place. Persistent failures retain that evidence outside publishing directories. The dev server buffers generated JSON responses so cancelled reader requests do not keep a file stream open during editor rebuilds. The editor integration check includes cancelled reads and an exact-restored real public-data replacement.
+
+The compiler publishes the generated JavaScript imports after public detail files. Vite watches these imports so command-line builds update its catalog module without requiring a server restart; refresh a reader page if its current view has not updated. Avoid watching all of `data/` or `public/media/`, which would produce unnecessary reloads during research and caching.

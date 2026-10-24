@@ -5,7 +5,7 @@
   "slug": "roman-empire",
   "status": "review",
   "name": "Roman Empire",
-  "short_desc": "Establishment of the Roman Empire by Augustus (Caesar's great-nephew): the beginning of Pax Romana (27 BCE)",
+  "short_desc": "Augustus establishes imperial rule in Rome after the republic's civil wars.",
   "long_desc": "Roman Empire",
   "start": -27,
   "end": 476,

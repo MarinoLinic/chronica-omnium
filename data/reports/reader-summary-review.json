@@ -1,0 +1,3455 @@
+{
+  "reviewedAt": "2026-10-24",
+  "method": "Individually authored plain-language summaries using the preserved records and attributed source background. Not copied lead sentences or automatic approval of dates, places, or record status.",
+  "sourceNote": "Existing authored source URLs, pinned revisions, background snapshots, media choices and review status retained. Previous authored files backed up in ignored .local/history; original imports remain in each legacy object and src/resources.",
+  "results": [
+    {
+      "id": "event-0001",
+      "source": "https://en.wikipedia.org/wiki/Big_Bang",
+      "previousSummarySha256": "baef136868db201e2abdc297e5f02f461a39c9de44ff819962cdc73185fbc775",
+      "summarySha256": "ff887e2885891aa6a6dd43991ae0561e0dbbd62d89344d0e599a10c05165f0f7"
+    },
+    {
+      "id": "event-0002",
+      "source": "https://spaceplace.nasa.gov/galaxies-age/en/#:~:text=Astronomers%20believe%20that%20our%20own,about%20500%20million%20years%20ago",
+      "previousSummarySha256": "f17a3b3f31ba07bd61f73315ca73472de28c98816c6a02c1322515e95275ddba",
+      "summarySha256": "09414b9af0cff52fc92aff4e51c00a4133f6316d2078b17e83b2bed89f7eba65"
+    },
+    {
+      "id": "event-0003",
+      "source": "https://en.wikipedia.org/wiki/Geological_history_of_Earth",
+      "previousSummarySha256": "144987617ac8fc1dfbceacb09565c7e35bd512ef20375cdcdbdfabc5a5a1df15",
+      "summarySha256": "72a0bd45bf5a439a203dac54cce2086f1b94798fef1d8f57c9a889edc4a664bf"
+    },
+    {
+      "id": "event-0004",
+      "source": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
+      "previousSummarySha256": "bede73be8c4a603085908809ea56cf18d96c3d564aecb59d8567138ca91bc455",
+      "summarySha256": "1495885c4b0f938f9e656cad27215b0feb638aeb40193a38731a94dec4f89395"
+    },
+    {
+      "id": "event-0005",
+      "source": "https://en.wikipedia.org/wiki/Theia_(planet)",
+      "previousSummarySha256": "e10b182fb202c5f09f25e44aab329df463b16b18063bec7de4f377555ee66a26",
+      "summarySha256": "22961c60bb5e2d020273550eba13b335c132bf2ccda3c92b69104a7862b1773f"
+    },
+    {
+      "id": "event-0006",
+      "source": "https://en.wikipedia.org/wiki/Origin_of_water_on_Earth",
+      "previousSummarySha256": "9247471d10200c5d3fe9e62e5ef6ac2b7295c0d069450500264b0cbc30f1c22c",
+      "summarySha256": "cef6b4fcfc8cb5b5c6fd2e187c2dab4535f668d0f7d0f1f981721ededb6d972c"
+    },
+    {
+      "id": "event-0007",
+      "source": "https://en.wikipedia.org/wiki/Protocell",
+      "previousSummarySha256": "588a64525b43cfb3835b342248161d66c58ec3c75094d718866a294c0c710185",
+      "summarySha256": "7dcddb99ec8dfe4a02f9c4f76172fb2cd080921875b5551a4879a0681dce2aec"
+    },
+    {
+      "id": "event-0008",
+      "source": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
+      "previousSummarySha256": "9636e080f69517c629fae98473855b702ae11066c4ac00368723189cb04b7d7e",
+      "summarySha256": "6dc1d1e22552b79d7d3dabad769f3d9c0adc3c48afb901347aeeac395ecc3d13"
+    },
+    {
+      "id": "event-0009",
+      "source": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+      "previousSummarySha256": "7b5c7e7308582f7775bdd1523aab6f1e28f9ef0e7b7cd6eca4716ce1138b62a6",
+      "summarySha256": "7bc2f21ee6876d200ba783755983e636e5ee3a614420625c54745a2ecf338513"
+    },
+    {
+      "id": "event-0010",
+      "source": "https://en.wikipedia.org/wiki/Virus",
+      "previousSummarySha256": "f508a189c00eafbc99fa3e1984eae65a137fa5394bdaa0b6a7432c41e7cc919a",
+      "summarySha256": "bba6e6068bea678660d56b2ceb99074634453f468c4476b42f24b1f5a0132268"
+    },
+    {
+      "id": "event-0011",
+      "source": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "previousSummarySha256": "1399c38c2516bb116d4bfedc9f12607a94924b7ef6dcfef87337a0b6f0a30c4b",
+      "summarySha256": "34c9c4b7bb66e9200a16f6315af3dff192a453d44cfdcbf5ae9e31a140b42f4b"
+    },
+    {
+      "id": "event-0012",
+      "source": "https://en.wikipedia.org/wiki/Eukaryote#Evolutionary_history",
+      "previousSummarySha256": "0d5c9d9832e3bc53ee0b7d74a3d295c85b3e582d74fb7704fb8fa2093d642510",
+      "summarySha256": "78336d40e5d70e7f5ca00506f4bba832ff5e5b94cc7291f1047ce55ccdb30219"
+    },
+    {
+      "id": "event-0013",
+      "source": "https://en.wikipedia.org/wiki/Francevillian_biota",
+      "previousSummarySha256": "9885fd9757f3ed0185f0931f8993111b45ecd69e56062f98cf4b27c929a7cb1c",
+      "summarySha256": "8cada46291bdc300e710926e809ee571d8c4427cfe627e66b8e37bfc4fa00ffc"
+    },
+    {
+      "id": "event-0014",
+      "source": "https://en.wikipedia.org/wiki/Sexual_reproduction",
+      "previousSummarySha256": "a5e760b2a1be9c6d085db6f04c082c1431ba4475317f5a02ced41da1cbf189c1",
+      "summarySha256": "199898a0d7384e5a3d3cd49d932259fe8e67708e133e5c87068507624e351f7c"
+    },
+    {
+      "id": "event-0015",
+      "source": "https://en.wikipedia.org/wiki/Caveasphaera",
+      "previousSummarySha256": "b60b3bde2b85e3cf23945f9a115b235e86f67010a021f245e785ad0c1c9fb9da",
+      "summarySha256": "c4218c1789efff0f0447b980f6c632962a1c3f2abdf6305658f15c9d7df06a8d"
+    },
+    {
+      "id": "event-0016",
+      "source": "https://en.wikipedia.org/wiki/Cambrian_explosion",
+      "previousSummarySha256": "71d133e345eda540768e10e29ab3054257d45855f21eb242883e55b5b4f7ff46",
+      "summarySha256": "9cec7bec51edc7b8b25ebe69ae098bffdcffbc9cf942757179c29468bca8ae00"
+    },
+    {
+      "id": "event-0017",
+      "source": "https://en.wikipedia.org/wiki/Sarcopterygii",
+      "previousSummarySha256": "9d0b260d9636a5aff66f0f8d3b992d4c92fbfd4612581af576107a10457f279f",
+      "summarySha256": "7a10fba7a918e52bcd01826f4abcc7acd6ef295c1899fb47fa461f0b1cdf6fb2"
+    },
+    {
+      "id": "event-0018",
+      "source": "https://en.wikipedia.org/wiki/Tetrapoda",
+      "previousSummarySha256": "90e39a954e50ce9b9533f51a2b7969191ce95fe6cc377bae9f25bbee7189604f",
+      "summarySha256": "db4e3e3e7380f56a58b07124942cc89779392bc949fedc4369f6be0dc4f19121"
+    },
+    {
+      "id": "event-0019",
+      "source": "https://en.wikipedia.org/wiki/Pangaea",
+      "previousSummarySha256": "ca0db83be48ddcf80e14f2b3b1a268367f8a09eb59dcf9e4361d5981b1e3994d",
+      "summarySha256": "0c3638b128a4260d7c333daec8ae7dad5babfef4f75fbc3457199bf8a4e39201"
+    },
+    {
+      "id": "event-0020",
+      "source": "https://en.wikipedia.org/wiki/Synapsid",
+      "previousSummarySha256": "81a72d0c57b66819fe318210a8e3708daecc2b3f0b5ef72e981303f23ef53fe4",
+      "summarySha256": "4ca3123aad7ffc2626836c1ef7f56a5d113ba838a814fb83b3d66f3a426d6783"
+    },
+    {
+      "id": "event-0021",
+      "source": "https://en.wikipedia.org/wiki/Mammal",
+      "previousSummarySha256": "9354d1d56f7da01bdcafcfc1304a75a15f0504c3ea645caf0dd77964c2f3fad6",
+      "summarySha256": "bfb56ee05561821b00b1f3a7f6474d3cc8361973e8ab1fe0f0408997f938aaaa"
+    },
+    {
+      "id": "event-0022",
+      "source": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+      "previousSummarySha256": "da7e47ac7aced9faf56d7edd4e0214c6ba0ac0aa3920d38b40b16b79df32063b",
+      "summarySha256": "92c2e672fa6491f570d23abca58d529daa82da2441bcb95f3b0e018db7394e95"
+    },
+    {
+      "id": "event-0023",
+      "source": "https://en.wikipedia.org/wiki/Primate",
+      "previousSummarySha256": "4bb5d7f469921e45578bceb2c5fdaf6301f93b61c5f11e0a271f37ea7a112107",
+      "summarySha256": "39bc17193f81097f9e42595cc9eac40b9fa49ccc355d49bda826fded09725ad4"
+    },
+    {
+      "id": "event-0024",
+      "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
+      "previousSummarySha256": "50b8b2683a0950629924809925249bc1f72381821993d99e0585712052efc03b",
+      "summarySha256": "374495917e2e4174fc3e81035825ea74cec658b8c96dd44aac88ebd0b2ad0eb6"
+    },
+    {
+      "id": "event-0025",
+      "source": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet#:~:text=The%20icing%20of%20Antarctica%20began,in%20the%20thousands%20of%20ppm.",
+      "previousSummarySha256": "46a401909c067ad87b87f70104f567c2ef435607a6e71dfb13072bdbd22fe263",
+      "summarySha256": "cb47b92c9a7db87befbce93630f383f405d5ce0e4168997c2856b0237bd269e5"
+    },
+    {
+      "id": "event-0026",
+      "source": "https://en.wikipedia.org/wiki/Ape",
+      "previousSummarySha256": "233f102d819308c8c55df6cc6ee389515d0cf8e8d49e088dccbce82125a32e99",
+      "summarySha256": "49c762568a7b66c0ad38b9fd3e350bc0cef653498852a8a95dac6e5ada550080"
+    },
+    {
+      "id": "event-0027",
+      "source": "https://en.wikipedia.org/wiki/Danuvius_guggenmosi",
+      "previousSummarySha256": "7d40cb4ba033a84eb562e61b72f60358bb64851aee19e85aaf23d7a1cc0f03ea",
+      "summarySha256": "7cbedec8f08ee0b30e4728d390d6664404536ee4027fe5774a6088e35331966f"
+    },
+    {
+      "id": "event-0028",
+      "source": "https://en.wikipedia.org/wiki/Hominini",
+      "previousSummarySha256": "c758bddb23c21dd5447415436f2bf36e52d34c866213d8e8743a960ed61fef5e",
+      "summarySha256": "256187c71a5e16c5d567e77da5ad17d80e49b09d4d9a15fe222e03f10a02f21d"
+    },
+    {
+      "id": "event-0029",
+      "source": "https://doi.org/10.1371/journal.pone.0177127",
+      "previousSummarySha256": "951938ac911a0c82f853d9d2749d80a6aee0b5b30fab74ee6571661b444c6206",
+      "summarySha256": "324b2041ed83795b115d7d195a5aece5b3707a9b5e0d5dd8cb328fa00b364f4a"
+    },
+    {
+      "id": "event-0030",
+      "source": "https://en.wikipedia.org/wiki/Hominini",
+      "previousSummarySha256": "4c9936d7262e4af60a4f71183f9414a64a6f485a8dbc399c902e1a10614100c6",
+      "summarySha256": "ac0f7199e4f7fe66984b58cc548cc33e606534d6aad871ab8e72b9f54bdb50db"
+    },
+    {
+      "id": "event-0031",
+      "source": "https://doi.org/10.1126/sciadv.adv0130",
+      "previousSummarySha256": "c2eaa441b1602e44d7b3c2576598d4ee8b2e4d49527d07b5f7c8197fde32973e",
+      "summarySha256": "d5301c2e76c22271f2ad7880f23d3014068ea5bc7d9e19634c701ba45718f755"
+    },
+    {
+      "id": "event-0032",
+      "source": "https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor",
+      "previousSummarySha256": "983bb4902aa498fee5b48584690d7d87e9ca86fb21e53e066e31db3b0722a69b",
+      "summarySha256": "46ff32d862d3dbad5fc042602b8bfe9bc22280d902ac459dd64cc2a366a4f3ac"
+    },
+    {
+      "id": "event-0033",
+      "source": "https://en.wikipedia.org/wiki/Ardipithecus_kadabba",
+      "previousSummarySha256": "8765cfe1d774f5ca7da622a911459b9f055e477a1cca38394c4a96151073b411",
+      "summarySha256": "f8f5941cefa19ae54257e6b6b16ee45ff5be1c984499041a537639f8f7c933b9"
+    },
+    {
+      "id": "event-0034",
+      "source": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
+      "previousSummarySha256": "df647748891d5617559b14d5887ace22eb835b4b2dfb35494052aefde8210051",
+      "summarySha256": "ea935fc1a5a30e3bdb8d68f8171b114dadb8a388032dfa22d530f2f8172a9459"
+    },
+    {
+      "id": "event-0035",
+      "source": "https://en.wikipedia.org/wiki/Australopithecus_anamensis",
+      "previousSummarySha256": "0621b3b9573c7948d14bf24f04f842b3266456067c81f301fef45bca7fe49125",
+      "summarySha256": "c36469b25526de89ffb528af5693d21112f7ecb9cf0dd97f8304b05fa4ffa1af"
+    },
+    {
+      "id": "event-0036",
+      "source": "https://www.nature.com/articles/nature14464",
+      "previousSummarySha256": "a7b0f2ca231f52c0cf8588b9869feb1f638c16061df8244a0285ba1a82158f62",
+      "summarySha256": "419133301d3e6a0c0113e3df4781cd4d70cb38b99da5b253ab09b9fbf5bb32b3"
+    },
+    {
+      "id": "event-0037",
+      "source": "https://en.wikipedia.org/wiki/Lucy_(Australopithecus)",
+      "previousSummarySha256": "6de404bed472575634fe5f6af6ac8286abacd1aa3edaecf3be9d66042d2eb479",
+      "summarySha256": "aa8c9e78ceb6ac7d0d27dedfc27d08d6e51841baac98f6a6db194185f6ed1a5f"
+    },
+    {
+      "id": "event-0038",
+      "source": "https://doi.org/10.1126/science.aaa1343",
+      "previousSummarySha256": "2c0ccfa6010e20187929f5f07686f8c742e95c6b724f153b8391fa23fbd8e559",
+      "summarySha256": "995cafc66a7ad3665e65869aea3533f91a842255a03f7e9b988629829b9632fa"
+    },
+    {
+      "id": "event-0039",
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "previousSummarySha256": "7ea701379eeff68c3250f3bf388a572244489f8223befa3fc719f1c45b78f8a7",
+      "summarySha256": "600f67a611c081281d634d5fab97c25984655bbd9ad3ef7df1c09c5a6bd53aef"
+    },
+    {
+      "id": "event-0040",
+      "source": "https://en.wikipedia.org/wiki/Homo_erectus",
+      "previousSummarySha256": "d986b56b128fd720eda5d4f47193267990625228248a1a0a7eb0f287cf5d3a62",
+      "summarySha256": "67e90604dbd4516f1be5a5fdda1110c0f26a97520b1226c3910f53b02690e67e"
+    },
+    {
+      "id": "event-0041",
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "previousSummarySha256": "054358c4216d749412f4ce6fc3daa007959213653b99c5cdb5bc373b0566f878",
+      "summarySha256": "9766f5dd227167b8707b6e4845562515591b1a0393575993057608337accb54a"
+    },
+    {
+      "id": "event-0042",
+      "source": "https://en.wikipedia.org/wiki/Homo_heidelbergensis",
+      "previousSummarySha256": "126a41827a79fea81d6bed40cdd9630638fe835bd85e3125fc4ecc3d7c2aeff3",
+      "summarySha256": "85c5c38d5fd311defd686179c642eacb53a16bb7b3823e36916b3c63ea0fb506"
+    },
+    {
+      "id": "event-0043",
+      "source": "https://en.wikipedia.org/wiki/Denisovan",
+      "previousSummarySha256": "f9b988b0c78969244c474a423ef93d336e8fa1f925368b1114336f6ad2edab62",
+      "summarySha256": "b0909c504c7245af6e4ca95a228e7223c8ec0ae2c6a6d43c182ddd60aee0f2a8"
+    },
+    {
+      "id": "event-0044",
+      "source": "https://en.wikipedia.org/wiki/Hominid_dispersals_in_Europe",
+      "previousSummarySha256": "bbe10ab6cbc510169ffbca1e80ad0aec15b30c4dd66c8156cb9f17fcf1b84a7d",
+      "summarySha256": "0c3aa2777d193aefa5ec6909cd849cd68213a1ab7da4bb3ffa33d62d312c1b78"
+    },
+    {
+      "id": "event-0045",
+      "source": "https://www.nature.com/articles/nature22335",
+      "previousSummarySha256": "a1e1849eefdb859aa057e14d2d30fa81836bb1b79a7f33a9190a2d69a85229b2",
+      "summarySha256": "8c5c0b0ee4e973f7824b197abd14595b17ea5d7b7a0433faa8cff89e26a19348"
+    },
+    {
+      "id": "event-0046",
+      "source": "https://www.nature.com/articles/s41586-019-1376-z",
+      "previousSummarySha256": "7f46484eed446caa3378ae28cdef07739a526c9d04aac3b27e73dc613f86c313",
+      "summarySha256": "54f800a62ec115bb817a01b970605e14eb33ac301b30023728ab4a2a713ad819"
+    },
+    {
+      "id": "event-0047",
+      "source": "https://www.nature.com/articles/s41586-019-1863-2",
+      "previousSummarySha256": "4fc92c8d1099197b2cdf60f095896552008686fe39898c059adbd30e9c9a37b5",
+      "summarySha256": "711ddfd0fbc53aae4ce03e30f6d61e8139a027ff09e24a47e2c365960ade47d2"
+    },
+    {
+      "id": "event-0048",
+      "source": "https://doi.org/10.1093/molbev/msq234",
+      "previousSummarySha256": "d0dc971555599458c11a54944176fc922d089815719e7fe7126a1f099342febf",
+      "summarySha256": "5e6f46f365c61c1de8aa989577b1ba8ba2cb311f7a12c48733bf71ceab9a1af9"
+    },
+    {
+      "id": "event-0049",
+      "source": "https://en.wikipedia.org/wiki/Toba_catastrophe_theory",
+      "previousSummarySha256": "96814537f4e025661862c8d0a875367eaa6a0cd1ce5565647d20e46d4dd55d9b",
+      "summarySha256": "2fc1d099166a4dd95ecdeece611cce57fa4011cbdce4c31b4b913d5f4aba2bd9"
+    },
+    {
+      "id": "event-0050",
+      "source": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+      "previousSummarySha256": "78545f0e62c808c422e5e27f1b99a1e87037b3efc248050f58c25b6e4b4f46b9",
+      "summarySha256": "601395621693296ee97854fca37af28af42d9a0b7e783073182a2b8fb7cc2ce2"
+    },
+    {
+      "id": "event-0051",
+      "source": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+      "previousSummarySha256": "7dc938075765503cfdf17abbd5c357039e5fede98b1e5258ff04d38b05ce67cc",
+      "summarySha256": "0d7875e35331b95cd071024dab691af716cf0ea6ebfab4cde2037f7145997bfa"
+    },
+    {
+      "id": "event-0052",
+      "source": "https://doi.org/10.1126/science.aap7778",
+      "previousSummarySha256": "7e54422beb47a1919db1df1491c73b785b4f76bf407ec6f7cff951d79cd21839",
+      "summarySha256": "3eac96c9d264494149872121485e61d66c51e109e4a6b11ad7ecd74584bcd306"
+    },
+    {
+      "id": "event-0053",
+      "source": "https://en.wikipedia.org/wiki/Emiran",
+      "previousSummarySha256": "b4d9c95cc8209841a5c69cd32b586172a1489c5d3032a7c4b95de26faf61a6c9",
+      "summarySha256": "8d6b146ad0912b52d712043ec1d2273e836dd156e898e6db2836e4d46e657933"
+    },
+    {
+      "id": "event-0054",
+      "source": "https://www.nature.com/articles/nature22968",
+      "previousSummarySha256": "d7de8dc55e4d6ade18deb22ca9693ad088cbf5e00c06431236bddafbd94480b7",
+      "summarySha256": "021f14100fdb1774638ba6baeaf72fc6d04e4b459ea5221eb744162dca73c9b2"
+    },
+    {
+      "id": "event-0055",
+      "source": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+      "previousSummarySha256": "1377b4523d3fcae058551ab3f5692217230ff24b0713f368480bd02f896495bb",
+      "summarySha256": "049e05d17e64c5f0ea0373a3e378982026a99d23d751250475cb049998e6b424"
+    },
+    {
+      "id": "event-0056",
+      "source": "https://www.nature.com/articles/s41586-024-07541-7",
+      "previousSummarySha256": "fd3b498e68d00cb4740bde6f2d07cf79e01496725812c0b3caa03114f770a09c",
+      "summarySha256": "68873140a374f3226399a5c65111cd431adefd683d0ad66fcb34b02add613d8c"
+    },
+    {
+      "id": "event-0057",
+      "source": "https://www.nature.com/articles/nature13621",
+      "previousSummarySha256": "fc35b8de8fa0a67ce38f486938d1d06271be6b06ce14ae530763c79593c94bc1",
+      "summarySha256": "e2ba682c62afe1db6db43796172febac47d45df26bdf3ff42e01cae1c603a171"
+    },
+    {
+      "id": "event-0058",
+      "source": "https://en.wikipedia.org/wiki/Early_European_modern_humans",
+      "previousSummarySha256": "fb7758b004cbc10ce8c4b3b223c4f8c874195dcba6ed5a6ca4f99413b8227058",
+      "summarySha256": "225c9b835a8ff968e091ac1d6394e1d7b6875cbf399ed5c9c0700c4deb3de070"
+    },
+    {
+      "id": "event-0059",
+      "source": "https://en.wikipedia.org/wiki/Domestication_of_the_dog#:~:text=40%2C000%20and%2030%2C000%20years%20ago",
+      "previousSummarySha256": "5a47dcd17abbd8bdbf6dfd693d7f1603cef5b2057e12e2bfec35a295841cdb85",
+      "summarySha256": "37f2e8b754556308215f03900e77d44be78492c7bed722524aa6d13ab83c510e"
+    },
+    {
+      "id": "event-0060",
+      "source": "https://en.wikipedia.org/wiki/Kostyonki%E2%80%93Borshchyovo#Human_remains",
+      "previousSummarySha256": "b7cb51f874476601730585a9ab9213a825016e23261a82437347267a89cbd690",
+      "summarySha256": "a63ae294c727db0fd6fd6ada44bbb4a698f7b6235d51fe455e57aecefd77ffd5"
+    },
+    {
+      "id": "event-0061",
+      "source": "https://en.wikipedia.org/wiki/Gravettian",
+      "previousSummarySha256": "34070ac5f2e5b58473a7ae4a365ccdb36f1b70af9c1ad3d28a2fe3ca4c6e6e64",
+      "summarySha256": "8dca70fa7cc65d4d7e0a767ee295de064b2af12ffabe0d789052e6a185e3fcfc"
+    },
+    {
+      "id": "event-0062",
+      "source": "https://en.wikipedia.org/wiki/History_of_Japan#:~:text=The%20first%20human%20inhabitants%20of,inventions%20were%20introduced%20from%20Asia.",
+      "previousSummarySha256": "2ad09131ff71a3a92b58a3996a5dcea161ca89ef2c33e8fdbbb95b40fdcdf09f",
+      "summarySha256": "50c71a1c4eb32c9feacbb7f558b807b1dba6df7502700a006b9d133bf61fc329"
+    },
+    {
+      "id": "event-0063",
+      "source": "https://www.nature.com/articles/s41586-024-07612-9",
+      "previousSummarySha256": "5e388c65573209efa3792020e652a8bdddf6d96c8345318ef9bd9982fbe11d94",
+      "summarySha256": "a92313e8d4694243a9311f0f82ad805f3726862a6c522803dc5c1a2f82191adc"
+    },
+    {
+      "id": "event-0064",
+      "source": "https://www.nature.com/articles/s41598-020-61839-w",
+      "previousSummarySha256": "1319238db855c27e201db44054eacea82960c9302dfbdc764424591be4158b59",
+      "summarySha256": "4bf4cbd5c5ed5a80385c1dc852cacdca980e96f7778d9055702a8e76345bd540"
+    },
+    {
+      "id": "event-0065",
+      "source": "https://en.wikipedia.org/wiki/Oruanui_eruption",
+      "previousSummarySha256": "a2ca3dcf53517d763380a22e871d8efee1e09e7b33c34dfcd2275fd8ffc260c0",
+      "summarySha256": "64189f769229894c20517c2dd367e26dd4c2a7f7876a6025c6a20124518e8d65"
+    },
+    {
+      "id": "event-0066",
+      "source": "https://www.usgs.gov/news/national-news-release/study-confirms-age-oldest-fossil-human-footprints-north-america",
+      "previousSummarySha256": "eeb8cec5731effdaaa752dbca29af341397ba821d0aae4b19ec1a128061be1d0",
+      "summarySha256": "b9c357eea486f24c97f96743cdf3155ff86be11dc4557f363e5d8cf497e0a0ec"
+    },
+    {
+      "id": "event-0067",
+      "source": "https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer",
+      "previousSummarySha256": "4261264c74d664f82754675b7b985f4d0a1b86b1d6ebd7da2b6ec62dbcadde4c",
+      "summarySha256": "4ec21759690252ccaf8172591d001716fd07911ea13e3e509c3932274db975ae"
+    },
+    {
+      "id": "event-0068",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer",
+      "previousSummarySha256": "39e373ca39b2d3dca20e6f51b99d996722a4c0d9d5c6f5431e22b0d42062473b",
+      "summarySha256": "9ef8a1a978c5c8e03359a9ac2775afd10d338f5fd501c5d183d8e2cab4d2de12"
+    },
+    {
+      "id": "event-0069",
+      "source": "https://en.wikipedia.org/wiki/Ancient_North_Eurasian",
+      "previousSummarySha256": "a970f46b7dfb98a5cd49f7c59aee053497c35a0aa1757939441fc64d70103ced",
+      "summarySha256": "b38ab01755956a039229a8197f42fe1d3dd6a4f6e860920c3dcc131f57a9f34e"
+    },
+    {
+      "id": "event-0070",
+      "source": "https://en.wikipedia.org/wiki/Mal%27ta%E2%80%93Buret%27_culture",
+      "previousSummarySha256": "5b9ffa9b2d831a7ce42fc0514e02348ce334496cc6023a1b22965903a5b54134",
+      "summarySha256": "10bbc7671411d917eac9cfc51d874ca496ef8d99654054a8ed19df8ca40cc308"
+    },
+    {
+      "id": "event-0071",
+      "source": "https://en.wikipedia.org/wiki/Western_Hunter-Gatherer",
+      "previousSummarySha256": "d2e74dfe9adbe9005ed86317f3505838064ab25819f98d3f94945cbc383472b0",
+      "summarySha256": "fcd0026f7031f12f55448068d98cca78826a0e313449ec1f91f0392ea61727f7"
+    },
+    {
+      "id": "event-0072",
+      "source": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+      "previousSummarySha256": "9042927bcc8af1fd0054e3f201fa28797b9fd99547e388beb6164712a611f997",
+      "summarySha256": "28e8c100cecd401842f088a4be31f38a73286639c56a755076b312313b454692"
+    },
+    {
+      "id": "event-0073",
+      "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+      "previousSummarySha256": "e9e8637ef5027e1d0cf8e0294167e879caffae567a1c1a0fe085fc841f8c20d8",
+      "summarySha256": "27d3d96c310561fb953c9e2aca055004ba35d829df1a57f4d3ddfebd714fcf06"
+    },
+    {
+      "id": "event-0074",
+      "source": "https://en.wikipedia.org/wiki/Scandinavian_Hunter-Gatherer",
+      "previousSummarySha256": "99ddd60d1747f8060684fff00050ce8e390770a4d5a5791b79a2e171219a63e5",
+      "summarySha256": "e82fecdf9fe1e2a338831ba6275645e3372fa24e6802ec3295defa3ae1adf4ed"
+    },
+    {
+      "id": "event-0075",
+      "source": "https://en.wikipedia.org/wiki/Late_Glacial_Interstadial",
+      "previousSummarySha256": "ea3b2a7b6c5fc7f95a31540a27fde6496edd348a7ff6dc658c2cba0b416cb167",
+      "summarySha256": "9cc420e7a01141028368936bfb77e22b370ea1c240ab1b50a567deea791a5696"
+    },
+    {
+      "id": "event-0076",
+      "source": "https://en.wikipedia.org/wiki/African_humid_period",
+      "previousSummarySha256": "a3e7b650645f6f79d36f40f6dc77621383caae78d3ed9b030993e7428c10d8b1",
+      "summarySha256": "402699b41faf69196cd4ae9d747c2c4aba086afaf516f34d3ad3dadb7411b954"
+    },
+    {
+      "id": "event-0077",
+      "source": "https://en.wikipedia.org/wiki/History_of_rice_cultivation",
+      "previousSummarySha256": "38c1d6c75fbba9bb12ea2a5418813755b6e32d9d908551958716f74716d5f4fc",
+      "summarySha256": "477855d99fa0c5ca80ee77a8bd478851a3329676abfab74057923443911f37f6"
+    },
+    {
+      "id": "event-0078",
+      "source": "https://en.wikipedia.org/wiki/Cat",
+      "previousSummarySha256": "38f5b2380de789613df94ae18448591a4691da7c999055dfe8ec926caf053a55",
+      "summarySha256": "c581ca2a67057d830f5ec4f82e4255ca649178657e477ab1fa095eef7af33da7"
+    },
+    {
+      "id": "event-0079",
+      "source": "https://en.wikipedia.org/wiki/Swastika#:~:text=swastika%20is%20from-,10%2C000%20BCE,-%E2%80%93%20part%20of%20%22an",
+      "previousSummarySha256": "fef8ba813331b7118f93753d4cfa685c3c6fde8f963ca082c078fe4eb964db31",
+      "summarySha256": "0bee5c70d357f6e715abc74db5023205e1d47bd09f6bd52198ff2f404f0fdd10"
+    },
+    {
+      "id": "event-0080",
+      "source": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "previousSummarySha256": "7e7ddcd0a97d963aa0fe45c15a48effc8ba79a85cfe4c6823cc99d11862b95ac",
+      "summarySha256": "9e78ce00ccbc46e22e3d80b20d86de79bbef3468569ae6a20023f463728fa18f"
+    },
+    {
+      "id": "event-0081",
+      "source": "https://en.wikipedia.org/wiki/Founder_crops",
+      "previousSummarySha256": "10aa0edaf9b94f651ae9bc46e0ba70fcf6e34130ef78cf5f039c8a07d93434a8",
+      "summarySha256": "c740aab2c990c42aca567aa888d589de5408fd6c27c3a7fcc24a0b01b10ec624"
+    },
+    {
+      "id": "event-0082",
+      "source": "https://en.wikipedia.org/wiki/Economy_of_South_America",
+      "previousSummarySha256": "92c9b72ab3d250c4fe2b73c91c74ce68ea6b14b709f38f094d045cf09f9daebc",
+      "summarySha256": "78e230d35e8341b2139e630a35f3f8113a3ef2ff73d37ee0a70673693f23f177"
+    },
+    {
+      "id": "event-0083",
+      "source": "https://en.wikipedia.org/wiki/Sheep",
+      "previousSummarySha256": "26cacda2d24b1685fb06f0b8f23c1681bedb7611848849b8b0a5f1e9fcd976f3",
+      "summarySha256": "f087a01328c7ea7eb17494124ce7131e7f92fe205c98840bda554a485384cea6"
+    },
+    {
+      "id": "event-0084",
+      "source": "https://en.wikipedia.org/wiki/Cattle",
+      "previousSummarySha256": "a158ab8af434103791b46c00a5108b59329f9a6672d0a69901bbebd10614c878",
+      "summarySha256": "1ac57ce511e40d985a3bb73c5af3cec2e0cbf19f1e6a56f31131f6a92a76118a"
+    },
+    {
+      "id": "event-0085",
+      "source": "https://en.wikipedia.org/wiki/Pig",
+      "previousSummarySha256": "882094da64e0bd73ead93c568c106eac274833d8b3aeb1cbe33644dab9383fa3",
+      "summarySha256": "37f2b624bd7a8760d07d2a43bff427be569f192a4be23cf2897e63cebea24c3f"
+    },
+    {
+      "id": "event-0086",
+      "source": "https://en.wikipedia.org/wiki/Llama",
+      "previousSummarySha256": "92df5fb646db2817dc928d4346db6498654a2f6ed114c1ff79d707062399a0db",
+      "summarySha256": "19c476e8d35301ad7e09fc709ab99bec8ebee96df9b699e1013233a991755d03"
+    },
+    {
+      "id": "event-0087",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization",
+      "previousSummarySha256": "3ca80915d50f9ddfe13d78f4f8dc5c33c96a9407e6798aace20bc49dcb8fbb8c",
+      "summarySha256": "41bbb5a3ac86ac816f48577d0d2c6258609f3e802c407db3dae02f05c31c4f8e"
+    },
+    {
+      "id": "event-0088",
+      "source": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+      "previousSummarySha256": "680c316174440819ed6e6a65a692aa7ff0e35d1cee9439223c8ca9cd3f87bd9d",
+      "summarySha256": "d756a38a6be9f72237097618c0abef34308c2cecae75652ba15e094ba178bac1"
+    },
+    {
+      "id": "event-0089",
+      "source": "https://en.wikipedia.org/wiki/Beekeeping",
+      "previousSummarySha256": "2c3d54cda59845536b1f6a7adffc49e1497b2f8d9228d137a0c04ce0e4faee42",
+      "summarySha256": "e4c35372d80c2e082ca2fdf1155168cfc08e1c9366bd761bd2b6ebf7a3634b9c"
+    },
+    {
+      "id": "event-0090",
+      "source": "https://en.wikipedia.org/wiki/Prehistoric_Egypt",
+      "previousSummarySha256": "569d7fc1d894a7962420eaf4abac3acae11f3dae2faa8c81525f70b726c97004",
+      "summarySha256": "0d90486158a83f90ffe772d892dde8a5b4ba5e904d4e19d2e85e8caac36a0b99"
+    },
+    {
+      "id": "event-0091",
+      "source": "https://en.wikipedia.org/wiki/Proto-Indo-Europeans",
+      "previousSummarySha256": "450137a7a965935391503d8eb5c3f65e80e050cfc44b5d14b425bf5a1f13a329",
+      "summarySha256": "af60a4f5580837ecdd012eb4c36ce80eeb2c9cc2ab0c251a89b8295541be4af3"
+    },
+    {
+      "id": "event-0092",
+      "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
+      "previousSummarySha256": "36b97170d81e36239eee316078d26b7c7c1aad70af081eb522119ee8f6231d5f",
+      "summarySha256": "51a2c56cde66be1ce5bdb1220b01fbcf1049fac8b62c2de66778d29f4ffec6c3"
+    },
+    {
+      "id": "event-0093",
+      "source": "https://en.wikipedia.org/wiki/Wagon",
+      "previousSummarySha256": "d5f72953718dfa504c25945a435338447ed4c28677445ff21e95dd6e99cf750b",
+      "summarySha256": "8581005db7a0c528c3949f9f5565185a3b2ccaa0eaf56c203d49ebbefc5f914f"
+    },
+    {
+      "id": "event-0094",
+      "source": "https://en.wikipedia.org/wiki/Early_European_Farmers",
+      "previousSummarySha256": "351de2011ce53497ec9edaefae4ca2d60c142e68c66f6d81682ff86a9e5ba2c7",
+      "summarySha256": "2179115dfa72b01d3699b8a2f24a3be6db1d1aa62510cc5f934893ddfcb5b1c4"
+    },
+    {
+      "id": "event-0095",
+      "source": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+      "previousSummarySha256": "217cf3de5f016609b0cce4da9a88fabc281e39dadb7c3e99a03d8dd5e95109cb",
+      "summarySha256": "994edfb7d2fe1064e1691752f30251b9f295e7ea903cbef67f51c7bf3fb60cdb"
+    },
+    {
+      "id": "event-0096",
+      "source": "https://en.wikipedia.org/wiki/Sumer",
+      "previousSummarySha256": "4cafb838cacc1b56793bae848170596893d4c264c7a00d756d1d2589cf501e6c",
+      "summarySha256": "88d7c76069098304876947e3b03f5315a87cc638f7302b10579b09f49c62ef72"
+    },
+    {
+      "id": "event-0097",
+      "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
+      "previousSummarySha256": "7e9548ca77d8d2f80ec711e8ca3714c720a3ccdd8119fa3368bb84e83c86216b",
+      "summarySha256": "71305bbc20d8ce9f525e0ab1bd7e778797c743024b277217d420656989e24839"
+    },
+    {
+      "id": "event-0098",
+      "source": "https://en.wikipedia.org/wiki/Comb_Ceramic_culture",
+      "previousSummarySha256": "787a8ea9aee1f44356b460d73245b65674bf0245762cbf5e18d1bfb8ebb3db89",
+      "summarySha256": "9194d2b0700792b5d38b7588311bd71d6a4c4fb40857df57ed5732fb6b392227"
+    },
+    {
+      "id": "event-0099",
+      "source": "https://www.nature.com/articles/s41586-021-04018-9",
+      "previousSummarySha256": "0cc46dadfc646fbd61d3f3ebf16e573979299c6e92f52cb91194e3cf38050906",
+      "summarySha256": "60f24aca66f21e873e86cccef746416454b1cc54b90699b482765c2cc4b39188"
+    },
+    {
+      "id": "event-0100",
+      "source": "https://en.wikipedia.org/wiki/Western_Steppe_Herders",
+      "previousSummarySha256": "d15f7887bf50bef17a2b32703285f41af345ba9eb90e1e04d5d18b36dfd90354",
+      "summarySha256": "7773ae7ed6b3ded4449d320651c21bc559f0039f1a918818dd3e56905967066f"
+    },
+    {
+      "id": "event-0101",
+      "source": "https://en.wikipedia.org/wiki/Wagon",
+      "previousSummarySha256": "bf8b1b2bb5f33d21d713620a2ace94f46266e67c5162df04f16554f40a844c06",
+      "summarySha256": "c86848e8cbcc73227a011e1020aa5ff3effe3d135ae2123fe8ca288ea7368772"
+    },
+    {
+      "id": "event-0102",
+      "source": "https://en.wikipedia.org/wiki/Writing#Mesopotamia",
+      "previousSummarySha256": "c5bd452630b66e17f3feaa14946aba1c01adbc85450bde8d7da3964e0481bd64",
+      "summarySha256": "0fea7585911567f046d1d7abd42191d9249397ecdc6dc6afb31f5b631ce8b515"
+    },
+    {
+      "id": "event-0103",
+      "source": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+      "previousSummarySha256": "54ce3a3c789c651a37a27602a35cd2fee216919a7bc79a92f16b81808dbf8613",
+      "summarySha256": "54ea839b10220c083ea9280678fbfbf6d5c3947d98ba71c4fcbf42f3a0602b25"
+    },
+    {
+      "id": "event-0104",
+      "source": "https://en.wikipedia.org/wiki/Yamnaya_culture",
+      "previousSummarySha256": "fe2eda669253f11d4d919fd74ea43ea093693ae9079d0343f2760d59d36b2612",
+      "summarySha256": "6a60caa9a4d6e00c53a53859e8f58a56bb944bd1c6fabf3f4949481f274c9d78"
+    },
+    {
+      "id": "event-0105",
+      "source": "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel",
+      "previousSummarySha256": "0d3e953b7d0175407f837f6ea3be0a7bdee9deec68b5c7e9e2e7bd971dfd59f0",
+      "summarySha256": "6236e1b91a91432b90fbbdc2a7108bb2be85aabddc5096754c2792c7661c0fae"
+    },
+    {
+      "id": "event-0106",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+      "previousSummarySha256": "d1cd78a2abbb5bf3f190c6516000e0292774f5d41c700607d0e01acd795229ae",
+      "summarySha256": "a6eff00c050820b72665292fb8f056abda814ca9cc0c37dedcce034ab8b90ae3"
+    },
+    {
+      "id": "event-0107",
+      "source": "https://en.wikipedia.org/wiki/Lute#First_lutes:~:text=back%20to%20c.-,3100%20BC,-.%5B9%5D",
+      "previousSummarySha256": "e1f7c00aa224a96a55efdff8f87b34f2978fadfb6ea3a25be6bb4db16a46273c",
+      "summarySha256": "c6be24719d22d8cb4b06475c8c74640f9311f9a188f948885f10fe598758018b"
+    },
+    {
+      "id": "event-0108",
+      "source": "https://en.wikipedia.org/wiki/Camel",
+      "previousSummarySha256": "a5452b531ee482ddbda4ac39e9de6f117f4ff5801262efb4df8cb56602751b1f",
+      "summarySha256": "b2903110d8c2db44ae41653fbb8991dd6664584bae8faba056841f224f681cc3"
+    },
+    {
+      "id": "event-0109",
+      "source": "https://en.wikipedia.org/wiki/Corded_Ware_culture",
+      "previousSummarySha256": "7ec8bf74a4d7fd999777b41cad83f74577ce1da38b8126c882a78158d7937b58",
+      "summarySha256": "d66c1dab3e699f5855ce8e2a1d370c9b7207a146bb7a5c29f563446a3e541b83"
+    },
+    {
+      "id": "event-0110",
+      "source": "https://en.wikipedia.org/wiki/Stonehenge",
+      "previousSummarySha256": "c2e1e65c07efd8cb07fcf9c42f04377ac75303e5576156ff2302f16e60a0c98b",
+      "summarySha256": "89c036dd050804f825152095c9e7e499f19c8f95513fe6770890b1592f70c3ee"
+    },
+    {
+      "id": "event-0111",
+      "source": "https://en.wikipedia.org/wiki/Bell_Beaker_culture",
+      "previousSummarySha256": "98b8f93a68f72eb4e511ba8e6ce5b1ddf220bce1c2dbb0df686b3f44156b063c",
+      "summarySha256": "0ee234af8a605ede72a8a210e41a2a727aa92f89e323e71060a5aeea833e5ef2"
+    },
+    {
+      "id": "event-0112",
+      "source": "https://en.wikipedia.org/wiki/Minoan_civilization",
+      "previousSummarySha256": "c38eea29ea2970ba4b29d1db1c0ada9361bca77802dbc76b3b7510b073715bc8",
+      "summarySha256": "aa29811f5e8213aacef9d0b276d231f8c7cfd5492522ce7a98ecf774eace7083"
+    },
+    {
+      "id": "event-0113",
+      "source": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+      "previousSummarySha256": "c31f5252ce12f5141024d7f36b0136a7435fd556f8758484ba288b74f745f017",
+      "summarySha256": "1b5df8b25ff5dc6ed7b68afb1db9bbc56bd620c91dea1105d8023d38588ece89"
+    },
+    {
+      "id": "event-0114",
+      "source": "https://en.wikipedia.org/wiki/Abacus",
+      "previousSummarySha256": "a9f645dc3626daeb08e70cf6c296a67a83087fad0ab2d7dd70e37362050874ab",
+      "summarySha256": "e64a3e38d9d2e063b1c0565b9f0caf733a633be343f04a3ba0ff8e93aac358bd"
+    },
+    {
+      "id": "event-0115",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "previousSummarySha256": "8f60e5f58473314fb18e9fe732b6aace539d619973dc38cde6afe78720e13713",
+      "summarySha256": "4b6104fffdd545b0837c7aeeb52fc642d23dcbaf5ae32ca71afbdf5be8468dc9"
+    },
+    {
+      "id": "event-0116",
+      "source": "https://en.wikipedia.org/wiki/Phoenicia",
+      "previousSummarySha256": "89496387aff7afd4f0d3537bd35e0e19e45caebc6381a56f7b12ade34383cbca",
+      "summarySha256": "8df845bec43296cd72b4286e6676608a6d8cbe6497346a2000c6bf909e10eb8e"
+    },
+    {
+      "id": "event-0117",
+      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+      "previousSummarySha256": "14b9b571746459a36c0422cfe06a7b034b97f65364a418121b08dc97eccaaa84",
+      "summarySha256": "826cf84d41f99e48555f04bed470b25278d01eb8cc5eec7d253929194c120e2b"
+    },
+    {
+      "id": "event-0118",
+      "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+      "previousSummarySha256": "fb91e4a06a82a5ec931e3efa45649cae0196fe9d7ab9a4f035906efdcee91280",
+      "summarySha256": "7437b275999921f635ac4c0c2bd3fd2a50ea1aa3d78c7297a45d62b6801ad367"
+    },
+    {
+      "id": "event-0119",
+      "source": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "previousSummarySha256": "e944ab8da04cca7388a707c137c91d6df7aa2b870c5be951b098760c5d84e26a",
+      "summarySha256": "49815dfe531bf84d3ec42087c5168df58b843fd95ee553fdca19835aeabc079b"
+    },
+    {
+      "id": "event-0120",
+      "source": "https://en.wikipedia.org/wiki/Assyria",
+      "previousSummarySha256": "4d745493cab4f38aa5bf89f5d2cf957d133c6968693619ac4cfd9b99e857cde5",
+      "summarySha256": "9b70f747edbf10410c8ce910c5636d8bd734e27ce6ee97cf2f214ce024e487b4"
+    },
+    {
+      "id": "event-0121",
+      "source": "https://en.wikipedia.org/wiki/Indo-Iranians",
+      "previousSummarySha256": "424b1e4effdcfa97f7ddfd3def6e3c285574dde5a16716cfa7422784847bd04d",
+      "summarySha256": "ba545b851f59f8f3929162d051c6a4e59829129ad4a22fcd7b4da569a5dbebd1"
+    },
+    {
+      "id": "event-0122",
+      "source": "https://en.wikipedia.org/wiki/Preclassic_Maya",
+      "previousSummarySha256": "bd9fcc210719eadee1b5d87d05f1147fef9ab5dc0b9a9e600442f506e2f33786",
+      "summarySha256": "ce4c98b53b9894482e70ce3f9319f4d3bd4324fdc5dfbbcca58b189d04d1bc66"
+    },
+    {
+      "id": "event-0123",
+      "source": "https://en.wikipedia.org/wiki/Babylonia",
+      "previousSummarySha256": "9d0eab2b04211fcb38cbf306cc264740adfe299641cc8bbe6fd44869f61d00be",
+      "summarySha256": "d06ec6dc430b68e02b1a7bb8d4276a9276fe8186d9ca50f4e74f7987ad9d51cf"
+    },
+    {
+      "id": "event-0124",
+      "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+      "previousSummarySha256": "e68f0f3bbb75444177802faea5440fff2d673a4476f159d7337e6f9f4db4ed95",
+      "summarySha256": "1f00c711d0b555fe12b8f813cb06412445237fccca0f9fe7d30f1236fd13bad0",
+      "previousName": "Code of Hamurabi",
+      "name": "Code of Hammurabi"
+    },
+    {
+      "id": "event-0125",
+      "source": "https://doi.org/10.1016/j.cell.2024.05.033",
+      "previousSummarySha256": "0fe17423cc23e935761044b92c136d39371dd3cba6b51b9ac49f3a7b0585b607",
+      "summarySha256": "72900e2443ff28928b646c4e9dcbe17a39f5e4335f5f7b4950872ccd58eeb34c"
+    },
+    {
+      "id": "event-0126",
+      "source": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
+      "previousSummarySha256": "37f691eef4443c18cc1548b4e6b44b15791d9d4e0a14e09d68e9f09180f5d2b7",
+      "summarySha256": "3066df5e79ee19cc3c5c53c855099d78352e4c3f38714be3c0d08c5b714eeffa"
+    },
+    {
+      "id": "event-0127",
+      "source": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+      "previousSummarySha256": "8ee796ea5e46e1be85e6eb99b61ad6b7490657b3d09d05100d32605ea384645e",
+      "summarySha256": "76b0a930a605e2b91edf35e5a95e91195b47bb508207e97b4a29cabc41ba19c6"
+    },
+    {
+      "id": "event-0128",
+      "source": "https://en.wikipedia.org/wiki/Musical_notation#:~:text=)%2C%20in%20about-,1400%20BCE,-.%20The%20tablet%20represents",
+      "previousSummarySha256": "113f2e8adf5ac90832415515e9065ce2d299323dacb107bb060a8a4e7dd76ea5",
+      "summarySha256": "b7ed95bbcc421a1e997fe606937771bf7ca26ec377f04eb2cd92ca83b0f50886"
+    },
+    {
+      "id": "event-0129",
+      "source": "https://en.wikipedia.org/wiki/Troy",
+      "previousSummarySha256": "d4412823f8843cb1314ee0ecddf2ca72636bb21680533ca44818525e351a7fdc",
+      "summarySha256": "776147ef95f81bd7030e9766b7fbf9d7d377813fb076a2910c4e24a522eb22e9"
+    },
+    {
+      "id": "event-0130",
+      "source": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+      "previousSummarySha256": "3c7d6498fee048d9b881c46fb143d1ed7fe55a91fba98e1ce37f883207144dc1",
+      "summarySha256": "df9f05995c5e0a0a348059c53b70bc80aba260ca4a2977759d13a28257bbef82"
+    },
+    {
+      "id": "event-0131",
+      "source": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+      "previousSummarySha256": "5ba8815ca246d3fa358c562b45c6743e170e7e7dd4bbac2bca4291307b784444",
+      "summarySha256": "e60468d2d529ee073bc77fc9b8c33089509bb011fd1cd01f2cacd21c8a1980f4"
+    },
+    {
+      "id": "event-0132",
+      "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "previousSummarySha256": "a25441bb2b61c383e5d46bdd7c420b0c6277f89a14950a9f426b5aa18e08061a",
+      "summarySha256": "be2a0954fe365eb87609691dc17798f7e5b2a74993cbb540e972b989acecf845"
+    },
+    {
+      "id": "event-0133",
+      "source": "https://en.wikipedia.org/wiki/Greek_Dark_Ages",
+      "previousSummarySha256": "f0587a0a3c346ca4268bed2f608aa3b6a0a3f3f747a95bf6681bf4cfbf5e3906",
+      "summarySha256": "9e372e8b2a058818be1a244a24ab78de02d694440df2532aeb19a2f220a59b88"
+    },
+    {
+      "id": "event-0134",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+      "previousSummarySha256": "801eeabfd9cf1923e4fc2c2375695af779337c2ac5f074ed3ab4ee7370f850c6",
+      "summarySha256": "ff0f39610c6b44e4a0cb9747ad4f706b8d3aa60d6ba4113cc68b92c121b130de"
+    },
+    {
+      "id": "event-0135",
+      "source": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+      "previousSummarySha256": "fc12d42168d77b7f620899dd67eca2d8cca6addfac397b36e283489717a3f827",
+      "summarySha256": "8fc564d7e42ea5a0cd6292a1fc8878892aee6a49e1168376e1f6460843219541"
+    },
+    {
+      "id": "event-0136",
+      "source": "https://en.wikipedia.org/wiki/Homer",
+      "previousSummarySha256": "dcf77aa65b8c4c4f8459442707452a3cfe669f33b42e6f1fe0d84513bdd2cc66",
+      "summarySha256": "55f0f1353395141e6b94da43f2312b63e45d9c1fd8fbb8ff223fa9fbafda19b6"
+    },
+    {
+      "id": "event-0137",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+      "previousSummarySha256": "1d979e3e9745e6d5ac3c0f8029ed52cb2ce5e5faec4ef0e5c39fa83013b1a0ad",
+      "summarySha256": "9975863d31c34691bac80369af42c19cbaeb662e49a45d4c5ea1e884f89dbc92"
+    },
+    {
+      "id": "event-0138",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Carthage#:~:text=c.-,814%20BC%E2%80%93146%20BC,-Supposed%20military%20standard ",
+      "previousSummarySha256": "c815dcc5b3a6a27798a9dfd00dcbedcfb8949358eb77e25aa9df891ee1586c5a",
+      "summarySha256": "200bd9be3b0e1a421d010aaf4b405511ce0a137002eab5f6c8628ed76716fb80"
+    },
+    {
+      "id": "event-0139",
+      "source": "https://en.wikipedia.org/wiki/Archaic_Greece",
+      "previousSummarySha256": "a8f3342b5a8118be63eccc5ca57f55b2314e338cd6b7c278676c4890e3a813bc",
+      "summarySha256": "361f0a74679829716cd1d242a0bcd901acf145f0971075adfd4e11e0531a6890"
+    },
+    {
+      "id": "event-0140",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+      "previousSummarySha256": "d159e2dee0992294164a98cdd253d2327d2d0e4e5f68cd2fb3613a5a64ea290a",
+      "summarySha256": "3f32a22c1d1030a0128aa16ac9b4aca4a8326db6facc7dc076ba84aacb79fecc"
+    },
+    {
+      "id": "event-0141",
+      "source": "https://en.wikipedia.org/wiki/Roman_Kingdom",
+      "previousSummarySha256": "1a4f35d72bac673ffcc9bd394a5d7a694ec9ec51550b938d981cc1850604ee41",
+      "summarySha256": "a36628fc1a04d8bbc0c8f72752eb407f7fd4d051e96322528641befa34449030"
+    },
+    {
+      "id": "event-0142",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Carthage#:~:text=c.-,650%20BC,-%E2%80%A2%C2%A0Destroyed%20by ",
+      "previousSummarySha256": "0eaa12048dd6e719cf9d066f4e69648089179e6a3786ae8c7e9e9b52020122b0",
+      "summarySha256": "a15463848fd8635be5cc7a4daebf58d4a8ef0412839514f294a0e792595df479"
+    },
+    {
+      "id": "event-0143",
+      "source": "https://en.wikipedia.org/wiki/Zoroastrianism",
+      "previousSummarySha256": "8aae6055b6d252fcc32baa6c9c39269ac356c975a6f6aa2d45c65cc0e4419a88",
+      "summarySha256": "e667b317e84566023e3137fc8685c00fe28b20d22a5f3ebcc0c6a419981c8ee3"
+    },
+    {
+      "id": "event-0144",
+      "source": "https://en.wikipedia.org/wiki/Yahwism",
+      "previousSummarySha256": "9e9a4c379114ea804e8b1aba0b947a71d6ab198a9041ee8ac13c67b12b0f579c",
+      "summarySha256": "b037896e7cc78b254da5fbcdf2f280f77aeab15ab6609056767da32a81d5fa41"
+    },
+    {
+      "id": "event-0145",
+      "source": "https://en.wikipedia.org/wiki/Pythagoras",
+      "previousSummarySha256": "f95c78c547007730233641cd4688c1b7d0ec4ede72cddf9b7d15b783ea61531a",
+      "summarySha256": "fb64854daed2fd3715ad664167449cee1c6fb99cac2a2fefaf22c05bfccd958a"
+    },
+    {
+      "id": "event-0146",
+      "source": "https://en.wikipedia.org/wiki/The_Buddha",
+      "previousSummarySha256": "0270d58eb2e8dbad2d06e8c11b72e6185ba7652ed99a1a528fada8a5313c2f1b",
+      "summarySha256": "d6a8d6cccf8a118088a0949682fef191fdf6b6f4bd3571b525f134205e6420f9"
+    },
+    {
+      "id": "event-0147",
+      "source": "https://en.wikipedia.org/wiki/Sun_Tzu",
+      "previousSummarySha256": "16e03d8214e73f8787cdd5b2db46a4b8af1897c6a2cc4b68490faa2064d61966",
+      "summarySha256": "70e6e531148aaadd5b8016e0994ef2976a8ef0dcc2eb39a4ce9b1f281417ad08"
+    },
+    {
+      "id": "event-0148",
+      "source": "https://en.wikipedia.org/wiki/Confucius",
+      "previousSummarySha256": "27cb3f28b44bbd8d5247e0a6909b85b7f15ca4d816b220d4cc4e6155364d9cc3",
+      "summarySha256": "f414a37a976a95caf426f123653f538b8642bb044ece6c5950eff6edea5b19fb"
+    },
+    {
+      "id": "event-0149",
+      "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "previousSummarySha256": "887fb4a5f0512afa5b12f325c4f025cbe21b094708f5301f016d5a60b1829185",
+      "summarySha256": "f759e492577d302a24bf0a80ef38a9fe1c450a53488f5df8cdc88b116980dc0b"
+    },
+    {
+      "id": "event-0150",
+      "source": "https://en.wikipedia.org/wiki/Roman_Republic",
+      "previousSummarySha256": "6e74d5c4041f57fdf21a9154e62be8aafd19d7e8bd26b4575b5a27aa67047954",
+      "summarySha256": "18d8f76e1c80d4ad3526359c77f0ebdf0b298d3cf286966f83065075206fcda5"
+    },
+    {
+      "id": "event-0151",
+      "source": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+      "previousSummarySha256": "18569cb910439b1b8b3249a357000334f53f5eba3ecb3813da26b22798d33f57",
+      "summarySha256": "898dfe63fab066861532fb7311e2bcdb37d7eea456c07436e54cd3c1ceb6ae6d"
+    },
+    {
+      "id": "event-0152",
+      "source": "https://en.wikipedia.org/wiki/Classical_Greece",
+      "previousSummarySha256": "c3e39d68c80eaf671b478f01de05d0d423a8d6cc1b7d17b535f8b16fb8eae47d",
+      "summarySha256": "84b0609fbb33001726291ecdb1afd3bb217f2a08f03ca8291068a07f06ec6189"
+    },
+    {
+      "id": "event-0153",
+      "source": "https://en.wikipedia.org/wiki/Socrates",
+      "previousSummarySha256": "27f17e14ab0a778c0dd47cc68be41f34a579370da188f82df8a35405b69d909e",
+      "summarySha256": "3d397bdc67f6ffc1a6fb1632426130e592f0b010bb8e9426e044bbc36099717d"
+    },
+    {
+      "id": "event-0154",
+      "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
+      "previousSummarySha256": "0f773ff05b679b4e9a4c72e28fd3a1f9ee4a6c36b9425770ef34b345ce12f1a9",
+      "summarySha256": "887f447599a4c5168733af59c1be83a7af05198b7401b557b49844190e368a4c"
+    },
+    {
+      "id": "event-0155",
+      "source": "https://en.wikipedia.org/wiki/Plato",
+      "previousSummarySha256": "329cabd0febafa80f9b3d0087dc147e3dcfa795cf33fd8deff55b3822fa3d934",
+      "summarySha256": "e2d508998946eae61fe8d5c4ee7b300076e540f2466afaa3a5da0e18ad8dd814"
+    },
+    {
+      "id": "event-0156",
+      "source": "https://en.wikipedia.org/wiki/Aristotle",
+      "previousSummarySha256": "80fa52bdee95abe0baa9020e43fc5c6cdff9938765ffd73b56065e413b798084",
+      "summarySha256": "a02b08dc88813a71d0bbea8dd52fd44d2e58ccac903441883a9ded3ef20e8b3f"
+    },
+    {
+      "id": "event-0157",
+      "source": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "previousSummarySha256": "189741ad4fac3e647e06f8e32be3991dc37378ed9584be0749e086cb164e0862",
+      "summarySha256": "6ee1e781fd6bcd63f93f02066c47985b5145280e4d97353d9965888ceddfce49"
+    },
+    {
+      "id": "event-0158",
+      "source": "https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great",
+      "previousSummarySha256": "065f47aa5a1909eb2aed69dae145147151f8e2090c20b0b87215f17652faa7ad",
+      "summarySha256": "40f46039f269e861b0e848d30106540d0019f710a6bf22310e8c9954cc73a798"
+    },
+    {
+      "id": "event-0159",
+      "source": "https://en.wikipedia.org/wiki/Hellenistic_Greece",
+      "previousSummarySha256": "fd330529c7ae7ecdba1ee1f11c9df38bf76a5b3c8186f92e368115078336efab",
+      "summarySha256": "9c78b7bfe8fdba92dbdc0f37b396d18a3d722b67ff8c32d26481d2fce90e4bce"
+    },
+    {
+      "id": "event-0160",
+      "source": "https://en.wikipedia.org/wiki/Punic_Wars",
+      "previousSummarySha256": "c7edae5c4a5b5c1873e5850ad43e232d6d59102c4167625b520ffeeed4b9d860",
+      "summarySha256": "9b684fc7ca1261c50c6d85725700397bc15ea68f3884fe3ffc4cb7191c1bbb6a"
+    },
+    {
+      "id": "event-0161",
+      "source": "https://en.wikipedia.org/wiki/Parthian_Empire",
+      "previousSummarySha256": "072c69bdd94afde93423786cf555f944f5b365018dd18d8e4c0f7ad008445aa1",
+      "summarySha256": "20491455ad77c9af614f282b5785f2bd2a3033370e9616b6e4d51a76b843acf2"
+    },
+    {
+      "id": "event-0162",
+      "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
+      "previousSummarySha256": "deb649c2386d6bd0d1b1a3a4ae6fb188c2e32abe4dc1aae48ddd6da785a994b6",
+      "summarySha256": "a73a2cdde412148e2130f0994d78b5a3456c1c0a2ff42bbe0b429f88cca86190"
+    },
+    {
+      "id": "event-0163",
+      "source": "https://whc.unesco.org/en/list/438",
+      "previousSummarySha256": "18017ca6df9a8283c938c8ffc6ea23ebcccd61b480eda36f476bade9a140c0c9",
+      "summarySha256": "35ff86fd9e75c2ddd9eceb5a7738644212fce65c08064e82bb81f0fdbdf1ca31"
+    },
+    {
+      "id": "event-0164",
+      "source": "https://en.wikipedia.org/wiki/Han_dynasty",
+      "previousSummarySha256": "7cbbf1bcbfadbfd88350ed56bb910486b0fdfea6190afbc6512fb9098f5ecf97",
+      "summarySha256": "db95bdc0480bd97754190417b40ddacb10a0caf877d914ff2f98a6e5be960121"
+    },
+    {
+      "id": "event-0165",
+      "source": "https://en.wikipedia.org/wiki/Silk_Road",
+      "previousSummarySha256": "f5fe37b5df8aa024b77e6c61fbdba901e626e38fb475e6d7bb08193d1f460f0e",
+      "summarySha256": "7b76fe3e978164df60211352cdd3279ef986614cf29ee4e5ec8a851ed73bc6bd"
+    },
+    {
+      "id": "event-0166",
+      "source": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "previousSummarySha256": "7dac367015084b93cc4904fb7c5ef0373c2c704bcb1269bcbe9d8430e6e35114",
+      "summarySha256": "06660fb19f1ba632356963658d8062c0d6489685b330923c59a71e29f2d9ca97"
+    },
+    {
+      "id": "event-0167",
+      "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+      "previousSummarySha256": "e5e47a64c1d958b71aedac3e7bf265f689089e7ca63d4e0f120f0e6248032494",
+      "summarySha256": "ad691310bcf8d858a8ea6570b7e01027c1072dfca3b777bb5f7b6c0bc67b4256"
+    },
+    {
+      "id": "event-0168",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra",
+      "previousSummarySha256": "301bbbc268fc3b5ef26c96abbdf39ed086d3b3f43bcd817c4463edb6032bd016",
+      "summarySha256": "1d0d21f80db92989df13ad5c86d3544edfb765d81aef3e2ecd3f45046bd4cb8e"
+    },
+    {
+      "id": "event-0169",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(63_BC)",
+      "previousSummarySha256": "dff918285d6bd3c3bf52baa4e6b72a874469b64181fdd19efdca925bf28b682f",
+      "summarySha256": "a7207bcf59e3aefdc6f76320fb090aae29853afe4206eed7b1f93bcb0edcf330"
+    },
+    {
+      "id": "event-0170",
+      "source": "https://en.wikipedia.org/wiki/First_Triumvirate",
+      "previousSummarySha256": "323f6abb651f80e50c3dce6fc6143628fccd157b69fde98ab7b299c179c1e04e",
+      "summarySha256": "3fe987d640fcb23a4e1a0c6db4be4c6a673381299f84afb75276b4df996c2435"
+    },
+    {
+      "id": "event-0171",
+      "source": "https://en.wikipedia.org/wiki/Gallic_Wars",
+      "previousSummarySha256": "8a55766f0cd814ce800fed8bca2b3932e6217d65f18d10c9d83581340b0532d8",
+      "summarySha256": "c6820b0550f99f47666175478419b8519bf1dfe3578ab7e66d45c6f0faecb9e2"
+    },
+    {
+      "id": "event-0172",
+      "source": "https://en.wikipedia.org/wiki/Roman_conquest_of_Britain",
+      "previousSummarySha256": "4de0dca2150a7aa7df3e2ee647f3fc579fdc2d8dda98480e0660e6c233493789",
+      "summarySha256": "2912ae190671ee29e29b8b67231d7728d47f3b209d111916dc6f3f4216710b74"
+    },
+    {
+      "id": "event-0173",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra",
+      "previousSummarySha256": "0193be98fb4b887f4b1550c98ef297dcdebd12177214366126fa3e0660db7d90",
+      "summarySha256": "84819db696e80165b5c64df1d86a19be9db8d3f4bddd448cf5a2883b766b0b5e"
+    },
+    {
+      "id": "event-0174",
+      "source": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+      "previousSummarySha256": "c910a51abfd24329c00f5a2727ce67ff7daa291e889e9ede0fe39c2ea146b186",
+      "summarySha256": "f1dfc678c205ed234a551d302db80eeb31655abc4880f697534fb0879d450c00"
+    },
+    {
+      "id": "event-0175",
+      "source": "https://en.wikipedia.org/wiki/Caesar%27s_civil_war",
+      "previousSummarySha256": "b9fdee21b5415b9c922d4503de097f4d50a71e6d2c23c53a222bba1763b99e2f",
+      "summarySha256": "e4af3955562fbdb9579cb79f757800615d4af86c354d0652acf9a7b6e163b760"
+    },
+    {
+      "id": "event-0176",
+      "source": "https://en.wikipedia.org/wiki/Julian_calendar",
+      "previousSummarySha256": "e6de054ab692371c8bf94baf87afcb46e775e776ebee2722765c2ebfe407d0b1",
+      "summarySha256": "bd7121e838648d786097359678bca83ca10ff1a083147258bb20c97c80182322"
+    },
+    {
+      "id": "event-0177",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+      "previousSummarySha256": "470ce37fd1542c13b29ce1868792ddf45cff7eb4446a85959bd87b97667357f7",
+      "summarySha256": "43f69840a782eee2dde52651477ea965fd86fc1831106858715a616de1feb459"
+    },
+    {
+      "id": "event-0178",
+      "source": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "previousSummarySha256": "a764903bed160b859e3ac3df6eeb107f12c2b6a852c21a3e7e6290fa6964cd24",
+      "summarySha256": "702394bae7b8dd3462a1048ed29f8726e84f6d63a82755cc0f3817f517c08709"
+    },
+    {
+      "id": "event-0179",
+      "source": "https://en.wikipedia.org/wiki/Christianity",
+      "previousSummarySha256": "a360f615e90aa738b62e72025d49b6718a412861a9036795ca17a7f66c9757a6",
+      "summarySha256": "57a62cd108716542a593dfbfbdc407c16c0f66fe73d1626968d1a0fa2d9a43e3"
+    },
+    {
+      "id": "event-0180",
+      "source": "https://en.wikipedia.org/wiki/Nero",
+      "previousSummarySha256": "6df451c0a7e9401725a0cd00b0e689f1f3ed9a1da203fa3b38b50e4adcafff15",
+      "summarySha256": "944cb6e782a20ecb0798c5d7c7800edc7c0040bb53a00a4fdebc5cea75b6f1fc"
+    },
+    {
+      "id": "event-0181",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Catholic_Church",
+      "previousSummarySha256": "7695d2167df96637623d58ba3cf9172bfd087adc794a94f26c2d8ae6a5504344",
+      "summarySha256": "cfa51e3d8e6f22d0bbc030ea633effc18740654bfdafad154e83f7d2d2df422b"
+    },
+    {
+      "id": "event-0182",
+      "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+      "previousSummarySha256": "bdabb6fff1d8212c5bfe1bdea191faa04b8106054c2949bc7bf09e04af4312cf",
+      "summarySha256": "f2b5b10b8e16850282fd0f7b5ffffb45e719faea7b779a97a991bf7a17891415"
+    },
+    {
+      "id": "event-0183",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)",
+      "previousSummarySha256": "6641945a02baa38f8d580e3a9e7c809b36738aa5a7739ceb972d4f5588e19a3c",
+      "summarySha256": "a432c9cb4e7ccee16109b22bc76e913ab5051f34ae9d13c2426eb3ec22186a31"
+    },
+    {
+      "id": "event-0184",
+      "source": "https://en.wikipedia.org/wiki/Colosseum",
+      "previousSummarySha256": "610b4487e5b3c9ba6c065027a3779d3450f1e79f554499fb832ac87a60bf7934",
+      "summarySha256": "2b2a269051718068e7c67a209bfecaf7dfdfa413c12e0e7a53a8d72c2bd43e92"
+    },
+    {
+      "id": "event-0185",
+      "source": "https://en.wikipedia.org/wiki/Antonine_Plague",
+      "previousSummarySha256": "02e351abd0b0314a304284270200e6c0b2e3f19a7959195788d542be5b65f662",
+      "summarySha256": "c2365de58781206ace2447bec930bf5759fe41c012c46cf715d2d4471eaec95f"
+    },
+    {
+      "id": "event-0186",
+      "source": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+      "previousSummarySha256": "4892196647674207282ff45a12a7c3ca984be6b436cb7ae7669586d1d2b283ef",
+      "summarySha256": "1ecb7c559a581e67e07184822febe96145332ba203b7c717585921fd6d6eaca9"
+    },
+    {
+      "id": "event-0187",
+      "source": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
+      "previousSummarySha256": "0cb570e0de26d40eca76cc1ea795ba8b84a5f607cd28b0b87b970cabdef5ccdf",
+      "summarySha256": "b16d04dfecbb9ca6e63a637ee1c15cc78e0a2655bb49ab6562a7e4694bcd0d0a"
+    },
+    {
+      "id": "event-0188",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization#Classic_period_(c._250%E2%80%93950_AD):~:text=Preclassic.%5B27%5D-,Classic%20period%20(c.%20250%E2%80%93950%20AD),-%5Bedit%5D",
+      "previousSummarySha256": "3ca80915d50f9ddfe13d78f4f8dc5c33c96a9407e6798aace20bc49dcb8fbb8c",
+      "summarySha256": "c0807e899d2a7af7682e185b00fab288a9bd6e96bcfd2509dd1349b584485a10"
+    },
+    {
+      "id": "event-0189",
+      "source": "https://en.wikipedia.org/wiki/Tetrarchy",
+      "previousSummarySha256": "e3ce2462f04b2b8e9aa13ee33f3dd4419b6a93e8ea5072b9827653e5de80a6e7",
+      "summarySha256": "b0d969e2cbcfb135ab5609322eb1624cde3ca5d7d62f06e8edc6fa178eb896f4"
+    },
+    {
+      "id": "event-0190",
+      "source": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+      "previousSummarySha256": "bd94e44cfb15f03f9576e686e7e652334413a06e871f9d703fb51820e689624f",
+      "summarySha256": "478e9df2bcffb98351c7d9b5c5c1ef9bac0397dd7681d09dfd5cbf029ec87770"
+    },
+    {
+      "id": "event-0191",
+      "source": "https://en.wikipedia.org/wiki/Migration_Period",
+      "previousSummarySha256": "bc133ed386cb4da7b92e7a1359adc6c664fb1b81126b5f7fa080c40a376b2a10",
+      "summarySha256": "3959f912c8134e82ac3ea9bd4bf551cb11e76abe7fa3b9749641090fb2af770c"
+    },
+    {
+      "id": "event-0192",
+      "source": "https://en.wikipedia.org/wiki/Theodosius_I",
+      "previousSummarySha256": "b074656b76d283607d44d6bb96eafa58679d0b8de9e4a491bac5699fb33ba002",
+      "summarySha256": "feeea5586b0327deea2c319f731217378154667ea5576f4a4e9dfe207ca39ed4"
+    },
+    {
+      "id": "event-0193",
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+      "previousSummarySha256": "9b078e8522ae620e80d8845b2aea8ecd48cc18bb76c964340640ab26595bb1fc",
+      "summarySha256": "7a8ece435bebaefb15df9b8b1e7407523c703fe5fc7b5edfcde61c757769e9b9"
+    },
+    {
+      "id": "event-0194",
+      "source": "https://en.wikipedia.org/wiki/Attila",
+      "previousSummarySha256": "2cbbd42f6158b325f620cdd4bf314a23933e053bfd650c5873b1079db81c838c",
+      "summarySha256": "41edc6dcd9d0c9b989d600ccc72b0ec6f02f02efa06640d837eef24dfa334ab1"
+    },
+    {
+      "id": "event-0195",
+      "source": "https://en.wikipedia.org/wiki/Sack_of_Rome_(455)",
+      "previousSummarySha256": "0e621b55dea90665991266abd2e0fd46c5bdaa09813aaa727f9b88b780ed8c71",
+      "summarySha256": "245b922382a935d4621458b84cc69961fb53a8e668993891e54779d2d9015edf"
+    },
+    {
+      "id": "event-0196",
+      "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
+      "previousSummarySha256": "fd4405bc913223d18482f58ae98a9f92576767679a18a6082ea377a6f147d299",
+      "summarySha256": "d7ef1e390099b0e38073bf3a4bf1223f75f651229d0739ba84dbbccf4a8b25ff"
+    },
+    {
+      "id": "event-0197",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "previousSummarySha256": "7efa0594df2e2b24fd1eb03d5725fd0d2c803e400613b68f79fd6c3467da3328",
+      "summarySha256": "844f4767b5b8e4540280d527a0b59de83f340ef6d583a8d442ee456eb4e4cbd6"
+    },
+    {
+      "id": "event-0198",
+      "source": "https://en.wikipedia.org/wiki/Julius_Nepos",
+      "previousSummarySha256": "cd9eddd27c65e619c7efa7862b16c0e67446352c08cece350d89caa7bbc0cc9a",
+      "summarySha256": "071a07b3c8dbdbf26e8ee156e153308ee1fe0178b5b02082fcb6780d61c91f93"
+    },
+    {
+      "id": "event-0199",
+      "source": "https://en.wikipedia.org/wiki/Francia",
+      "previousSummarySha256": "b70d18e23ea5e41f6412ce9b65710dc466c10e6a7e7571f0635b421402fa8ad1",
+      "summarySha256": "eb7c1729179f8f3ec9aa0bcfa54aeb212a69ef1060a0a52a761d027138597df2"
+    },
+    {
+      "id": "event-0200",
+      "source": "https://en.wikipedia.org/wiki/Medieval_music",
+      "previousSummarySha256": "4dc5bb662e28d403cfc7a04790fcf2a73b0a5635b17a3c987714b201a0dc9064",
+      "summarySha256": "244e43b80624a3a55d31e1354fa19b7929619268bec8a9ef7842653bf7f2827a"
+    },
+    {
+      "id": "event-0201",
+      "source": "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
+      "previousSummarySha256": "55f133c268298dde3ea1e78746a08602aa5c79dfde412fef97bc665852b8e64b",
+      "summarySha256": "b944c53fa6a510feaa5c9c9f95d6796815ae012b04dfc236715da7f1691ec3d8"
+    },
+    {
+      "id": "event-0202",
+      "source": "https://en.wikipedia.org/wiki/First_plague_pandemic",
+      "previousSummarySha256": "c1cf4bf8c971b07e8d14fbde681bdb124f417d5087d9d92791035863d8e1784a",
+      "summarySha256": "6790103c7b4823936269a6dd61f673a0a530c2024b6bb2d9859fe5b1644107b3"
+    },
+    {
+      "id": "event-0203",
+      "source": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+      "previousSummarySha256": "6bdaf719d247981f00eb6bb20a1d1afc17c6bf2f4f254e4882d0ad1278ad4243",
+      "summarySha256": "edf693a73e2b849fe39a140d810ad8b6f2634c4bd2b8d02b7f5d2ead7e988e6d"
+    },
+    {
+      "id": "event-0204",
+      "source": "https://en.wikipedia.org/wiki/Western_Roman_Empire",
+      "previousSummarySha256": "9f96b63bf3faf88ae4362c76925e45c87a63eadf9a6be6305141386771a3e073",
+      "summarySha256": "63cda53e7ac4a9d66beb9c4544ea910973ce031971d540332606261d2a45dd64"
+    },
+    {
+      "id": "event-0205",
+      "source": "https://en.wikipedia.org/wiki/Muhammad",
+      "previousSummarySha256": "8b9e3cd3542a7f3ae157263b9e63320762c0cf003514565e0b1e5f941aaa8ab3",
+      "summarySha256": "0acfcb9e93c5a5ce5d8a484da79da14932b3f45135284c8f9cb8ad3ade3b0e65"
+    },
+    {
+      "id": "event-0206",
+      "source": "https://en.wikipedia.org/wiki/History_of_Islam",
+      "previousSummarySha256": "9fbbbd0c4bb58a586028a4e0a133ca12b47ffca9f8339a774078cc0e07981064",
+      "summarySha256": "0afcc2d032d3d9e3a37968293738551a74d355982a3701c4d95eb75155bc42fa"
+    },
+    {
+      "id": "event-0207",
+      "source": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+      "previousSummarySha256": "77c6b7d92e5f21f469a7b555f006c81e25db536f610303c6443f8d3853a08583",
+      "summarySha256": "6f752840c98f8b3a8cea1ca361973d76239cad28ac25ab04e2b6991dc01e79b7"
+    },
+    {
+      "id": "event-0208",
+      "source": "https://en.wikipedia.org/wiki/Origin_of_Shia_Islam",
+      "previousSummarySha256": "b3ea1b0514880a22adc1c0b99a630c7a8d5346057313bd180c021e4112b237bb",
+      "summarySha256": "d8cf91ab0c575dbcd93d837f94128b3c149df9e83642c808f24d7aaf0b8aa9e6"
+    },
+    {
+      "id": "event-0209",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+      "previousSummarySha256": "7bd09d282367fcbc08db39e6622eeee2618bdacac55772ade8cf01be1fdfe593",
+      "summarySha256": "23e3633760bc5742530fb29851d4999efbdfd45b90ebea4a104a0ad30d0f17f5"
+    },
+    {
+      "id": "event-0210",
+      "source": "https://en.wikipedia.org/wiki/Charles_Martel",
+      "previousSummarySha256": "ad5f6b8e42bf6ff177b955df6a35b2f2c151808d37b0785702a710f267924d0f",
+      "summarySha256": "3b68f3fda58282a89ea6eb1d8fe72b50ef0d15faaa3a676aac82b9cf17f1cd91"
+    },
+    {
+      "id": "event-0211",
+      "source": "https://www.britannica.com/place/Madagascar/History#:~:text=reached%20Madagascar%20about-,700%20CE,-.%20Although%20the%20huge",
+      "previousSummarySha256": "5bdd0e0858a455306e944c4894ed7e9bc77473b1e325314315959ef1114a7e2f",
+      "summarySha256": "b06de664b2c06c90392043f8436533f2086c50d9e5a3b2fce968c1881401fc1a"
+    },
+    {
+      "id": "event-0212",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+      "previousSummarySha256": "48cb37688ebc06dfc3a01efd2f0eff43b6edd3e0830ac3ccc0ded96471477f58",
+      "summarySha256": "b530e612ae92861039d92ed72230d7d6aa2bfac043988e97eca9032379f82e3b"
+    },
+    {
+      "id": "event-0213",
+      "source": "https://en.wikipedia.org/wiki/Al-Andalus",
+      "previousSummarySha256": "50738abcb86489d0659053123dfede53ff4da1f8b9d9ccd7e567c31accbfdab1",
+      "summarySha256": "3342cd4a477fc355494525e4f2cb40cc3300b888f8e7b521546b827eda62f8b1"
+    },
+    {
+      "id": "event-0214",
+      "source": "https://en.wikipedia.org/wiki/Reconquista",
+      "previousSummarySha256": "2b1de62bc2836bfc33806c1469564458d90a8d3d3a1a7e407cffab7935dd80cf",
+      "summarySha256": "13e102e16d5bd7f133ce0bb968b76b824d279b851179a39d3c0d30e57f4b8b35"
+    },
+    {
+      "id": "event-0215",
+      "source": "https://en.wikipedia.org/wiki/Charlemagne",
+      "previousSummarySha256": "15f5cf7f576db684cafa076210008ba3468ad08999e8d06ff22c5dc662e3e6f5",
+      "summarySha256": "a5e0c8140b1d2f41422c29b1737eba746c28627f927b31c79044873323d0dac3"
+    },
+    {
+      "id": "event-0216",
+      "source": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+      "previousSummarySha256": "e6f1b9cefce6d1e523e7309dc7294ce93b0e03dd83a0677ddc84e90b1ebb4a33",
+      "summarySha256": "76dedea54227fb88fc67e2baf6225e32114e2ac8c24fd7e79f225dff44551a10"
+    },
+    {
+      "id": "event-0217",
+      "source": "https://en.wikipedia.org/wiki/Khmer_Empire",
+      "previousSummarySha256": "ca5f0c1471fe36c0214efa55cab9a4920891995949de4e1342fa86f87e2d873b",
+      "summarySha256": "7b3ea1713bb7941aa2bcd2c992aeda1172b6d76d425957b5e030a45a43b9498d"
+    },
+    {
+      "id": "event-0218",
+      "source": "https://en.wikipedia.org/wiki/Cyril_and_Methodius",
+      "previousSummarySha256": "177aee8d12378da125c3b61e86d4cea7c5b6acc5408d342e7d836b4aeea6b556",
+      "summarySha256": "ad61e75d680010d399092eb6b843307e5ecbdbbc5cc89efce20095c84a109e09"
+    },
+    {
+      "id": "event-0219",
+      "source": "https://en.wikipedia.org/wiki/Kievan_Rus%27",
+      "previousSummarySha256": "e42be1fd0cb898a65772fc3ed42463771dd5f515aa2c9b667c9bc7295dc0cd59",
+      "summarySha256": "59078e7c627cd6a4550c8bd32743847eda5639cefe10cfa5ed4d94e0ae8f5dd3"
+    },
+    {
+      "id": "event-0220",
+      "source": "https://en.wikipedia.org/wiki/Oleg_of_Novgorod",
+      "previousSummarySha256": "f2db87084809717763dd7a705ddc8ed3127738158c2d45e063683c7cc3a72c51",
+      "summarySha256": "5e34cce50bdd1322bcabbb27994b0b10cc722e4abab831484f3c62129c38f80a"
+    },
+    {
+      "id": "event-0221",
+      "source": "https://en.wikipedia.org/wiki/Maya_civilization#:~:text=Pet%C3%A9n.%5B76%5D-,Postclassic%20period%20(c.%20950%E2%80%931539%20AD),-See%20also%3A",
+      "previousSummarySha256": "fd6312b72166eb204ee7a1d25ae9d3caa3c7b78cdff5fdf0caa50b5f95d33496",
+      "summarySha256": "9ef376325342d3a66c187d443a8952545fe74e5cd1626d56152a53b71e65b2ed"
+    },
+    {
+      "id": "event-0222",
+      "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Dou%C3%A9-la-Fontaine",
+      "previousSummarySha256": "9b7bdb560ce9983efcb2b5d8da48ec17f65d24fd17402305ac24df8e5cec7a68",
+      "summarySha256": "df2892c6735c1f353948d33632fd00b210505c0a71d0b68b547909b737795989"
+    },
+    {
+      "id": "event-0223",
+      "source": "https://en.wikipedia.org/wiki/Song_dynasty",
+      "previousSummarySha256": "23559ed7530adb04a7d4b900d2a8dd0da77c2460d692565040392b550e1746d8",
+      "summarySha256": "8f42afe044af317594b97b5dbeb92ec1e21d3699bb68463918e7e1721f48f5c0"
+    },
+    {
+      "id": "event-0224",
+      "source": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+      "previousSummarySha256": "cee51cb32a668de99dda37c8eefe12b5691a98ca91cfd0f3d2da19893004360c",
+      "summarySha256": "1a4394bc3733ac180b811e4471270de94be74b03777850b612b6be9cba8de381"
+    },
+    {
+      "id": "event-0225",
+      "source": "https://en.wikipedia.org/wiki/History_of_Greenland#Norse_Settlement:~:text=settlement.%5B23%5D-,Norse%20failure,-%5Bedit%5D",
+      "previousSummarySha256": "e4e07bba427e5897deb788d9e4ce4955b4396928918f34181ee8bbba9d334bdd",
+      "summarySha256": "a6b860d227aec5fb78afff9f3752b53715024804c6547f6b939135489704118b"
+    },
+    {
+      "id": "event-0226",
+      "source": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows#:~:text=carbon%20date%20of-,1014,-%2C%5B3%5D",
+      "previousSummarySha256": "cc9f88c722cb8c41fe1508cb75b09a9b9b05065cceddeea2b970cf7d1bf42fee",
+      "summarySha256": "c89c03bfb4a953f0d1956c30c3199af3c9bcb361c7425c81d9d040fee2be026d"
+    },
+    {
+      "id": "event-0227",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church",
+      "previousSummarySha256": "42bedb5113adac7b7b34ddf8cec438817db1f672c955942d7ced458d06dcbf7c",
+      "summarySha256": "a40f843991109da7f4db6bebf09380756856b818de4b7370680999f3acc9ff82"
+    },
+    {
+      "id": "event-0228",
+      "source": "https://en.wikipedia.org/wiki/Crusades#:~:text=sea%22.%5B16%5D-,Crusades%20and%20the%20Holy%20Land%2C%201095%E2%80%931291,-See%20also%3A",
+      "previousSummarySha256": "5b1a2c6ab624f122858d7e91c04e26449e12895a3fbed4742df7384804bfb82d",
+      "summarySha256": "8dd04ae32b120a933b42f3e2b5b8bd86e14183e654b70287fca38a24f9808f14"
+    },
+    {
+      "id": "event-0229",
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "previousSummarySha256": "77c52bf413da83dc8ca5139087e59ab7a07dfe18cf66203f51e0a133a37f7180",
+      "summarySha256": "95bdd010165541214b2c22f6d5ca89e89840cb23ffa4e6f9140b54292ba74721"
+    },
+    {
+      "id": "event-0230",
+      "source": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "previousSummarySha256": "809db700a70438aff0b214cb153faa95b3f3d2c8e1f05d9be7415e4c8d0aede2",
+      "summarySha256": "05c9cd146501aaf5fbeb8b8f1c15d3915494b8890cb0cd9b3109de3526243609"
+    },
+    {
+      "id": "event-0231",
+      "source": "https://en.wikipedia.org/wiki/Golden_Horde",
+      "previousSummarySha256": "175054b8cc08a8f0cd1dc7eb60f3cac338bf3cf145689e70844623a0999a2204",
+      "summarySha256": "fdde39b32fae03a3f1b601a3f286e768d0960079236c42bdd9bd9290f59db1d7"
+    },
+    {
+      "id": "event-0232",
+      "source": "https://en.wikipedia.org/wiki/Musical_notation#:~:text=Ars%20cantus%20mensurabilis",
+      "previousSummarySha256": "bacd0da455d9e911d89e68c0858fff6ec2df22609a3adab965510a808e29dcb2",
+      "summarySha256": "c3d306d277b797a39ea60375b476dc337451e8405839c558d94c952bd787df31"
+    },
+    {
+      "id": "event-0233",
+      "source": "https://en.wikipedia.org/wiki/Sumer_is_icumen_in",
+      "previousSummarySha256": "c154db756107efcfc274c7267c497dcb9e9ee60146907aaa0c08269f1e2822e8",
+      "summarySha256": "19f28e6de6d5900eaa8d76898db71b5e981d8c4887538bb69aec165f3d369217"
+    },
+    {
+      "id": "event-0234",
+      "source": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
+      "previousSummarySha256": "5c7b1b8a117554081b01bffdac194a1046ab76e2a176cfa3e2b84bb6c973a421",
+      "summarySha256": "1318ecefee316e17ab2356afb9b7788d19e126b5aea18eb7150b694fbd433342"
+    },
+    {
+      "id": "event-0235",
+      "source": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+      "previousSummarySha256": "4fee538ded8fe853d694beb7bfc244fad04b2fdb8c272cb1100c2af87baa3611",
+      "summarySha256": "2bd525801096890efd7fa07b6f66d28569fab09f2cd792d20fa1dbffd81e48ab"
+    },
+    {
+      "id": "event-0236",
+      "source": "https://en.wikipedia.org/wiki/Renaissance",
+      "previousSummarySha256": "4eff96bb08b1c1ff76da04daf094f8bf6517ab80226374b93ea60bf25c06d654",
+      "summarySha256": "531dbdb861e2e547e3392a50908ae28884e887e7159a1b04a9519e8347d5f3c7"
+    },
+    {
+      "id": "event-0237",
+      "source": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
+      "previousSummarySha256": "47da36267e442569746adc1de542c5e20d22bcee75caf54d54b4a9079da58234",
+      "summarySha256": "3809c13addfe7bb0034297d3062e0d736d3cf2b872f5f0746299b56bdd28024f"
+    },
+    {
+      "id": "event-0238",
+      "source": "https://en.wikipedia.org/wiki/Black_Death",
+      "previousSummarySha256": "1f7441e01c218befdb8a7dd608ed9f01fecc0fd514b560a46111aac056cca581",
+      "summarySha256": "4347061590fb3c4ff1d77a6778a638a5b4f2a93a716df588dc39afb590a2b376"
+    },
+    {
+      "id": "event-0239",
+      "source": "https://en.wikipedia.org/wiki/History_of_New_Zealand#:~:text=between%201320%20and-,1350,-CE%2C%20when%20the",
+      "previousSummarySha256": "9923bb4fdd3af299e163c1198b7935106d750e155ef7b6e0e80aa5001c442fec",
+      "summarySha256": "fa4b4205241b1ef7d939200afb3f6c34b5d2ed1529c51af0055924090a71680d"
+    },
+    {
+      "id": "event-0240",
+      "source": "https://en.wikipedia.org/wiki/Ming_dynasty",
+      "previousSummarySha256": "824ad57f55bff8bebaac42abd986eb6582bb0791a98903c5c709403ab1141fd9",
+      "summarySha256": "52b57808125d1892daec43e2bf5df69a93d4295a80a00675eb074b5fe05a5793"
+    },
+    {
+      "id": "event-0241",
+      "source": "https://en.wikipedia.org/wiki/Renaissance_music",
+      "previousSummarySha256": "fb29fe32a24a13717e20ad187d2e486e098d7d6b8084c71fa9dc47df1bc20f68",
+      "summarySha256": "578da1749b14825644aeece971ef1f0df4b41b36f90eef23b1e4837b20c1a4aa"
+    },
+    {
+      "id": "event-0242",
+      "source": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+      "previousSummarySha256": "656f11f7cec82270d5909093cf84be51d46f83a5c1e94a7c528af94bc27154c5",
+      "summarySha256": "adb1749b5fd1bd9da80072fa38761ffa99d0b82a4862a9cd00789706e1c65c50"
+    },
+    {
+      "id": "event-0243",
+      "source": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+      "previousSummarySha256": "34270dc77505f023dcd4a58063ed8d618d9f58627a73a22c81684c5d3b954a25",
+      "summarySha256": "489fd00c3b82588b3052988eb0781ec6c616d8afb30ac6dab4eb35ea8b231c18"
+    },
+    {
+      "id": "event-0244",
+      "source": "https://en.wikipedia.org/wiki/Inca_Empire",
+      "previousSummarySha256": "ff6cf91f8b684cc5f8d6d81e90fefd93c97a593e5744ca73c3b31a0b79711325",
+      "summarySha256": "1458282977364dfa7dc55b6cf9f7149588838e667ec1019a0b4c47b21d204e11"
+    },
+    {
+      "id": "event-0245",
+      "source": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+      "previousSummarySha256": "2be74234a1dd065559c13b09d292ca266512fd04f8a188f0c18cab1a5f3bda45",
+      "summarySha256": "4a9c0e309f4b616e1a942d22f0d98a47dbd5770c1311319c1e0964268edc1e80"
+    },
+    {
+      "id": "event-0246",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "previousSummarySha256": "e9fcf17560b5ab2f909d317d4a443dfb7542c690741f1201cd6dbe0369654b04",
+      "summarySha256": "cba05a7d7df8252fd07d8abfd739a0e0bed48ecb4f4662c14d196fb50a7b4ae1"
+    },
+    {
+      "id": "event-0247",
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "previousSummarySha256": "37ab582afc0353d076a5b46fdb49aee0b0d47b7ffa422531ff626c94e6d45b01",
+      "summarySha256": "699a44f6e3c3cf67f49796b3a8371f150738d34aec7ec2c287ee21c9a1cff780"
+    },
+    {
+      "id": "event-0248",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+      "previousSummarySha256": "e87be92621e72e9a120eabacb2825dd2e3bc8f160151dc1f9496c233031fcd4e",
+      "summarySha256": "2b925660d3182d407763995ee94d81c8871be3b26f83f7865a3b8a1ec29ecc26"
+    },
+    {
+      "id": "event-0249",
+      "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+      "previousSummarySha256": "8d51dcf8d7b07d3ba9f8105f1e6ea2c2b3feb15adcc5f2d74fc67eb945be7f16",
+      "summarySha256": "4b7273f4e74420151566d0dd1a3c6e5a33b22dc941f065e6fb0349a456fb627a"
+    },
+    {
+      "id": "event-0250",
+      "source": "https://en.wikipedia.org/wiki/Sengoku_period",
+      "previousSummarySha256": "246bc91c5a7ab8ae6e8d96ef35103bf687d1456a312ccec3815ba3bdee0cc9e5",
+      "summarySha256": "ec4e68d9753f127e3fb34ddf1a97babe44302744651e4003cb01be359ea89eaa"
+    },
+    {
+      "id": "event-0251",
+      "source": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "previousSummarySha256": "992899998244ec79c1d31a5c5c0929206995b7e713b14d66f120e4a2f67e0189",
+      "summarySha256": "c205df191c1089a0272c0a7fa600c73867406b32258661e610939e6c1f098e1b"
+    },
+    {
+      "id": "event-0252",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "previousSummarySha256": "4a65d8efa4c20a50ff85d6c43cc1f7f8017a20a4f9d1e62e4578de44d247ec9c",
+      "summarySha256": "4f8809b1f73f6aa45b14eec22befba092cc9ce34c626c2a3afadc3faadaaee3d"
+    },
+    {
+      "id": "event-0253",
+      "source": "https://en.wikipedia.org/wiki/Michelangelo",
+      "previousSummarySha256": "b29c674e61409772b9869b2f042d2e81dd10dc10fbed1ff6c74363d904f61fe7",
+      "summarySha256": "91292388ecae87a9419e67b2c73c68af9dcc0726b8040e7f090ab74cdead30b7"
+    },
+    {
+      "id": "event-0254",
+      "source": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "previousSummarySha256": "6a06fee5eba45a3a4866994b7f203804fcf9fec62752ba5086052240f0068991",
+      "summarySha256": "156f0fe71201397c17913e2fb13228dab38234322bc9cdd998fadb2cfe041c1c"
+    },
+    {
+      "id": "event-0255",
+      "source": "https://en.wikipedia.org/wiki/European_colonization_of_the_Americas",
+      "previousSummarySha256": "84989de9cca4f856fe42f3b7fa5a8a0d7cf59693ecbd7c938fdb5163552160a3",
+      "summarySha256": "645e0b905472424c74714213a0cbc2de47adc245e201d3dd6a302ac3343857e3"
+    },
+    {
+      "id": "event-0256",
+      "source": "https://en.wikipedia.org/wiki/John_Calvin",
+      "previousSummarySha256": "b815316dc9e40b96e4533c94cfd64b653d073be25c3b259c9d99db0eacf260c7",
+      "summarySha256": "7c6fe35038f47177576e9caadc0391e39fc330f10d9b47eb45188b583dc26a83"
+    },
+    {
+      "id": "event-0257",
+      "source": "https://en.wikipedia.org/wiki/Reformation",
+      "previousSummarySha256": "bcba04981e05a4a3fbfa51806023f308650799e2db81e399023895930d2fadc0",
+      "summarySha256": "7e941e72f22ef2ba1d02e3ac77be3be5df403246acf4625cbb0ec09aef822c9a"
+    },
+    {
+      "id": "event-0258",
+      "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "previousSummarySha256": "ea684279e6cd9fc1df2750756656e4f5e2e4f37697d3a01f33a3e4f54e5ecd84",
+      "summarySha256": "f9acd8bbc306fb6f1a5fdceb0a8b3bfc22e2a9dc197af9483543b64d022a6c86"
+    },
+    {
+      "id": "event-0259",
+      "source": "https://en.wikipedia.org/wiki/Protestantism",
+      "previousSummarySha256": "e2dca8b41f1ad8dc7857a679fdc1871f1fdb6249e3e10cb1bd5b996b969a2fe6",
+      "summarySha256": "9e491abf8c74701a7d847528f083fc0a405b26a8bbe7edac2c7706e863d85777"
+    },
+    {
+      "id": "event-0260",
+      "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+      "previousSummarySha256": "069d72887c0a09999519ca86e93bb25b16d9fd0490279f84b2a6e8e11da984ab",
+      "summarySha256": "c7c1b7ab0de1f99e0ea898cbb42d4dfd9deabe825a4ff53d7db8055c6ac13db7"
+    },
+    {
+      "id": "event-0261",
+      "source": "https://en.wikipedia.org/wiki/History_of_Calvinism",
+      "previousSummarySha256": "98bda525a43c9fd5faacf4a29cabf1ddafedc2f59fa0f734238e99f8e2936fe2",
+      "summarySha256": "5c7a865001a44799f289657e66d072bc68fcd6a06571e462f8f8b5851b3044f2"
+    },
+    {
+      "id": "event-0262",
+      "source": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent",
+      "previousSummarySha256": "51d939fe32e1e16ed946574bf23468351a8a678ad1613fa62d8d2eb3f67088e9",
+      "summarySha256": "c20d9c1eaad3721f10e53db38073825f170f5b3389f14e3b4b6078db15914c5c"
+    },
+    {
+      "id": "event-0263",
+      "source": "https://en.wikipedia.org/wiki/Prussia",
+      "previousSummarySha256": "69fcd58ad009086f456a2b1aa9a71d8d2382193227cdce5f634ad217a8a20663",
+      "summarySha256": "45e9870e84a908e9953b725271c026dd405a0e8b4c334ccaa3ea3cb6d9727ac9"
+    },
+    {
+      "id": "event-0264",
+      "source": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "previousSummarySha256": "0b075294fb3058e7b8d016f854b51a0300ee27c9f67a7422914079921c56adf6",
+      "summarySha256": "0931bc96db4876a089e7fe03ae4038676ecbc7bc47126c6b84bcf5f2ccb240fb"
+    },
+    {
+      "id": "event-0265",
+      "source": "https://en.wikipedia.org/wiki/Mughal_Empire",
+      "previousSummarySha256": "8d1d08ea5b41a48c8dabeb8f45e6a81483465095d4bbbb706d660e786cdd9b46",
+      "summarySha256": "02b86a9e585e29a80b9b2d6a81c3f8fd58a56cede9c8c09eb82749f42dc78dd5"
+    },
+    {
+      "id": "event-0266",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+      "previousSummarySha256": "4e27a2d9bad58bae8b208c7b093c3c0404ce04b7c15423b5a3da71f4d8cb36c2",
+      "summarySha256": "c300b94b0d6ca36bd8fbf4d5af77754713b5fae3d8c324d228e96c8cba4a2c48"
+    },
+    {
+      "id": "event-0267",
+      "source": "https://en.wikipedia.org/wiki/Anglicanism",
+      "previousSummarySha256": "027f00bfaf065f9fbb8535eeda671f2bf47647a6fbb663e94efd079935373673",
+      "summarySha256": "e2e0f78a3ccb21d96bd87dfa040e7910ebefab5fd7d82d39d470802c73b80628"
+    },
+    {
+      "id": "event-0268",
+      "source": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+      "previousSummarySha256": "77ddc7339ea44a191b19abd678f68f0e503a0d491ae29b74148b1bef135c9941",
+      "summarySha256": "060ce1d8ce78a08a2d9ae1a7faf9558f6c689752230cbf86c94169c7a11afb3b"
+    },
+    {
+      "id": "event-0269",
+      "source": "https://en.wikipedia.org/wiki/Puritans#History",
+      "previousSummarySha256": "f42042c0b995ff8e0fd866f30d0e1919220f643a29db0c83968199d3c698dbba",
+      "summarySha256": "cb55a06c1baace0d33729115fefc36319e675058e8e2cc7ce95f4e230c6405f3"
+    },
+    {
+      "id": "event-0270",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "previousSummarySha256": "1c276957daa468ee9ded0137454968e8760b14aa3836ea8bdeebaeefdbf857bb",
+      "summarySha256": "5bae3a1a61ae0b9ef2cac02ed760d835129788710bc996b10cfa7ff2bad9e256"
+    },
+    {
+      "id": "event-0271",
+      "source": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+      "previousSummarySha256": "567812cade4e011e1dd7a82139b2b71c7fe17ec6d4749cdedb0385481ae1daad",
+      "summarySha256": "d76e03e7c695dfd851831b648790b0614ab2bc53b47a8aff34b0f2b26473926f"
+    },
+    {
+      "id": "event-0272",
+      "source": "https://en.wikipedia.org/wiki/Baroque_music",
+      "previousSummarySha256": "256f5b747fb852afeae7a0a3f935b69e5462a50a276c2e9663976ea88d7bf9fa",
+      "summarySha256": "725127c5a4a931ff245db748add032324b0ee9b010bb3840bb413538e5c641bd"
+    },
+    {
+      "id": "event-0273",
+      "source": "https://en.wikipedia.org/wiki/Common_practice_period",
+      "previousSummarySha256": "b52348e4d672c60fbf87dcd964a2d80e386da4c85d0564227630adcf3662ea01",
+      "summarySha256": "d9755c60f7d6190c89f5dffac89cf01044a6b2f49a2f835892750f63fa034531"
+    },
+    {
+      "id": "event-0274",
+      "source": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+      "previousSummarySha256": "f9cf01404ff3cd24bc88bfce822c14ea1880a8f7db2e49eb84dd498734b51b97",
+      "summarySha256": "24587dd8eecb8c4862d0935504f334721c8caedb8b65fdc94c8c67c6721fa039"
+    },
+    {
+      "id": "event-0275",
+      "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "previousSummarySha256": "d391701876f6bf17c8606607df4ade1bc81d4358e924e988a2776a444e5bb93b",
+      "summarySha256": "95722c8a5a217844a29a84f4dbef5ba6669207269b8fb3e08deb1108623ce3ac"
+    },
+    {
+      "id": "event-0276",
+      "source": "https://en.wikipedia.org/wiki/Baroque_guitar",
+      "previousSummarySha256": "be69fca4ceb1e0bb82b485ce88a4ed5627fbe957a5507d3a41fe4fe8f40ebf5b",
+      "summarySha256": "b8e5176f384b4c81e7581c73b711c09cc83023fec0b3f58046dc52acce848a3f"
+    },
+    {
+      "id": "event-0277",
+      "source": "https://en.wikipedia.org/wiki/East_India_Company",
+      "previousSummarySha256": "614f0b42cbbd92c5d3834600a13fae5191f30998fb6575b5cd4097c2cc5a702e",
+      "summarySha256": "d86e76537238dbe9077493b22f396710b653524cf28051a76d069b6259c75f43"
+    },
+    {
+      "id": "event-0278",
+      "source": "https://en.wikipedia.org/wiki/Edo_period",
+      "previousSummarySha256": "d24a1b7b044ccceb4390354b7e6a6fffe31b1fae4bc8d9836e2fa284309fe997",
+      "summarySha256": "fa47ac8e439ecb66eca0151e63918c641253f33e85b4fa605ead4b3a271e6344"
+    },
+    {
+      "id": "event-0279",
+      "source": "https://en.wikipedia.org/wiki/European_maritime_exploration_of_Australia",
+      "previousSummarySha256": "d94f0fdf242e17de3dd1fe86c5a07723a4da5538baf248d37d2689d31a2a5c89",
+      "summarySha256": "6245f45d0a2df44f5f79b1bd45c91e6ccb4654fb485fc8e1b20b169d2b00540b"
+    },
+    {
+      "id": "event-0280",
+      "source": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+      "previousSummarySha256": "7fa3838889f867ca8561c816e548410f15a278f40585261b99a57d6de6c54743",
+      "summarySha256": "24038abaf1f5d75021374571d9f0fcab3e27e2c15d11952b36a29b0c3b857f61"
+    },
+    {
+      "id": "event-0281",
+      "source": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+      "previousSummarySha256": "56bb00f1efad480175ed2f4291746f0eb1d633507b8fcf5e09b3f618cc043c0b",
+      "summarySha256": "aed2378e86a0e999584d7dddc22f8c5b789205238fdf05c8ac8322e13b206cc8"
+    },
+    {
+      "id": "event-0282",
+      "source": "https://en.wikipedia.org/wiki/American_frontier",
+      "previousSummarySha256": "c3893f1a8b6df89fde37713f7b4195847e1659fce72827eefbacc862f0f7ee55",
+      "summarySha256": "e4716df0dea4a637c0c51e7a79a16b82ebfb6f89862d86dd56c94718d4b292e7"
+    },
+    {
+      "id": "event-0283",
+      "source": "https://en.wikipedia.org/wiki/Mayflower",
+      "previousSummarySha256": "423f8367c2ee88c58d7c19792d02dfdf60454c1f9552dcbbfc366ae9c03b2562",
+      "summarySha256": "e093eee3732fece093c685b9fb0320de89e6c1df33a9612121ab35c0aa84f250"
+    },
+    {
+      "id": "event-0284",
+      "source": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+      "previousSummarySha256": "0af8f633f8f33e185cf8a93d120516b2d6390006b43431ae4f751386d27835d6",
+      "summarySha256": "145a336a753145d547470b2f2c98f72b92c489f27a2163664298f2dd178e8665"
+    },
+    {
+      "id": "event-0285",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Puritans_in_North_America",
+      "previousSummarySha256": "f232e2f32556f8403ed65bfffc072784102814c4d887b89b4b0f8e82f34a5c92",
+      "summarySha256": "99305aeb21666eea893e483a6de06cf30a66a743971832c099bff369d37fe0d7"
+    },
+    {
+      "id": "event-0286",
+      "source": "https://en.wikipedia.org/wiki/John_Locke",
+      "previousSummarySha256": "e7ee6d812e576cf8cff21b068a4bc841256791be68bd92eeb8d600d70106c5f6",
+      "summarySha256": "dbe5003bd3f97857dab1c02f5aac7517c753afb892acbc91a60d5e9215c28ef3"
+    },
+    {
+      "id": "event-0287",
+      "source": "https://en.wikipedia.org/wiki/Qing_dynasty",
+      "previousSummarySha256": "7fb100a9aa766d2051fb403edb6da0a7bd60a65039429694824d3269218158a3",
+      "summarySha256": "dc5678440f5783cbeb4b2f232f1ca5e29eb00b3e41bb7300deb2475aeb8f06fa"
+    },
+    {
+      "id": "event-0288",
+      "source": "https://en.wikipedia.org/wiki/Harvard_University",
+      "previousSummarySha256": "cd960481bb08d3de77ce47f0bb4cddbbc0f91bb0e507f53a0b04d0578a19e8a5",
+      "summarySha256": "f7e6ad018db61692b3acf18a2744edbacb3766db81d0660a7297b1a670ad092d"
+    },
+    {
+      "id": "event-0289",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "previousSummarySha256": "7b5c43cb200cc5494afc690222c4793150312ab352162fc375fbdd33aebd6f82",
+      "summarySha256": "982e596020a7e0aee3329ab9901ad5b356dc4b82d92502b4609af517afdf455b"
+    },
+    {
+      "id": "event-0290",
+      "source": "https://en.wikipedia.org/wiki/Quakers",
+      "previousSummarySha256": "3d85ba35b0955c202f839e704f62c9b48b0e2f1915732d11be07cc317237b579",
+      "summarySha256": "af8fa8cfd083014bb00d6f58670262c458183e02fc76309fb004ffb98d79b822"
+    },
+    {
+      "id": "event-0291",
+      "source": "https://en.wikipedia.org/wiki/Peter_the_Great",
+      "previousSummarySha256": "ca1da04b070b533eafe59b7056e748690943f2436d789cf04f603e34ab8bbdd5",
+      "summarySha256": "a3105ea48f2854b70a483567b7738a95346f17478248181187e6d3691a5fe11c"
+    },
+    {
+      "id": "event-0292",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+      "previousSummarySha256": "daf9651f93353709163d0b0c643ed308a571e0b90ee19c593ffe92e3695c5090",
+      "summarySha256": "9892f635f6e447d76aea3b0e82bfa3ef90f5f805ad27e021c198329d2ec354fa"
+    },
+    {
+      "id": "event-0293",
+      "source": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "previousSummarySha256": "f384e7f3741616fc8c9fc08708981c06fa9ce1256a8d637ee83685c39584691f",
+      "summarySha256": "786d92f7af57cd4a34c0d2be5f01e18fada95bfb686bb9e20dcfa7e6f3947ef8"
+    },
+    {
+      "id": "event-0294",
+      "source": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "previousSummarySha256": "5deaff48c286df2a9816546a471837db4e0f7ee3c22540e7656775eb02c83a2d",
+      "summarySha256": "84b9cc2c422558d105cb3044a737035b25fbee0e71d7a9338e668d245992df65"
+    },
+    {
+      "id": "event-0295",
+      "source": "https://en.wikipedia.org/wiki/Voltaire",
+      "previousSummarySha256": "2615f28bf70a455e6ff8d530efadd59a21e281d45e516a1853d158c2edf29d29",
+      "summarySha256": "897d53b751bef5bd3fe6f93f582ff1249cfd16de28a586c00685fc3dfbd72119"
+    },
+    {
+      "id": "event-0296",
+      "source": "https://en.wikipedia.org/wiki/Piano",
+      "previousSummarySha256": "f24afab0bf69f0c83e24463f7540af6584e34102c35310801300154646c5785a",
+      "summarySha256": "21ed6e8fa1b743b5e2d417e947bcc6d00ac89d026cdfc9ea89dcd7abfdb0ab5d"
+    },
+    {
+      "id": "event-0297",
+      "source": "https://en.wikipedia.org/wiki/Saint_Petersburg#:~:text=Founded-,27%C2%A0May%C2%A01703,-%5B3%5D",
+      "previousSummarySha256": "0a5265a52e7cdfc05bbf35e5bb4d81db1268e36a32ff1aeb30f3651cfb26ee80",
+      "summarySha256": "3720ea8a758d4351138689b816c4e11bf0b63b8d4204559a2d376157ef421f6e"
+    },
+    {
+      "id": "event-0298",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+      "previousSummarySha256": "19759f7cac7075fe26d6afad42aebb5d446a94c0521aabe1221c5380e4b331c7",
+      "summarySha256": "f53fefa91d187f102b3122501f7befe845f110a198e6dade5108139bd57b583d"
+    },
+    {
+      "id": "event-0299",
+      "source": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "previousSummarySha256": "f45c27870aad49e2848ad2f7bb348ebb9333731dad5e879ff8dd4973f923a5b7",
+      "summarySha256": "72e6ebdb9d32e5210041785ac6a52a3b2466ac1351ba4f68f769c4e304995802"
+    },
+    {
+      "id": "event-0300",
+      "source": "https://en.wikipedia.org/wiki/David_Hume",
+      "previousSummarySha256": "c62daa6cea32f68c761052b013b3b44f8b00b2b72d8835c9c8875c1a84730188",
+      "summarySha256": "2fb1d02d5d116cf5b344b7bbfd99d334d100fc3d6ae292844341080847333590"
+    },
+    {
+      "id": "event-0301",
+      "source": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+      "previousSummarySha256": "1e86db647fa4e79dc4b68ef0d2d014174d7d23e2e6adf73a8b4f985f9189aea1",
+      "summarySha256": "ebde4787ce2d8969cd12bb11cde34fcdfd06b8c6d51b8d1ed845754f3b050bbe"
+    },
+    {
+      "id": "event-0302",
+      "source": "https://en.wikipedia.org/wiki/History_of_Freemasonry",
+      "previousSummarySha256": "f62df1ff93af9869fd2b7c1b51232d4cf73043b735c1cad08c9d2dca976d98ce",
+      "summarySha256": "b9bed16b3a9dc9475cc85831e005dccdcd124e612b401a8838d862a8cbd0ffcd"
+    },
+    {
+      "id": "event-0303",
+      "source": "https://en.wikipedia.org/wiki/Adam_Smith",
+      "previousSummarySha256": "ddb5902871e5349edd1be17f2f2c0424dfee65973d491c2b02902e02c0cdf939",
+      "summarySha256": "14290b196e012c28520b9277ab535abad3b2d2547d99f506dd4db395401e00e5"
+    },
+    {
+      "id": "event-0304",
+      "source": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+      "previousSummarySha256": "53ebbd2af44e364321c71984ec371c82745ee33237413abef8d013988e6de5b6",
+      "summarySha256": "02873955249d4f2df6458471a4de36f457064d3d568fc6f606c17ec00ffd5090"
+    },
+    {
+      "id": "event-0305",
+      "source": "https://en.wikipedia.org/wiki/Great_Awakening",
+      "previousSummarySha256": "71784a9942631f1ef1b5cf0d67931c6397babd113fb8027b6e7f9296997d6ed5",
+      "summarySha256": "68eeb772c90f606ecb123c141c33a764579f00fbe9eb9279f756ce4ded6f0375"
+    },
+    {
+      "id": "event-0306",
+      "source": "https://en.wikipedia.org/wiki/James_Watt",
+      "previousSummarySha256": "4886df23fa75f8d1a5dfdcf94ebf6484e70ce8c59773eaeae73366004253ee8b",
+      "summarySha256": "ef5f816afdd78e58d1871ff0a7709e0194411090513fd368fb4ea1b562bb2588"
+    },
+    {
+      "id": "event-0307",
+      "source": "https://en.wikipedia.org/wiki/Classical_period_(music)",
+      "previousSummarySha256": "ed4e7d4ab2e9ab0dcae06ef87dc3dc41b7b9ce4e2abf37676c302420c52b27d3",
+      "summarySha256": "86c68f1daeca3c4c4697bfb3ff993eb7a75fa606300b65da563d8e01c4dbb4ee"
+    },
+    {
+      "id": "event-0308",
+      "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "previousSummarySha256": "1574e2bd03ec947304faebe70f38bac355ed926936188961d18ff749c4307700",
+      "summarySha256": "6d24f75a54c2bd357cee4b167707c1472f03aa1aeba971f89d03586df152eb3b"
+    },
+    {
+      "id": "event-0309",
+      "source": "https://en.wikipedia.org/wiki/Rothschild_family",
+      "previousSummarySha256": "2869bbf9bbabc05eecc7f4219e96b47524b0f9fab0b8d2bba1a456220146db7b",
+      "summarySha256": "cc2cc697e7e275e5bd49dca07efbc9914dcc143e8b1903fc57715c6f087d13e0"
+    },
+    {
+      "id": "event-0310",
+      "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "previousSummarySha256": "c3a5aaa988fdc1e78aa520afe487291a63c141c87e5163010321e699c7c2b9d9",
+      "summarySha256": "b4e61f2a6b2fb7172f68fc4cd8847d34bc5ca13634109dcfd7776c0721f96dc3"
+    },
+    {
+      "id": "event-0311",
+      "source": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+      "previousSummarySha256": "747b0d5234a3f8cec8b81bae25300e4f19b4a38f6bede4f4961145f9dc4a668d",
+      "summarySha256": "3f1794f7b51f53a1ebc23e118829f9072f0e4e4e78f21be1f819d6c7b5d69305"
+    },
+    {
+      "id": "event-0312",
+      "source": "https://en.wikipedia.org/wiki/American_Revolution",
+      "previousSummarySha256": "e5e121315edc15ca9647da5e682fe0889924e00559868be2316cfc813684dbbc",
+      "summarySha256": "1aac9da1c5510848e29da0b04f47866cac49efde9136aeeafa4a0d648c8d1ab9"
+    },
+    {
+      "id": "event-0313",
+      "source": "https://en.wikipedia.org/wiki/Napoleon",
+      "previousSummarySha256": "84f36518a64ca25ccf1983fad1b816d2221496f244998e5d92c3120df25f6baf",
+      "summarySha256": "f8b088ef232d408f214e7de6e7eded4fc2e74230a2c2a8c53101f5e2a9fd5fca"
+    },
+    {
+      "id": "event-0314",
+      "source": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "previousSummarySha256": "22b0707b287d2dee0abc163c0572d7c6438d9ba8a1d033468e165bd8432acacd",
+      "summarySha256": "74539929c055c3e4612adfc0f06647b23d5ac016af21c12f2a4e24972d17c98f"
+    },
+    {
+      "id": "event-0315",
+      "source": "https://en.wikipedia.org/wiki/David_Ricardo",
+      "previousSummarySha256": "89dcaad98e2aff7addf516899c323b0489ff98fc79630e5b6a871b063c63ff40",
+      "summarySha256": "ad31dbcf5d5bd9914637a54145890f5b6f6ee438a584f1308dd430e3824f2720"
+    },
+    {
+      "id": "event-0316",
+      "source": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "previousSummarySha256": "a7fd9d201571532272c673c71e9d4f95ced7050d794b1bb7b5c454abf184f670",
+      "summarySha256": "d0f70cebb54c29b22f2bbf91cac2e0d5359bc1aab3274d71fe08f672f3be03e0"
+    },
+    {
+      "id": "event-0317",
+      "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "previousSummarySha256": "3ddb2147eda22fbeb147e9f9b8e312f0735a1b2e87255262c5300739dbed46c7",
+      "summarySha256": "f21720267f082a88e9dc4e8e68db6517adf3caff09176031bf911ff241d50122"
+    },
+    {
+      "id": "event-0318",
+      "source": "https://en.wikipedia.org/wiki/French_Revolution",
+      "previousSummarySha256": "3d9e3ca150767386a45f0b26d0c8248020a865ef224de61db6abf3dc949b91ea",
+      "summarySha256": "241d17f5d270708efe8d68201c604e56d3b9e6291c75099cff41dbea18a16892"
+    },
+    {
+      "id": "event-0319",
+      "source": "https://en.wikipedia.org/wiki/George_Washington",
+      "previousSummarySha256": "bc282b5d313ed396f398b10911132883209e5a588970d66ade9d88ed12264667",
+      "summarySha256": "e19d584fb42f6a86b1deb3f60d619e6ab47f346526bc43427bf710cfc410df12"
+    },
+    {
+      "id": "event-0320",
+      "source": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion",
+      "previousSummarySha256": "053df86d55013bf12411917298979af40a0a616514f8663bc00ee6f8584a935e",
+      "summarySha256": "da67608f3b5625c241b845657dc9f66974d3654842d53225da6451a5d40983e4"
+    },
+    {
+      "id": "event-0321",
+      "source": "https://en.wikipedia.org/w/index.php?title=Haitian_Revolution&oldid=689232983",
+      "previousSummarySha256": "4370d671f5d6bb9186344faa65229bb14af70af0420e074c0f34a5d713b5106c",
+      "summarySha256": "d76a643791c98c35b84901e86fd2295634c3521b5bd2223ba06780139456640b"
+    },
+    {
+      "id": "event-0322",
+      "source": "https://en.wikipedia.org/wiki/Romantic_music",
+      "previousSummarySha256": "cf3f75c85f273686582bb007de99a38b188f63516ffb481229dc9ca97c4483ec",
+      "summarySha256": "2bc11037f101c12a4da0e0a91de7957baf2f51aa8cd44888e52e918bf66040b4"
+    },
+    {
+      "id": "event-0323",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+      "previousSummarySha256": "439d2e204943271beb12b56e31b88cc521fdc95eab5fa86822d5f200802746ee",
+      "summarySha256": "3bedfcbff372961e106bb7c43866c01a8e4b0f7772c0bd86e7200062af1a6a63"
+    },
+    {
+      "id": "event-0324",
+      "source": "https://en.wikipedia.org/wiki/First_French_Empire",
+      "previousSummarySha256": "4ee6db232c31abf7450cda4617cf16f029baee292ef1a859c223ea6c3336b754",
+      "summarySha256": "a84d47e6bea50a7f53d3a9b09cc4cfd5a67c27501554b60007ecbf6f79c8d741"
+    },
+    {
+      "id": "event-0325",
+      "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+      "previousSummarySha256": "a42a2d1edb0e7adcdcc3d79107ab56e539dc92260367daca67148f8b7ae20a4d",
+      "summarySha256": "26fae7eabb0a11fd8d41a533683e6b78b2b1bf7902303bf67002130f7b10536b"
+    },
+    {
+      "id": "event-0326",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "previousSummarySha256": "7e8c33a6f436212149c42ff2e30633538e1ff30ecc2bc69e0c035f8f65457ade",
+      "summarySha256": "2339aed299c13073b2cc42ad08a0d54a4d1a9e6b0bd3ee1084e9e555c577b129"
+    },
+    {
+      "id": "event-0327",
+      "source": "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+      "previousSummarySha256": "39b2e106f9d5e046b6941d1f526a0a4ae9dd94ea8f8cf0849e240f4350ce6ad0",
+      "summarySha256": "c5a4da1283e5e57be65b3499f5f60b621a8023d6c8340239f6cd6aae6d46c5b6"
+    },
+    {
+      "id": "event-0328",
+      "source": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "previousSummarySha256": "83e06a34319307004a47f6d138c7f98d8940de035bbea978b2e907ef612667a1",
+      "summarySha256": "c15be9f434830c51de5efd645895bad7926ca3254d4e24d8fefa7b562e3b7af5"
+    },
+    {
+      "id": "event-0329",
+      "source": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "previousSummarySha256": "e0e02767bf12314a41dc84789fb8b7c218c36a8a6b1baddf3bdb0ba380477ff8",
+      "summarySha256": "59831edb6482e4be55d6c47632bd2d635e7bce5791609d2d239ef1b0e20b6e1a"
+    },
+    {
+      "id": "event-0330",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "previousSummarySha256": "be61d23c980cf03e7c8cb2b7c52ca0aaea1003d4f2a8139253de1653b27eac1f",
+      "summarySha256": "74e4e4884e031829ec3cc8fb623d235ad07839952b0c1d25766e946d397058bf"
+    },
+    {
+      "id": "event-0331",
+      "source": "https://en.wikipedia.org/wiki/Book_of_Mormon",
+      "previousSummarySha256": "23e1c30b22a3372a00d05ec65b02e4a0d3689c965ef1274c17e528fefb9d05cf",
+      "summarySha256": "8dce8bbad38272205d5e36d99a8a984fa03ca03d7324211f2d3b5ced7d1916f3"
+    },
+    {
+      "id": "event-0332",
+      "source": "https://en.wikipedia.org/wiki/Victorian_era",
+      "previousSummarySha256": "d43ade11d1b7df5e94f517d8073020c0254815e28a6f9c2c7a290a2720acd2c6",
+      "summarySha256": "a09ecb04b37ebb688e998eff5aed4f7e9dfd5dabad9bde332e4b96360f6b70a7"
+    },
+    {
+      "id": "event-0333",
+      "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "previousSummarySha256": "4e7848d00bcc724e55ae3a1c444b0e39cd58568f209357b4c2df54ecfc618b60",
+      "summarySha256": "a138a73b7eb4fa0b672f4eb56ea1b375042776b9fcf7acd357bcb17fbf98d94f"
+    },
+    {
+      "id": "event-0334",
+      "source": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "previousSummarySha256": "3ca3aac6b43322265c6ac9f4e1c0a69e199bde238b71f844538b3604217477c8",
+      "summarySha256": "6a5b97ac63b5d9eac047788814e8908bab49c14778e31a509cbb974e280c8cc7"
+    },
+    {
+      "id": "event-0335",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "previousSummarySha256": "24c0c53fef93f4261a11a2ab5e4399b356fef0e3ce06c5920f20c09b880ab221",
+      "summarySha256": "cf4b0793a22e15888cc5fce473efc61f25b68821252a045dd8f3583ca5e544cd"
+    },
+    {
+      "id": "event-0336",
+      "source": "https://en.wikipedia.org/wiki/First-wave_feminism",
+      "previousSummarySha256": "f5e96267f15e98f3cb1d8a91f3c35c05551b3f593e3830b921b3ed80f9817efd",
+      "summarySha256": "8c3ec5c4605d9c11ae32c70664e9581e0fca80d29da441fa9a818869fa368781"
+    },
+    {
+      "id": "event-0337",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "previousSummarySha256": "87420f0fc07570a61db89c1772e5c2fdd3a07dd50d10f6e7f640cf64c135ab4f",
+      "summarySha256": "e7492cfa248670c9857cee759052011f0326b987ccfd5198ce0663992f1391f6"
+    },
+    {
+      "id": "event-0338",
+      "source": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+      "previousSummarySha256": "d9330441de3d6f6e133ee552893f97e2387d50d5134e8e0ed5827f19b1b451d1",
+      "summarySha256": "b256e8e29b037a2c29063bb96af5c2035bd260d59ecb0aadcf06b51a01b6f89f"
+    },
+    {
+      "id": "event-0339",
+      "source": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "previousSummarySha256": "39da81bd35e33aefff5440667f03facb1c08bf47f1096f820986e32693d711e3",
+      "summarySha256": "a9f05dbd626efa8bc628ddd55bd9c1291686f09fc17a89f3c2c0687f2efff581"
+    },
+    {
+      "id": "event-0340",
+      "source": "https://en.wikipedia.org/wiki/Ku_Klux_Klan",
+      "previousSummarySha256": "a86de21c6d0186ebc9e88c10a6a09444f5fee9e63663efd97b376f59a0fe2bfe",
+      "summarySha256": "7c1e0188e34c74fdd31f56862938178f59a6f14c38dd5f424bad293d0fc0808d"
+    },
+    {
+      "id": "event-0341",
+      "source": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+      "previousSummarySha256": "d4182c5c6dab2bf3a26fc2782b8965c9666918fc2257f54427aadea9caea5d78",
+      "summarySha256": "f2c27511ab78527c678844a9ee50f098f32d863abed45a81ea9813a417cbd9c3"
+    },
+    {
+      "id": "event-0342",
+      "source": "https://en.wikipedia.org/wiki/Austria-Hungary",
+      "previousSummarySha256": "10d09f60c61a210bab7508eeabf3cc131c11cf5e40da0049c8f8b6dbbf332293",
+      "summarySha256": "621cf67a93f6efa2e135c1d0ad7b2b47ce28fc18d9978e03f32adcab4ac84996"
+    },
+    {
+      "id": "event-0343",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "previousSummarySha256": "94f52aa75a9aa74725666e2165a894f337458e388c6ebced3286bf7ea7ce047b",
+      "summarySha256": "bf7d8a198861d42903fb5b05e1f4dd329596335c1c099b5421affce811206560"
+    },
+    {
+      "id": "event-0344",
+      "source": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+      "previousSummarySha256": "06f5017e183a880d55132cf9977523e5d2d79422ef8d73adc53b1e57c6068391",
+      "summarySha256": "668671255efdf54b8cb28172f94c47c153ff1b2baa1454dbdc51acc697230335"
+    },
+    {
+      "id": "event-0345",
+      "source": "https://en.wikipedia.org/wiki/Meiji_era",
+      "previousSummarySha256": "dcb1ce82a8454314e9f99e9f051565e4195ef609b6665d4594ddf1cb29db633e",
+      "summarySha256": "195e4d4810ff73e14c2db61c22a16902aad775f70307f567dd0b973b898f39e2"
+    },
+    {
+      "id": "event-0346",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+      "previousSummarySha256": "d9821cb64029252984b6c299177832d5b3d76273bc7aae101bcc5f19c7372d7f",
+      "summarySha256": "b81deb2b3972da670c099d8c4d5aa930faf0a252f641db7dd5d7096f874f4de1"
+    },
+    {
+      "id": "event-0347",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "previousSummarySha256": "6499e1d1fce1466b1c524fcada01f9591690a11e7a4ab126e42b487ec8f2bd1b",
+      "summarySha256": "6ce0cfae4b231cdb1b8a5b903b94144a93ab1e30c3fc532b336c20780f073e77"
+    },
+    {
+      "id": "event-0348",
+      "source": "https://en.wikipedia.org/wiki/Gilded_Age",
+      "previousSummarySha256": "31227d9bf3f9cec887484e670e0c0013b402cae86026f58e80279ebd9a67f7d1",
+      "summarySha256": "7b7cc72715ce22ee7021260013f5180e57fdbfd94b01f9babeafdbe35245a41f"
+    },
+    {
+      "id": "event-0349",
+      "source": "https://en.wikipedia.org/wiki/German_Empire",
+      "previousSummarySha256": "728738edc6664cba85803537dc17d759706bfdf2a46cbdff435f630ca14ef932",
+      "summarySha256": "6776202cf48aadaa0fa657dcb85f8ab32e83cd2e01e9d60f8cac0b4608ffd71b"
+    },
+    {
+      "id": "event-0350",
+      "source": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+      "previousSummarySha256": "9984e812a98f7e9f7e0a9a11aa718cda5e2d57277440516fe6db2197064253b9",
+      "summarySha256": "fd1e2aa92bc67d0aeb4d35d3b111ac1210113d85b0fca39781c556d6884ad9c4"
+    },
+    {
+      "id": "event-0351",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "previousSummarySha256": "f17974e7ee67b83e75a1025e7676f77d55f0a3ce14e4801656c1171bece79ee2",
+      "summarySha256": "4d918747c57277f7339814331ada38af791b5f864db9d83559b05609efd91688"
+    },
+    {
+      "id": "event-0352",
+      "source": "https://en.wikipedia.org/wiki/Ludwig_von_Mises",
+      "previousSummarySha256": "6d890ffdd0ec12dff7b9c87b7ce6d34c4ae27dc830201248f5180a211aa32cc2",
+      "summarySha256": "75dfaecd06231a0ae635e933fc1a380830e40ebe3d8f314bb8427acdf3fffabb"
+    },
+    {
+      "id": "event-0353",
+      "source": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+      "previousSummarySha256": "217517d44a2bb3831df6faf9d937b693469676a4e070b46493dcdfbebc68183f",
+      "summarySha256": "a02460f95c50a8ec5287979431d66350524cb9739585b72a998e078294bec8e8",
+      "previousName": "John Mynard Keynes",
+      "name": "John Maynard Keynes"
+    },
+    {
+      "id": "event-0354",
+      "source": "https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State",
+      "previousSummarySha256": "86eb8d7290036d5004aedc100d84f4c9f3ff91506964367b88e982419eca39c9",
+      "summarySha256": "b4401151b895cdd459d8b98acab5afd4614eb1dc0423ca58379d394c5e585bf5"
+    },
+    {
+      "id": "event-0355",
+      "source": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+      "previousSummarySha256": "60797602dcfe3dbe142df5970c3fef917d1c5c6e5d1b341581e120041698ac9d",
+      "summarySha256": "ea252f4940605cd40efc56dd16fef102c1dfd51db0f79965ab125a18cfe576d9"
+    },
+    {
+      "id": "event-0356",
+      "source": "https://en.wikipedia.org/wiki/Modernism_(music)",
+      "previousSummarySha256": "71c46f3381c083fc286c10afbcf574429cede1048d9be4678c2373c8dba9e1ff",
+      "summarySha256": "c2b3e75c9227e220552c2fb9a9f6722890b7d694afad39db54a73f7b178e9a0a"
+    },
+    {
+      "id": "event-0357",
+      "source": "https://en.wikipedia.org/wiki/Impressionism_in_music",
+      "previousSummarySha256": "4d2f3137cdba15d1d9de309ed3dbe3be4c834022b39b3e5b2ec605246371e4d0",
+      "summarySha256": "dfdb92de4fee39bfb53aa3805aea7be97750d7df0d31e93d4022b39c238ca6ab"
+    },
+    {
+      "id": "event-0358",
+      "source": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+      "previousSummarySha256": "070e23a55a30aac27ec9be9890ac80d40b9595ea6e765af4481ff9064781adb3",
+      "summarySha256": "43a1d1b18af4abe73a1ac214f501748cc9aece88b06e3bc02330cc59f56e5355"
+    },
+    {
+      "id": "event-0359",
+      "source": "https://en.wikipedia.org/wiki/Friedrich_Hayek",
+      "previousSummarySha256": "6ab79412819e6d7a56b0c5e385e3c4d58f3d322b197b6ca8c0f1129fb4e662fd",
+      "summarySha256": "44c659f42236874ff3cb80dd70c848493e874b4490f3b1282b3caf08306f4ee9"
+    },
+    {
+      "id": "event-0360",
+      "source": "https://en.wikipedia.org/wiki/Expressionist_music",
+      "previousSummarySha256": "5ddcc4c1963e4a5bbbb46826ef7e8fffb82ffd8b7512c94da058d0f83d5e07bd",
+      "summarySha256": "65b7216a00db38e095963d84b648787f25aed30ad803730e2def9257556fef73"
+    },
+    {
+      "id": "event-0361",
+      "source": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+      "previousSummarySha256": "ffdfaa1a25c0cd6f741d479d919635e83b961bc5bc5a071a6ce6de3c858e890d",
+      "summarySha256": "b70a6c16ce2749fa672412769d7a2002634d7437db76ff992d8efa9496b02652"
+    },
+    {
+      "id": "event-0362",
+      "source": "https://en.wikipedia.org/wiki/Karl_Popper",
+      "previousSummarySha256": "a43348a637962af7158b7712a9dbf112238216568a398648cb19eb45b70daefb",
+      "summarySha256": "90d60b76a36b4ac57d273570caa9f495cb9b8fdf5b4fbc8591d02a99815b691b"
+    },
+    {
+      "id": "event-0363",
+      "source": "https://en.wikipedia.org/wiki/Bolsheviks",
+      "previousSummarySha256": "49dd4073c8a4a63ca7b2924c96e8aec723dddee2f5d5e0d4b51238b758cc863e",
+      "summarySha256": "69e6e8801f3c54c951d035fc6ccd46032b0499a2b8bfcd5e889407051e884ba5"
+    },
+    {
+      "id": "event-0364",
+      "source": "https://en.wikipedia.org/wiki/Mensheviks",
+      "previousSummarySha256": "63799deff02880e438f581b6a63a1b43f2140d56bc3ffd515732299e3aacd06f",
+      "summarySha256": "3eb345fa2bdbdbe6a0a197b1d829aba3c9f89c13c33573c21cfbfd723368af4e"
+    },
+    {
+      "id": "event-0365",
+      "source": "https://en.wikipedia.org/wiki/Ayn_Rand",
+      "previousSummarySha256": "5256cfee98f90b3966f0646b7d4adbd9d35533ac30eddb92602247c803f6d7b7",
+      "summarySha256": "c5e458ac4fdd78956688c1f9e597931e925deaff502811da2a77eabfba6342e0"
+    },
+    {
+      "id": "event-0366",
+      "source": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "previousSummarySha256": "f4307d175f2cda8ba7287b07c54eaa250c91d8552c1a0a48829248f8144e79a6",
+      "summarySha256": "ce620675c9206906aa7a12d31aaec786fc5ab3605617867911f3c1f5c1484eda"
+    },
+    {
+      "id": "event-0367",
+      "source": "https://en.wikipedia.org/wiki/Milton_Friedman",
+      "previousSummarySha256": "579b33077628d639ad33b3b98385f64e29f437c2eed50b82651adb423b20eae5",
+      "summarySha256": "f42ce0d0973151db6bdbd4875bff758b6295ad13eb56268b765908615229bd23"
+    },
+    {
+      "id": "event-0368",
+      "source": "https://en.wikipedia.org/wiki/Titanic",
+      "previousSummarySha256": "836ca709d64cc67794e48c8c4e1ef3fd790a329dbf1c5877ad363ff7685a3497",
+      "summarySha256": "d5b228f0caa6fc607dc66b4ad0ef06fa5541a81d9c8a3b5f061206917e70c7a6"
+    },
+    {
+      "id": "event-0369",
+      "source": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+      "previousSummarySha256": "822a7cd8470dfc6f2b2628db0f09246593b36ef07718a872958e5a30c9b1bf50",
+      "summarySha256": "c55ca37176a0a3313795273db2bb4f1cb382fee9ebf93bf66becab82b80543c6"
+    },
+    {
+      "id": "event-0370",
+      "source": "https://en.wikipedia.org/wiki/World_War_I",
+      "previousSummarySha256": "2cdb3809b999ebe91f2bedff97a82b0fa9b85301dd101d60d8fd1d0ae38923fc",
+      "summarySha256": "a216c8ba1b0cbf86fac64bf7aff71498d84e6b98b3f7c7162a5ac312be608ae9"
+    },
+    {
+      "id": "event-0371",
+      "source": "https://en.wikipedia.org/wiki/Christmas_truce",
+      "previousSummarySha256": "bf631caacce875bce66e0fccd501c244fd36051d2c682762afe92bf1d098981a",
+      "summarySha256": "54e69920709981ab894a63fd30fa1d3e2accb996184fa78735c4c25a1a4559c6"
+    },
+    {
+      "id": "event-0372",
+      "source": "https://en.wikipedia.org/wiki/October_Revolution",
+      "previousSummarySha256": "e15dc02dfe8b8639d33bbf500cca30bdf32a97af33080b5d7fd7150312e10155",
+      "summarySha256": "cf04bee626c0cb8286ad8eb12ac59d65528fa4b9f8e366ccb7caac1c1256c6ae"
+    },
+    {
+      "id": "event-0373",
+      "source": "https://en.wikipedia.org/wiki/Weimar_Republic",
+      "previousSummarySha256": "26aa626804ff08d54548c284d941175f60d9467eb294fb8fc0fcfbc8aeafa72e",
+      "summarySha256": "e8ad3950e1680baea62876666bcb45fdb2c4faea507d0cd53cc75ec4f6afa9d1"
+    },
+    {
+      "id": "event-0374",
+      "source": "https://en.wikipedia.org/wiki/Spanish_flu",
+      "previousSummarySha256": "33111649f6a4b44177e4223ffeb5d796aa3349570cf9432db61392af58bb5fbb",
+      "summarySha256": "01d20392664156a1644cb206c72473021309b470dc5fb5b6b2a0618e5cb20cd4"
+    },
+    {
+      "id": "event-0375",
+      "source": "https://en.wikipedia.org/wiki/Yugoslavia",
+      "previousSummarySha256": "ac4416c7d3d60d984b7e55bf8b525aad3d4f49c7f7c912af096e69f5aee6f11f",
+      "summarySha256": "754b1d94799f68b69b234342f43ce60a608ed962d173236db6d31b192eed499d"
+    },
+    {
+      "id": "event-0376",
+      "source": "https://en.wikipedia.org/wiki/Czechoslovakia",
+      "previousSummarySha256": "0d917d3be0bfb79d75871a27e0c7cabc2d21ac656fcbb5a5e5879cac488b972b",
+      "summarySha256": "3fdd40916c97e56b64876d67ab32820f2db8d42ecccded8b1f29155402d56be0"
+    },
+    {
+      "id": "event-0377",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+      "previousSummarySha256": "30aa2b0fc3e18c757a0e3c18daebc82832b335cb99f8c20238398daff4a77537",
+      "summarySha256": "3979857a80d01245f8dca60932e4883914f8d515132f116a34b2de7a785d06c3"
+    },
+    {
+      "id": "event-0378",
+      "source": "https://en.wikipedia.org/wiki/Neoclassicism_(music)",
+      "previousSummarySha256": "e233c00d87d55b1ac0c2abf6b267da48a279b489c16b74b683f4f1299333920e",
+      "summarySha256": "79d57688ead14d769c5114a000c9125ff476e7a19aee9d59d5207892d74f58c6"
+    },
+    {
+      "id": "event-0379",
+      "source": "https://en.wikipedia.org/wiki/League_of_Nations",
+      "previousSummarySha256": "464d180af01ac8cae6e49692154ed5b22302ab915817ceaf03b6325a4b0d8551",
+      "summarySha256": "5f5c1b8670f1e801b2fe2946b6aba1ab1037b3306c229a9d4d9810b05871db30"
+    },
+    {
+      "id": "event-0380",
+      "source": "https://en.wikipedia.org/wiki/Nazi_Party",
+      "previousSummarySha256": "94550d795b22e1eeb158d9b8ddac9a2b798d41fa1b6d1f581cea5ddd1b45d778",
+      "summarySha256": "cd2aca2204b5d3d841b7a159c0db1637721d86f04160ba55108be6f8aee1334a"
+    },
+    {
+      "id": "event-0381",
+      "source": "https://en.wikipedia.org/wiki/Roaring_Twenties",
+      "previousSummarySha256": "2711132ac2936ee8299eb52fdfbabe42ef65056aeaafc965e8ec40d357f9f5ab",
+      "summarySha256": "85bb7a88ffad3f4c34c93e20c6ce7a3d1e5606cea1342e0be64f41b442af7ae0"
+    },
+    {
+      "id": "event-0382",
+      "source": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States",
+      "previousSummarySha256": "58b06cc025ea61e875599bd9e61f1bc4823333692ef2b5be62e08f205d9e0713",
+      "summarySha256": "209c4dceac65e782340fb9f23d09de51e4a334191ad3a2781c36abfe75bed4bd"
+    },
+    {
+      "id": "event-0383",
+      "source": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "previousSummarySha256": "8a362f0a2a1f37e1927e4bd3430a1256904af070a1e178b8b7f7af939a8dde29",
+      "summarySha256": "e479c85d9e9912209a01d74b43621c8fe27515d157b37cd0875c3a7af3b64177"
+    },
+    {
+      "id": "event-0384",
+      "source": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+      "previousSummarySha256": "8e7241d2fee51e387fcf7c2b261649d9497eb51999e7fc654cb57fb65c8d7084",
+      "summarySha256": "e873f9f03f03326003e48829318319fe6bba2d39f000b99e026447f62c826882"
+    },
+    {
+      "id": "event-0385",
+      "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+      "previousSummarySha256": "da8de4073e171d410354e3e7289e93470dc475048525cd72cae6c5a1598e37ab",
+      "summarySha256": "3da46e66506b57b30040b6652b79ecf1b71d69de5cb17767854a1264ee0eb7dd"
+    },
+    {
+      "id": "event-0386",
+      "source": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "previousSummarySha256": "dc4ead47063ad11f442045a606cfa3ff86d62660efc7f4c88169e117d89c78c1",
+      "summarySha256": "371e20548b53eacdec2283358df1042841142c5d12d0ab1cdabadd2543085cc9"
+    },
+    {
+      "id": "event-0387",
+      "source": "https://en.wikipedia.org/wiki/Che_Guevara",
+      "previousSummarySha256": "898adec6d4f20d7085d04020ac8e1154ba44d06ffdf819345d041869a6344f12",
+      "summarySha256": "c7dae9f950a6d43898a2abe4c4de4aac350c562d8c63793374d095964ef5ccaa"
+    },
+    {
+      "id": "event-0388",
+      "source": "https://en.wikipedia.org/wiki/Great_Depression",
+      "previousSummarySha256": "4d10d90ba1944fa7f5877bf9cd40f02d302c6013f3b84223fae4da4cde0a9eba",
+      "summarySha256": "9e47ccd7370f1a6fc286be0af4ac83299789ead4a48a321b2921a4050220720f"
+    },
+    {
+      "id": "event-0389",
+      "source": "https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929",
+      "previousSummarySha256": "0ff603102e6f92452fe055254f20ececc2c1ebf85cedc8b768c5d172bae87518",
+      "summarySha256": "2cca699dda48f2f9b63e3ad2474676c3ad1b0f44dff666d1f16140e456741bd8"
+    },
+    {
+      "id": "event-0390",
+      "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+      "previousSummarySha256": "3b31670378c35ba88e803f6fdb659758c6ccf7aa5e62d98bad31e3e927e1543e",
+      "summarySha256": "1c05825ea5731979dab4134892233e57684c61e0e97ef0afca7c573e5d6083db"
+    },
+    {
+      "id": "event-0391",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "previousSummarySha256": "0caf97b6c81a6686c42b7bfc6a040a7bcbae35605d5d9f4163fb23e0e9aeeb47",
+      "summarySha256": "34cf986d1fec05b6de1941c1b152bde98999ab8e20eee678e8f9e7715a8289cd"
+    },
+    {
+      "id": "event-0392",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Sowell",
+      "previousSummarySha256": "fefeffa635ffafeef96a5cfa5ed906572359b732d87f54bc105b82ed97bc6da2",
+      "summarySha256": "ca0887d628cdb23fb644abd4f363636dd29d2d59c8ae2eda8afdefd806b50def"
+    },
+    {
+      "id": "event-0393",
+      "source": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "previousSummarySha256": "f7a0cee0f7b1f8c5dd3237722c258f6b374f66c879f9490478e8f348ba917572",
+      "summarySha256": "d797d2282582ac8b4654b0055b5ecdfe5150b9fe1bb235015748c41e2b523264"
+    },
+    {
+      "id": "event-0394",
+      "source": "https://en.wikipedia.org/wiki/New_Deal",
+      "previousSummarySha256": "29b60e2c38674e0ca3d1343ca807ba314f73ad7055c00fa9e81e94789a73cd30",
+      "summarySha256": "7b9468dfd271d6939a69292d2bb62ef6c35fd66b4b747ebf1190ae0717909e73"
+    },
+    {
+      "id": "event-0395",
+      "source": "https://en.wikipedia.org/wiki/Nazi_Germany",
+      "previousSummarySha256": "b77f45608104987d3d588a79e374052f9468899de6556ed98f5c56629381ee6c",
+      "summarySha256": "287e910d4f11f60895206968c6bda0549450a6e77949c7f1640ff9428d299d95"
+    },
+    {
+      "id": "event-0396",
+      "source": "https://en.wikipedia.org/wiki/World_War_II",
+      "previousSummarySha256": "b4788047f637af90b8683ded537717e609e530f1540873ad7ccfaded67c62709",
+      "summarySha256": "4a19d50dbe6b5b807e435a11fedb30e3a22e8ec669d6363194504bc675f83863"
+    },
+    {
+      "id": "event-0397",
+      "source": "https://en.wikipedia.org/wiki/Z3_(computer)",
+      "previousSummarySha256": "d04625cfe5e34f76d7c35915dbe53d301a879671988f17a1c81afd491e4fc893",
+      "summarySha256": "dea76fe872af158eacc98c3656134f63e321521f3df129a945aba9da889e2e85"
+    },
+    {
+      "id": "event-0398",
+      "source": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "previousSummarySha256": "f5d96d117eab7a83b049152d137e01e850c9febff0d96902851e3ac188651b91",
+      "summarySha256": "d9887b61532a70788d93131a8168691a338ffcd52e7b6338954790bb237f9d33"
+    },
+    {
+      "id": "event-0399",
+      "source": "https://en.wikipedia.org/wiki/The_Fountainhead",
+      "previousSummarySha256": "ac5a9acf3642762489f7489b22fdf1d1ee4b0db5394ff8efbe6a06af4734c686",
+      "summarySha256": "0d59731a41ac8f1019fa6f6dcd689de89094da6dda43d8817d3d2a12be559fbe"
+    },
+    {
+      "id": "event-0400",
+      "source": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "previousSummarySha256": "f37a2ee4ca368a0fb8e6f0aea5261cd495bf0a82ce5eae9a52e90e49ff2b8923",
+      "summarySha256": "e306b2ee5876d28d6a3e0e4c7a29eb623e3afa9ddab533a3aa577dbc8176e79b"
+    },
+    {
+      "id": "event-0401",
+      "source": "https://en.wikipedia.org/wiki/Cold_War",
+      "previousSummarySha256": "5757aa3bf9091300e416e3078a5d375cba3e240f003505f635ea4dd2d9d790da",
+      "summarySha256": "24bdd9ee8f5ce36ed725861ad3637bccbe4c3d8910512b7b4f852b72104969fb"
+    },
+    {
+      "id": "event-0402",
+      "source": "https://en.wikipedia.org/wiki/Apartheid",
+      "previousSummarySha256": "cb7375bc9c938321a1cf4b556f37ca2e36153d2ee2629195a10d343b184ec427",
+      "summarySha256": "7813eb3ce3c88d90afd233424d30961acda882c0cdf10080be4e061d3916da67"
+    },
+    {
+      "id": "event-0403",
+      "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+      "previousSummarySha256": "c0e9972e137e21787faf793d365653ea867cc010f91fd1afdee74ab43ad4622d",
+      "summarySha256": "72b2df999ee682bb0d6d6cbb7df2fcf2c2965825994edf01f93e824587696433"
+    },
+    {
+      "id": "event-0404",
+      "source": "https://en.wikipedia.org/wiki/West_Germany",
+      "previousSummarySha256": "867c43bab1fa158196c6d6bba94363e5adc831bce27d0a6414f371aff6943717",
+      "summarySha256": "6d4e6fb36f90712f154320ce93aa38d9035f12785c64a883a91a1ec2ec554fa9"
+    },
+    {
+      "id": "event-0405",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "previousSummarySha256": "2d2ac029ee3e7a3e847ccb1a64f31fd84414265fcdf5e96e539d4b7182261111",
+      "summarySha256": "d54612d02b39e80b058bcbe185e51a96fa24c1ef49c873fa57b42dda3f893139"
+    },
+    {
+      "id": "event-0406",
+      "source": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+      "previousSummarySha256": "f450f9c3e3c8c7524e1ba088e4939abe0816489d345db932103146c9498e17f3",
+      "summarySha256": "a64d489882eafb20c4727689941a5877c208b6caba94eedb45f0b7d00a4a3dd0"
+    },
+    {
+      "id": "event-0407",
+      "source": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "previousSummarySha256": "8fa43ba7192f990fab3cd7d1603821238645bcf494cb5216d5d685f32af1785a",
+      "summarySha256": "91ba16d515639d3e0b62d2a2887399e0ef2fa1f619dc4e7dac41dcf39f800c05"
+    },
+    {
+      "id": "event-0408",
+      "source": "https://en.wikipedia.org/wiki/Atlas_Shrugged",
+      "previousSummarySha256": "3de6849c032bd9ad7781a85632a350d0b3f2566e2bb6e7998195c10ac535d59e",
+      "summarySha256": "7ac48d8609203ca3fb296c738cebf93389130702541a2ea4a356d3ecf0d9e104"
+    },
+    {
+      "id": "event-0409",
+      "source": "https://en.wikipedia.org/wiki/Tennis_for_Two",
+      "previousSummarySha256": "ac3336289f6b34c11822481f5e819242469fdb12cc8a53b76ec4095cc2e56ada",
+      "summarySha256": "c6fc5268e3818ffef56bd8a82a6016c7bc0a67a2a70859fe8442017c57382c12"
+    },
+    {
+      "id": "event-0410",
+      "source": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+      "previousSummarySha256": "4816148f77664c8d3cbca26d6118034e9ed267fc3df2011fc9e97a680a6b343e",
+      "summarySha256": "fe43f753e8801fda8f8f758c6b883e8987f19ee72923688d753077bcc4bacdbd"
+    },
+    {
+      "id": "event-0411",
+      "source": "https://en.wikipedia.org/wiki/Tsar_Bomba",
+      "previousSummarySha256": "8a15e7c344d7efeb0ea80fc3ac40f471ce90f1dbe7d1122e52310950e59114e1",
+      "summarySha256": "4b66a1b88b2591eff2250e31a3c8e5dbc00b7eaf49f8a3e64a75bc2c1e267289"
+    },
+    {
+      "id": "event-0412",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+      "previousSummarySha256": "89841ef2f8eb233cd38aebe6542fc1b8c164cb086d1c54957c9f39746225a655",
+      "summarySha256": "d8836cadabd9115a0e6b387a0ada76dea64f4501d2ed74d1c8cbacd703b4f59a"
+    },
+    {
+      "id": "event-0413",
+      "source": "https://en.wikipedia.org/wiki/Second-wave_feminism",
+      "previousSummarySha256": "1075ce9e017eac2791f6b015e79c9adcfb10cd1d72e42acbfca2c7cdd53d109f",
+      "summarySha256": "55d8a936286e4597b196ca1d4e99f298a199e900575a91fb6790d16f0eb57343"
+    },
+    {
+      "id": "event-0414",
+      "source": "https://en.wikipedia.org/wiki/Rhodesian_Bush_War",
+      "previousSummarySha256": "a1385f2c99b15e2a5786155e495a678614bfcec967cd79674d82c72c41b66181",
+      "summarySha256": "34b266f2be1e06e0229eefbc6f66c15b668fb684279972c2f39f62c361b4ebf1"
+    },
+    {
+      "id": "event-0415",
+      "source": "https://en.wikipedia.org/wiki/Gold_standard#:~:text=to%20gold%20on-,August%2015%2C%201971,-(the%20%22Nixon",
+      "previousSummarySha256": "afaec633adec916d52d563825e4d95c8ab23a2b626110da7854119ba1677eb70",
+      "summarySha256": "da61ded950d1e680f11331a07415d1d900a1dcf855ae5121d2cd5c51334083ea"
+    },
+    {
+      "id": "event-0416",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "previousSummarySha256": "5ab8768bc63becffcc206ada9ad1fc619527255b177d5d05832610c0e683892e",
+      "summarySha256": "4eae65b3520405ff81402734c69da9426bb997ca38517fe453503fab43ab0cf0"
+    },
+    {
+      "id": "event-0417",
+      "source": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "previousSummarySha256": "5d5231e9fcad0f563af99274f81812b14355352c08e16ac2238e8fd18b0f20cd",
+      "summarySha256": "d935399f90ca5905959d19505119d022211c1fc5146163db56a19c03ce40abf1"
+    },
+    {
+      "id": "event-0418",
+      "source": "https://en.wikipedia.org/wiki/Curtis_Yarvin",
+      "previousSummarySha256": "11b5611eddae64fdcd384682fc05842de1b7d2461e4b1fb7aff2792a9444aa57",
+      "summarySha256": "162475a5c54d87a67cc9a999bd2b374ed38bb8c8107436e1352b66fa4de6eabd"
+    },
+    {
+      "id": "event-0419",
+      "source": "https://en.wikipedia.org/wiki/Microsoft",
+      "previousSummarySha256": "d8dafc9087d3cc6584701b7a229e2e64289d5715b46d0f732949c3809f5d69e9",
+      "summarySha256": "146495d1a996985e02fa3eb5513362dfe605b913fa15bdb245c00bb73d64590b"
+    },
+    {
+      "id": "event-0420",
+      "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "previousSummarySha256": "3be8f64231a67b5b6de7c148fa04e1fc97d8b7159f19f050a7f9645b1e223ce1",
+      "summarySha256": "ae5af559b60eb3c28bfe52d8f180849d22f44224b03c445f26a921d6454854b2"
+    },
+    {
+      "id": "event-0421",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "previousSummarySha256": "d46bf0a2e7d56a60229394a59f12124641f8aa399331b8aab0d8ba4c58959886",
+      "summarySha256": "c78494d15ec40bd3a8d490f0ff5e6bbcd987927dd549b876be52a7966dc0cf25"
+    },
+    {
+      "id": "event-0422",
+      "source": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
+      "previousSummarySha256": "8e7fc37d9ea01f775786dfe31cabf9ab2e9278822768436107b6cbe282053050",
+      "summarySha256": "570c137097e97888d57ad3edc1456ff68e16bb8399f8f426f8dfe449b60ea48d"
+    },
+    {
+      "id": "event-0423",
+      "source": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "previousSummarySha256": "2b23a3c6cd7db2e7a224fe154bbbd880ca674916226e2bd2664a2ee6ef2a577d",
+      "summarySha256": "c7ad4b8dc8ea268d4e08c22d6a7a0b9bb3aff15a5a5d97ac41d4db8ff5675926"
+    },
+    {
+      "id": "event-0424",
+      "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+      "previousSummarySha256": "a5f19a07a2adaa66629ce048076005c6e94387ccfff852e4f8c710d5665a9306",
+      "summarySha256": "d41f4cd4c82e30f9decc448854bc96462fa2f3dc65ef5c785ab31df317be5974"
+    },
+    {
+      "id": "event-0425",
+      "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+      "previousSummarySha256": "80c007ef76a611c78d3e567a566349c156bbbb34e690c68257c5b1d8339be4f2",
+      "summarySha256": "e3c8ac279885fb3f31281fc413959eb47fe71f362251e3a066163ab521a4834b"
+    },
+    {
+      "id": "event-0426",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "previousSummarySha256": "355c78c688d1593d058a188855258b91028e5ebffccb78a6ffa5238d42e47828",
+      "summarySha256": "eeb4c356d0f2b61ca5d63e6b95c561c69a3d4cc5bea5c3457a2d5b1eea4600ec"
+    },
+    {
+      "id": "event-0427",
+      "source": "https://en.wikipedia.org/wiki/Third-wave_feminism",
+      "previousSummarySha256": "afad8e1e1f96c587d7f3cdf858c75244fb98a5e77dfab2a5354f632890af0665",
+      "summarySha256": "4c409ca1067698692daf8781773bc1ba8dfc54724dab922f2e6c387d8b3381f9"
+    },
+    {
+      "id": "event-0428",
+      "source": "https://en.wikipedia.org/wiki/European_Union#Treaties_of_Maastricht,_Amsterdam_and_Nice_(1993%E2%80%8D%E2%80%93%E2%80%8D2004):~:text=on%201%20November-,1993,-.%5B21%5D",
+      "previousSummarySha256": "ebfab4ab8c43107f36bc241cf16bd9fea3a08b0b89f70f485ff95f5ea15ed096",
+      "summarySha256": "691dba14a31fdb78ae08dc904dc9cd32d8c8295e6c16d52352f7786d88f1f464"
+    },
+    {
+      "id": "event-0429",
+      "source": "https://en.wikipedia.org/wiki/Google",
+      "previousSummarySha256": "4640450bf53ba2840ed54dff114dc0a78af4f386655ece604ac95dc84934b9b5",
+      "summarySha256": "742e04107bd7eeecd3f7f9456522110679376c87645dafcf741492f6984de34d"
+    },
+    {
+      "id": "event-0430",
+      "source": "https://en.wikipedia.org/wiki/September_11_attacks",
+      "previousSummarySha256": "159feaa07e7516aca117611ef48a22949a86cf2c07df75cfd5faf4354dff569a",
+      "summarySha256": "b2bb4da1b62397d52cf12e80cdec7735732ac2e8a4e749b6acb9c3c2f88c0fe4"
+    },
+    {
+      "id": "event-0431",
+      "source": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+      "previousSummarySha256": "c1d5fb33733dab3394f422d633282af9ade11dbad7b9cddca8f7416c77567794",
+      "summarySha256": "310e42773438c25abcc078436cc7ea9ed9c1a8714ed6175f56de17b159662fd7"
+    },
+    {
+      "id": "event-0432",
+      "source": "https://en.wikipedia.org/wiki/History_of_Wikipedia",
+      "previousSummarySha256": "4e5035df1a08dee670ed4b905fca1a2f3d78eb4095425ea16a6308afd5b5abd2",
+      "summarySha256": "c836c40ae7b026cdb9240e8df4f35c35511568d1e4dd8fc7658999cbdeec5af0"
+    },
+    {
+      "id": "event-0433",
+      "source": "https://en.wikipedia.org/wiki/Arab_Spring",
+      "previousSummarySha256": "f72a55c1ba5074aae960dd49b9773e769984589bfbe37d97430e5b01e2e1c114",
+      "summarySha256": "7dbf18b389ac80615c960baf8295d43b1287b9e3c4d75741f86dc265e3cb48ab"
+    },
+    {
+      "id": "event-0434",
+      "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_disaster",
+      "previousSummarySha256": "c9cc2fd1371f118c4956fb73e3b0117228a386498f2aadf4c0688bafe0fac7c4",
+      "summarySha256": "b73732ace0e32b808d284ea574a46f73656054728bb42b223607836dc87e7dcc"
+    },
+    {
+      "id": "event-0435",
+      "source": "https://en.wikipedia.org/wiki/Euromaidan",
+      "previousSummarySha256": "3a46c882abc7c8f329610f411dbf5baa9ca4ee63a2b2a1748890babc4fa14eb8",
+      "summarySha256": "7c458f1dbe70344ec93e7eb08604c29338a9a50f5ee204f9b55aacb726c51d46"
+    },
+    {
+      "id": "event-0436",
+      "source": "https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)",
+      "previousSummarySha256": "e5ca09216db8473afb90099d42af5697eb5be55a3aa0cb519978862898c4f6ce",
+      "summarySha256": "b503b0724e822f14d75fa0941e0a33a6f810a2baafcccc5f4996bcf69b45dc40"
+    },
+    {
+      "id": "event-0437",
+      "source": "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation",
+      "previousSummarySha256": "85a695fcf8670d86772e8ceb903dd7f773a123819bc4791e797922b8c534d3af",
+      "summarySha256": "9f41f115b5f203c28c2552586891fa6f6aad4692d3295941ddc2d982dfbf5bd0"
+    },
+    {
+      "id": "event-0438",
+      "source": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "previousSummarySha256": "c3db295d64ef5a7cb38eb84972b35cdca50ab654dd607e80fdc79011d9441ce1",
+      "summarySha256": "cdae258ae4a4159e064161a83717b190d7ea3821c616a30f7cd9e394bf50129b"
+    },
+    {
+      "id": "event-0439",
+      "source": "https://www.who.int/europe/emergencies/situations/covid-19",
+      "previousSummarySha256": "a55d0eb7a3da08f2098dd706837e1b7265c0a874fc77d87b962f3abbccfd6d43",
+      "summarySha256": "adcf213b66ca57b626423be9ed0635ae453a68b4ecda0562b7df42cc85b2a41d"
+    },
+    {
+      "id": "event-0440",
+      "source": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack",
+      "previousSummarySha256": "4ff7b72386efde06d845b4a730ee774b90403bd6ff0e3ee7c9ddafa850d56085",
+      "summarySha256": "dc6f763f88627d364e4ae7f32f90b1ff851270dc990f12b224b3d44711433653"
+    },
+    {
+      "id": "event-0441",
+      "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+      "previousSummarySha256": "b23c7e46cee674172644e7a00f111b64a13134ff60545e17cfda353cd03e1c7f",
+      "summarySha256": "7cbc4fbde850ae83eb2f24721686d88d356882c6a106db1f666cb96895b07083"
+    },
+    {
+      "id": "event-0442",
+      "source": "https://en.wikipedia.org/wiki/Woodstock",
+      "previousSummarySha256": "caee98d12c81c3384285e1cd5e866f6018dbe9fd383ee3af82a9243e94811021",
+      "summarySha256": "9ab51973345b2fca1bac64a4a4402a835d6728ab8ef8220295943d8f71a398c7"
+    },
+    {
+      "id": "event-0443",
+      "source": "https://en.wikipedia.org/wiki/1992_Los_Angeles_riots",
+      "previousSummarySha256": "80fd4f9108c4e0b7423af7f9c20bf5b6875ca600b374af606bbc59ac709984a3",
+      "summarySha256": "364e21f384a3e8179b3055bc241cce7e5fb6332f3accb920f24aaa33a5843674"
+    },
+    {
+      "id": "event-0444",
+      "source": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+      "previousSummarySha256": "2ee1fad56c756299ce7ce9523ccecb80cc3497d08c76ca3e4afdf1d0874ed26c",
+      "summarySha256": "c0a03af85d79c7215d49c0c0e115b8a50d258f8631396cab37f93085e1b9d212"
+    },
+    {
+      "id": "event-0445",
+      "source": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+      "previousSummarySha256": "4eaba68f8b34bba4a66aae94f57a11d2720dd1c9db5dbb20c12606c4347d1130",
+      "summarySha256": "888cc5a9a58d1df653777e2e9f32a016682083984e114656cbe13efe01a6cc70"
+    },
+    {
+      "id": "event-0446",
+      "source": "https://en.wikipedia.org/wiki/Iraq_War",
+      "previousSummarySha256": "beea28e536e0873f772dddcd42537e38881139dc576fd4c7c70fc76b5cb69e8c",
+      "summarySha256": "c136f7e336da4d7ffb10bac62cd44306fbe4a4f76464fae6b34d9522eba29485"
+    },
+    {
+      "id": "event-0447",
+      "source": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+      "previousSummarySha256": "1acd371ad5609797ae85464f0785af959fd74b5834b62e7d43f4d338561d086f",
+      "summarySha256": "1cffa14c979b10953584d9ab67c6d922aec457a85ecbb1bb347699763b6a5aa6"
+    },
+    {
+      "id": "event-0448",
+      "source": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+      "previousSummarySha256": "00f4b2eec53d1774bfab4c8ab8a57e5488120d730b385802a341795172c77212",
+      "summarySha256": "656ebe13988133c7dc5d69ec087d223cf2c724ec8bb9eb500700c13a887bb704"
+    },
+    {
+      "id": "event-0449",
+      "source": "https://en.wikipedia.org/wiki/Armenian_genocide",
+      "previousSummarySha256": "65da90586eb956eebcb2ce756776bc9e0c94b4b93294ac9cea489db489d170ac",
+      "summarySha256": "ed22a60a5136130c4e33b844dd3ab0f71929eb909220232380c43f946b5b10c8"
+    },
+    {
+      "id": "event-0450",
+      "source": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+      "previousSummarySha256": "96e1f6c3a97d51eb040a9db9d150da8dc263427dc540e48a5a95f236c8c36931",
+      "summarySha256": "7fcb52be1a49f85cc842fdc705b7fae6c2bbe5737995084ed4dc02bdcf49be9b"
+    },
+    {
+      "id": "event-0451",
+      "source": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn",
+      "previousSummarySha256": "5b65ceab5db254f4f815d0f1af32c473a6fcc1a2862228853ec2dc25e08eb70c",
+      "summarySha256": "4fe60b0ef1f8fe4cdce44ea4ab76d074a6ddb49c457438043228e3f08a706f26"
+    },
+    {
+      "id": "event-0452",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+      "previousSummarySha256": "62d9f0d72abb4f71bad00df1dc2ad1a71dfeae9afbf216dd29d05ddd04a9921c",
+      "summarySha256": "157b2f70a5b658ed50c3a043333d8c9210b9b18ee786f251339b45dd89b34061"
+    },
+    {
+      "id": "event-0453",
+      "source": "https://en.wikipedia.org/wiki/Apollo_11",
+      "previousSummarySha256": "721abd4958dbf58628d1328364bcc48e11880ca351a3e33deff71e7a29df8270",
+      "summarySha256": "74e5752456fc03988372d8fe010f9db2d24a44739b0fb1b5126fe48561e20e6a"
+    },
+    {
+      "id": "event-0454",
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "previousSummarySha256": "ccac36cdbdf418c9f3aa9d25a1243bcce0f629d3b5bf157699d6089e67561cc5",
+      "summarySha256": "71b1cb04446532c369cd95db3daee7efb6ab74730ed7960db5199dd966f4b8c3"
+    },
+    {
+      "id": "event-0455",
+      "source": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "previousSummarySha256": "dfbf946d3c2099d1572ad7936ea0d7cb82cc839bda0a27d15d2fb202a4f38a05",
+      "summarySha256": "9c6beca351e9c7ef35a5c6c97e0593ef10c95ce21e4fe5f1c001ec40dad07ccf"
+    },
+    {
+      "id": "event-0456",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+      "previousSummarySha256": "65935a74f327bcb491f94474c6a28cb6077b9a279e97e64a16b77dc40aa940b8",
+      "summarySha256": "eca212e176fbbb9c6dbc55fe71d2fe4fc033dde3a661650166fceb19f4d19fe6"
+    },
+    {
+      "id": "event-0457",
+      "source": "https://en.wikipedia.org/wiki/Great_Leap_Forward",
+      "previousSummarySha256": "b93f7046d5ba5c00c4af8e714187accd5e7736ee2b9e89ef3c24ea655c697db4",
+      "summarySha256": "c87a1f44687f1258d9dd17f4221b17670fcfd35f3614785c68c41d14476f41ca"
+    },
+    {
+      "id": "event-0458",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "previousSummarySha256": "8f4c68850b70bfdebcbf6e3a6038c1af53c11ba835c0b60b516d37f16e4c4de3",
+      "summarySha256": "e60e2fe11b09f1cdc8a3245e6116d8872d0a91bb9c863c28d62cbda0f2573bc2"
+    },
+    {
+      "id": "event-0459",
+      "source": "https://en.wikipedia.org/wiki/Korean_War",
+      "previousSummarySha256": "7cd00a3348e624c70faf45317b5a68e4876ea4ba2ce159950d495106c47cb908",
+      "summarySha256": "4def0dfeb38051f260ad58b6626883dca749da46f6a4cfffe31ef540294aa519"
+    },
+    {
+      "id": "event-0460",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell",
+      "previousSummarySha256": "651780cc095d85c1159fef55d983fd1bab6d114a2eb2100f5e809647129968fd",
+      "summarySha256": "a10c1c44d4be37b0cc2561985ae841fc4ebf904978bf831798366f4d8e64d2bf"
+    },
+    {
+      "id": "event-0461",
+      "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "previousSummarySha256": "cc7675f937a2dd3e6087c35d45dfc77ffc777a34bf95ca253304550d47cf263a",
+      "summarySha256": "ac804b95c4c36b18be01f1aefa7cb2d93c8fbccae8ef13e6b9ad3f1209abaf2b"
+    },
+    {
+      "id": "event-0462",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+      "previousSummarySha256": "ae11b4b8fa750002863d0ba71e4420781147d70208919b1e60c3fbf442f02397",
+      "summarySha256": "5760c251724a51748642afb06b5923c91ada1ac7eb08ab343d4c1a703e1e467e"
+    },
+    {
+      "id": "event-0463",
+      "source": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "previousSummarySha256": "b81b350a8c142a62634680af67eb72d62ed44db1fe6e4ad1917c89f962049fe0",
+      "summarySha256": "1316e707295ba1c3bfac9f760ce624135e4993fd27c1c3de57993fdd6c4ec4df"
+    },
+    {
+      "id": "event-0464",
+      "source": "https://en.wikipedia.org/wiki/Normandy_landings",
+      "previousSummarySha256": "381c236ab4ad979b9cca9bf1215836a2c96e274c31d9445292cd8ccab2d37cc2",
+      "summarySha256": "c99f466cc4a934379095f9c30d39d2f8be9ef9745811b578f4690753bed6bcdc"
+    },
+    {
+      "id": "event-0465",
+      "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "previousSummarySha256": "2630f7d7ef346a734ba481bd02ec3e985960b22744718c618f1fd19a42a4fbf5",
+      "summarySha256": "58726091a31ae6b428286f4b95741493f7a4cdf93acebf2c209e09523a15266a"
+    },
+    {
+      "id": "event-0466",
+      "source": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "previousSummarySha256": "79948e65543400bb6dc352deeed865cf20d937657038c548f866a9324ec62b2d",
+      "summarySha256": "3c21bb01088fe2b5a001d5fb24b8435f45718a37c30bbb1b8920c7d992979797"
+    },
+    {
+      "id": "event-0467",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_France",
+      "previousSummarySha256": "f2f7530bb51fbb3e2cbb9ee96d8746234db0f33c1ba0a646e6d9498ea9f32867",
+      "summarySha256": "e08d9fbc8297d7864d8718a033c03c9a554908134cb3999b90012ca2f25dbdc6"
+    },
+    {
+      "id": "event-0468",
+      "source": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+      "previousSummarySha256": "4e24cd4df51e48a00f18ca693d324bed40858de6a4ac5c0e9ccd66587f2318d8",
+      "summarySha256": "a11e11767eea630c772ddc1fdd34bbbc635d99b353cd4ae87cae61b68bc744eb"
+    },
+    {
+      "id": "event-0469",
+      "source": "https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/",
+      "previousSummarySha256": "a6e12a72a6c2b4a465ccf203e20d2b131f8597ffda2935d4d034291f2f920a9c",
+      "summarySha256": "c7e958e2268f07f7d5def401ee49bc1fa0437871c3ce0cb7746957a1a24a9c53"
+    },
+    {
+      "id": "event-0470",
+      "source": "https://en.wikipedia.org/wiki/Gunpowder",
+      "previousSummarySha256": "7554d642ff075250db7e7dc7ea878d5e01dc7b35338f5ee5641688b86e5041e2",
+      "summarySha256": "774f4d56e5588accfadad30a9c66b856a2630033d17863141097478fd71fea95"
+    },
+    {
+      "id": "event-0471",
+      "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
+      "previousSummarySha256": "4a1c87bbb500f865be3eb3f96fc05e92baa172654b4091f7aad10eaa53ae40a1",
+      "summarySha256": "0a183561eaf40f15838d1f7b358ec04c08df353c305461f48fc9e2d4d1ea81bf"
+    },
+    {
+      "id": "event-0472",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "previousSummarySha256": "9e2b4d80a78ce2167a90e4941ac5f7836d554257da12c85276478a677260d448",
+      "summarySha256": "c5165c0cf6f8c5199fe5e8d16de5278514e32ede0f4bf36742d779d78b9839df"
+    },
+    {
+      "id": "event-0473",
+      "source": "https://en.wikipedia.org/wiki/Chronology_of_the_universe",
+      "previousSummarySha256": "225cefc54b6188bb454db30e30c0790127d084df8122a456e059561c3ab4ed60",
+      "summarySha256": "43953d83cdf71ca79a9b5581f8cc56963bdb27755d26f60c87f63f1d35b5d8f1"
+    },
+    {
+      "id": "event-0474",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "previousSummarySha256": "f2fc84838d817fa14fa886a23a585b098c951c5b81de1745073da31361a24176",
+      "summarySha256": "2abc1fed10aadfd72b92b60aa0b1eb234b3f3e275a2c70c5b839383bdaac4171"
+    },
+    {
+      "id": "event-0475",
+      "source": "https://en.wikipedia.org/wiki/Banknote",
+      "previousSummarySha256": "41ccac67bf93dfee472d271a3a76d31c783e0bb937c030e647ee03ced707cb20",
+      "summarySha256": "a29562417d238390a17684987cb3b220a449aa9ef29f1b7ba9dff6b233f86e90"
+    },
+    {
+      "id": "event-0476",
+      "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "previousSummarySha256": "73c93e678cf5014241a983d832eec63e4e3aa98822fb3258c18bfb97e7864ddb",
+      "summarySha256": "0ed6b9cc711a340643a9ca359727685ccf3b950572db6ec204e9a2ea57323027"
+    },
+    {
+      "id": "event-0477",
+      "source": "https://en.wikipedia.org/wiki/Pollution",
+      "previousSummarySha256": "e5f9d747cade6abe80195383db2c749fa484475115a03974b03fba74306e2544",
+      "summarySha256": "b46d5e3ae08ab2f819bef5420624f3bf06ab0c6dee6e3fc113de11717dc12118"
+    },
+    {
+      "id": "event-0478",
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+      "previousSummarySha256": "050e9c65a3053edd1433a112c82d6edda4e3eff5a7545ca12b34fc541d29cb66",
+      "summarySha256": "202ee54d5dc70c04590ad7c3b98ed85d57bbcd02c3a3cac44a68feac6b4015c1"
+    },
+    {
+      "id": "event-0479",
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "previousSummarySha256": "f74495473d279ff14ab371c320650d45f81bd31f9a8c400ceb2710ac6804aed2",
+      "summarySha256": "337613375dfbe35531e5c3c2d85cd99604ea5de6a5acc1a52f0804cc07e200d4"
+    },
+    {
+      "id": "event-0480",
+      "source": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "previousSummarySha256": "ae02e44c3319b7563c14bcd322d717f4a2d30adbadf051900cbecb8716f12a4c",
+      "summarySha256": "7e788fe0427b6d729088824442a26c7ace0609ed28a707839cd4f90fe7118138"
+    },
+    {
+      "id": "event-0481",
+      "source": "https://en.wikipedia.org/wiki/Mercantilism",
+      "previousSummarySha256": "ee0b83d0652118bff512a6c881aa3f810337e5970d77f3eb1621d22630f4d0f7",
+      "summarySha256": "22345cbe3786d123ee730d3574169eb7e9ccd32f459b621f1d1e08e061f57ac0"
+    },
+    {
+      "id": "event-0482",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+      "previousSummarySha256": "0d377ab62adbd9abeeb0632d630ffcea6d9ac99392be13309359f27b5fef240c",
+      "summarySha256": "f079d93fbe5e2101c3b2714d3d49c4657e5f19484c545aa764c438205e5aed51"
+    },
+    {
+      "id": "event-0483",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
+      "previousSummarySha256": "7146445ee195baa0195d3f3baeb0953442957910b2b4160237f58097f119b83f",
+      "summarySha256": "e26851ba30a3d564ee750e5ad2c78a585258405d7a6ebe1d6ef2e4eb403aeb03"
+    },
+    {
+      "id": "event-0484",
+      "source": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "previousSummarySha256": "ab5305654d3a8b55f517cf66bd46f3ba30b0b3360045e717c3e8afd2b42f2fe7",
+      "summarySha256": "76ae20434b48979cf5bffd59cb4ab2271e9e3c206f685b886d7ee2ac4f1a2bd1"
+    },
+    {
+      "id": "event-0485",
+      "source": "https://en.wikipedia.org/wiki/Microscope",
+      "previousSummarySha256": "1f5b47ed72f98e35df5f5bacf608780b038fd6cdbca6bd694fd99a411775d981",
+      "summarySha256": "2882eb755799471c561a66d38eff7936f011a00cb206e35bcf99bc27f866a261"
+    },
+    {
+      "id": "event-0486",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+      "previousSummarySha256": "2753e656572dd046721e93a6a46f63508fd57e64041c64779e923ebd784fca65",
+      "summarySha256": "38500e5cfa85e360ce257454cc928ae9a32cd28959c5e33b4fd524e9ca9b851c"
+    },
+    {
+      "id": "event-0487",
+      "source": "https://en.wikipedia.org/wiki/John_Harington_(writer)",
+      "previousSummarySha256": "fdf27f8010f7c5ee7987cf971c517424a014b1e409c701ff8d5e6fb229204e08",
+      "summarySha256": "ef3ab6eaa413565034155df43515fe4d77b663eaaf6bb0e9f12efd393474cd32"
+    },
+    {
+      "id": "event-0488",
+      "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+      "previousSummarySha256": "6250194e41980727b239dfd7297fe340c8e4c68b59b1c64d6f8a05db02e62c4c",
+      "summarySha256": "157e233bbd698ae4bf82a8b5e7ab7c27a565eb08cc973028fd0814114f6559ee"
+    },
+    {
+      "id": "event-0489",
+      "source": "https://en.wikipedia.org/wiki/Condom",
+      "previousSummarySha256": "a6b9a46370ac79b9b18c60858c959e9073236dc84696e75fd3e06aa3f3c549e4",
+      "summarySha256": "d64aec4670e03829e595a1dd156366664b2eab4ba030e581a948e535b4ca54e7"
+    },
+    {
+      "id": "event-0490",
+      "source": "https://en.wikipedia.org/wiki/Appian_Way",
+      "previousSummarySha256": "71e1956d8f7c65a6c1b8a58065feeab105175a7d6afbc71eaeb98a0fec5a3ffb",
+      "summarySha256": "b53b65df59e956716fd3326440935ef81bcd03d2cc18f45d54db085b21f94861"
+    },
+    {
+      "id": "event-0491",
+      "source": "https://en.wikipedia.org/wiki/Watermill",
+      "previousSummarySha256": "9d81d0d264aee1763ad8c97fb9058b8fb1151e419216a7803d8c7dd55cecc040",
+      "summarySha256": "60c887758db1b80d4b669d76d65e2e63c0f06b906c11ba251d29cb381620a3cf"
+    },
+    {
+      "id": "event-0492",
+      "source": "https://en.wikipedia.org/wiki/Windmill",
+      "previousSummarySha256": "62b1055359c36da11541abd3663a9f2c646e5af612eb9b3fc976b76a8d7643a8",
+      "summarySha256": "f9d17f70d790ab6f7f4aecddc2fa6017045c76acb296cd6ccb6a019cb25a4c0b"
+    },
+    {
+      "id": "event-0493",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "previousSummarySha256": "9e2b4d80a78ce2167a90e4941ac5f7836d554257da12c85276478a677260d448",
+      "summarySha256": "46795f565a42934fe6ee12c01a30206ddc5e2e2866e12d331fb6cf6a643dfadb"
+    },
+    {
+      "id": "event-0494",
+      "source": "https://en.wikipedia.org/wiki/Printing_press",
+      "previousSummarySha256": "cec73020cdd1a7d92d1fd9cdf5b0412fb6f9b3bb128f66ace82daf281a152c1e",
+      "summarySha256": "f4f04b31d7612580511f20695e851b5eae60aa14f4e17e8d6d19253c4a0023f5"
+    },
+    {
+      "id": "event-0495",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+      "previousSummarySha256": "d0d5d81aed460a297caa50445871d38ea2df4f4045daa140cfffbf982ba0ebdf",
+      "summarySha256": "7211cbdf7b4d6121c086a29e1288624bad0e2e58a5ffa786f000d2de0fdb35bb"
+    },
+    {
+      "id": "event-0496",
+      "source": "https://en.wikipedia.org/wiki/History_of_radio",
+      "previousSummarySha256": "711d03fa4fbe159b5ede6686088cae6b5d103f974c8401778e938759c5327f69",
+      "summarySha256": "408a0e44965e3d800a76d97e65029f87ac8261167192bc9dc38e26ebb9dc8cf6"
+    },
+    {
+      "id": "event-0497",
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "previousSummarySha256": "f873566b4a256bd0b11d60c878ce6c24daf4c877eb97c3dbc5fadba51195c49d",
+      "summarySha256": "80fa198597216def4c1c8fce199bd37a8732abe16a8b699b6201ce36d9c6d319"
+    },
+    {
+      "id": "event-0498",
+      "source": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+      "previousSummarySha256": "2ceafc94d1b9c76b8eb8ec70c878a9e82deb3ec26ceb9014b08ad17c4d6277ac",
+      "summarySha256": "20e6829429cfa7ba84f6fc9c90e31426653bb5a68386018f8589c8f2fbfcaa1a"
+    },
+    {
+      "id": "event-0499",
+      "source": "https://en.wikipedia.org/wiki/Space_Race",
+      "previousSummarySha256": "07a28f3412013e727183a02c5949766ad385c603844db201d84e600deeda8654",
+      "summarySha256": "209c96400ac7dd21a8ad409cc4d6a37b2f9e1ec0cbaad252db70e449fd00b064"
+    },
+    {
+      "id": "event-0500",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "previousSummarySha256": "0eeeb2925159bd616d29a0e30b3dc01a9c0c1efdb5dae483e81c9cf43f496f5f",
+      "summarySha256": "f683450c0d646cd5f3694e51b90d29e561e51b34e317e025f13e71f7cb01a87b"
+    },
+    {
+      "id": "event-0501",
+      "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+      "previousSummarySha256": "bd911e5b68716197add5dcf4ef289fcc5c31f72581f8640ac6288fdf6e049322",
+      "summarySha256": "5346109f78a339a3c815a465ccf8a79b1bf0fe82b1b7a1be38e0f7b8c5f0ef59"
+    },
+    {
+      "id": "event-0502",
+      "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+      "previousSummarySha256": "fd91de93eaee9dd6c678d512b328617bbe081c2152a46b47e05a4b9c794d7f42",
+      "summarySha256": "2ca602fec062d5bea27cf31fc1f4e0e62e314fc536caebbef0c844bd9ad44ff5"
+    },
+    {
+      "id": "event-0503",
+      "source": "https://en.wikipedia.org/wiki/The_Simpsons",
+      "previousSummarySha256": "29ab814153c1d2138110ff911753f2eaf1b3fa5696094f458f2a9ed2f6f7dfd5",
+      "summarySha256": "49e66c6b0cfcfc94a036ed448b9dfbf7a1d91f9686f6718c11fe10d80afeb800"
+    },
+    {
+      "id": "event-0504",
+      "source": "https://en.wikipedia.org/wiki/Drake_Well",
+      "previousSummarySha256": "b4c13a4d5d55183d715d56fcfb7f9502f4b22b7c6595c04f37c9d68365cca5e7",
+      "summarySha256": "f08991d36c11f7c14f0ac0c90ddb73a9963a01869cf8310d5774990ec3f17b7e"
+    },
+    {
+      "id": "event-0505",
+      "source": "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+      "previousSummarySha256": "472ac1688ff099b7cf331d3503116612e580eb9ff7484a00b60b209106e5769a",
+      "summarySha256": "1f730e3fadf2637ed4ed032d81bc8ac682ae711625bd55c36d14d62cf283afac"
+    },
+    {
+      "id": "event-0506",
+      "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+      "previousSummarySha256": "e6a64f7e5bdc61ef9bfb30f2182754328bfce3096cb399f7c81fd8d62d145b35",
+      "summarySha256": "bb43475fc58458cd48df1a03cf9462a9556586de526d2ac5182086009b39ee95"
+    },
+    {
+      "id": "event-0507",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+      "previousSummarySha256": "830f151063212d2c677112b4b243205c23c9370cdc63f2e82587e3e27b00364e",
+      "summarySha256": "0058c2f50691a099b45af0745bf8fc52bacf871f2b726a16e83447ca8dfbbcf2"
+    },
+    {
+      "id": "event-0508",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+      "previousSummarySha256": "29d1cf961ab9c652a19efda009dba52ac5794cc5789af788ef857d8dce75c582",
+      "summarySha256": "8fcd69b8b1eb9c58bb3d7c0fbcbeb5c5ff70fe010526fe68b38d9e2b8eb4d0e4"
+    },
+    {
+      "id": "event-0509",
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "previousSummarySha256": "6ab14a7da87f2addc1b6faa007d3d6701cb39891a80e8da24c77a265e2a6755b",
+      "summarySha256": "0675e965cd85ddaa70bd87f1d5a4567808a4af9338be1f0489c4e8394a5f4abe"
+    },
+    {
+      "id": "event-0510",
+      "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "previousSummarySha256": "9f3e414b4273d8877916fa8240c0bea8d3c223c0e76c7485a735eff29e0d8c90",
+      "summarySha256": "8510d65ca2fe63610989747ed678d5eae6bdebeaea26781bb798d79e82633d02"
+    },
+    {
+      "id": "event-0511",
+      "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+      "previousSummarySha256": "02bff4911eaf114968cb3d42b33b0f3ad63179d4cb237bd2712f0dfff57bd94b",
+      "summarySha256": "f35e1ada73a6cee6193852544f482b25ccdad0d858a645ab669301de6c9ffb39"
+    },
+    {
+      "id": "event-0512",
+      "source": "https://en.wikipedia.org/wiki/Green_Revolution",
+      "previousSummarySha256": "7d44ede04807a59f2a7e9286ab8beab4c0382e5983606b12adeab7ad63ce67b3",
+      "summarySha256": "e9b209f7b6234cb35c214cd7199158a0f19bec5675cdbd0434ac4cd7e81e7490"
+    },
+    {
+      "id": "event-0513",
+      "source": "https://www.un.org/development/desa/pd/content/world-urbanization-prospects-2018-revision",
+      "previousSummarySha256": "7d402563b229b25f310f2d5841e07b8503239115f61fba65b9b72dc40ddff817",
+      "summarySha256": "83c0a22f4341f113b505d814b39ad33c396cceefd6cad5b5feaa3382ed9b90da"
+    },
+    {
+      "id": "event-0514",
+      "source": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "previousSummarySha256": "60b4349cf32c37abef42de6e3bc137e8830f3e950fe55958abcd646a00aa6bb1",
+      "summarySha256": "7379ae37f2f412174a2b41c4a4450f10846addaf4936702f91c5b936cba35305"
+    },
+    {
+      "id": "event-0515",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+      "previousSummarySha256": "95fcc36b7a6a95eca83e000ca5a7fc69860ba02892943adb1016ef1c64ef24ca",
+      "summarySha256": "ed50208f586fcb11164d1ae2a80896d0aad858363cf80e15bccff7cf8f3d3433"
+    },
+    {
+      "id": "event-0516",
+      "source": "https://en.wikipedia.org/wiki/Pasteurization",
+      "previousSummarySha256": "423cc72e4d009798484440d35dc4999d02384083e9d85e39cff62d370b8569ce",
+      "summarySha256": "b52b44417fe9d886cf8369d1cd905663f13057463dd8489c02c36b964435f529"
+    },
+    {
+      "id": "event-0517",
+      "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+      "previousSummarySha256": "194df7b8aa332c6b5bb763b07e963610460c436f723392bf6d44daf266bdd66a",
+      "summarySha256": "fa24b1bcd3c094a79042a95f074c46f995b83f8db0c30aa497b4ee6fa20643a6"
+    },
+    {
+      "id": "event-0518",
+      "source": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+      "previousSummarySha256": "323b98a6c75167f043bd73c30c93a8b79e7b4b884de65b47de648d265b658bc5",
+      "summarySha256": "604e1978ad1534d1d2b8630d57ae51a550336ccc2f4fef3c443fd652d72b11fb"
+    },
+    {
+      "id": "event-0519",
+      "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "previousSummarySha256": "13f8a42006a8ec057c55d5c0ca751c2296444c62d8edfc80ba9b9e239b2cfd7a",
+      "summarySha256": "54c038d72a00e7faa894afc8527a8a88b81f300de9c7bc3a33b2d3c2c742494e"
+    },
+    {
+      "id": "event-0520",
+      "source": "https://en.wikipedia.org/wiki/Kuomintang",
+      "previousSummarySha256": "96d3f1cf41b8210f83dc334337923e75257c5cc8402b103739eb84e1337eca14",
+      "summarySha256": "5f89bf02a7f5e07942d5b635894bf791e2d930b23581927b5a7b717833386de7"
+    },
+    {
+      "id": "event-0521",
+      "source": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
+      "previousSummarySha256": "a1c147681cceadd651e857da7df75d3ac5c74fa973b6f04c23d10bce8019b8f2",
+      "summarySha256": "8f8267bf76d38c1016eb7c89bef512879b45b5ad624f0de7fcb43d7322581ea2"
+    },
+    {
+      "id": "event-0522",
+      "source": "https://en.wikipedia.org/wiki/Disco",
+      "previousSummarySha256": "9fab80e02612cf3db1bbe53adbef4ef0b27fea967b13986358a9b3d8d431295e",
+      "summarySha256": "79c4cf2d3dc525e0d7fa33215b0fbe45f61a8a9e9fca50fa4464f3ae901e9607"
+    },
+    {
+      "id": "event-0523",
+      "source": "https://en.wikipedia.org/wiki/Rock_music",
+      "previousSummarySha256": "b0cd9f20af2e890724f841f24be3327b1c5b654c3509f3ad91ed10485d872bb5",
+      "summarySha256": "99f2891f1bb4aa60ae670cb55b8e70e2cc33486ecd4c2bcb365d909280792745"
+    },
+    {
+      "id": "event-0524",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles",
+      "previousSummarySha256": "6046d78e738606fa0205372ed84e15b4e75980304bbd375b0b80db5b7f357818",
+      "summarySha256": "7c2ce0f2ee9191d04da9b43969a45c8df4e073c33525dc0dd3fe879060bd7a1a"
+    },
+    {
+      "id": "event-0525",
+      "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
+      "previousSummarySha256": "23d02aab323dab72f98fcf1dba4dcba39ba78d5554588d7adc0b3c0022ed8d07",
+      "summarySha256": "2c26f343c56b9ab8013fa450c5b38dee5cdeb6a87e3bc5a8e618585fff7a8038"
+    },
+    {
+      "id": "event-0526",
+      "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
+      "previousSummarySha256": "8e1d7f7cb768301ef0d2b80a79e4b309a16fdd218845fbb69d2c6083d013da88",
+      "summarySha256": "93b57176fc8c3bfb8c771e3fca8d2a533116665b33c3a2beb87cdd3900c1b9fd"
+    },
+    {
+      "id": "event-0527",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "previousSummarySha256": "04c55d1f50ec4c27f43ef963e4c2423cdf014d09b1fa1e66da8db6be6b176e50",
+      "summarySha256": "d7d94fda0e0e2d2c42ec89daf43bbeb0396ef1315a9b2a5105f9314b5e22d046"
+    },
+    {
+      "id": "event-0528",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "previousSummarySha256": "04c55d1f50ec4c27f43ef963e4c2423cdf014d09b1fa1e66da8db6be6b176e50",
+      "summarySha256": "a47774571a33e5c081c039808fd2663fb3d7b18e4a88028863dc462c33295172"
+    },
+    {
+      "id": "event-0529",
+      "source": "https://en.wikipedia.org/wiki/Cryogenian",
+      "previousSummarySha256": "a5df263d20fe9b96259cafcfef88e1e37e10e8d6ee25e62fc7132cb98b2000f8",
+      "summarySha256": "e4897ee3a5f00315317617d1f0aa46b60d6114bf08608de84f1116f8adbe2c3f"
+    },
+    {
+      "id": "event-0530",
+      "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+      "previousSummarySha256": "0e40e3a4691232e54c898015e33d2808cc2695ade6139b55c86e8f6beadc40bf",
+      "summarySha256": "7fd781ce40962f568a1b346eaaafa72934208638bb3033c7086d59e6efa1db36"
+    },
+    {
+      "id": "event-0531",
+      "source": "https://en.wikipedia.org/wiki/First_Chechen_War",
+      "previousSummarySha256": "c0cbee1645e2b1e1b5fe8eae5d3ee49e35b52109dce14994c6b0c673a8ba049e",
+      "summarySha256": "cde8d86c5a2f84e7eefb37129cf8a1e0959dc56e5e9622db3b18666b10c8aec5"
+    },
+    {
+      "id": "event-0532",
+      "source": "https://en.wikipedia.org/wiki/Drake_equation",
+      "previousSummarySha256": "75bcf679c3a434ccae8c36b391eb4ff54c08f5ef229267b70ab296fab804a468",
+      "summarySha256": "d107b0a68d46acbbfbba0910d0742d073e828782a9531c58463f327bebc1cbac"
+    },
+    {
+      "id": "event-0533",
+      "source": "https://en.wikipedia.org/wiki/Panmixia",
+      "previousSummarySha256": "baa6f691921c05a930052c764ffedb5585f8000e8375bbf1e6579f91ab175721",
+      "summarySha256": "2bbc4b04850a5adf1dd7704a64a7ad01c6dbd51ef38f05556ed481c364feb03f"
+    },
+    {
+      "id": "event-0534",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "previousSummarySha256": "05f941377c19924554e77d96ffa9c572c5ad002fe8b46759116ef70d041766ef",
+      "summarySha256": "40a5a0a9df3b64c9ef1155b86d17169fc983d5279ecfba333b374b5bba6210a6"
+    },
+    {
+      "id": "event-0535",
+      "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+      "previousSummarySha256": "371941936c63f9e4769d52853a36e53960cf33c4d6311d920afbaca7173bac6b",
+      "summarySha256": "7f7befb43207506f7be80db7f464c0d10ced6be07c5b8ee7aacc237ceaa67afb"
+    },
+    {
+      "id": "event-0536",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "previousSummarySha256": "64776c4d737fbf3a239ca1c201725a91146b6342c1e1752b84d0a3ad30c1556e",
+      "summarySha256": "6f88846b4afaf73638fc2ac3178fa32818c9d9ae3d4ded5c78108e7f0462650d"
+    },
+    {
+      "id": "event-0537",
+      "source": "https://en.wikipedia.org/wiki/Space_weathering",
+      "previousSummarySha256": "ec023d3a731bfafbe3529e7c474c489854b7c43ec8c269b479b2d653adff7301",
+      "summarySha256": "967bce4fee57256e91bc1295bbe63459f6b31ce8bb8aba45bbdb35fcacc05bd2"
+    },
+    {
+      "id": "event-0538",
+      "source": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "previousSummarySha256": "b23067dc25b6d9067730b7ff5cc7b3f001a0475385454561071512987b37c88d",
+      "summarySha256": "6cdf63ca87c72ac6dcc26aad8caccddd159e3f0c380a73aadb6450788e7c8c88"
+    },
+    {
+      "id": "event-0539",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "previousSummarySha256": "f995428ccb914d1c43503e39e33736aa2ddb188e703589d670a984b29918d63f",
+      "summarySha256": "e0c72812255b92d16f72b9b798e7f29a42066b2b2d750b79c14df1c6a431ab8f"
+    },
+    {
+      "id": "event-0540",
+      "source": "https://doi.org/10.1073/pnas.0407921102",
+      "previousSummarySha256": "8389845d5d00da6bde914c56ae851597802661f0bd22c67f9a9f13d786bda860",
+      "summarySha256": "b8b3a51b5e1144c7946172eda4733b28925de172eba61de4f1dce5b38050790a"
+    },
+    {
+      "id": "event-0541",
+      "source": "https://en.wikipedia.org/wiki/African_humid_period",
+      "previousSummarySha256": "32e98f4a3915b6c133ca0cfa465ec64415ca181994aa72b92ae067805c82c070",
+      "summarySha256": "509cb260387900a41bfea6ba15a5a622eba3118dddad77b1e55714428461e27e"
+    },
+    {
+      "id": "event-0542",
+      "source": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+      "previousSummarySha256": "782bf10bdefbcfcc003670eb5e5764a4a5da9a696d6456de98aa2463305adda1",
+      "summarySha256": "d8125af61fce95f7d29d361ef62b22a9f46751c6d4920645c406a530826d02de"
+    },
+    {
+      "id": "event-0543",
+      "source": "https://en.wikipedia.org/wiki/Galactic_year",
+      "previousSummarySha256": "4ef2ec2987b66b17ab5c11061e3b88f19b0d8d4f4988cc2c319b1b570470c36a",
+      "summarySha256": "72d28ad0473200c898ffec353f326801d8bdf0cbbda277de89d8886547e5c3e6"
+    },
+    {
+      "id": "event-0544",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent",
+      "previousSummarySha256": "9a9744f1d737c66bc449ce77db726714be2bcba39c3a499d34f47c8689fead73",
+      "summarySha256": "8a612d5ea5d395c750b2a7812f918829393451d7c4d251441968c7fdbd3a636f"
+    },
+    {
+      "id": "event-0545",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent_cycle",
+      "previousSummarySha256": "1e30e01724f19c86eb560ad8aacffe1a4567387604598d6c119189d5afab2948",
+      "summarySha256": "46cbf5584f0fd0290b7e4b87ce880b61b26ca9ff75a73931b49646cabf2b901e"
+    },
+    {
+      "id": "event-0546",
+      "source": "https://en.wikipedia.org/wiki/Future_of_Earth",
+      "previousSummarySha256": "d7c8825894e9ad8057c049efc2c6d480b0014ad89b1ec50bfc884b4d32cafca6",
+      "summarySha256": "e3634712de31b82a6e2c31fade73e9e01611953e008262bff2edbbdcd5d642b2"
+    },
+    {
+      "id": "event-0547",
+      "source": "https://en.wikipedia.org/wiki/First_Red_Scare",
+      "previousSummarySha256": "5bb468ae41f644a07c2b23d01c1fc691b41f7c502617051382f633c995ff1c4d",
+      "summarySha256": "a51186d30f0b02543ee824961353e286aea0d3c2ade38eed5de2eb0dea31c7ba"
+    },
+    {
+      "id": "event-0548",
+      "source": "https://en.wikipedia.org/wiki/McCarthyism",
+      "previousSummarySha256": "cfc5da82585a6adf4852779ebc4d0645df683fbc7262ac1ad468299dcacc3906",
+      "summarySha256": "b4c5acfc858b3a4e5d54b6102a58aed906375786082c229a46b35d28eecb433a"
+    },
+    {
+      "id": "event-0549",
+      "source": "https://en.wikipedia.org/wiki/Hannibal",
+      "previousSummarySha256": "a59c120cbe3a34097c61ab032c245cbbfbf4601a5deaae1e73fbada03a41efbc",
+      "summarySha256": "4f00c87250202fbdd949df60ed035e276b86d40057a27115cee4e2f2260852a5"
+    },
+    {
+      "id": "event-0550",
+      "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+      "previousSummarySha256": "29ea063507e00ee3f0ffa26f406a7829eff881fcd5603e6e95a676f38b95a209",
+      "summarySha256": "db378337191a11a48d27fcb63706fb4a4d1f723e6713c5c8162e253a0214549e"
+    },
+    {
+      "id": "event-0551",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+      "previousSummarySha256": "8912480a3f6bfcdf43e492851ccc5a0ca659c5e0eeff24073c93fbf69be5ed19",
+      "summarySha256": "de56da8ba5d8d70b40f6a5b037a1b466590b1ae137346bd0ba3255acdc2a5752"
+    },
+    {
+      "id": "event-0552",
+      "source": "https://en.wikipedia.org/wiki/SPQR",
+      "previousSummarySha256": "a797ffc0ac42d8abfe5bc7b6aa0a480855a92400591d32eed97eb6a5782b298c",
+      "summarySha256": "0c02adf2d91e2e94e9a49b36aca90d17f5b9e93520380c4d86a3adf1a046d9da"
+    },
+    {
+      "id": "event-0553",
+      "source": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "previousSummarySha256": "16d7f87fc0d7011c62bf80aad38ab3668e2fbe9490078dbf774599457dc07466",
+      "summarySha256": "64c822a8d009cb00391e4da9b308d09a6c01ccefa97d53c638be46fb119de600"
+    },
+    {
+      "id": "event-0554",
+      "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+      "previousSummarySha256": "a41585271e466b1c12a045983d3db84bfeacd2fd8a4912d46fe0e09dcf723b8f",
+      "summarySha256": "23c8c91598a9e4f9f13e27c576b94d74150c36ef545268b2b9bd4418d3c15455"
+    },
+    {
+      "id": "event-0555",
+      "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+      "previousSummarySha256": "be04086dab3110d0ef1f85baf9931f185075c45a57a2bd19c6199aaf63ab1bab",
+      "summarySha256": "0e89f35586a3661660292b8d026eebffa5db5f7b17da475bfa5256ec65f15b04"
+    },
+    {
+      "id": "event-0556",
+      "source": "https://www.nature.com/articles/nature12960",
+      "previousSummarySha256": "7709a63c71167095b4f356438d921b29d9dd31b1208e27bcf7a69d308c2eb90a",
+      "summarySha256": "aa57d37311a96deaac6ba6ac1e8e69f4c3e74f97e5e686138755a64d34a80a44"
+    },
+    {
+      "id": "event-0557",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+      "previousSummarySha256": "774c5af1bc6cb240d2b02475a8e3e93b9c4d8c37a580dbb33a7f91817b93ee23",
+      "summarySha256": "78497f96c3aa899b37b9523daa4bc01338fb433be1243dcc652c6d8dff26063d"
+    },
+    {
+      "id": "event-0558",
+      "source": "https://en.wikipedia.org/wiki/Epipalaeolithic_Near_East",
+      "previousSummarySha256": "e754cc6a30b579b7f8fe73275d9a8a505b963ac6df7bae8f82726931ef080430",
+      "summarySha256": "681d47448cca60d20ef77a57cda5a910ef4bde77fde6d4fde7b8d687762354db"
+    },
+    {
+      "id": "event-0559",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+      "previousSummarySha256": "482698c1a2a651ba4f4157aa848957d6204b134aaf4c9496dea0710e262fd848",
+      "summarySha256": "a834f0f6b075221e14ad6c30bacedc0fa4daa8b1b0abe95f7ab9cb8e772df825"
+    },
+    {
+      "id": "event-0560",
+      "source": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "previousSummarySha256": "6ea5a443ebbdd6aa62c032cfbce253fc64ee3e3a04f823bac0bce8c8c1f1c14b",
+      "summarySha256": "b6bed75c21a90afd17c3b259b56592434ad5d513f9a4494a73598ac241acc3a3"
+    },
+    {
+      "id": "event-0561",
+      "source": "https://en.wikipedia.org/wiki/Minecraft",
+      "previousSummarySha256": "80e51f81a42e95c1e1c512136577bc23c94e2548c13e66a2c67eaf4c6aa4cd14",
+      "summarySha256": "f28f11462490b3d561787155a160b9e6cc15cf2280d3336e957cc0978ec38290"
+    },
+    {
+      "id": "event-0562",
+      "source": "https://en.wikipedia.org/wiki/Carl_Menger",
+      "previousSummarySha256": "92ffdd7ec24a72d35137087c0305f0d61cfb5951cc9e3c1cea6224b8f4897421",
+      "summarySha256": "87619895966e5ab586c183155d6fc1f9a58aab35afc1ebcef33c7fc4b9c08778"
+    },
+    {
+      "id": "event-0563",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+      "previousSummarySha256": "5101fcbab44474087d3f46058b2879543ec4476d4521a1cc8b2ad078d112ad93",
+      "summarySha256": "80d2ca9d7b8cb458b49f44f400f395aae59cf99478d56864003d211701354f49"
+    },
+    {
+      "id": "event-0564",
+      "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+      "previousSummarySha256": "95f913dca78777138a392db344e147898c12019f36efcdb5141df0aef4a200e6",
+      "summarySha256": "76093cdc29cf1b21f86dcaecfd2426506ef0a4e1290f609668e0547ab4e1de85"
+    },
+    {
+      "id": "event-0565",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "previousSummarySha256": "028e434d0b214a6baafde3a4c9a67496f96559df86e94b8c6928770c37fe1036",
+      "summarySha256": "cc6fe45d49214af990e7f35a30219c33150f5d2c1ea18ba10d57d3e76060d513"
+    },
+    {
+      "id": "event-0566",
+      "source": "https://en.wikipedia.org/wiki/WikiLeaks",
+      "previousSummarySha256": "40f31f87ce230a5b90aae6851ce81196dc5be5aa310e683dec316ed012779a6a",
+      "summarySha256": "c433408657c9363bf4e944e2aa7f3e4352b84fee008c2ec26ffeed783c8992c4"
+    },
+    {
+      "id": "event-0567",
+      "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
+      "previousSummarySha256": "8ed2c5f55a52d4367ed3fcd3d8fa514545e9d5aec0020eb2c8f2381539fb1a51",
+      "summarySha256": "d8d79464cc8ab8939a96eb3029dc8f069399cef3bf2b7cdcbfeea18f5355c67e"
+    },
+    {
+      "id": "event-0568",
+      "source": "https://en.wikipedia.org/wiki/Julian_Assange",
+      "previousSummarySha256": "82b2d8c2df6bd0a99635e62ff25d6b343ab739d01564cfbe1a4f57bb61b0f417",
+      "summarySha256": "2a7c7f30020ec9976ffd70a2f364cdce262fdb64d9cb6724ff56b411fb587f41"
+    },
+    {
+      "id": "event-0569",
+      "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+      "previousSummarySha256": "3268dae7af7cb03cf3d3f31bfa31c4fcd33a21c3e7dde59b1c57dd05ed401617",
+      "summarySha256": "bfd6c5ef60e7deecd5e6c2e2231eb2df361e0ccca984a12459a8c9bba23063f5"
+    },
+    {
+      "id": "event-0570",
+      "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+      "previousSummarySha256": "286384dca4396a90a46be008d25c69fcad41f4f90df13a8b0d43513a7bc257b7",
+      "summarySha256": "a7c70c238e19578dab75414397399600b137d5fa1472071721007f26a3358029"
+    },
+    {
+      "id": "event-0571",
+      "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+      "previousSummarySha256": "1293253583cb380d988b9dc571e6e0c33c7353ea9b951d9c5db4fd52b7e2b674",
+      "summarySha256": "3520a86c3080e6e8dbac89a4d5d1627ae5b617cea4397c2010b502e256876ed7"
+    },
+    {
+      "id": "event-0572",
+      "source": "https://en.wikipedia.org/wiki/Colour_revolution",
+      "previousSummarySha256": "ac88c41904beacbeb108ad9c6e2d7bed28f6979d788c54efb720abfd2a584c5c",
+      "summarySha256": "3112e0bd4cb7fa7d3ef91614cb1c8e1aea24295f6598cffce0a4d6fd683905e0"
+    },
+    {
+      "id": "event-0573",
+      "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+      "previousSummarySha256": "480c273b371506acc8d42915e0be0745072032ff65439dac9a236555e8738c7f",
+      "summarySha256": "0ba6e3cf93b157ef3c6f293f5195c5959c599e776bad485bdfc8ee93bbaea3f8"
+    },
+    {
+      "id": "event-0574",
+      "source": "https://en.wikipedia.org/w/index.php?title=1804_Haitian_massacre&oldid=688360926",
+      "previousSummarySha256": "f19f7b5a53579687ab1088b0f28976ad73845fe3c19327739d7384c2c4647120",
+      "summarySha256": "39440bc8dcfddeecfbe99dc05c3842f7f40c8fb0c50a932bd842c31325013c99"
+    }
+  ]
+}

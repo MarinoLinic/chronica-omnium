@@ -2,6 +2,8 @@
 
 Updated 24 October 2026. This pass completed names, introductory summaries, and source links for all 574 original records. It did not certify every imported historical claim. All records retain `review` status; none was automatically promoted to `ready`.
 
+All 574 reader summaries were individually rewritten as short, plain explanations. The source-card/Wikipedia lead sentences are background evidence, not the published one-liners. Pronunciation guides, alternate-name lists and unsupported superlatives were removed from the summaries. `data/reports/reader-summary-review.json` records the review and two spelling corrections, Hammurabi and John Maynard Keynes. Earlier authored files are preserved in `.local/history/`; dates and statuses were not approved by this prose edit.
+
 There are 544 dated records and 30 deliberately undated records. Missing names, sources and summaries are now zero. The compiler reports 547 research/reference warnings and zero errors: 362 unreviewed event locations, 45 uncertain date ranges, 30 undated concepts/scenarios/claims, 10 retained dubious flags, 85 unset time-scale colors, and 15 legacy ranges outside their parents. These categories describe checks, not independent errors or a percentage of factual accuracy.
 
 ## Changes supported in this pass

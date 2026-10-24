@@ -5,7 +5,7 @@
   "slug": "first-browser",
   "status": "review",
   "name": "WorldWideWeb browser",
-  "short_desc": "WorldWideWeb (later renamed Nexus to avoid confusion between the software and the World Wide Web) is the first web browser and web page editor.",
+  "short_desc": "Tim Berners-Lee develops an early web browser that can also edit web pages.",
   "long_desc": null,
   "start": 1990,
   "end": null,

@@ -10,7 +10,7 @@ export default function DateLabel({ year, children }) {
       <button
         type="button"
         aria-expanded={open}
-        aria-label={text}
+        aria-label={formatYear(year)}
         aria-describedby={open ? tooltipId : undefined}
         onClick={() => setOpen(true)}
         onFocus={() => setOpen(true)}

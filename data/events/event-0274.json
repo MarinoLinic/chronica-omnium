@@ -5,7 +5,7 @@
   "slug": "gregorian-calendar",
   "status": "review",
   "name": "Gregorian calendar",
-  "short_desc": "The Gregorian calendar is the calendar currently used in most parts of the world.",
+  "short_desc": "A calendar reform corrects the drift of the Julian calendar and becomes widely adopted.",
   "long_desc": "Gregorian calendar",
   "start": 1582,
   "end": null,

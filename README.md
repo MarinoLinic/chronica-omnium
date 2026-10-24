@@ -15,7 +15,7 @@ Open the printed loopback URL, normally `http://127.0.0.1:5173`. The first insta
 
 ## Read and explore
 
-The chronicle has a compact period picker, previous/next period controls, search, and type/field filters. The list is virtualized and images load lazily in reserved spaces. Hover, focus, or tap a date for elapsed years and approximate **25-year generation equivalents**. These are time comparisons, not genealogical claims. Positive years omit CE; negative years retain BCE.
+The chronicle has a compact period picker, previous/next period controls, search, and type/field filters. The list is virtualized and images load lazily in reserved spaces. Hover, focus, or tap a date for elapsed years and approximate generations ago, at **25 years per generation**. Event pages also show this beneath the date. Positive years omit CE; negative years retain BCE.
 
 Event pages show the article and selected image together after loading. Sources, image credits, revision/retrieval details, text download, and print controls are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 
@@ -57,6 +57,8 @@ npm run data:build
 ```
 
 Source cards go to ignored `.local/research/`. `--cache` writes attributed introductions to `data/content/` and lead-image metadata to `data/enrichment/`. Infobox values are proposals to inspect, not normalized historical facts. Check redirects, article scope, calendar, precision, qualifiers, and references. Pinned `oldid` sources are never replaced automatically.
+
+Write `short_desc` as one short, plain sentence explaining the person, event or idea. Research-card summaries are drafting aids. Do not copy a Wikipedia opening with pronunciation guides, alternate names, birth dates or lists of titles. Keep uncertainty when it matters; retain the longer attributed background separately.
 
 An authored `image` is a deliberate choice and takes precedence. Otherwise the reader uses the stored Wikipedia lead image. Clear the image field to return to that stored choice. It hotlinks a sized remote image first and retains the original and attributed local cache as fallbacks. The explicit cache command downloads only recognized reusable licenses; external hosts, unsupported licenses, and failures stay in reports. Builds never refresh images. The site’s system fonts work offline; maps load external OpenStreetMap tiles only when requested.
 

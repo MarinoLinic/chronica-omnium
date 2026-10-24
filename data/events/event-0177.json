@@ -5,7 +5,7 @@
   "slug": "caesar-is-assassinated",
   "status": "review",
   "name": "Caesar is assassinated",
-  "short_desc": "Julius Caesar, the Roman dictator, was assassinated on the Ides of March (15 March), 44 BC, by a group of senators during a Senate session at the Curia of Pompey, located within the Theatre of Pompey in Rome.",
+  "short_desc": "A group of Roman senators murders Julius Caesar.",
   "long_desc": "Caesar is assassinated",
   "start": -44,
   "end": null,

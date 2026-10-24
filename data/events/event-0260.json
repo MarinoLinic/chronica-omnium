@@ -5,7 +5,7 @@
   "slug": "magellan-expedition",
   "status": "review",
   "name": "Magellan expedition",
-  "short_desc": "First voyage around the world (Ferdinand Magellan)",
+  "short_desc": "An expedition begun by Magellan and completed under Elcano sails around the world.",
   "long_desc": "Magellan expedition",
   "start": 1519,
   "end": 1522,

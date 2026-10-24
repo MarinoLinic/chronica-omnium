@@ -5,7 +5,7 @@
   "slug": "julian-calendar",
   "status": "review",
   "name": "Julian calendar",
-  "short_desc": "The Julian calendar is a solar calendar of 365 days in every year with an additional leap day every fourth year (without exception).",
+  "short_desc": "Caesar introduces a solar calendar with a leap day every four years.",
   "long_desc": "Julian calendar",
   "start": -46,
   "end": null,

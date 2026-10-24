@@ -4,7 +4,7 @@ Updated 24 October 2026. **The engineering overhaul and requested public-reader 
 
 Workspace: `C:\Users\marin\OneDrive\Documents\My Programs\chronica-omnium`
 
-This continuation started from commit `46fc4bf` (`Sol updates`), which already contained the previous overhaul. The earlier handoff is preserved in [archive/HANDOFF-2026-10-24-baseline.md](archive/HANDOFF-2026-10-24-baseline.md); the original interrupted handoff remains in the archive too. All new changes remain uncommitted. No migration restart, reset, renumbering, deletion of user material, commit, push, deployment, account change, or backend was performed. Original files under `src/resources/` are unchanged.
+This continuation started from commit `46fc4bf` (`Sol updates`), which already contained the previous overhaul. The earlier handoff is preserved in [archive/HANDOFF-2026-10-24-baseline.md](archive/HANDOFF-2026-10-24-baseline.md); the original interrupted handoff remains in the archive too. Commit `2ff06b9` (`Big update`) appeared while work was underway and contains the broader overhaul. The latest summary edits, accessibility refinement and accompanying documentation remain uncommitted at this check; inspect Git before continuing. The agent did not commit, push, deploy, restart the migration, reset, renumber, delete user material, change accounts or add a backend. Original files under `src/resources/` are unchanged.
 
 ## Start here
 
@@ -38,6 +38,8 @@ A separate local `EPERM` replacement failure occurred while a Vite reader reques
 
 Atomic JSON replacement allows a bounded roughly nine-second retry for short Windows/OneDrive holds. Public-data temporary writes are staged in ignored `.local/staging/`, so failed temporaries cannot be copied into the production site. Failed-write evidence is retained under `.local/staging/` or `.local/failed-writes/`; it is not automatically deleted. A persistent replacement error still fails clearly rather than overwriting in place or claiming success.
 
+Vite watches generated imports again, so a CLI data build can refresh its catalog module without restarting the server. The compiler publishes these imports only after all public detail files have been written. Canonical data, public outputs, media and ignored working storage remain excluded from file watching to avoid redundant reloads.
+
 ## Public reader completed
 
 - Shared warm-paper/system-font theme in `src/styles/reader.css`; Unicode-safe Segoe UI/system sans and Georgia headings. The Google Fonts request was removed.
@@ -46,13 +48,15 @@ Atomic JSON replacement allows a bounded roughly nine-second retry for short Win
 - `/catalog` remains available under Tools, rather than prominent unfinished-record navigation. The production catalog has no local editing controls.
 - Event loading retains the previous complete story while the next JSON and chosen image are prepared. Aborted/stale requests cannot replace a newer story. Initial loads use a loading state; complete failure uses a placeholder or retry message.
 - Record/image/text provenance, editorial state, revision/retrieval metadata, period citations, download and print are in the closed Sources disclosure. Scientifically meaningful date uncertainty remains visible. Pure import/precision boilerplate is kept out of the heading.
-- Date hover/focus/tap details show elapsed years and explicit 25-year generation equivalents, including BCE. Positive years omit CE. A mobile tooltip stays within the viewport.
+- Date hover/focus/tap details show elapsed years and generations ago at 25 years each, including BCE. The native `title` was removed so it cannot overlap the custom tooltip. Event pages show the same estimate beneath the date, labelled as the start/earlier bound when appropriate. Positive years omit CE. A mobile tooltip stays within the viewport.
 - Main and context charts use native SVG with shared date and bounded image-export helpers. Both main orientations remain linear. Subject grouping and chronological packing are available. Context subject groups include every populated category in the window, including companies, books and organizations; no empty cards are shown. Deep-time entries such as Big Bang have no context charts.
-- The chart-engine removal eliminated roughly 510 KB of JavaScript. The expanded catalog remains a deliberate data chunk, with redundant/empty optional summary fields omitted and article bodies fetched separately. The final data chunk is about 456 KB raw / 102 KB gzip, below the default chunk-size warning. Vite may print informational plugin-timing diagnostics for copying the local cache on OneDrive.
+- The chart-engine removal eliminated roughly 510 KB of JavaScript. The expanded catalog remains a deliberate data chunk, with redundant/empty optional summary fields omitted and article bodies fetched separately. With the shorter authored summaries, the final data chunk is about 413 KB raw / 83 KB gzip, below the default chunk-size warning. Vite may print informational plugin-timing diagnostics for copying the local cache on OneDrive.
 
 ## Data and source work completed
 
 All **574 original records** remain. All now have names, introductory summaries and source links. There are **544 dated records and 30 deliberately undated concepts, scenarios or unsupported claims**. Every record remains `review`; none was bulk-promoted to `ready`.
+
+All 574 introductory summaries were individually rewritten as short explanations of the subject or event. They do not reuse Wikipedia opening sentences with pronunciation guides, alternate names or birth-date lists. Material uncertainty remains explicit; old unsupported superlatives are not repeated as facts. Earlier authored files are backed up in `.local/history/`. `data/reports/reader-summary-review.json` records each summary hash/source and the spelling corrections Hammurabi and John Maynard Keynes. This prose pass did not change dates or review status.
 
 The 119 previously undated entries received scoped research and interpretation. The user approved Hungarian Revolution of 1956, two separate Chechen-war periods, Cold War nuclear competition, and Buchanan’s 1992 speech. Thirteen unnamed future placeholders now have cautious descriptive names without invented absolute dates or extinction probabilities. General background matches are recorded separately from claim-specific date review.
 
@@ -88,6 +92,7 @@ Verified locally on Windows with Node 26.7.0, using Node 24 as the documented/CI
 - Original resources unchanged; original IDs/archive hashes verified. `git diff --check` clean after formatting cleanup.
 - Production QA at desktop 1280 × 900 and mobile 390 × 844: period jumps, current period, Back to top, search/empty state, Unicode, date details, closed Sources, no horizontal page overflow, read-only catalog, independent periods, and complete-image story transitions.
 - A live transition was observed with the old heading/image still paired and complete while busy, then the new heading/image paired and complete after loading.
+- Latest reader checks verify that native date titles are absent, exactly one custom tooltip opens, mobile tooltip bounds remain inside 390px, and event pages display the concise estimate. Swastika's one-liner is a plain explanation rather than the article's pronunciation guide. A temporary whitespace edit built through the CLI reached an already open homepage through HMR; it and the editor integration edit were restored exactly.
 - Horizontal and vertical main PNG/SVG exports include all 156 selected test periods. Verified PNG dimensions: 1967 × 4096 and 4096 × 439; SVG preserves full detail. A crowded vertical chart needs SVG or narrower filters for readable labels, as the UI explains.
 - Context PNG/SVG exports pass; the grouped full-window PNG is 982 × 4096. Fictional fixtures pass local/thumbnail/original fallback, exhausted fallback, changed-source reset, BCE crossing, equal/empty window, and 180 rows. The 180-row PNG is bounded at 447 × 4096. These examples never became catalog records.
 

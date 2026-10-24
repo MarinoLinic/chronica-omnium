@@ -1,6 +1,6 @@
 {
   "reviewedAt": "2026-10-24",
-  "note": "Attributed introductory summaries and general article matches; does not approve existing historical dates.",
+  "note": "Article matching and retrieval audit. Initial lead-sentence summaries have been superseded by the authored summaries in reader-summary-review.json. Does not approve historical dates.",
   "results": [
     {
       "id": "event-0008",
