@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 275,
   "end": 897,
-  "location": null,
-  "type": "State",
+  "location": "Southern India",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Pallava_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Conventional dynastic bounds; its strongest territorial phase began later.",
-  "places": [],
+  "places": [
+    "place-067ae3300ba1"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

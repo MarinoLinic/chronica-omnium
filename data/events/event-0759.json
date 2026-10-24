@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1757,
   "end": null,
-  "location": null,
+  "location": "Plassey",
   "type": "Battle",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "23 June 1757.",
-  "places": [],
+  "places": [
+    "place-90a4abc48993"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Battle",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

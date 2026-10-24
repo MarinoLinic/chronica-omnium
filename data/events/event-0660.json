@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1867,
   "end": null,
-  "location": null,
+  "location": "Alaska",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Treaty signed on 30 March 1867, ratified by the US Senate on 9 April; formal transfer took place on 18 October 1867.",
-  "places": [],
+  "places": [
+    "place-26c1d062cc7a"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Territorial transfer",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

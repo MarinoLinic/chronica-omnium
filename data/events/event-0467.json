@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1940,
   "end": null,
-  "location": null,
-  "type": "Campaign",
-  "field": "History",
+  "location": "France",
+  "type": "Battle",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Battle_of_France",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-7a1ca4ef7515"
+  ],
   "notes": "",
   "legacy": {
     "id": "battle-of-france",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

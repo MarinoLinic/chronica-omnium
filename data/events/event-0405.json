@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Lifespan"
+  "date_label": "Lifespan",
+  "priority": 2
 }

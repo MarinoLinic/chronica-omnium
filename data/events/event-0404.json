@@ -10,7 +10,7 @@
   "start": 1949,
   "end": 1990,
   "location": "Germany",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/West_Germany",
@@ -67,5 +67,6 @@
         10.4478313
       ]
     }
-  }
+  },
+  "priority": 2
 }

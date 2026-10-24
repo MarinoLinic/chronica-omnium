@@ -9,7 +9,7 @@
   "long_desc": "Yamnaya culture",
   "start": -3300,
   "end": -2600,
-  "location": null,
+  "location": "Pontic-Caspian steppe",
   "type": "Event",
   "field": null,
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-eef94307f38a"
+  ],
   "notes": "",
   "legacy": {
     "id": "yamnaya-culture",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

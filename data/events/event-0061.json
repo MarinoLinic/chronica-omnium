@@ -9,7 +9,7 @@
   "long_desc": "Gravettian culture",
   "start": -31000,
   "end": -22000,
-  "location": null,
+  "location": "Europe",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "gravettian-culture",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

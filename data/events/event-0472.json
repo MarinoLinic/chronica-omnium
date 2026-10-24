@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -200,
   "end": 200,
-  "location": null,
+  "location": "China",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Early Chinese lodestone devices are assigned broadly to the Han period. These bounds do not date the later use of a needle at sea; see record 493.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "",
   "legacy": {
     "id": "compass",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

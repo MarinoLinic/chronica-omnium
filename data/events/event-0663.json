@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1086,
   "end": 1114,
-  "location": null,
+  "location": "England",
   "type": "Book",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Traditionally dated to 1086; some scholarship places compilation of the surviving book as late as 1098–1114. These bounds represent competing datings, not a continuous 28-year composition. The survey was ordered in 1085.",
-  "places": [],
+  "places": [
+    "place-c0ea960b065c"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Compilation dates (disputed)",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

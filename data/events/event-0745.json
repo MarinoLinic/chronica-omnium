@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1674,
   "end": 1818,
-  "location": null,
-  "type": "State",
+  "location": "India",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Maratha_Empire",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Uses Shivaji’s coronation in 1674 and the defeat of the Peshwa in 1818; some constituent princely states continued.",
-  "places": [],
+  "places": [
+    "place-fb54e9062429"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

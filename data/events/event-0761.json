@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1942,
   "end": 1943,
-  "location": null,
+  "location": "Volgograd",
   "type": "Battle",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "July 1942 to 2 February 1943; some military chronologies begin the urban battle in August.",
-  "places": [],
+  "places": [
+    "place-43512485abed"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Battle",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

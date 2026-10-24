@@ -9,7 +9,7 @@
   "long_desc": "Shia and Sunni Islam",
   "start": 632,
   "end": null,
-  "location": null,
+  "location": "Arabian peninsula",
   "type": "Religion",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-d15ea8090a06"
+  ],
   "notes": "",
   "legacy": {
     "id": "shia-and-sunni-islam",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

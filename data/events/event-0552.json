@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Rome",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "An emblematic political formula, not an institution founded on one known day. Retained as an undated concept rather than assigning Rome’s foundation date.",
-  "places": [],
+  "places": [
+    "place-d0d220191865"
+  ],
   "notes": "",
   "legacy": {
     "id": "spqr",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 5
 }

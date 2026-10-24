@@ -10,8 +10,8 @@
   "start": -4000000000,
   "end": -1500000000,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Virus",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 2
 }

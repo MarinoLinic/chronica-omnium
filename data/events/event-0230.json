@@ -9,8 +9,8 @@
   "long_desc": "Mongol Empire",
   "start": 1206,
   "end": 1368,
-  "location": null,
-  "type": "State",
+  "location": "Asia · Europe",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Mongol_Empire",
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-ee139bd0fd94",
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "mongol-empire",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1859,
   "end": null,
-  "location": null,
+  "location": "Titusville, Pennsylvania",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Drake’s Pennsylvania well was drilled in 1859. It was not the world’s first extraction or drilling of oil; Azerbaijan and other regions have earlier claims.",
-  "places": [],
+  "places": [
+    "place-4c137e8eb449"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-oil-well",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

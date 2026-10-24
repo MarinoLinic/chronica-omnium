@@ -10,8 +10,8 @@
   "start": -45500000,
   "end": null,
   "location": "Antarctica",
-  "type": "Event",
-  "field": "Geology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet#:~:text=The%20icing%20of%20Antarctica%20began,in%20the%20thousands%20of%20ppm.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antarctica_6400px_from_Blue_Marble.jpg/1920px-Antarctica_6400px_from_Blue_Marble.jpg",
@@ -67,5 +67,6 @@
         0.3149312
       ]
     }
-  }
+  },
+  "priority": 3
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1787,
   "end": 1828,
-  "location": null,
+  "location": "Southern Africa",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Born about 1787; died in 1828. His reign is recorded separately.",
-  "places": [],
+  "places": [
+    "place-5647e80ae275"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Lifespan",
@@ -36,5 +38,6 @@
       "source": "https://en.wikipedia.org/wiki/Shaka"
     }
   ],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

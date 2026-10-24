@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1254,
   "end": 1324,
-  "location": null,
+  "location": "Italy · Asia",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,14 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Born about 1254; died on 8 January 1324.",
-  "places": [],
+  "places": [
+    "place-5a9cf672c8be",
+    "place-ee139bd0fd94"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Lifespan",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

@@ -1,9 +1,14 @@
 import { ordinalYear, historicalYear } from "./dates.js";
+import { matchesGeography } from "./geography.js";
 export const colors = {
-  "People":"#0d766e", "Society & conflict":"#974437", "Civilizations & institutions":"#616a98", "Ideas & discoveries":"#8b6528", "Earth & life":"#366d84", "Events & culture":"#705679",
+  "People":"#0d766e", "Society & conflict":"#974437", "Polities & organizations":"#616a98", "Ideas & discoveries":"#8b6528", "Earth & life":"#366d84", "Events & culture":"#705679",
   Unit: "#6172b8",
   State: "#6172b8",
   Civilization: "#6172b8",
+  Polity: "#6172b8",
+  Organization: "#616a98",
+  "Natural event": "#0369a1",
+  War: "#974437",
   Battle: "#974437",
   Rebellion: "#974437",
   Siege: "#974437",
@@ -17,15 +22,15 @@ export function trackFor(record) {
   if (record.type === "Person") return "People";
   if (["War", "Battle", "Siege", "Rebellion", "Revolution", "Movement", "Religion"].includes(record.type))
     return "Society & conflict";
-  if (["Unit", "State", "Civilization", "Dynasty", "Settlement", "Institution", "Period", "Company"].includes(record.type))
-    return "Civilizations & institutions";
+  if (["Polity", "Organization", "Unit", "State", "Civilization", "Dynasty", "Settlement", "Institution", "Period", "Company"].includes(record.type))
+    return "Polities & organizations";
   if (
     ["Invention", "Discovery"].includes(record.type) ||
     ["Technology", "Science"].includes(record.field)
   )
     return "Ideas & discoveries";
   if (
-    ["Climate", "Species", "Evolution"].includes(record.type) ||
+    ["Natural event", "Climate", "Species", "Evolution"].includes(record.type) ||
     ["Biology", "Geology", "Astronomy"].includes(record.field)
   )
     return "Earth & life";
@@ -33,7 +38,7 @@ export function trackFor(record) {
 }
 export function selectEvents(
   records,
-  { start, end, type = "", field = "", query = "" },
+  { start, end, type = "", field = "", query = "", priority = 5, continent = "", country = "", place = "" },
 ) {
   const q = query.trim().toLowerCase();
   return records
@@ -44,6 +49,8 @@ export function selectEvents(
         (r.end ?? r.start) >= start &&
         (!type || r.type === type) &&
         (!field || r.field === field) &&
+        (priority === 5 || (r.priority != null && r.priority <= priority)) &&
+        matchesGeography(r, {continent,country,place}) &&
         (!q ||
           `${r.name} ${r.location || ""} ${r.short_desc || ""}`
             .toLowerCase()

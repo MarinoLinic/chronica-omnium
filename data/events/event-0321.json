@@ -10,8 +10,8 @@
   "start": 1791,
   "end": 1804,
   "location": "Haiti",
-  "type": "Revolution",
-  "field": "History",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/w/index.php?title=Haitian_Revolution&oldid=689232983",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Revolucion_Haitiana.png/1920px-Revolucion_Haitiana.png",
@@ -67,5 +67,6 @@
         -72.3570972
       ]
     }
-  }
+  },
+  "priority": 2
 }

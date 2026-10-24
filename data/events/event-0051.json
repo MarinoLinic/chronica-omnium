@@ -9,7 +9,7 @@
   "long_desc": "Settlement of South and Southeast Asia",
   "start": -63000,
   "end": null,
-  "location": null,
+  "location": "South Asia · Southeast Asia",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-0f5fbbd8e643",
+    "place-a73ef7e2d61c"
+  ],
   "notes": "",
   "legacy": {
     "id": "settlement-of-south-and-southeast-asia",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

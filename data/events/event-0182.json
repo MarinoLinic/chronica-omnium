@@ -10,8 +10,8 @@
   "start": 60,
   "end": 61,
   "location": "Great Britain",
-  "type": "Rebellion",
-  "field": "History",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
   "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Queen_Boudica_by_John_Opie.jpg",
@@ -67,5 +67,6 @@
         -1.9180234948
       ]
     }
-  }
+  },
+  "priority": 4
 }

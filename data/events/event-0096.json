@@ -9,7 +9,7 @@
   "long_desc": "Sumerian civilization",
   "start": -4500,
   "end": -1900,
-  "location": null,
+  "location": "Mesopotamia",
   "type": "Event",
   "field": null,
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-84363cef0b48"
+  ],
   "notes": "",
   "legacy": {
     "id": "sumerian-civilization",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

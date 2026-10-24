@@ -9,7 +9,7 @@
   "long_desc": "Early European Farmers",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Europe",
   "type": "Concept",
   "field": null,
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "early-european-farmers",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

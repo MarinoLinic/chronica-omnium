@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1400,
   "end": 1700,
-  "location": null,
+  "location": "Europe · Africa · North America · South America",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,12 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Broad conventional European exploration period, approximately the fifteenth to seventeenth centuries. It does not imply those lands were previously unknown to their inhabitants.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9",
+    "place-3f5053b3ae70",
+    "place-64be0885bc3f",
+    "place-1c583b195015"
+  ],
   "notes": "",
   "legacy": {
     "id": "age-of-discovery",
@@ -65,5 +70,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

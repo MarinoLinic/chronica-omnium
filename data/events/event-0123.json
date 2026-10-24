@@ -9,8 +9,8 @@
   "long_desc": "Babylonian Empire",
   "start": -1894,
   "end": -539,
-  "location": null,
-  "type": "State",
+  "location": "Mesopotamia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Babylonia",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-84363cef0b48"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "babylonian-empire",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

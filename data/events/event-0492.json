@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 800,
   "end": 900,
-  "location": null,
+  "location": "Iran",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Ninth-century Persian horizontal windmills; this window concerns early attestation, not continuous operation of one mill.",
-  "places": [],
+  "places": [
+    "place-18d4e170765c"
+  ],
   "notes": "",
   "legacy": {
     "id": "windmill",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

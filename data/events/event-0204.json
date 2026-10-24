@@ -9,7 +9,7 @@
   "long_desc": "Western imperial court dissolved",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Rome",
   "type": "Concept",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The assertion of a formal dissolution in 554 needs a specific primary or scholarly citation. Justinian’s Pragmatic Sanction and the end of the western court are distinct questions; the unsourced claim is preserved without a firm timeline date.",
-  "places": [],
+  "places": [
+    "place-d0d220191865"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "western-imperial-court-dissolved",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 5
 }

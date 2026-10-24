@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1315,
   "end": 1317,
-  "location": null,
+  "location": "Northern Europe",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-6c5f9f62245d"
+  ],
   "notes": "",
   "legacy": {
     "id": "the-great-famine-14th-century",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

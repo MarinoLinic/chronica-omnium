@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1216,
   "end": 1345,
-  "location": null,
-  "type": "State",
+  "location": "Southern India",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Pandya_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "This record dates the later imperial phase, not the dynasty’s much earlier origins or surviving Tenkasi branch.",
-  "places": [],
+  "places": [
+    "place-067ae3300ba1"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

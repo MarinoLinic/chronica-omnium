@@ -10,8 +10,8 @@
   "start": -85000000,
   "end": null,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Primate",
   "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Primate_skull_series_with_legend_cropped.png",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 2
 }

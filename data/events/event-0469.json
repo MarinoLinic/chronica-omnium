@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1992,
   "end": null,
-  "location": null,
+  "location": "United States",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Buchanan addressed the Republican National Convention on 17 August 1992. This dates that speech, not the general concept of a culture war.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "",
   "legacy": {
     "id": "culture-war-speech",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 5
 }

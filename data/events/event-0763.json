@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 184,
   "end": 205,
-  "location": null,
-  "type": "Rebellion",
-  "field": "History",
+  "location": "China",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The main uprising began in 184 and was suppressed by 185; resistance and related uprisings continued to 205.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Rebellion",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

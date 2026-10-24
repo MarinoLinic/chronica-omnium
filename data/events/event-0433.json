@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 2010,
   "end": 2012,
-  "location": null,
+  "location": "North Africa · West Asia",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-b30fcbd6cb0f",
+    "place-b55f8783eb7d"
+  ],
   "notes": "",
   "legacy": {
     "id": "arab-spring",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

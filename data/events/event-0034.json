@@ -9,9 +9,9 @@
   "long_desc": "Ardipithecus ramidus",
   "start": -4400000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "Ethiopia",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ardipithecus_Gesamt1.jpg/1280px-Ardipithecus_Gesamt1.jpg",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-4ac53897ac29"
+  ],
   "notes": "",
   "legacy": {
     "id": "ardipithecus-ramidus",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1991,
   "end": 1991,
-  "location": null,
-  "type": "Event",
-  "field": "Geology",
+  "location": "Mount Pinatubo",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "2 April to 2 September 1991, with the climactic eruption on 15 June. These dates describe the eruptive episode, not the full duration of its climatic effects.",
-  "places": [],
+  "places": [
+    "place-94f2586cb84f"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Eruptive episode",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

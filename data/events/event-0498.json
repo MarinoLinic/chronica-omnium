@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1926,
   "end": null,
-  "location": null,
+  "location": "United Kingdom",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-0e98cc0b1589"
+  ],
   "notes": "",
   "legacy": {
     "id": "tv",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

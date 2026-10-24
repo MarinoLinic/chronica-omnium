@@ -10,7 +10,7 @@
   "start": -2700,
   "end": -1450,
   "location": "Greece",
-  "type": "Civilization",
+  "type": "Polity",
   "field": null,
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Minoan_civilization",
@@ -67,5 +67,6 @@
         21.9877132
       ]
     }
-  }
+  },
+  "priority": 2
 }

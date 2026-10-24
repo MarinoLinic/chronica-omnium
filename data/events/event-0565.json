@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1942,
   "end": 2011,
-  "location": null,
+  "location": "Libya",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Birth year is approximate (circa 1942).",
-  "places": [],
+  "places": [
+    "place-f6b323fdd9f9"
+  ],
   "notes": "",
   "legacy": {
     "id": "muammar-gaddafi",
@@ -79,5 +81,6 @@
       "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
     }
   ],
-  "timeline_period": "leadership"
+  "timeline_period": "leadership",
+  "priority": 2
 }

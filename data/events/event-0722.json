@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 624,
   "end": 1189,
-  "location": null,
-  "type": "State",
+  "location": "Deccan",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Broad dynastic span; independent sovereignty ended earlier, and later rulers continued under Chola influence.",
-  "places": [],
+  "places": [
+    "place-50dc20146ce4"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

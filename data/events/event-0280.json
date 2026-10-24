@@ -10,7 +10,7 @@
   "start": 1607,
   "end": 1776,
   "location": "United States",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "priority": 2
 }

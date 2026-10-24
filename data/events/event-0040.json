@@ -9,9 +9,9 @@
   "long_desc": "Homo erectus",
   "start": -2000000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "Africa · Asia",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Homo_erectus",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Peking_Man_Skull_%28replica%29_presented_at_Paleozoological_Museum_of_China.jpg/1920px-Peking_Man_Skull_%28replica%29_presented_at_Paleozoological_Museum_of_China.jpg",
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70",
+    "place-ee139bd0fd94"
+  ],
   "notes": "",
   "legacy": {
     "id": "homo-erectus",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

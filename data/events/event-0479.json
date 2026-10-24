@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1648,
   "end": null,
-  "location": null,
+  "location": "Münster · Osnabrück",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-2c1285f6983a",
+    "place-d1511eafc7fb"
+  ],
   "notes": "",
   "legacy": {
     "id": "peace-of-westphalia",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

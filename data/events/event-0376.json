@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1918,
   "end": 1992,
-  "location": null,
-  "type": "State",
+  "location": "Czechia · Slovakia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Czechoslovakia",
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-3f57e4490d0c",
+    "place-85e8b4499e56"
+  ],
   "notes": "",
   "legacy": {
     "id": "czechoslovakia",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

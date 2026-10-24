@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1546,
   "end": 1601,
-  "location": null,
+  "location": "Denmark",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-5f0bf3ff6b72"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Lifespan",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -281,
   "end": -275,
-  "location": null,
+  "location": "Europe",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "pyrrhic-victory-war-with-greece",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

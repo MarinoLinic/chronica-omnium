@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -7000,
   "end": null,
-  "location": null,
+  "location": "China",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "This dates evidence at Jiahu, not the first alcoholic drink ever produced. Older proposed evidence from other regions has different methods and interpretations.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-alcohol",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

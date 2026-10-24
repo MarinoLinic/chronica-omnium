@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1803,
   "end": 1815,
-  "location": null,
+  "location": "Europe",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "War",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

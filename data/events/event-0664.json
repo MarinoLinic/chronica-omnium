@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -2200,
   "end": null,
-  "location": null,
-  "type": "Climate",
-  "field": "Geology",
+  "location": "West Asia",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/4.2-kiloyear_event",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Uses the article’s explicit approximate onset of 2200 BCE, rather than converting the event’s name relative to the viewer’s present. The episode lasted beyond this plotted point; a globally synchronous drought and direct links to societal collapse remain disputed.",
-  "places": [],
+  "places": [
+    "place-b55f8783eb7d"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Approximate climatic episode",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1115,
   "end": 1234,
-  "location": null,
-  "type": "State",
+  "location": "China",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

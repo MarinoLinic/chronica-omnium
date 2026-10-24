@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1957,
   "end": null,
-  "location": null,
+  "location": "Baikonur Cosmodrome",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Same launch as record 454, retained as a separate original entry rather than deleting or reusing its ID.",
-  "places": [],
+  "places": [
+    "place-6da0622a3b35"
+  ],
   "notes": "",
   "legacy": {
     "id": "sputnik",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

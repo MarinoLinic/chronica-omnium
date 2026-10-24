@@ -1,3 +1,8 @@
+@property --era-color {
+  syntax: '<color>';
+  inherits: true;
+  initial-value: #23665d;
+}
 :root {
   --paper: #faf9f5;
   --ink: #203536;
@@ -19,6 +24,7 @@ body {
   background: var(--paper);
   overflow-anchor: none;
 }
+.chronicle { transition: --era-color .35s ease; }
 a,
 button,
 select,
@@ -132,9 +138,9 @@ h3 {
   color: var(--accent);
 }
 .chronicle-hero h1 {
-  font: 400 clamp(44px, 6vw, 76px)/1.03 var(--serif);
-  letter-spacing: -2px;
-  margin: 20px 0 24px;
+  font: 400 clamp(32px, 4vw, 52px)/1.15 var(--serif);
+  letter-spacing: -1px;
+  margin: 0;
 }
 .chronicle-hero > p:last-child {
   max-width: 440px;
@@ -232,7 +238,7 @@ h3 {
 .time-guide-body { max-height: calc(100vh - 300px); overflow-y: auto; padding: 0 8px 8px 0; }
 .time-guide section { margin: 15px 0; }
 .time-guide h2 { font-size: 10px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); margin: 0 0 8px; }
-.time-guide-level { margin-left: calc(var(--depth) * 10px); border-left: 2px solid var(--line); padding: 3px 0 3px 10px; }
+.time-guide-level { margin-left: calc(var(--depth) * 10px); border-left: 3px solid var(--guide-color,var(--line)); padding: 3px 0 3px 10px; }
 .time-guide-level button { text-align: left; width: 100%; padding: 3px 0; }
 .time-guide-level button:not(:disabled):hover strong { text-decoration: underline; }
 .time-guide-level strong { display: block; font-weight: 500; line-height: 1.3; }
@@ -245,13 +251,15 @@ h3 {
 .time-guide-sources a { text-decoration: underline; }
 .chronicle-list {
   min-width: 0;
-  border-left: 1px solid var(--line);
+  border-left: 2px solid color-mix(in srgb,var(--era-color,var(--accent)) 60%,var(--paper));
   padding-left: 34px;
+  background: linear-gradient(90deg,color-mix(in srgb,var(--era-color,var(--accent)) 5%,transparent),transparent 70%);
+  transition: border-color .3s ease, background-color .3s ease;
 }
 .period-divider {
   padding: 15px 0;
   background: var(--paper);
-  color: var(--accent);
+  color: var(--period-color,var(--accent));
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -264,7 +272,7 @@ h3 {
   position: absolute;
   width: 7px;
   height: 7px;
-  background: var(--accent);
+  background: var(--period-color,var(--accent));
   border-radius: 50%;
   left: -38px;
   top: 21px;
@@ -351,10 +359,17 @@ h3 {
   font-size: 12px;
   color: var(--muted);
 }
-.back-to-top {
+.scroll-controls {
   position: fixed;
   right: 24px;
   bottom: 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 8px;
+  z-index: 35;
+}
+.scroll-button {
   background: var(--ink);
   color: white;
   border-radius: 30px;
@@ -368,9 +383,11 @@ h3 {
   display: inline;
 }
 .date-label > button {
-  text-decoration: underline dotted;
-  text-underline-offset: 4px;
+  text-decoration: none;
+  color: var(--accent);
+  cursor: help;
 }
+.date-label > button:hover, .date-label > button:focus-visible { color: var(--ink); }
 .date-tooltip {
   position: absolute;
   top: 30px;
@@ -675,18 +692,20 @@ h3 {
   .date-tooltip {
     left: -8px;
   }
-  .back-to-top {
+  .scroll-controls {
     right: 16px;
     bottom: 16px;
-    padding: 10px 14px;
   }
+  .scroll-button { padding: 10px 14px; }
+  .filter-panel label { display:flex; flex-direction:column; gap:4px; max-width:100%; }
+  .filter-panel select { max-width:100%; }
   .site-footer {
     font-size: 11px;
   }
 }
 .story-nav{position:sticky;top:0;z-index:30;background:var(--paper)}
 @media(max-width:760px){
-  .date-tooltip{position:fixed;left:20px;right:20px;top:auto;bottom:74px;width:auto}
+  .date-tooltip{position:fixed;left:20px;right:20px;top:auto;bottom:122px;width:auto}
 }
 @media print{.date-tooltip{display:none!important}}
 @media (prefers-reduced-motion: reduce) {
@@ -707,6 +726,7 @@ h3 {
   .route-loading,
   .period-rail,
   .chronicle-toolbar,
+  .scroll-controls,
   .site-footer {
     display: none !important;
   }

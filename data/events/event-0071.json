@@ -9,7 +9,7 @@
   "long_desc": "Western Hunter-Gatherers (WHG)",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Europe",
   "type": "Concept",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": "1",
   "date_kind": "point",
   "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "western-hunter-gatherers-whg",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

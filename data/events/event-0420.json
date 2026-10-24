@@ -10,7 +10,7 @@
   "start": 1976,
   "end": null,
   "location": "Los Altos",
-  "type": "Company",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
@@ -67,5 +67,6 @@
         -3.6202096265
       ]
     }
-  }
+  },
+  "priority": 2
 }

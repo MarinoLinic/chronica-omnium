@@ -5,6 +5,7 @@ import { createHash } from "node:crypto";
 import { randomUUID } from "node:crypto";
 import { dateDetails, periodKinds } from "../../src/utils/periods.js";
 import { formatYear, elapsedYears } from "../../src/utils/dates.js";
+import { continents } from "../../src/utils/geography.js";
 
 export const ROOT = fileURLToPath(new URL("../../", import.meta.url));
 export const at = (...parts) => path.join(ROOT, ...parts);
@@ -115,6 +116,7 @@ export const eventKeys = [
   "date_label",
   "periods",
   "timeline_period",
+  "priority",
 ];
 const object = (value) =>
   value !== null && typeof value === "object" && !Array.isArray(value);
@@ -143,6 +145,7 @@ export function newRecord(entries, name = null) {
     type: null,
     field: null,
     relevance: 1,
+    priority: null,
     source: null,
     image: null,
     casualties_low: null,
@@ -290,6 +293,7 @@ export function validateRecord(r) {
         r.relevance >= 0),
     "relevance must be a nonnegative number or null",
   );
+  check(r.priority == null || (Number.isInteger(r.priority) && r.priority >= 1 && r.priority <= 5), "priority must be an integer from 1 to 5 or null");
   for (const key of ["casualties_low", "casualties_high"])
     check(
       r[key] === null || (Number.isSafeInteger(r[key]) && r[key] >= 0),
@@ -527,6 +531,14 @@ export function audit(entries, refs) {
       errors.push({ id: p.id, message: "invalid coordinates" });
     if (p.source !== null && !https(p.source))
       errors.push({ id: p.id, message: "place source must use HTTPS" });
+    if (p.continents !== undefined && (!Array.isArray(p.continents) || new Set(p.continents).size !== p.continents.length || p.continents.some(c=>!continents.includes(c))))
+      errors.push({id:p.id,message:"invalid continent list"});
+    if (p.geographyLevel !== undefined && !['continent','region','country','place'].includes(p.geographyLevel))
+      errors.push({id:p.id,message:"invalid geography level"});
+    if (p.geographySource != null && !https(p.geographySource))
+      errors.push({id:p.id,message:"geography source must use HTTPS"});
+    if ((p.countryCodes?.length || p.continents?.length) && !https(p.geographySource || p.source))
+      errors.push({id:p.id,message:"country and continent assignments require a geographic source"});
     if (p.status === "reviewed" && (!p.source || p.coordinates === null))
       errors.push({
         id: p.id,
@@ -627,6 +639,7 @@ export function compileRecord(r, refs) {
     image: selectedImage,
     type: r.type || "Uncategorized",
     field: r.field || "Uncategorized",
+    priority: r.priority ?? null,
     date_label: r.date_label || null,
     timeline_period: r.timeline_period || null,
     periods: (r.periods || []).map((p) => ({
@@ -659,6 +672,13 @@ export function compileRecord(r, refs) {
       (code) =>
         refs.countries.countries.find((c) => c.code === code)?.name || code,
     ),
+    continents: [...new Set(places.flatMap(p => p.continents || []))],
+    geography: places.filter(p=>p.status !== 'non-geographic').map(p=>({
+      id:p.id,label:p.label,level:p.geographyLevel || 'region',
+      continents:p.continents || [],countryCodes:p.countryCodes,
+      countryNames:p.countryCodes.map(code=>refs.countries.countries.find(c=>c.code===code)?.name || code),
+      source:p.geographySource || p.source || null,
+    })),
     local_image: media?.path || null,
     media_credit: media?.credit || (useLead ? lead?.credit : null) || null,
     display_image: useLead

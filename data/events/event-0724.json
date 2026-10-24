@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 750,
   "end": 1161,
-  "location": null,
-  "type": "State",
+  "location": "Bengal",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Pala_Empire",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Approximate foundation around 750.",
-  "places": [],
+  "places": [
+    "place-dc01f18e8f32"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

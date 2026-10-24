@@ -10,7 +10,7 @@
   "start": 1867,
   "end": 1918,
   "location": "Central Europe",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Austria-Hungary",
@@ -67,5 +67,6 @@
         -95.167241
       ]
     }
-  }
+  },
+  "priority": 2
 }

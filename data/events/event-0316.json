@@ -11,7 +11,7 @@
   "end": 1783,
   "location": "United States",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Revolutionary_War_%28collage%29.jpg",
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -7,13 +7,18 @@ import SiteHeader from "./components/SiteHeader";
 import HomeEvent from "./components/HomeEvent";
 import BackToTop from "./components/BackToTop";
 import TimeGuide from "./components/TimeGuide";
-import { periodLabel } from "./utils/time-scales";
+import { periodLabel, eraForYear } from "./utils/time-scales";
+import { matchesGeography } from "./utils/geography";
+import GeographyFilters from "./components/GeographyFilters";
+import PriorityFilter from "./components/PriorityFilter";
 export default function Home() {
   const allData = useMemo(() => filterData(data), []),
     virtuoso = useRef(null), toolbar = useRef(null);
   const [query, setQuery] = useState(""),
     [type, setType] = useState(""),
     [field, setField] = useState(""),
+    [geography, setGeography] = useState({}),
+    [priority, setPriority] = useState(5),
     [filters, setFilters] = useState(false),
     [current, setCurrent] = useState(0),
     [visibleIndex, setVisibleIndex] = useState(0),
@@ -29,12 +34,14 @@ export default function Home() {
         (r) =>
           (!type || r.type === type) &&
           (!field || r.field === field) &&
+          matchesGeography(r, geography) &&
+          (priority === 5 || (r.priority != null && r.priority <= priority)) &&
           (!query ||
             [r.name, r.short_desc, r.location, ...(r.countryNames || [])].some(
               (v) => v?.toLocaleLowerCase().includes(query.toLocaleLowerCase()),
             )),
       ),
-    [allData, query, type, field],
+    [allData, query, type, field, geography, priority],
   );
   const { groups, counts, indices } = useMemo(() => {
     const groups = [],
@@ -102,22 +109,21 @@ export default function Home() {
     const rail = window.innerWidth <= 760 ? document.querySelector(".period-rail")?.getBoundingClientRect().height || 0 : 0;
     virtuoso.current?.scrollToIndex({index,align:"start",behavior:"auto",offset:-(toolbar+rail+30)});
   };
-  useEffect(() => { setVisibleIndex(0); }, [query,type,field]);
+  useEffect(() => { setCurrent(0); setVisibleIndex(0); }, [query,type,field,geography,priority]);
   const top = () => {setCurrent(0);setVisibleIndex(0);};
+  const bottom = () => {
+    if (!records.length) return;
+    setCurrent(groups.length - 1); setVisibleIndex(records.length - 1);
+    const tail = (parseFloat(getComputedStyle(document.querySelector('.chronicle-layout')).paddingBottom) || 0)
+      + (document.querySelector('.site-footer')?.offsetHeight || 0);
+    virtuoso.current?.scrollToIndex({index:records.length - 1,align:"end",behavior:"auto",offset:tail});
+  };
+  const era = eraForYear(records[Math.min(visibleIndex,records.length-1)]?.start, timeScales);
   return (
-    <div className="chronicle" style={{'--toolbar-size':`${toolbarHeight}px`}}>
+    <div className="chronicle" style={{'--toolbar-size':`${toolbarHeight}px`,'--era-color':era?.color || 'var(--accent)'}}>
       <SiteHeader />
       <section className="chronicle-hero">
-        <p className="story-kicker">From the first light to the present</p>
-        <h1>
-          The long story
-          <br />
-          of everything.
-        </h1>
-        <p>
-          Explore the people, discoveries and turning points that shaped our
-          world.
-        </p>
+        <h1>A short history of everything</h1>
       </section>
       <div className="chronicle-toolbar" ref={toolbar}>
         <div>
@@ -172,11 +178,14 @@ export default function Home() {
                 ))}
               </select>
             </label>
+            <GeographyFilters records={allData} value={geography} onChange={patch=>setGeography(g=>({...g,...patch}))} />
+            <PriorityFilter value={priority} onChange={setPriority} />
             <button
               onClick={() => {
                 setType("");
                 setField("");
                 setQuery("");
+                setGeography({}); setPriority(5);
               }}
             >
               Reset
@@ -224,13 +233,13 @@ export default function Home() {
         <main className="chronicle-list">
           {records.length ? (
             <GroupedVirtuoso
-              key={query + "|" + type + "|" + field}
+              key={JSON.stringify([query,type,field,geography,priority])}
               ref={virtuoso}
               useWindowScroll
               increaseViewportBy={400}
               groupCounts={counts}
               groupContent={(i) => (
-                <div className="period-divider">{groups[i]}</div>
+                <div className="period-divider" style={{'--period-color':eraForYear(records[indices[i]]?.start,timeScales)?.color}}>{groups[i]}</div>
               )}
               itemContent={(i, g) => (
                 <div data-period-index={g} data-event-index={i}>
@@ -246,10 +255,9 @@ export default function Home() {
           )}
         </main>
       </div>
-      <BackToTop onTop={top} />
+      <BackToTop onTop={top} onBottom={bottom} hasRecords={records.length > 0} />
       <footer className="site-footer">
-        Curated by <a href="https://linic.net">Marino Linić</a> · A continuing
-        exploration
+        Curated by <a href="https://linic.net">Marino Linić</a>
       </footer>
     </div>
   );

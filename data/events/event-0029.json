@@ -9,9 +9,9 @@
   "long_desc": "Graecopitheicus freybergi",
   "start": -7200000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "Southeastern Europe",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://doi.org/10.1371/journal.pone.0177127",
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Graecopithecus_%28from_PLoS_ONE%29.jpg",
@@ -20,7 +20,9 @@
   "dubious": "1",
   "date_kind": "point",
   "date_note": "Approximately 7.2 million years old. The proposed hominin affinity is disputed; this does not establish a European origin of humans.",
-  "places": [],
+  "places": [
+    "place-67172866bf4b"
+  ],
   "notes": "",
   "legacy": {
     "id": "graecopitheicus-freybergi",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

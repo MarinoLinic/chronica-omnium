@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1636,
   "end": null,
-  "location": "Cambridge",
+  "location": "Cambridge, Massachusetts",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "point",
   "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
   "places": [
-    "place-086eec074ad1"
+    "place-4a2a0a69fb5d"
   ],
   "notes": "",
   "legacy": {
@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Founding"
+  "date_label": "Founding",
+  "priority": 4
 }

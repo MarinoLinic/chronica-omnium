@@ -10,7 +10,7 @@
   "start": -2025,
   "end": -609,
   "location": "Near East",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Assyria",
@@ -67,5 +67,6 @@
         33.3606891
       ]
     }
-  }
+  },
+  "priority": 2
 }

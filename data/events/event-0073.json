@@ -9,7 +9,7 @@
   "long_desc": "Settlement of the Americas",
   "start": -18000,
   "end": -12000,
-  "location": null,
+  "location": "North America · South America",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The imported 18,000–12,000 BCE window is not the earliest possible arrival. It is retained as a broad late-glacial dispersal interval, not a continent-wide first settlement date.",
-  "places": [],
+  "places": [
+    "place-64be0885bc3f",
+    "place-1c583b195015"
+  ],
   "notes": "",
   "legacy": {
     "id": "settlement-of-the-americas",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

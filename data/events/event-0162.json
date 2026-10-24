@@ -10,7 +10,7 @@
   "start": -221,
   "end": -206,
   "location": "China",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
@@ -67,5 +67,6 @@
         104.999927
       ]
     }
-  }
+  },
+  "priority": 1
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1440,
   "end": null,
-  "location": null,
+  "location": "Mainz",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Around 1440: Gutenberg’s European movable metal type press. Printing and movable type had earlier East Asian histories.",
-  "places": [],
+  "places": [
+    "place-1a66d4a13390"
+  ],
   "notes": "",
   "legacy": {
     "id": "printing-press",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

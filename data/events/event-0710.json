@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": -321,
   "end": -185,
-  "location": null,
-  "type": "State",
+  "location": "South Asia · India",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
@@ -20,10 +20,14 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Founded around 320 BCE; 321 is a conventional approximate coordinate, not a securely established foundation year.",
-  "places": [],
+  "places": [
+    "place-0f5fbbd8e643",
+    "place-fb54e9062429"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 1
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1840,
   "end": 1921,
-  "location": null,
+  "location": "Austria",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-7112733729f2"
+  ],
   "notes": "",
   "legacy": {
     "id": "carl-menger",
@@ -66,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Lifespan"
+  "date_label": "Lifespan",
+  "priority": 4
 }

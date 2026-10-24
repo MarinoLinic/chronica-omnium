@@ -10,8 +10,8 @@
   "start": -2000000000,
   "end": null,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Sexual_reproduction",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sexual_cycle.svg/1920px-Sexual_cycle.svg.png",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 1
 }

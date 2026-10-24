@@ -9,7 +9,7 @@
   "long_desc": "Hominini",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Africa",
   "type": "Concept",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Taxonomic definitions differ. The imported 9–8 million BCE interval conflated a taxon with an evolutionary divergence; no single founding date is assigned.",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70"
+  ],
   "notes": "",
   "legacy": {
     "id": "hominini",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

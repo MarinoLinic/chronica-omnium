@@ -9,9 +9,9 @@
   "long_desc": "Mammoth extinction",
   "start": -2000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "History",
+  "location": "Wrangel Island",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://doi.org/10.1016/j.cell.2024.05.033",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximately 2000 BCE, about 4,000 years ago. A last known population does not identify the death year of an individual last mammoth.",
-  "places": [],
+  "places": [
+    "place-97ffd67c4c8f"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "mammoth-extinction",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

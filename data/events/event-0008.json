@@ -10,8 +10,8 @@
   "start": -4100000000,
   "end": -3900000000,
   "location": "World",
-  "type": "Event",
-  "field": "Astronomy",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lunar_cataclysm.jpg/1920px-Lunar_cataclysm.jpg",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 3
 }

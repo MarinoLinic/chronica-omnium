@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1070,
   "end": 1230,
-  "location": null,
-  "type": "State",
+  "location": "Bengal",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Sena_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Broad dynastic bounds include an early phase before its main territorial ascendancy.",
-  "places": [],
+  "places": [
+    "place-dc01f18e8f32"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

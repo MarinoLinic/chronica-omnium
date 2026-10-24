@@ -70,17 +70,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Antarctica"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/Antarctica",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0d463ac13204",
       "label": "Southern Germany",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southern_Germany",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-b30fcbd6cb0f",
@@ -90,17 +104,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/North_Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-dbc74a36d8e7",
       "label": "Indonesia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "ID"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Indonesia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d15ea8090a06",
@@ -110,37 +138,67 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Arabian_peninsula",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-8ef41e6f4b07",
       "label": "Spain",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "ES"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Spain",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-647294383b2c",
       "label": "Japan",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "JP"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Japan",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2898e16d4e4e",
       "label": "New Zealand",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "NZ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/New_Zealand",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e72cd6342c10",
@@ -150,17 +208,32 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia",
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Caucasus",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a5503f12a7ac",
       "label": "Siberia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Siberia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-8bbf83e8ceff",
@@ -170,7 +243,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Scandinavia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-bff4d121f688",
@@ -180,47 +259,85 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Sahara",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-10436829032f",
       "label": "China",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/China",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-84363cef0b48",
       "label": "Mesopotamia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IQ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Mesopotamia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-580eedc669f3",
       "label": "Ukraine",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "UA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Ukraine",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2ec67c7c7cad",
       "label": "Southeastern Anatolia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southeastern_Anatolia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-82e507ed59e3",
@@ -230,7 +347,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Levant",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-32de6ce1ec71",
@@ -250,7 +373,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Andes",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-063d3a69033a",
@@ -260,7 +389,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Mesoamerica",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-c9d917736f72",
@@ -270,7 +405,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/South_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-379440120637",
@@ -280,37 +421,67 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia",
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Middle_East",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-557c1599d9a0",
       "label": "Egypt",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "EG"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Egypt",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-18d4e170765c",
       "label": "Iran",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Iran",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-454970012b81",
       "label": "Southern Poland",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "PL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "geographySource": "https://en.wikipedia.org/wiki/Lesser_Poland",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
     },
     {
       "id": "place-cbb0a7ae59e3",
@@ -320,17 +491,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Northwest_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-cba3ee736d57",
       "label": "Iraq, Mesopotamia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IQ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Mesopotamia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0c2f42d1d1db",
@@ -340,7 +525,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Northeastern_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-eef94307f38a",
@@ -350,17 +541,32 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Pontic-Caspian_steppe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a3a8dbd67329",
       "label": "Uruk",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IQ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Uruk",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0f5fbbd8e643",
@@ -370,37 +576,67 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/South_Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-56059e7fb4e9",
       "label": "Slovenia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "SI"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Slovenia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-b5cbec1a064d",
       "label": "Great Britain",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Great_Britain",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-9c93ad439373",
       "label": "Greece",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Greece",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-1946323a12d6",
@@ -410,37 +646,67 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Near_East",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-348260ed7e92",
       "label": "Babylon",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IQ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Babylon",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-de5008d194a7",
       "label": "Iraq",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IQ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Iraq",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-1f5ea84e35cf",
       "label": "Western Anatolia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Western_Anatolia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-40d9a90716b0",
@@ -450,7 +716,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Central_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-b01c72c717ff",
@@ -460,67 +732,123 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa",
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Mediterranean",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-3552ac0c0324",
       "label": "Israel",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Israel",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4609682a2f3d",
       "label": "Tunisia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Tunisia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d0d220191865",
       "label": "Rome",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Rome",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-f2f6ac3ee1ff",
       "label": "Persia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Persia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e15a18aadcac",
       "label": "Nepal",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "NP"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Nepal",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-b80a89eaa759",
       "label": "Shandong",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Shandong",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-9891a4b7aaeb",
@@ -530,17 +858,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Ancient_Macedonia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e1cfef97c30f",
       "label": "Pompeii",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Pompeii",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-451ebbe3f766",
@@ -550,7 +892,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Jerusalem",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5f4dbd43faad",
@@ -567,10 +915,18 @@
       "label": "Northeastern Italy",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Northeastern_Italy",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-3acefcfa65fa",
@@ -580,7 +936,15 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5553857c83bf",
@@ -590,7 +954,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Judea",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-6a98bc0ea0c8",
@@ -600,27 +970,49 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Dalmatia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-7a1ca4ef7515",
       "label": "France",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/France",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-ed9ad13611d7",
       "label": "Saudi Arabia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "SA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e595f45dc6c9",
@@ -630,27 +1022,49 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-348841ef53db",
       "label": "Belgium",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "BE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Belgium",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d6804464c5f4",
       "label": "Madagascar",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "MG"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Madagascar",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a9b5c69465cc",
@@ -660,17 +1074,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Iberia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-80db4ccdca10",
       "label": "Germany",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Germany",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a73ef7e2d61c",
@@ -680,7 +1108,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southeast_Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-570cde77956f",
@@ -690,7 +1124,14 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-420cca4363fa",
@@ -700,37 +1141,67 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Eastern_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-48e10296ae1f",
       "label": "Greenland",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Greenland",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d3309bbd8954",
       "label": "Newfoundland",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Newfoundland",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-99a7c065a730",
       "label": "Mongolia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "MN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Mongolia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-7ee83da5efe8",
@@ -747,20 +1218,36 @@
       "label": "Cologne",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Cologne",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-c0ea960b065c",
       "label": "England",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/England",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-10e3a8b2b1a6",
@@ -777,70 +1264,126 @@
       "label": "Northeastern France",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Grand_Est",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-ea23726dd0fd",
       "label": "Romania",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RO"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Romania",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0b19ebd4a6ee",
       "label": "Vinci",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Vinci%2C_Tuscany",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-70af65c90d56",
       "label": "Istanbul",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Istanbul",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4c7de2c3da6d",
       "label": "Portugal",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "PT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Portugal",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-544c789e852c",
       "label": "Florence",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Florence",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-9c5396f2c74a",
       "label": "Thorn",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "PL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "geographySource": "https://en.wikipedia.org/wiki/Toru%C5%84",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
     },
     {
       "id": "place-94d6bd9eb556",
@@ -857,40 +1400,72 @@
       "label": "Eisleben",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Eisleben",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-225e9e00cfd6",
       "label": "Noyon",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Noyon",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2275583196d7",
       "label": "Switzerland",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CH"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Switzerland",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-93711534b06d",
       "label": "Trabzon",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Trabzon",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-ff9518d2cc68",
@@ -907,10 +1482,18 @@
       "label": "Vienna",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "AT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Vienna",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-be5f18358439",
@@ -927,50 +1510,90 @@
       "label": "Pisa",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Pisa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-49dca65f362f",
       "label": "United States",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/United_States",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0ee033b5f7f9",
       "label": "Virginia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Virginia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-cbe7f61b63c3",
       "label": "Cape Cod",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Cape_Cod",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-71bf5c95906b",
       "label": "New England",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/New_England",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-64be0885bc3f",
@@ -980,7 +1603,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/North_America",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0609faa9fbf0",
@@ -1000,117 +1629,210 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [],
+      "geographyLevel": "region",
+      "geographySource": null,
+      "geographyNote": "Ambiguous legacy label: Harvard and Keynes refer to different cities. Individual records now use distinct references."
     },
     {
       "id": "place-33a3d8ed92b0",
       "label": "Russia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Russia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-102cb8b468e5",
       "label": "Eisenach",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Eisenach",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-f715c83fb2d5",
       "label": "Halle",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Halle_(Saale)",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5dd272b4f316",
       "label": "Paris",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Paris",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5a9cf672c8be",
       "label": "Italy",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "IT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Italy",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-8019b77606f9",
       "label": "Saint Petersburg",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a06522bc4aab",
       "label": "Boston",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Boston",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-9029091829b0",
       "label": "Basel",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CH"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Basel",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4f00c4593da1",
       "label": "Edinburgh",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Edinburgh",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-806b1459b451",
       "label": "Geneva",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CH"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Geneva",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-40d66c2545f5",
       "label": "Kirkcaldy",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Kirkcaldy",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4126d8a52aef",
@@ -1120,7 +1842,13 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Prussia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e91e1744cfbc",
@@ -1137,10 +1865,18 @@
       "label": "Salzburg",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "AT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Salzburg",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-41a6741e9a0f",
@@ -1157,180 +1893,323 @@
       "label": "Ajaccio",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Ajaccio",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-39d2faabcd9d",
       "label": "Bonn",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Bonn",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-ecc0e7dc084f",
       "label": "London",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/London",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d090b87e4a3b",
       "label": "Haiti",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "HT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Haiti",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2dbf2a493d2e",
       "label": "Hodgenville",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Hodgenville",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-df074c61ffcd",
       "label": "Shrewsbury",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Shrewsbury",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-fa9a9adc0b0b",
       "label": "Trier",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Trier",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4661bd5b4b1a",
       "label": "Moscow",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Moscow",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0ed0e6feed14",
       "label": "Dole",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Dole%2C_Jura",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-815eca977c7d",
       "label": "New York",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/New_York_(state)",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-aee89f076a84",
       "label": "Votkinsk",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Votkinsk",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-852ad4c9a185",
       "label": "Röcken",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/R%C3%B6cken",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-192f9e91d1ee",
       "label": "Milan, OH",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Milan%2C_Ohio",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-efe9cfa6a64f",
       "label": "Smiljan",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "HR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Smiljan%2C_Croatia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-36783c412a82",
       "label": "Moravia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CZ"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Moravia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-04bbc58734da",
       "label": "Southern China",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southern_China",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2d59f8dd13aa",
       "label": "Warsaw",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "PL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "geographySource": "https://en.wikipedia.org/wiki/Warsaw",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
     },
     {
       "id": "place-7f44b416751e",
       "label": "Ulyanovsk",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Ulyanovsk",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4691492179d2",
@@ -1347,60 +2226,108 @@
       "label": "Ulm",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Ulm",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4eb738c1b63a",
       "label": "Lemberg",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "UA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Lviv",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-059bdf337a98",
       "label": "DR Congo",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CD"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0990414a2833",
       "label": "Braunau am Inn",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "AT"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Braunau_am_Inn",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a1ff4142da5b",
       "label": "Brooklyn",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Brooklyn",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-16d7b75d3f53",
       "label": "Versailles",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "FR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Versailles",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5338fc108450",
@@ -1410,197 +2337,357 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-07c67d76ef92",
       "label": "Turkey",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "TR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Turkey",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-0d0b4e410222",
       "label": "Cuba",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "CU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Cuba",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-ea0b937ea317",
       "label": "Argentina",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "AR"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Argentina",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a6c2221569fe",
       "label": "Atlanta",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Atlanta",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d26855d0baae",
       "label": "Gastonia",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Gastonia%2C_North_Carolina",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-dad114b6ed73",
       "label": "Berlin",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Berlin",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-3e049d78d958",
       "label": "South Africa",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "ZA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/South_Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e1ca8f3039c1",
       "label": "Peine",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "DE"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Peine",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-2e5e81066a29",
       "label": "Vietnam",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "VN"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Vietnam",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-c72199a85b54",
       "label": "Zimbabwe",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "ZW"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Zimbabwe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d10b273fab39",
       "label": "Pretoria",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "ZA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Pretoria",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-b3fb95a5f48c",
       "label": "Albuquerque",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Albuquerque",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-156e4bd9576f",
       "label": "Los Altos",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Los_Altos%2C_California",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e7d529decf2e",
       "label": "UK",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "GB"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-e92ba64d502a",
       "label": "Pripyat",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "UA"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Pripyat",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-8e3478315386",
       "label": "Maastricht",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "NL"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Maastricht",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-7e12449255ed",
       "label": "Menlo Park",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Menlo_Park%2C_California",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5dbddf911f9e",
       "label": "Afghanistan",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "AF"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Afghanistan",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-a637a80faf7a",
       "label": "Ōkuma",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "JP"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/%C5%8Ckuma%2C_Fukushima",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-d9aeaabda70c",
@@ -1610,17 +2697,31 @@
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Crimea",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-78d51f04a119",
       "label": "Washington D.C.",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Washington_D.C.",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-422adb6d7d6c",
@@ -1637,60 +2738,1916 @@
       "label": "Los Angeles",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Los_Angeles",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-99df41eee444",
       "label": "Charlottesville",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Charlottesville",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-12c8f8f4912c",
       "label": "Rwanda",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RW"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Rwanda",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5de21be7a78d",
       "label": "Kislovodsk",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "RU"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Kislovodsk",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-5a59ef2e40c5",
       "label": "New York City",
       "aliases": [],
       "status": "review",
-      "countryCodes": [],
+      "countryCodes": [
+        "US"
+      ],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/New_York_City",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
     },
     {
       "id": "place-4eb1b68df132",
       "label": "Dallas",
       "aliases": [],
       "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Dallas",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-3f5053b3ae70",
+      "label": "Africa",
+      "aliases": [],
+      "status": "review",
       "countryCodes": [],
       "coordinates": null,
       "source": null,
-      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-67172866bf4b",
+      "label": "Southeastern Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southeastern_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-2dec26043f67",
+      "label": "Chad",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "TD"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Chad",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-4ac53897ac29",
+      "label": "Ethiopia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "ET"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Ethiopia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-82542590731d",
+      "label": "East Africa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/East_Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-d831756da749",
+      "label": "Lomekwi",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Lomekwi",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-ee139bd0fd94",
+      "label": "Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-007f6975f795",
+      "label": "Wonderwerk Cave",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "ZA"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Wonderwerk_Cave",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-2ba3b66ff4d5",
+      "label": "Eurasia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Eurasia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-9f59e46be323",
+      "label": "Apidima Cave",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Apidima_Cave",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-3176877b55a1",
+      "label": "Ngandong",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "ID"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.nature.com/articles/s41586-019-1863-2",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-f0c3f7a7f360",
+      "label": "Madjedbebe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Madjedbebe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-f50478cecac2",
+      "label": "East Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/East_Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-23a283149e68",
+      "label": "Kostenki",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "RU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Kostenki",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-5e596cc17845",
+      "label": "Baishiya Karst Cave",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Baishiya_Karst_Cave",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-3e9951bb2133",
+      "label": "Abri du Maras",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "FR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://doi.org/10.1016/j.quascirev.2020.106472",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-e6cea50ea383",
+      "label": "White Sands National Park",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/White_Sands_National_Park",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-1c583b195015",
+      "label": "South America",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://en.wikipedia.org/wiki/South_America",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-b6f6f1d81695",
+      "label": "North Atlantic",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe",
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/North_Atlantic",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-ab47a133bea8",
+      "label": "Central Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Central_Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-97ffd67c4c8f",
+      "label": "Wrangel Island",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "RU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Wrangel_Island",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-84c88c5632ee",
+      "label": "Northern Hemisphere",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Northern_Hemisphere",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-b55f8783eb7d",
+      "label": "West Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/West_Asia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-c585f1decb98",
+      "label": "Australia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Australia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-7bfa4e527a16",
+      "label": "Western Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Western_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-af0d1c5007df",
+      "label": "Balkans",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Balkans",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-3f57e4490d0c",
+      "label": "Czechia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CZ"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Czechia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-85e8b4499e56",
+      "label": "Slovakia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "SK"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Slovakia",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-7aca9b2c4a36",
+      "label": "Worldwide",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Europe",
+        "North America",
+        "Oceania",
+        "South America"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/World",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6da0622a3b35",
+      "label": "Baikonur Cosmodrome",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KZ"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-aa0db396b7d5",
+      "label": "Hungary",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "HU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Hungary",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-f450959f870a",
+      "label": "Korean Peninsula",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KP",
+        "KR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Korean_Peninsula",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-0e98cc0b1589",
+      "label": "United Kingdom",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GB"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/United_Kingdom",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-73ef44a8cc2d",
+      "label": "Tel Aviv",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IL"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Tel_Aviv",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-9a9842d1ddc9",
+      "label": "Normandy",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "FR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Normandy",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-3659c7c88209",
+      "label": "Pearl Harbor",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Pearl_Harbor",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-b036b1e8b299",
+      "label": "Angkor Wat",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KH"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-8be2978e3437",
+      "label": "Mexico",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "MX"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Mexico",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-2c1285f6983a",
+      "label": "Münster",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "DE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/M%C3%BCnster",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-d1511eafc7fb",
+      "label": "Osnabrück",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "DE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Osnabr%C3%BCck",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-cea6e0860549",
+      "label": "Scotland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GB"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Scotland",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6b4a7fcff8cd",
+      "label": "Seneca Falls",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-63c8807c2fd9",
+      "label": "Netherlands",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "NL"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Netherlands",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-1a66d4a13390",
+      "label": "Mainz",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "DE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Mainz",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-ce38a248f9c3",
+      "label": "Kill Devil Hills",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Kill_Devil_Hills",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-68d2992e6c76",
+      "label": "CERN",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CH",
+        "FR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://home.cern/directions/",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-4c137e8eb449",
+      "label": "Titusville, Pennsylvania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Titusville%2C_Pennsylvania",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6c5f9f62245d",
+      "label": "Northern Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Northern_Europe",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-32f987ecd367",
+      "label": "Ireland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Ireland",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6daa66ce38b7",
+      "label": "West Africa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/West_Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-fb54e9062429",
+      "label": "India",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/India",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-9dd1982891ce",
+      "label": "Himalayas",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Himalayas",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-e27b13ead6cc",
+      "label": "Yunnan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Yunnan",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-903f148e2f4e",
+      "label": "Chechnya",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "RU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Chechnya",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-2c03944b432a",
+      "label": "Giza",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "EG"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Giza",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-684de6b4b4cc",
+      "label": "Mount Rushmore",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-0fdbe684ed98",
+      "label": "La Braña-Arintero",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "ES"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.nature.com/articles/nature12960",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-fdc224c5d688",
+      "label": "Peru",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "PE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Peru",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-295099c764e6",
+      "label": "Sweden",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "SE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Sweden",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-7112733729f2",
+      "label": "Austria",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AT"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Austria",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-408c7c5887a0",
+      "label": "Canada",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CA"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Canada",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-f6b323fdd9f9",
+      "label": "Libya",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "LY"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Libya",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-e83f024f9a11",
+      "label": "Albania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AL"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Albania",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-5647e80ae275",
+      "label": "Southern Africa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Southern_Africa",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-5f0bf3ff6b72",
+      "label": "Denmark",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "DK"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Denmark",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-0c076265ea57",
+      "label": "Missouri",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Missouri",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-94f2586cb84f",
+      "label": "Mount Pinatubo",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "PH"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://en.wikipedia.org/wiki/Mount_Pinatubo",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-d209bcc17778",
+      "label": "Mumbai",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Mumbai",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-26c1d062cc7a",
+      "label": "Alaska",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Alaska",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-eb1f29cd9545",
+      "label": "Cannae",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IT"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Cannae",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6136f4ba12f6",
+      "label": "Talas River",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Talas_River",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-69b60601ca00",
+      "label": "Tours",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "FR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Tours",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-8896cce4c23c",
+      "label": "Vukovar",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "HR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Vukovar",
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-eae6d77e26d5",
+      "label": "Waterloo",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Waterloo%2C_Belgium",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-2f310e6f62d1",
+      "label": "Battle, East Sussex",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GB"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Battle%2C_East_Sussex",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-6d205806e19d",
+      "label": "Marathon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Marathon%2C_Greece",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-e9442dd5ffde",
+      "label": "Salamis",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Salamis_Island",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-90a4abc48993",
+      "label": "Plassey",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Palashi",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-283ed6eaab84",
+      "label": "Panipat",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "IN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Panipat",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-43512485abed",
+      "label": "Volgograd",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "RU"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Volgograd",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-bce3295cbc35",
+      "label": "Midway Atoll",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "region",
+      "geographySource": "https://en.wikipedia.org/wiki/Midway_Atoll",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-8e3191227984",
+      "label": "Runnymede",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GB"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association reviewed separately from map coordinates.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://en.wikipedia.org/wiki/Runnymede",
+      "geographyNote": "Modern countries locate this associated place; they do not define an event’s historical borders or its entire geographic extent. No map coordinates have been approved."
+    },
+    {
+      "id": "place-4a2a0a69fb5d",
+      "label": "Cambridge, Massachusetts",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Cambridge%2C_Massachusetts",
+      "countryCodes": [
+        "US"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-985b90124fb2",
+      "label": "Cambridge, England",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Cambridge",
+      "countryCodes": [
+        "GB"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-ac9c47618c63",
+      "label": "Wrington",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Wrington",
+      "countryCodes": [
+        "GB"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-df6cf9b3382c",
+      "label": "Greenock",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Greenock",
+      "countryCodes": [
+        "GB"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-f1174614024b",
+      "label": "Gori",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Gori%2C_Georgia",
+      "countryCodes": [
+        "GE"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-cbe6404179d3",
+      "label": "Bethel, New York",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Bethel%2C_New_York",
+      "countryCodes": [
+        "US"
+      ],
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-d181ab3a8dbf",
+      "label": "Caprese Michelangelo",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Caprese_Michelangelo",
+      "countryCodes": [
+        "IT"
+      ],
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-0f972e262e2e",
+      "label": "United Kingdom and United States",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Geographic association only; map coordinates remain unreviewed.",
+      "geographySource": "https://en.wikipedia.org/wiki/Thomas_Paine",
+      "countryCodes": [
+        "GB",
+        "US"
+      ],
+      "continents": [
+        "Europe",
+        "North America"
+      ],
+      "geographyLevel": "place"
+    },
+    {
+      "id": "place-ad1d0a33d147",
+      "label": "Pakistan",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "PK"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Pakistan",
+      "geographyLevel": "country"
+    },
+    {
+      "id": "place-3c9e5562b466",
+      "label": "Tajikistan",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "TJ"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Tajikistan",
+      "geographyLevel": "country"
+    },
+    {
+      "id": "place-700530bf6ed3",
+      "label": "Turkmenistan",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "TM"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Turkmenistan",
+      "geographyLevel": "country"
+    },
+    {
+      "id": "place-1c438aa8cb19",
+      "label": "Uzbekistan",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "UZ"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Uzbekistan",
+      "geographyLevel": "country"
+    },
+    {
+      "id": "place-02b79068e983",
+      "label": "Magadha",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Magadha",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-50dc20146ce4",
+      "label": "Deccan",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Deccan",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-067ae3300ba1",
+      "label": "Southern India",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Southern_India",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-e755eeaabf2e",
+      "label": "Northern India",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Northern_India",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-545aab0ca555",
+      "label": "Karnataka",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Karnataka",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-dc01f18e8f32",
+      "label": "Bengal",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN",
+        "BD"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Bengal",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-a77295e682c4",
+      "label": "Kalinga",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Kalinga_%28historical_region%29",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-1b269162f8ee",
+      "label": "Punjab",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN",
+        "PK"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Punjab",
+      "geographyLevel": "region"
+    },
+    {
+      "id": "place-40ace5b4f581",
+      "label": "Delhi",
+      "aliases": [],
+      "status": "review",
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geography only; no approved map point.",
+      "countryCodes": [
+        "IN"
+      ],
+      "continents": [
+        "Asia"
+      ],
+      "geographySource": "https://en.wikipedia.org/wiki/Delhi",
+      "geographyLevel": "region"
     }
   ]
 }

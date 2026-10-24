@@ -23,14 +23,13 @@ export default function TimeGuide({year,scales,records,onJump}) {
         {nodes.map(n=>{
           const index=records.findIndex(r=>r.start>=n.start && r.start<=n.end);
           const depth=compact ? group.label==='Earth' ? 0 : Math.max(0,n.depth-1) : n.depth;
-          return <div key={n.key} className="time-guide-level" style={{'--depth':Math.min(depth,3)}}>
+          return <div key={n.key} className="time-guide-level" style={{'--depth':Math.min(depth,3),'--guide-color':n.color}}>
             {n.start===undefined ? <strong>{n.name}</strong> : <button disabled={index<0} onClick={()=>onJump(index)} title={`${n.name}: approximately ${formatYear(n.start)} to ${n.ongoing?'present':formatYear(n.end)}`}>
               <small>{n.type || 'Age'}</small><strong>{n.name}</strong>
             </button>}
           </div>;
         })}
       </section>;})}
-      <p className="time-guide-note">Approximate ages. Human periods are a broad guide; transitions vary by region.</p>
       <details className="time-guide-sources"><summary>About these ages</summary>
         <p>Geological ages follow a rounded scheme checked against the ICS chart. Medieval and modern labels follow the familiar European convention.</p>
         {scales.metadata?.sources?.[0]?.url && <a href={scales.metadata.sources[0].url} target="_blank" rel="noreferrer">Geological reference ↗</a>}

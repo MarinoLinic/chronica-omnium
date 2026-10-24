@@ -10,8 +10,8 @@
   "start": -750000000,
   "end": -609000000,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Caveasphaera",
   "image": "https://cosmosmagazine.com/wp-content/uploads/2020/03/191129-Caveasphaera-e1604633117908.jpg",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 4
 }

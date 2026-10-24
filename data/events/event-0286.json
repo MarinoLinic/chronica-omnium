@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1632,
   "end": 1704,
-  "location": "Wington",
+  "location": "Wrington",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-0609faa9fbf0"
+    "place-ac9c47618c63"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         -82.764011
       ]
     }
-  }
+  },
+  "priority": 2
 }

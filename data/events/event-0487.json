@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1596,
   "end": null,
-  "location": null,
+  "location": "United Kingdom",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "1596 dates Harington’s published design, not the first use of flushing sanitation in world history.",
-  "places": [],
+  "places": [
+    "place-0e98cc0b1589"
+  ],
   "notes": "",
   "legacy": {
     "id": "flush-toilet",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

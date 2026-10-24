@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1845,
   "end": 1852,
-  "location": null,
-  "type": "War",
+  "location": "Ireland",
+  "type": "Event",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-32f987ecd367"
+  ],
   "notes": "",
   "legacy": {
     "id": "irish-potato-famine",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

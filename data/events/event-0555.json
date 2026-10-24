@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": -900,
   "end": -27,
-  "location": null,
-  "type": "Civilization",
+  "location": "Italy",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-5a9cf672c8be"
+  ],
   "notes": "",
   "legacy": {
     "id": "etruscans",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

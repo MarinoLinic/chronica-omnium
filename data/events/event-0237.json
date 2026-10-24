@@ -11,7 +11,7 @@
   "end": 1453,
   "location": "France, Great Britain, Iberia",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Hundred_Years%27_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hundred_years_war_collage.jpg/1920px-Hundred_years_war_collage.jpg",
@@ -53,5 +53,6 @@
     "time_end": "1453 ",
     "time_start": "1337 ",
     "location_info": null
-  }
+  },
+  "priority": 2
 }

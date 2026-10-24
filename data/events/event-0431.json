@@ -11,7 +11,7 @@
   "end": 2021,
   "location": "Afghanistan",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/1920px-U.S._Army_firefight_in_Kunar.jpg",
@@ -67,5 +67,6 @@
         66.2385139
       ]
     }
-  }
+  },
+  "priority": 2
 }

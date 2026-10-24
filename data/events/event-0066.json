@@ -9,7 +9,7 @@
   "long_desc": "?",
   "start": -21050,
   "end": -19050,
-  "location": null,
+  "location": "White Sands National Park",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": "1",
   "date_kind": "uncertain",
   "date_note": "Approximately 23,000–21,000 calibrated years BP (fixed BP reference 1950), shown as roughly 21,050–19,050 BCE. This dates use of the site, not the first arrival anywhere in the Americas.",
-  "places": [],
+  "places": [
+    "place-e6cea50ea383"
+  ],
   "notes": "",
   "legacy": {
     "id": "",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": "Settlement of Europe and East Asia",
   "start": -43000,
   "end": null,
-  "location": null,
+  "location": "Europe · East Asia",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9",
+    "place-f50478cecac2"
+  ],
   "notes": "",
   "legacy": {
     "id": "settlement-of-europe-and-east-asia",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

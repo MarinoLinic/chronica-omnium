@@ -9,9 +9,9 @@
   "long_desc": "Denisovans and neanderthals split",
   "start": -500000,
   "end": -400000,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "Eurasia",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Denisovan",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
-  "places": [],
+  "places": [
+    "place-2ba3b66ff4d5"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "denisovans-and-neanderthals-split",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

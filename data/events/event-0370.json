@@ -11,7 +11,7 @@
   "end": 1918,
   "location": "Europe",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/World_War_I",
   "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg",
@@ -67,5 +67,6 @@
         10
       ]
     }
-  }
+  },
+  "priority": 1
 }

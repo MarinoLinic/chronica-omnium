@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1918,
   "end": 1989,
-  "location": null,
+  "location": "Romania",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-ea23726dd0fd"
+  ],
   "notes": "",
   "legacy": {
     "id": "nicolae-ceauescu",
@@ -79,5 +81,6 @@
       "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu"
     }
   ],
-  "timeline_period": "leadership"
+  "timeline_period": "leadership",
+  "priority": 4
 }

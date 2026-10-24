@@ -10,7 +10,7 @@
   "start": 1920,
   "end": 1945,
   "location": "Germany",
-  "type": "Party",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Nazi_Party",
@@ -67,5 +67,6 @@
         10.4478313
       ]
     }
-  }
+  },
+  "priority": 2
 }

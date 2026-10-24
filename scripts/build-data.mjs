@@ -35,7 +35,7 @@ await writeJson(at('data/reports/media-audit.json'),mediaAudit(entries,refs.medi
 const compiled = entries.map(({ record }) => compileRecord(record, refs))
 // Keep long source extracts out of the first page's JavaScript payload.
 const publicRecords = compiled.map(({ legacy, notes, ...r }) => r)
-const summaryKeys = ['id','id_num','name','status','start','end','date_kind','date_label','periods','timeline_period','type','field','short_desc','location','countryCodes','countryNames','local_image','img_sm','image']
+const summaryKeys = ['id','id_num','name','status','start','end','date_kind','date_label','periods','timeline_period','type','field','priority','short_desc','location','continents','geography','countryCodes','countryNames','local_image','img_sm','image']
 const index = publicRecords.map(r => Object.fromEntries(summaryKeys.map(key => [key, r[key]]).filter(([key,value])=>
   !(['date_label','timeline_period'].includes(key)&&value===null)&&!(Array.isArray(value)&&value.length===0)
 )))
@@ -43,6 +43,7 @@ await writeJson(at('public/data/catalog.json'), index)
 await writeJson(at('public/data/time-scales.json'), refs.scales)
 await writeJson(at('public/data/countries.json'), refs.countries)
 await writeJson(at('public/data/places.json'), refs.places)
+await writeJson(at('public/data/priority-method.json'), await json(at('data/reference/priority-method.json')))
 for (const r of publicRecords) {
   const content = contents.get(r.id) || null
   await writeJson(at('public/data/events', `${r.id}.json`), { ...r, content })

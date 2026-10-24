@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1994,
   "end": 1996,
-  "location": null,
+  "location": "Chechnya",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/First_Chechen_War",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Two distinct wars, not a continuous 1994–2009 bar. Primary dates: First Chechen War (1994–1996). Use all periods to compare the second war (1999–2009).",
-  "places": [],
+  "places": [
+    "place-903f148e2f4e"
+  ],
   "notes": "",
   "legacy": {
     "id": "chechnian-war",
@@ -78,5 +80,6 @@
       "date_note": "Conventionally through the end of the Russian counterterrorism operation in April 2009; insurgency continued afterwards.",
       "source": "https://en.wikipedia.org/wiki/Second_Chechen_War"
     }
-  ]
+  ],
+  "priority": 4
 }

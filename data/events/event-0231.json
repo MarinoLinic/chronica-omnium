@@ -10,7 +10,7 @@
   "start": 1242,
   "end": 1502,
   "location": "Central Asia, Eastern Europe",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Golden_Horde",
@@ -53,5 +53,6 @@
     "time_end": "1502 ",
     "time_start": "1242 ",
     "location_info": null
-  }
+  },
+  "priority": 2
 }

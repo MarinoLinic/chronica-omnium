@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1848,
   "end": null,
-  "location": null,
+  "location": "Seneca Falls",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-6b4a7fcff8cd"
+  ],
   "notes": "",
   "legacy": {
     "id": "the-declaration-of-sentiments",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

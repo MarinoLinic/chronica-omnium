@@ -10,7 +10,7 @@
   "start": 250,
   "end": 950,
   "location": "Mesoamerica",
-  "type": "Civilization",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization#Classic_period_(c._250%E2%80%93950_AD):~:text=Preclassic.%5B27%5D-,Classic%20period%20(c.%20250%E2%80%93950%20AD),-%5Bedit%5D",
@@ -67,5 +67,6 @@
         -94.5538126
       ]
     }
-  }
+  },
+  "priority": 2
 }

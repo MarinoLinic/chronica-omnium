@@ -10,8 +10,8 @@
   "start": 1529,
   "end": null,
   "location": "Vienna",
-  "type": "Siege",
-  "field": "History",
+  "type": "Battle",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
   "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg",
@@ -67,5 +67,6 @@
         16.3725042
       ]
     }
-  }
+  },
+  "priority": 4
 }

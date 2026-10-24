@@ -10,7 +10,7 @@
   "start": 1525,
   "end": 1947,
   "location": "Germany, Poland",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Prussia",
@@ -67,5 +67,6 @@
         16.7210245
       ]
     }
-  }
+  },
+  "priority": 2
 }

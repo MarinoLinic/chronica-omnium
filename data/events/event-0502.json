@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1994,
   "end": null,
-  "location": null,
+  "location": "United States",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The IBM Simon was announced in 1992 and sold in 1994. “First smartphone” is a retrospective, definition-dependent label.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-smartphone",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 5
 }

@@ -9,7 +9,7 @@
   "long_desc": "Emerge of Hominini",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Africa",
   "type": "Concept",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "A distinct, exactly dated “emergence of Hominini” at 7 million BCE is not established. See Sahelanthropus (31), Graecopithecus (29), and the Pan–Homo divergence (32). The original row is retained.",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70"
+  ],
   "notes": "",
   "legacy": {
     "id": "emerge-of-hominini",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

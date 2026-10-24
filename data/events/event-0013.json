@@ -10,8 +10,8 @@
   "start": -2100000000,
   "end": null,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Francevillian_biota",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Francevillian_biota.jpg/1920px-Francevillian_biota.jpg",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 4
 }

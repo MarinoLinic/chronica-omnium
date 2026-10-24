@@ -11,7 +11,7 @@
   "end": -445,
   "location": "Greece",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Peloponnesian_war_alliances_431_BC.png",
@@ -80,5 +80,6 @@
       "date_note": "The later war between Athens, Sparta and their allies.",
       "source": "https://en.wikipedia.org/wiki/Peloponnesian_War"
     }
-  ]
+  ],
+  "priority": 2
 }

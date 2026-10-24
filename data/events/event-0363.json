@@ -10,7 +10,7 @@
   "start": 1903,
   "end": 1952,
   "location": "Russia",
-  "type": "Faction",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Bolsheviks",
@@ -67,5 +67,6 @@
         97.7453061
       ]
     }
-  }
+  },
+  "priority": 4
 }

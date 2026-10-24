@@ -47,7 +47,7 @@ test('vertical guide clips bands to the displayed range and crosses BCE/CE witho
  }
  assert.equal(trackFor({type:'Battle'}),'Society & conflict');
  assert.equal(trackFor({type:'Rebellion'}),'Society & conflict');
- assert.equal(trackFor({type:'State'}),'Civilizations & institutions');
+ assert.equal(trackFor({type:'Polity'}),'Polities & organizations');
 });
 test('vertical subject headings share the first event column instead of adding an empty lane',()=>{
  const records=[{id:'a',name:'A',id_num:1,start:1,end:10,type:'Battle'}];

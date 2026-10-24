@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1206,
   "end": 1526,
-  "location": null,
-  "type": "State",
+  "location": "Delhi",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Delhi_Sultanate",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "An umbrella political span; the five main ruling dynasties are separate records and are not five additional simultaneous empires.",
-  "places": [],
+  "places": [
+    "place-40ace5b4f581"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

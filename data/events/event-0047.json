@@ -9,7 +9,7 @@
   "long_desc": "Extinction of Homo erectus",
   "start": -115000,
   "end": -106000,
-  "location": null,
+  "location": "Ngandong",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Approximate BCE bounds rounded to millennia. A last known fossil occurrence does not establish the actual extinction date.",
-  "places": [],
+  "places": [
+    "place-3176877b55a1"
+  ],
   "notes": "",
   "legacy": {
     "id": "extinction-of-homo-erectus",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

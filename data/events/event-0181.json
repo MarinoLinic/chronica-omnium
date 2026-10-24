@@ -9,7 +9,7 @@
   "long_desc": "Catholicism",
   "start": 1,
   "end": 100,
-  "location": null,
+  "location": "Rome",
   "type": "Religion",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "First-century roots are a tradition and historical origin context, not a precise founding in 54 or a duration ending in 2023. See Christianity (179) for the broader origins.",
-  "places": [],
+  "places": [
+    "place-d0d220191865"
+  ],
   "notes": "",
   "legacy": {
     "id": "catholicism",
@@ -66,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Origins"
+  "date_label": "Origins",
+  "priority": 2
 }

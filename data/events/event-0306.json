@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1736,
   "end": 1819,
-  "location": "Greenrock",
+  "location": "Greenock",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-e91e1744cfbc"
+    "place-df6cf9b3382c"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         -116.601533
       ]
     }
-  }
+  },
+  "priority": 2
 }

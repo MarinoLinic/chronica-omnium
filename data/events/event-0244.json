@@ -9,8 +9,8 @@
   "long_desc": "Inca Empire",
   "start": 1438,
   "end": 1572,
-  "location": null,
-  "type": "State",
+  "location": "Andes",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Inca_Empire",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-dbbde35c7cd4"
+  ],
   "notes": "",
   "legacy": {
     "id": "inca-empire",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

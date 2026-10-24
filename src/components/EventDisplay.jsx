@@ -38,7 +38,7 @@ export default function EventDisplay({ event, content }) {
           <p className="date-note">Approximate date bounds, not a duration.</p>
         )}
         {dateNote && <p className="date-note">{dateNote}</p>}
-        {event.location && <p className="event-place">{event.location}</p>}
+        {event.location && <p className="event-place">{[event.location,...(event.countryNames || []).filter(name=>!event.location.includes(name)),...(event.continents || []).filter(name=>!event.location.includes(name))].join(' · ')}</p>}
         {event.short_desc && <p className="story-intro">{event.short_desc}</p>}
       </header>
       {(event.image || event.local_image) && (

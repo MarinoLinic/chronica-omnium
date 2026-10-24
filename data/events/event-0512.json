@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1970,
   "end": null,
-  "location": null,
+  "location": "Worldwide",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates Borlaug’s 1970 Nobel Peace Prize as a clear milestone. The Green Revolution was a much broader, regionally staggered agricultural transformation.",
-  "places": [],
+  "places": [
+    "place-7aca9b2c4a36"
+  ],
   "notes": "",
   "legacy": {
     "id": "green-revolution-1970",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

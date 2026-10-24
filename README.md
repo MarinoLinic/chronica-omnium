@@ -15,17 +15,19 @@ Open the printed loopback URL, normally `http://127.0.0.1:5173`. The first insta
 
 ## Read and explore
 
-The chronicle has a compact period picker, previous/next period controls, search, and type/field filters. The list is virtualized and images load lazily in reserved spaces. Hover, focus, or tap a date for elapsed years and approximate generations ago, at **25 years per generation**. Event pages also show this beneath the date. Positive years omit CE; negative years retain BCE.
+The chronicle has a compact period picker, previous/next period controls, search, and type, field, geography and priority filters. Geography narrows from continent to country to place or region. Priority runs from **1 (highest) to 5 (lowest)** and includes every level by default; a tighter filter includes the chosen level and higher priorities. [The priority method](docs/PRIORITY.md) explains the editorial criteria and limitations.
 
-The left-hand time guide follows the visible story through geological units, broad archaeological and historical ages, and centuries. It folds away on mobile. These are approximate orientation labels; human ages vary by region. The original simple period scheme is retained, with clear date and nesting errors corrected.
+The list is virtualized and images load lazily in reserved spaces. Hovering, focusing or touching an event link prepares its route, article and selected image in a shared bounded cache. Dates show elapsed years and approximate generations ago, using 25 years per generation; the calculation is explained in Sources. Dates earlier than 10,000 BCE say “human generations” to clarify the comparison. Positive years omit CE; negative years retain BCE. Back to top and Go to bottom work with the virtual list.
 
-Event pages show the article and selected image together after loading. Sources, image credits, revision/retrieval details, text download, and print controls are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
+The left-hand time guide follows the visible story through geological units, broad archaeological and historical ages, and centuries. It folds away on mobile. The reference JSON supplies the guide colors, subtle chronicle tint and exported vertical age bands. “About these ages” retains the scope and regional qualifications.
+
+Event pages show the article and selected image together after loading. Sources, image credits, geographic evidence, revision/retrieval details and text download are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 
 The header keeps the original animated blue/cyan gradient, with reduced-motion support. The original large title and percentage-based Back to Top designs are preserved in [legacy/designs/](legacy/designs/README.md), including a standalone preview. Event pictures retain their size limits without a coloured frame behind them.
 
 `/timeline` supports horizontal and vertical linear charts, subject grouping or chronological packing, filters, presets, pan/zoom, and full-chart PNG/SVG exports. Context charts use the same SVG/export approach and appear only for populated categories in a useful human-history window. Text lists remain available.
 
-Vertical timelines include age bands to the left of the events, including in exports. Filter battles, rebellions, sieges and wars separately. **State** covers kingdoms, empires, republics and dynastic states; **Civilization** covers broader cultural groupings. The [catalog curation notes](docs/CATALOG-CURATION.md) explain the current intake and coverage.
+Vertical timelines include age bands to the left of the events, including in exports. **Polity** combines states and civilizations; **Organization** combines parties, movements and institutions. The **War** field contains **War** and **Battle** types. Geological and climatic events share **Natural event / Natural history**. Historical and cultural Period entries remain distinct. The [catalog curation notes](docs/CATALOG-CURATION.md) preserve earlier intake coverage; the current [handoff](docs/HANDOFF.md) records the simplified categories.
 
 ## Authoring
 

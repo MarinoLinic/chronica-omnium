@@ -10,8 +10,8 @@
   "start": 1765,
   "end": 1791,
   "location": "United States",
-  "type": "Revolution",
-  "field": "History",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/American_Revolution",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1920px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "priority": 1
 }

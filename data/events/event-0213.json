@@ -9,8 +9,8 @@
   "long_desc": "Al-Andalus",
   "start": 711,
   "end": 1492,
-  "location": null,
-  "type": "State",
+  "location": "Iberia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Al-Andalus",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-a9b5c69465cc"
+  ],
   "notes": "",
   "legacy": {
     "id": "al-andalus",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

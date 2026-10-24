@@ -10,8 +10,8 @@
   "start": -252000000,
   "end": null,
   "location": "World",
-  "type": "Event",
-  "field": "Geology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
   "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Extinction_intensity.svg",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 1
 }

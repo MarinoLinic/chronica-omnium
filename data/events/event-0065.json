@@ -10,8 +10,8 @@
   "start": -24500,
   "end": null,
   "location": "New Zealand",
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Oruanui_eruption",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Oruanui.North.Island.NZ.jpg/1920px-Oruanui.North.Island.NZ.jpg",
@@ -67,5 +67,6 @@
         172.8344077
       ]
     }
-  }
+  },
+  "priority": 4
 }

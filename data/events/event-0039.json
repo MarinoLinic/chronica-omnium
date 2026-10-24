@@ -9,7 +9,7 @@
   "long_desc": "Controlled use of fire",
   "start": -2000000,
   "end": -1700000,
-  "location": null,
+  "location": "Africa",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "The imported 2.0–1.7 million-year window represents disputed early claims, not established controlled fire. Stronger in-cave evidence is recorded separately at Wonderwerk (41).",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70"
+  ],
   "notes": "",
   "legacy": {
     "id": "controlled-use-of-fire",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

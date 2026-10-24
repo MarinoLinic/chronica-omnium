@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 345,
   "end": 540,
-  "location": null,
-  "type": "State",
+  "location": "Karnataka",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Kadamba_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Approximate political span of the main Banavasi dynasty; later branches continued.",
-  "places": [],
+  "places": [
+    "place-545aab0ca555"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

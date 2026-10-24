@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1955,
   "end": 1975,
-  "location": null,
+  "location": "United States · Soviet Union",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "A conventional US–Soviet competition interval, from satellite announcements to Apollo–Soyuz. Other endpoints are possible.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f",
+    "place-5338fc108450"
+  ],
   "notes": "",
   "legacy": {
     "id": "space-race",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

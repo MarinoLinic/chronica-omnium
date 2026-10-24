@@ -9,7 +9,7 @@
   "long_desc": "Sargon of Akkad (reign)",
   "start": -2334,
   "end": -2279,
-  "location": null,
+  "location": "Mesopotamia",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-84363cef0b48"
+  ],
   "notes": "",
   "legacy": {
     "id": "sargon-of-akkad-reign",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1590,
   "end": 1620,
-  "location": null,
+  "location": "Netherlands",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Early compound microscopes appeared around the late sixteenth and early seventeenth centuries. Attribution to the Janssens is disputed.",
-  "places": [],
+  "places": [
+    "place-63c8807c2fd9"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-microscope",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

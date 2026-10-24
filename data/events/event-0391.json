@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "First tournament"
+  "date_label": "First tournament",
+  "priority": 2
 }

@@ -11,7 +11,7 @@
   "end": -146,
   "location": "Mediterranean",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Punic_Wars",
   "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Domain_changes_during_the_Punic_Wars.gif",
@@ -67,5 +67,6 @@
         33.9040119532
       ]
     }
-  }
+  },
+  "priority": 2
 }

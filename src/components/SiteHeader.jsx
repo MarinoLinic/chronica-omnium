@@ -5,7 +5,6 @@ export default function SiteHeader({ children }) {
       <nav aria-label="Main navigation">
         <Link to="/" className="wordmark">
           <span className="wordmark-title">Chronica Omnium</span>
-          <span className="wordmark-tagline">A history of our world</span>
         </Link>
         <div className="site-links">
           <Link to="/">Chronicle</Link>

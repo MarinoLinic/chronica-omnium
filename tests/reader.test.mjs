@@ -38,9 +38,10 @@ test("reader dates omit positive CE and explain elapsed time without a year zero
   assert.equal(formatYear(2026), "2026");
   assert.equal(formatYear(-1), "1 BCE");
   assert.match(relativeDate(-1, 1), /about 1 year ago/);
-  assert.match(relativeDate(-1000, 2026), /25 years each/);
+  assert.match(relativeDate(-1000, 2026), /121 generations ago/);
+  assert.doesNotMatch(relativeDate(-1000, 2026), /25 years each|Before Common Era/);
   assert.match(relativeDate(2100, 2026), /from now/);
-  assert.match(relativeAge(-4250000000, 2026), /170 million generations ago, at 25 years each/);
+  assert.match(relativeAge(-4250000000, 2026), /170 million human generations ago/);
   assert.match(relativeAge(2025, 2026), /less than 1 generation ago/);
   assert.equal(relativeAge(null, 2026), "");
   assert.doesNotMatch(relativeDate(-1000, 2026), /ancestor|equivalent/);

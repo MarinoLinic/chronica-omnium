@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1943,
   "end": 1943,
-  "location": null,
+  "location": "United States",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "20–22 June 1943. The year-only endpoints represent a three-day outbreak.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Riot",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

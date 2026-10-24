@@ -11,7 +11,7 @@
   "end": null,
   "location": "Ukraine",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/1920px-2022_Russian_invasion_of_Ukraine.svg.png",
@@ -67,5 +67,6 @@
         31.2718321
       ]
     }
-  }
+  },
+  "priority": 2
 }

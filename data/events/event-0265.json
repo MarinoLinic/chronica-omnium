@@ -9,8 +9,8 @@
   "long_desc": "Mughal Empire",
   "start": 1526,
   "end": 1857,
-  "location": null,
-  "type": "State",
+  "location": "South Asia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Mughal_Empire",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-0f5fbbd8e643"
+  ],
   "notes": "",
   "legacy": {
     "id": "mughal-empire",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

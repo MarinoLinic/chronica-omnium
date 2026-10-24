@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1950,
   "end": 1959,
-  "location": null,
+  "location": "United States",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "1950s emergence, with earlier rhythm-and-blues and rock-and-roll antecedents. This window is not the genre’s duration.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "",
   "legacy": {
     "id": "rock-music",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

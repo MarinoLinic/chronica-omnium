@@ -9,7 +9,7 @@
   "long_desc": "Twisted rope",
   "start": -50000,
   "end": -39000,
-  "location": null,
+  "location": "Abri du Maras",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Context dated about 52,000–41,000 years ago, placed approximately in BCE. Older than the imported 28,000-year rope claim; an archaeological occurrence does not date the invention of cordage.",
-  "places": [],
+  "places": [
+    "place-3e9951bb2133"
+  ],
   "notes": "",
   "legacy": {
     "id": "twisted-rope",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

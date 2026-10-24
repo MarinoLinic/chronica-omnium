@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1918,
   "end": 1992,
-  "location": null,
-  "type": "State",
+  "location": "Balkans",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Yugoslavia",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-af0d1c5007df"
+  ],
   "notes": "",
   "legacy": {
     "id": "yugoslavia",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -247,
   "end": -183,
-  "location": null,
+  "location": "Tunisia · Italy",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Birth around 247 BCE; death traditionally 183 BCE, with dates down to 181 BCE also proposed.",
-  "places": [],
+  "places": [
+    "place-4609682a2f3d",
+    "place-5a9cf672c8be"
+  ],
   "notes": "",
   "legacy": {
     "id": "hannibal",
@@ -66,5 +69,6 @@
       ]
     }
   },
-  "date_label": "Lifespan"
+  "date_label": "Lifespan",
+  "priority": 2
 }

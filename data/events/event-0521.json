@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1945,
   "end": 1991,
-  "location": null,
+  "location": "United States · Soviet Union",
   "type": "Period",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
   "image": null,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Cold War nuclear competition, 1945–1991. Nuclear arsenals and competition did not disappear when the Soviet Union ended.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f",
+    "place-5338fc108450"
+  ],
   "notes": "",
   "legacy": {
     "id": "arms-race",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

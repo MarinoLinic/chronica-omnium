@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -60000000,
   "end": -50000000,
-  "location": null,
-  "type": "Event",
-  "field": "Science",
+  "location": "Himalayas",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Approximate 60–50 million years ago collision window; the definition and chronology of initial India–Asia collision remain debated.",
-  "places": [],
+  "places": [
+    "place-9dd1982891ce"
+  ],
   "notes": "",
   "legacy": {
     "id": "india-clashes-with-asia-55m",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

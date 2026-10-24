@@ -10,8 +10,8 @@
   "start": -4540000000,
   "end": null,
   "location": "World",
-  "type": "Event",
-  "field": "Geology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Geological_history_of_Earth",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/1920px-Hadean.png",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 1
 }

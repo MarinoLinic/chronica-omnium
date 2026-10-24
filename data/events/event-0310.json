@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1760,
   "end": 1840,
-  "location": "West",
+  "location": "Great Britain",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-41a6741e9a0f"
+    "place-b5cbec1a064d"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         34.5731341
       ]
     }
-  }
+  },
+  "priority": 1
 }

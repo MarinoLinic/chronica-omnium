@@ -1,0 +1,20 @@
+{
+  "name": "Priority",
+  "highest": 1,
+  "lowest": 5,
+  "default": "All priorities; selecting a level includes it and higher-priority levels.",
+  "basis": [
+    "geographic or population reach",
+    "lasting consequences",
+    "prominence in broad historical accounts",
+    "explanatory value in a general survey"
+  ],
+  "levels": {
+    "1": "A foundational transition or central anchor in a short general history of nature and human societies.",
+    "2": "A major development, influential figure or durable institution with broad explanatory value across a region, era or discipline.",
+    "3": "A significant national, regional or subject-history entry that adds context beyond the central survey anchors.",
+    "4": "A focused episode, regional phase or specialist contribution most useful in a more detailed history.",
+    "5": "A narrow cultural or biographical detail, disputed imported claim or speculative scenario outside the main historical narrative."
+  },
+  "limitations": "Provisional editorial judgments; coverage and cultural familiarity affect prominence. Not moral worth, factual certainty, source quality or measured popularity."
+}

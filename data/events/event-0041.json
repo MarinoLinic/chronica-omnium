@@ -9,7 +9,7 @@
   "long_desc": "Use of fire by H. erectus",
   "start": -998000,
   "end": null,
-  "location": null,
+  "location": "Wonderwerk Cave",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate BCE placement of a 1.0-million-year-old context. This does not prove that hominins could ignite fire, or securely identify the fire users as Homo erectus.",
-  "places": [],
+  "places": [
+    "place-007f6975f795"
+  ],
   "notes": "",
   "legacy": {
     "id": "use-of-fire-by-h-erectus",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

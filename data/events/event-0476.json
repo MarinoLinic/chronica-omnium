@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1428,
   "end": 1521,
-  "location": null,
-  "type": "State",
+  "location": "Mexico",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-8be2978e3437"
+  ],
   "notes": "",
   "legacy": {
     "id": "aztecs",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

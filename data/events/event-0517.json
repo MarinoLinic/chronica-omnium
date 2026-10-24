@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": null,
   "end": null,
-  "location": null,
+  "location": "West Africa",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Early West African iron-working dates and interpretations remain debated, including claims before the first millennium BCE. The vague original label is not assigned a fabricated regional starting year.",
-  "places": [],
+  "places": [
+    "place-6daa66ce38b7"
+  ],
   "notes": "",
   "legacy": {
     "id": "age-of-iron-in-west-africa",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

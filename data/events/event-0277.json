@@ -10,7 +10,7 @@
   "start": 1600,
   "end": 1874,
   "location": "World",
-  "type": "Company",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/East_India_Company",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Worldwide",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "A broad set of practices with ancient precedents, not a single invention. A particular law, technology, or jurisdiction must be specified before assigning a date.",
-  "places": [],
+  "places": [
+    "place-7aca9b2c4a36"
+  ],
   "notes": "",
   "legacy": {
     "id": "pollution-control",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

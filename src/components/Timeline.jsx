@@ -14,6 +14,11 @@ import { timelinePeriods, dateModes } from "../utils/periods";
 import timeScales from "../generated/time-scales.json";
 import { timeBands } from "../utils/time-scales";
 import TimeScaleBands from "./TimeScaleBands";
+import GeographyFilters from "./GeographyFilters";
+import PriorityFilter from "./PriorityFilter";
+import { preloadEvent } from "../utils/event-loader";
+import EventLink from "./EventLink";
+import { geographyOptions } from "../utils/geography";
 
 const viewerYear = new Date().getFullYear();
 const presets = [
@@ -25,6 +30,7 @@ const presets = [
 ];
 const types = [...new Set(data.map((r) => r.type))].sort(),
   fields = [...new Set(data.map((r) => r.field))].sort();
+const geographyNames = geographyOptions(data);
 const control = "rounded border border-slate-300 bg-white px-3 py-2 text-sm";
 const validYear = (n) => Number.isSafeInteger(n) && n !== 0;
 export default function Timeline() {
@@ -40,6 +46,9 @@ export default function Timeline() {
   const query = params.get("q") || "",
     type = params.get("type") || "",
     field = params.get("field") || "";
+  const geography = {continent:params.get("continent") || "",country:params.get("country") || "",place:params.get("place") || ""};
+  const requestedPriority = Number(params.get("priority") || 5);
+  const priority = [1,2,3,4,5].includes(requestedPriority) ? requestedPriority : 5;
   const grouped = params.get("layout") !== "packed";
   const dateMode = Object.hasOwn(dateModes, params.get("dates"))
     ? params.get("dates")
@@ -98,8 +107,9 @@ export default function Timeline() {
         type,
         field,
         query,
+        priority, ...geography,
       }),
-    [start, end, type, field, query, dateMode],
+    [start, end, type, field, query, dateMode, priority, geography.continent, geography.country, geography.place],
   );
   const recordCount = new Set(records.map((r) => r.id)).size;
   const layout = useMemo(
@@ -251,6 +261,8 @@ export default function Timeline() {
             </select>
           </div>
           <div className="mt-4 flex flex-wrap items-center gap-2 text-sm">
+            <GeographyFilters records={data} value={geography} onChange={update} className={control} />
+            <PriorityFilter value={priority} onChange={n=>update({priority:n === 5 ? "" : n})} className={control} />
             <button
               className={control}
               aria-label="Earlier time window"
@@ -347,6 +359,10 @@ export default function Timeline() {
             {formatYear(start)} – {formatYear(end)} · {records.length} periods ·{" "}
             {dateMode} dates · linear scale · {type || "all types"} ·{" "}
             {field || "all fields"}
+            {priority < 5 && ` · priority 1–${priority}`}
+            {geography.continent && ` · ${geography.continent}`}
+            {geography.country && ` · ${geographyNames.countries.find(([code])=>code===geography.country)?.[1] || geography.country}`}
+            {geography.place && ` · ${geographyNames.places.find(([id])=>id===geography.place)?.[1] || geography.place}`}
             {query && ` · search: ${query}`}
           </text>
           <text x="24" y={layout.height - 15} fontSize="11" fill="#64748b">
@@ -406,6 +422,7 @@ export default function Timeline() {
               <a
                 key={r.timelineKey}
                 href={`/${r.id_num}`}
+                onPointerEnter={()=>preloadEvent(r.id)} onFocus={()=>preloadEvent(r.id)} onTouchStart={()=>preloadEvent(r.id)}
                 onClick={(e) => {
                   if (!e.ctrlKey && !e.metaKey) {
                     e.preventDefault();
@@ -490,9 +507,9 @@ export default function Timeline() {
         <ul className="mt-3 space-y-2 text-sm">
           {records.map((r) => (
             <li key={r.timelineKey}>
-              <Link to={`/${r.id_num}`} className="underline blue">
+              <EventLink event={r} className="underline blue">
                 {r.name}
-              </Link>{" "}
+              </EventLink>{" "}
               · {r.period_label} · {r.time_start}
               {r.time_end && ` – ${r.time_end}`}
               {r.date_kind === "uncertain" && " · uncertain bounds"}

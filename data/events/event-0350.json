@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1878,
   "end": 1953,
-  "location": "Georgia",
+  "location": "Gori",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-4691492179d2"
+    "place-f1174614024b"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         -83.1137366
       ]
     }
-  }
+  },
+  "priority": 1
 }

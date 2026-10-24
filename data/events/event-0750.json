@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 751,
   "end": null,
-  "location": null,
+  "location": "Talas River",
   "type": "Battle",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Battle_of_Talas",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The clash is conventionally dated to 751; the source differs on its precise month. It did not by itself end all Chinese influence in Central Asia.",
-  "places": [],
+  "places": [
+    "place-6136f4ba12f6"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Battle",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

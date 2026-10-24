@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import data from '../data'
 import { periodKinds } from '../utils/periods'
+import EventLink from './EventLink'
+import { loadEvent } from '../utils/event-loader'
 const dev = import.meta.env.DEV
 const inputClass = 'mt-1 w-full rounded border border-slate-300 bg-white px-3 py-2 text-sm'
 function Editor({ id, places, onSaved, onDirty }) {
@@ -33,7 +35,7 @@ function Editor({ id, places, onSaved, onDirty }) {
       if (result.version) setVersion(result.version)
       if (!response.ok) throw new Error(result.error)
       try {sessionStorage.removeItem(draftKey)}catch{}
-      setDirty(false); setMessage('Saved, backed up, and rebuilt. The catalog and preview are up to date.'); onSaved()
+      loadEvent.clear(); setDirty(false); setMessage('Saved, backed up, and rebuilt. The catalog and preview are up to date.'); onSaved()
     } catch (error) { setMessage(error.message) } finally { setBusy(false) }
   }
   if (!record) return <p role="status">{message || 'Loading record…'}</p>
@@ -41,6 +43,7 @@ function Editor({ id, places, onSaved, onDirty }) {
     <h2 className="text-xl">Edit {id}</h2><p className="text-sm text-slate-600">Saves update the local source file and create a backup in .local/history. Stable IDs and imported legacy fields are preserved.</p>
     <div className="grid gap-4 sm:grid-cols-2">{['name','type','field','location','source','image','date_label'].map(key => <label key={key} className="text-sm">{key === 'date_label' ? 'Recorded dates label (for example, Lifespan or In office)' : key}<input className={inputClass} value={record[key] || ''} onChange={e => change(key, e.target.value || null)} /></label>)}
     {['start','end'].map(key => <label key={key} className="text-sm">{key} year (negative = BCE)<input type="number" step="1" className={inputClass} value={record[key] ?? ''} onChange={e => change(key, e.target.value === '' ? null : Number(e.target.value))} /></label>)}
+    <label className="text-sm">Priority (1 highest, 5 lowest)<select className={inputClass} value={record.priority ?? ''} onChange={e=>change('priority',e.target.value === '' ? null : Number(e.target.value))}><option value="">Unassigned</option>{[1,2,3,4,5].map(n=><option key={n}>{n}</option>)}</select></label>
     <label className="text-sm">Date meaning<select className={inputClass} value={record.date_kind} onChange={e => change('date_kind', e.target.value)}>{['point','span','uncertain','ongoing'].map(s => <option key={s}>{s}</option>)}</select></label>
     <label className="text-sm">Editorial status<select className={inputClass} value={record.status} onChange={e => change('status', e.target.value)}>{['stub','review','ready'].map(s => <option key={s}>{s}</option>)}</select></label></div>
     {['short_desc','long_desc','date_note','notes','dubious'].map(key => <label key={key} className="block text-sm">{key}<textarea rows={key === 'long_desc' ? 4 : 2} className={inputClass} value={record[key] || ''} onChange={e => change(key, e.target.value)} /></label>)}
@@ -85,6 +88,6 @@ export default function Catalog() {
     <p role="status" className="text-sm">{message}</p>
     {dev && editing && <div className="my-6"><Editor key={editing} id={editing} places={places} onSaved={refresh} onDirty={setDirty} /></div>}
     <div className="my-4 flex flex-wrap gap-3"><input aria-label="Search catalog" className="flex-1 rounded border border-slate-300 p-2" placeholder="Search all records" value={query} onChange={e => setQuery(e.target.value)} /><select aria-label="Filter by status" className="rounded border border-slate-300 p-2" value={status} onChange={e => setStatus(e.target.value)}>{['all','undated','stub','review','ready'].map(s => <option key={s}>{s}</option>)}</select></div><p role="status" className="text-sm text-slate-500">{records.length} records</p>
-    <ul className="divide-y divide-slate-200">{records.map(r => <li key={r.id} className="flex flex-wrap items-center justify-between gap-3 py-4"><div><Link to={`/${r.id_num}`} onClick={e=>{if(!mayLeave())e.preventDefault()}} className="font-semibold blue hover:underline">{r.name}</Link><p className="text-xs text-slate-500">{r.id} · {r.status} · {r.time_start}</p></div>{dev && <button className="text-sm underline" onClick={() => { if (mayLeave()) { setDirty(false); setParams({ edit: r.id }); window.scrollTo({ top: 0 }) } }}>Edit locally</button>}</li>)}</ul>
+    <ul className="divide-y divide-slate-200">{records.map(r => <li key={r.id} className="flex flex-wrap items-center justify-between gap-3 py-4"><div><EventLink event={r} onClick={e=>{if(!mayLeave())e.preventDefault()}} className="font-semibold blue hover:underline">{r.name}</EventLink><p className="text-xs text-slate-500">{r.id} · {r.status} · {r.time_start}</p></div>{dev && <button className="text-sm underline" onClick={() => { if (mayLeave()) { setDirty(false); setParams({ edit: r.id }); window.scrollTo({ top: 0 }) } }}>Edit locally</button>}</li>)}</ul>
   </main>
 }

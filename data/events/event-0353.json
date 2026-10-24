@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1883,
   "end": 1946,
-  "location": "Cambridge",
+  "location": "Cambridge, England",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-086eec074ad1"
+    "place-985b90124fb2"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         0.1186637
       ]
     }
-  }
+  },
+  "priority": 2
 }

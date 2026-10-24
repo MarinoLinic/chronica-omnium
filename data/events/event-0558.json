@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -23000,
   "end": -9500,
-  "location": null,
+  "location": "Near East",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Regional archaeological interval, approximately 25,000–11,500 BP (BP reference 1950), shown as roughly 23,000–9500 BCE. Boundaries vary regionally.",
-  "places": [],
+  "places": [
+    "place-1946323a12d6"
+  ],
   "notes": "",
   "legacy": {
     "id": "epipalaeolithic",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

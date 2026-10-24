@@ -9,8 +9,8 @@
   "long_desc": "The Ottoman Empire",
   "start": 1299,
   "end": 1922,
-  "location": null,
-  "type": "State",
+  "location": "Southeastern Europe · West Asia · North Africa",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Ottoman_Empire",
@@ -20,7 +20,11 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-67172866bf4b",
+    "place-b55f8783eb7d",
+    "place-b30fcbd6cb0f"
+  ],
   "notes": "",
   "legacy": {
     "id": "the-ottoman-empire",
@@ -65,5 +69,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

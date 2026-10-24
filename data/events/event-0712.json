@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": -73,
   "end": -28,
-  "location": null,
-  "type": "State",
+  "location": "Magadha",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Kanva_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Conventional chronology; alternative accounts shift the endpoints by a few years.",
-  "places": [],
+  "places": [
+    "place-02b79068e983"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

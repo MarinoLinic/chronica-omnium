@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 753,
   "end": 982,
-  "location": null,
-  "type": "State",
+  "location": "Deccan",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Rashtrakuta_Empire",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The main imperial line declined before its final conventional endpoint.",
-  "places": [],
+  "places": [
+    "place-50dc20146ce4"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

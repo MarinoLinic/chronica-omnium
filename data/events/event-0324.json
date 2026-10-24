@@ -10,7 +10,7 @@
   "start": 1804,
   "end": 1815,
   "location": "Europe",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/First_French_Empire",
@@ -67,5 +67,6 @@
         10
       ]
     }
-  }
+  },
+  "priority": 2
 }

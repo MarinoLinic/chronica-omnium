@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1796,
   "end": 1804,
-  "location": null,
-  "type": "Rebellion",
-  "field": "History",
+  "location": "China",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/White_Lotus_Rebellion",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The main war is conventionally dated 1796–1804; the source describes earlier disturbances from 1794.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Rebellion",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

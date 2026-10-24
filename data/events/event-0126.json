@@ -9,8 +9,8 @@
   "long_desc": "Mycenaean Greece",
   "start": -1600,
   "end": -1100,
-  "location": null,
-  "type": "Civilization",
+  "location": "Greece",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-9c93ad439373"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "mycenaean-greece",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

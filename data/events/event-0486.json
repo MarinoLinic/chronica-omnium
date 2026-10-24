@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1608,
   "end": null,
-  "location": null,
+  "location": "Netherlands",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "1608 is Hans Lipperhey’s documented patent application, not proof of sole invention.",
-  "places": [],
+  "places": [
+    "place-63c8807c2fd9"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-telescope",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

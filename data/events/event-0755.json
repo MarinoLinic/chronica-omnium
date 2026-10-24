@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -490,
   "end": null,
-  "location": null,
+  "location": "Marathon",
   "type": "Battle",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "490 BCE; exact modern-calendar conversion of the day is uncertain.",
-  "places": [],
+  "places": [
+    "place-6d205806e19d"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Battle",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

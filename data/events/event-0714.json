@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 30,
   "end": 375,
-  "location": null,
-  "type": "State",
+  "location": "Afghanistan · Pakistan · India · Tajikistan · Turkmenistan · Uzbekistan",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Kushan_Empire",
@@ -20,10 +20,18 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Approximate conventional bounds; territory and power changed substantially over the period.",
-  "places": [],
+  "places": [
+    "place-5dbddf911f9e",
+    "place-ad1d0a33d147",
+    "place-fb54e9062429",
+    "place-3c9e5562b466",
+    "place-700530bf6ed3",
+    "place-1c438aa8cb19"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

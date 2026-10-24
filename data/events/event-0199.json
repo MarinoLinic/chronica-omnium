@@ -10,7 +10,7 @@
   "start": 481,
   "end": 843,
   "location": "France",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Francia",
@@ -67,5 +67,6 @@
         1.8883335
       ]
     }
-  }
+  },
+  "priority": 2
 }

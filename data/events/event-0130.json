@@ -9,7 +9,7 @@
   "long_desc": "Israel (people)",
   "start": -1208,
   "end": null,
-  "location": null,
+  "location": "Levant",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The Merneptah Stele, conventionally dated about 1208 BCE, is an early Egyptian reference to a people called Israel. It is not a founding date for a state.",
-  "places": [],
+  "places": [
+    "place-82e507ed59e3"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "israel-people",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

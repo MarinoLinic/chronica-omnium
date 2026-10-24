@@ -10,8 +10,8 @@
   "start": -72000,
   "end": null,
   "location": "Indonesia",
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Toba_catastrophe_theory",
   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tobaeruption.png",
@@ -67,5 +67,6 @@
         117.8902853
       ]
     }
-  }
+  },
+  "priority": 2
 }

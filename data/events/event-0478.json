@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1618,
   "end": 1648,
-  "location": null,
+  "location": "Central Europe",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-40d9a90716b0"
+  ],
   "notes": "",
   "legacy": {
     "id": "thirty-years-war",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -5000,
   "end": -2000,
-  "location": null,
+  "location": "Europe",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Very approximate regional bounds, about 5000–2000 BCE. The transition from Neolithic to Copper and Bronze Age practices occurred at different times in different European regions; these are not universal boundaries.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Regional archaeological period",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

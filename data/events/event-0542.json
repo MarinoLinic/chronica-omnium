@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Mediterranean",
   "type": "Scenario",
   "field": "Science",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
-  "places": [],
+  "places": [
+    "place-b01c72c717ff"
+  ],
   "notes": "",
   "legacy": {
     "id": "nan",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 5
 }

@@ -9,7 +9,7 @@
   "long_desc": "Aryan invasion of India",
   "start": -1500,
   "end": null,
-  "location": null,
+  "location": "South Asia",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate second-millennium BCE migration context. “Aryan invasion” conflates linguistic, archaeological and genetic arguments and is not retained as a single precisely dated conquest.",
-  "places": [],
+  "places": [
+    "place-0f5fbbd8e643"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "aryan-invasion-of-india",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

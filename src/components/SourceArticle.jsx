@@ -62,10 +62,7 @@ export function Sources({ event, content }) {
               {content.method}.
             </p>
             <p>
-              <button onClick={download}>Download text</button> ·{" "}
-              <button onClick={() => window.print()}>
-                Print / Save as PDF
-              </button>
+              <button onClick={download}>Download text</button>
             </p>
           </>
         )}
@@ -84,6 +81,12 @@ export function Sources({ event, content }) {
           )
         )}
         {event.periods?.filter(p=>p.source).map(p=><p key={p.id}>{p.label}: <a href={p.source}>period evidence ↗</a></p>)}
+        {event.geography?.filter(p=>p.source).map(p=><p key={p.id}>{p.label}: <a href={p.source}>geographic reference ↗</a>. Country labels locate places in present-day geography.</p>)}
+        <p>Relative ages use approximately 25 years per generation. Deep-time estimates use the same human comparison.</p>
+        {event.priority != null && <>
+          <p>Priority: {event.priority} of 5. Editorial prominence in a broad history survey; 1 is highest.</p>
+          <details><summary>How priority is assigned</summary><p>1 Essential · 2 Major · 3 Significant · 4 Specialist · 5 Niche. We consider reach, lasting consequences, prominence in broad historical accounts and value in explaining the wider story. These are provisional editorial choices, separate from moral worth, suffering and factual certainty. All levels are shown by default.</p></details>
+        </>}
         <p className="editorial-status">Catalog status: {event.status}. {event.date_note}</p>
       </div>
     </details>

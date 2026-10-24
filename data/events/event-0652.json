@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1028,
   "end": 1087,
-  "location": null,
+  "location": "United Kingdom",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Born about 1028; died on 9 September 1087. His reign in England is recorded separately.",
-  "places": [],
+  "places": [
+    "place-0e98cc0b1589"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Lifespan",
@@ -36,5 +38,6 @@
       "source": "https://en.wikipedia.org/wiki/William_the_Conqueror"
     }
   ],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

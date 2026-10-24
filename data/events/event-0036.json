@@ -9,7 +9,7 @@
   "long_desc": "Oldest stone tools",
   "start": -3300000,
   "end": null,
-  "location": null,
+  "location": "Lomekwi",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Age of an archaeological assemblage, not proof of the first stone use anywhere; the toolmakers are not securely identified.",
-  "places": [],
+  "places": [
+    "place-d831756da749"
+  ],
   "notes": "",
   "legacy": {
     "id": "oldest-stone-tools",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

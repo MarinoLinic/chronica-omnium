@@ -11,7 +11,7 @@
   "end": -449,
   "location": "Greece",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
   "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Greek-Persian_duel.jpg",
@@ -67,5 +67,6 @@
         21.9877132
       ]
     }
-  }
+  },
+  "priority": 2
 }

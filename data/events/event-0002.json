@@ -10,8 +10,8 @@
   "start": -13600000000,
   "end": null,
   "location": "Milky Way",
-  "type": "Event",
-  "field": "Astronomy",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://spaceplace.nasa.gov/galaxies-age/en/#:~:text=Astronomers%20believe%20that%20our%20own,about%20500%20million%20years%20ago",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Milky_way_map.png/1920px-Milky_way_map.png",
@@ -67,5 +67,6 @@
         52.7448393
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -9,7 +9,7 @@
   "long_desc": "Ancient north Eurasians",
   "start": null,
   "end": null,
-  "location": null,
+  "location": "Siberia",
   "type": "Concept",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
-  "places": [],
+  "places": [
+    "place-a5503f12a7ac"
+  ],
   "notes": "",
   "legacy": {
     "id": "ancient-north-eurasians",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

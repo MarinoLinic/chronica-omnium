@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1941,
   "end": null,
-  "location": null,
+  "location": "Eastern Europe · Russia",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-420cca4363fa",
+    "place-33a3d8ed92b0"
+  ],
   "notes": "",
   "legacy": {
     "id": "operation-barbarossa",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

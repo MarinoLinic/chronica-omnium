@@ -9,7 +9,7 @@
   "long_desc": "Settlement of Australia",
   "start": -63000,
   "end": null,
-  "location": null,
+  "location": "Madjedbebe",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate BCE placement rounded to millennia. This is a site-based age estimate; the earliest peopling of Sahul and the interpretation of older deposits remain debated.",
-  "places": [],
+  "places": [
+    "place-f0c3f7a7f360"
+  ],
   "notes": "",
   "legacy": {
     "id": "settlement-of-australia",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

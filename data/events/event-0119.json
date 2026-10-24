@@ -9,7 +9,7 @@
   "long_desc": "Epic of Gilgamesh",
   "start": -2100,
   "end": -1800,
-  "location": null,
+  "location": "Mesopotamia",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
-  "places": [],
+  "places": [
+    "place-84363cef0b48"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "epic-of-gilgamesh",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

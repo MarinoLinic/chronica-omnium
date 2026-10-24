@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1869,
   "end": 1948,
-  "location": null,
+  "location": "India · South Africa",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-fb54e9062429",
+    "place-3e049d78d958"
+  ],
   "notes": "",
   "legacy": {
     "id": "mahatma-gandhi",
@@ -66,5 +69,6 @@
       ]
     }
   },
-  "date_label": "Lifespan"
+  "date_label": "Lifespan",
+  "priority": 1
 }

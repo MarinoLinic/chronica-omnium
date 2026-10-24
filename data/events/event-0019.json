@@ -10,8 +10,8 @@
   "start": -335000000,
   "end": -200000000,
   "location": "Pangea",
-  "type": "Period",
-  "field": "Geology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Pangaea",
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pangaea_200Ma.jpg",
@@ -67,5 +67,6 @@
         122.4712841
       ]
     }
-  }
+  },
+  "priority": 2
 }

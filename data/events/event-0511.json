@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1960,
   "end": null,
-  "location": null,
+  "location": "United States",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "1960 dates US FDA approval of Enovid for contraception, not worldwide availability or the beginning of hormonal research.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "",
   "legacy": {
     "id": "birth-control-pills",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

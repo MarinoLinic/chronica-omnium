@@ -29,6 +29,12 @@
     "legacy"
   ],
   "properties": {
+    "priority": {
+      "type": ["integer", "null"],
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Editorial history-survey prominence: 1 highest, 5 lowest; null unassigned. Independent of legacy relevance."
+    },
     "schemaVersion": {
       "const": 1
     },

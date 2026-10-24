@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-export default function BackToTop({ onTop }) {
+export default function BackToTop({ onTop, onBottom, hasRecords = true }) {
   const [visible, setVisible] = useState(false);
   useEffect(() => {
     const update = () => setVisible(window.scrollY > 400);
@@ -8,9 +8,10 @@ export default function BackToTop({ onTop }) {
     return () => window.removeEventListener("scroll", update);
   }, []);
   return (
-    visible && (
+    <div className="scroll-controls">
+    {visible && (
       <button
-        className="back-to-top"
+        className="scroll-button"
         onClick={() => {
           onTop?.();
           window.scrollTo({ top: 0, behavior: "instant" });
@@ -21,6 +22,8 @@ export default function BackToTop({ onTop }) {
       >
         ↑ <span>Back to top</span>
       </button>
-    )
+    )}
+    {onBottom && hasRecords && <button className="scroll-button" onClick={onBottom}>↓ <span>Go to bottom</span></button>}
+    </div>
   );
 }

@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1970,
   "end": 1979,
-  "location": null,
+  "location": "United States",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The 1970s rise of disco as a cultural phenomenon, with roots in late-1960s clubs. These are approximate cultural dates.",
-  "places": [],
+  "places": [
+    "place-49dca65f362f"
+  ],
   "notes": "",
   "legacy": {
     "id": "disco-music",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

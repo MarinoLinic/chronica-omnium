@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1941,
   "end": 1945,
-  "location": null,
-  "type": "War",
+  "location": "Europe",
+  "type": "Event",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/The_Holocaust",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "1941–1945 dates the systematic genocide phase. Nazi persecution and exclusion began earlier, in 1933.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "the-holocaust",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

@@ -10,7 +10,7 @@
   "start": -3100,
   "end": -30,
   "location": "Egypt",
-  "type": "Civilization",
+  "type": "Polity",
   "field": null,
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
@@ -67,5 +67,6 @@
         29.2675469
       ]
     }
-  }
+  },
+  "priority": 1
 }

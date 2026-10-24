@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1857,
   "end": 1858,
-  "location": null,
-  "type": "Rebellion",
-  "field": "History",
+  "location": "India",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "May 1857 to November 1858; residual resistance continued beyond the principal campaign.",
-  "places": [],
+  "places": [
+    "place-fb54e9062429"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Rebellion",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

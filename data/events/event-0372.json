@@ -10,8 +10,8 @@
   "start": 1917,
   "end": null,
   "location": "Saint Petersburg",
-  "type": "Revolution",
-  "field": "History",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/October_Revolution",
   "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
@@ -67,5 +67,6 @@
         -82.6695085
       ]
     }
-  }
+  },
+  "priority": 1
 }

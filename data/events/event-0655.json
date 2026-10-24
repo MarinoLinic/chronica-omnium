@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1983,
   "end": null,
-  "location": null,
+  "location": "Soviet Union",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "26 September 1983. The warning was false; this entry does not assume that a nuclear launch would otherwise have been automatic.",
-  "places": [],
+  "places": [
+    "place-5338fc108450"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "False alarm",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

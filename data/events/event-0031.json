@@ -9,9 +9,9 @@
   "long_desc": "Sahelanthropus tchadensis",
   "start": -7000000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "Chad",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://doi.org/10.1126/sciadv.adv0130",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sahelanthropus_tchadensis_-_TM_266-01-060-1.jpg/1920px-Sahelanthropus_tchadensis_-_TM_266-01-060-1.jpg",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Around 7 million years ago; rounded deep-time placement. Bipedalism and phylogenetic placement have been debated, including new limb analyses published in 2026.",
-  "places": [],
+  "places": [
+    "place-2dec26043f67"
+  ],
   "notes": "",
   "legacy": {
     "id": "sahelanthropus-tchadensis",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

@@ -9,7 +9,7 @@
   "long_desc": "Indo-Iranians",
   "start": -2000,
   "end": null,
-  "location": null,
+  "location": "Eurasia",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-2ba3b66ff4d5"
+  ],
   "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "indo-iranians",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

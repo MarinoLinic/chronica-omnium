@@ -11,7 +11,7 @@
   "end": 1979,
   "location": "Zimbabwe",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Rhodesian_Bush_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/RhodesiaAllies1975.png",
@@ -67,5 +67,6 @@
         29.7468414
       ]
     }
-  }
+  },
+  "priority": 4
 }

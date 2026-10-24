@@ -33,11 +33,12 @@ export function relativeAge(
   const generationCount = generations > 0 && generations < 1
     ? "less than 1 generation"
     : `${compact(generations)} ${Math.round(generations) === 1 ? "generation" : "generations"}`;
-  return `about ${compact(count)} ${count === 1 ? "year" : "years"} ${direction} · ${generationCount} ${direction}, at ${generationYears} years each`;
+  const label = year < -10000 ? generationCount.replace(/generations?$/, match => `human ${match}`) : generationCount;
+  return `about ${compact(count)} ${count === 1 ? "year" : "years"} ${direction} · about ${label} ${direction}`;
 }
 export function relativeDate(year, viewerYear = new Date().getFullYear(), generationYears = 25) {
   const age = relativeAge(year, viewerYear, generationYears);
-  return age ? `${formatYear(year)}${year < 0 ? " (Before Common Era)" : ""}: ${age}` : "";
+  return age;
 }
 export function resolveDates(record, viewerYear = new Date().getFullYear()) {
   const end = record.date_kind === "ongoing" ? viewerYear : record.end;

@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Imperial building phases"
+  "date_label": "Imperial building phases",
+  "priority": 2
 }

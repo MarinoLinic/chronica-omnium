@@ -9,7 +9,7 @@
   "long_desc": "Emergence of Homo",
   "start": -2798000,
   "end": -2748000,
-  "location": null,
+  "location": "Ethiopia",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "Fossil age bounds, not the duration of the genus. Approximate BCE conversion from geological ages, rounded to millennia; additional Ledi-Geraru finds were reported in 2025.",
-  "places": [],
+  "places": [
+    "place-4ac53897ac29"
+  ],
   "notes": "",
   "legacy": {
     "id": "emergence-of-homo",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

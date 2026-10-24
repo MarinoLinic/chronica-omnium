@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1895,
   "end": 1896,
-  "location": null,
+  "location": "Italy",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "This dates early Marconi experiments and patenting, not a sole invention of radio. Hertz, Tesla, Lodge, Popov and others made different contributions.",
-  "places": [],
+  "places": [
+    "place-5a9cf672c8be"
+  ],
   "notes": "",
   "legacy": {
     "id": "radio",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

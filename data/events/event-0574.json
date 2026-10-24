@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1804,
   "end": null,
-  "location": null,
+  "location": "Haiti",
   "type": null,
   "field": null,
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "February to April 1804. The original pinned Wikipedia revision is retained.",
-  "places": [],
+  "places": [
+    "place-d090b87e4a3b"
+  ],
   "notes": "",
   "legacy": {
     "id": "haitian-massacre",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

@@ -9,9 +9,9 @@
   "long_desc": "Australopithecus anamensis ",
   "start": -4200000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "location": "East Africa",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Australopithecus_anamensis",
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Australopithecus_afarensis_Cleveland_Museum.jpg",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-82542590731d"
+  ],
   "notes": "",
   "legacy": {
     "id": "australopithecus-anamensis-",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

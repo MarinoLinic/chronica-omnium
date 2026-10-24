@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1642,
   "end": 1651,
-  "location": null,
+  "location": "England",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/English_Civil_War",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "A composite conflict within the wider Wars of the Three Kingdoms; separate campaigns and intervals are not a single continuous battle.",
-  "places": [],
+  "places": [
+    "place-c0ea960b065c"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "War",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

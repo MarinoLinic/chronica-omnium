@@ -10,7 +10,7 @@
   "start": 1992,
   "end": null,
   "location": "United States",
-  "type": "Movement",
+  "type": "Organization",
   "field": "Politics",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Third-wave_feminism",
@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Emergence milestone"
+  "date_label": "Emergence milestone",
+  "priority": 4
 }

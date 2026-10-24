@@ -11,7 +11,7 @@
   "end": 1975,
   "location": "Vietnam",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Vietnam_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
@@ -67,5 +67,6 @@
         107.9650855
       ]
     }
-  }
+  },
+  "priority": 2
 }

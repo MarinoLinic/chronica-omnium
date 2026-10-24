@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1876,
   "end": 1878,
-  "location": null,
-  "type": "Period",
-  "field": "History",
+  "location": "Asia · Africa · South America",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
   "image": null,
@@ -20,7 +20,11 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "The original broad placeholder is scoped to the 1876–1878 droughts and famines; regional mortality and causes require separate evidence.",
-  "places": [],
+  "places": [
+    "place-ee139bd0fd94",
+    "place-3f5053b3ae70",
+    "place-1c583b195015"
+  ],
   "notes": "",
   "legacy": {
     "id": "epic-droughts-19th-century",
@@ -65,5 +69,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

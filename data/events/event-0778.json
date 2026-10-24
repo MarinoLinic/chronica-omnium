@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -1200,
   "end": null,
-  "location": null,
+  "location": "West Asia · South Asia · Europe",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,15 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate coordinate near the end of the second millennium BCE. The first smelting of iron is uncertain; earlier iron objects could use meteoritic metal, and this is not an assertion of one inventor or universal start.",
-  "places": [],
+  "places": [
+    "place-b55f8783eb7d",
+    "place-0f5fbbd8e643",
+    "place-e595f45dc6c9"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Approximate development",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

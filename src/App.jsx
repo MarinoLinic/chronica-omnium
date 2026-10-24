@@ -2,8 +2,9 @@ import { lazy, Suspense } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './Home'
 import NotFound from './NotFound'
+import { loadEventRoute } from './utils/event-loader'
 
-const Event = lazy(() => import('./components/Event'))
+const Event = lazy(loadEventRoute)
 const Timeline = lazy(() => import('./components/Timeline'))
 const Catalog = lazy(() => import('./components/Catalog'))
 

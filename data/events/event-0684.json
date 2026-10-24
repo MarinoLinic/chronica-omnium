@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 581,
   "end": 618,
-  "location": null,
-  "type": "State",
+  "location": "China",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Sui_dynasty",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Founded in 581; conquest of Chen completed reunification in 589.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

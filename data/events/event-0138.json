@@ -10,7 +10,7 @@
   "start": -814,
   "end": -146,
   "location": "Tunisia",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Ancient_Carthage#:~:text=c.-,814%20BC%E2%80%93146%20BC,-Supposed%20military%20standard ",
@@ -67,5 +67,6 @@
         9.400138
       ]
     }
-  }
+  },
+  "priority": 2
 }

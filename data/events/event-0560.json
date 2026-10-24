@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1485,
   "end": 1547,
-  "location": null,
+  "location": "Spain · Mexico",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Birth year is approximate (circa 1485).",
-  "places": [],
+  "places": [
+    "place-8ef41e6f4b07",
+    "place-8be2978e3437"
+  ],
   "notes": "",
   "legacy": {
     "id": "hernn-corts",
@@ -66,5 +69,6 @@
       ]
     }
   },
-  "date_label": "Lifespan"
+  "date_label": "Lifespan",
+  "priority": 2
 }

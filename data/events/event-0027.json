@@ -10,8 +10,8 @@
   "start": -11600000,
   "end": null,
   "location": "Southern Germany",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Danuvius_guggenmosi",
   "image": "https://th-thumbnailer.cdn-si-edu.com/2p3SAp1UJZP5EWX2ZIagO4d-6S8=/1000x750/filters:no_upscale():focal(809x695:810x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/cb/92/cb92c4ba-cb46-4ccf-b78a-4298c4facf84/ape-bones.jpg",
@@ -67,5 +67,6 @@
         121.0314078
       ]
     }
-  }
+  },
+  "priority": 4
 }

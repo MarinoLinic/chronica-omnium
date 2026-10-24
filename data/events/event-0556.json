@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -5000,
   "end": null,
-  "location": null,
+  "location": "La Braña-Arintero",
   "type": null,
   "field": null,
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate archaeological age, rounded to circa 5000 BCE. A village article redirect was rejected; this record cites the genomic study.",
-  "places": [],
+  "places": [
+    "place-0fdbe684ed98"
+  ],
   "notes": "",
   "legacy": {
     "id": "la-brana-arintero",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

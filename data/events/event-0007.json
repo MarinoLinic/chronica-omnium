@@ -10,8 +10,8 @@
   "start": -4280000000,
   "end": -3700000000,
   "location": "World",
-  "type": "Event",
-  "field": "Biology",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Protocell",
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Protocell-4.svg",
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "priority": 1
 }

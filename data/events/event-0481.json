@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1500,
   "end": 1800,
-  "location": null,
+  "location": "Europe · North America",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Approximate European period of prominence; practices and later uses of the term extend beyond these boundaries.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9",
+    "place-64be0885bc3f"
+  ],
   "notes": "",
   "legacy": {
     "id": "mercantilism",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

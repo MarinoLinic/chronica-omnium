@@ -9,7 +9,7 @@
   "long_desc": "Extinction of neanderthals",
   "start": -39080,
   "end": -37310,
-  "location": null,
+  "location": "Europe",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "The 2014 model gives 95.4% bounds for archaeological disappearance. BP uses the fixed 1950 reference, unlike the viewer-relative “years ago” tooltip. Rounded BCE conversion; not a globally synchronous extinction.",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "extinction-of-neanderthals",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

@@ -10,8 +10,8 @@
   "start": -13800000000,
   "end": null,
   "location": "Universe",
-  "type": "Event",
-  "field": "Astronomy",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Big_Bang",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/1920px-CMB_Timeline300_no_WMAP.jpg",
@@ -67,5 +67,6 @@
         9.8103565357
       ]
     }
-  }
+  },
+  "priority": 1
 }

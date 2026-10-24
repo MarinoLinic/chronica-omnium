@@ -9,7 +9,7 @@
   "long_desc": "Last common ancestor of Pan and Homo",
   "start": -8000000,
   "end": -6000000,
-  "location": null,
+  "location": "Africa",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "uncertain",
   "date_note": "A broad approximately 8–6 million-year divergence window, not a dated individual ancestor or a two-million-year lifespan.",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70"
+  ],
   "notes": "",
   "legacy": {
     "id": "last-common-ancestor-of-pan-and-homo",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

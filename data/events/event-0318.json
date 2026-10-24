@@ -10,8 +10,8 @@
   "start": 1789,
   "end": 1799,
   "location": "France",
-  "type": "Revolution",
-  "field": "History",
+  "type": "War",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/French_Revolution",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/1920px-Anonymous_-_Prise_de_la_Bastille.jpg",
@@ -67,5 +67,6 @@
         1.8883335
       ]
     }
-  }
+  },
+  "priority": 1
 }

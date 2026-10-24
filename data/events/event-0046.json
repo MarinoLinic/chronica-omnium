@@ -9,7 +9,7 @@
   "long_desc": "Attempt at migration to Europe by H. sapiens",
   "start": -208000,
   "end": null,
-  "location": null,
+  "location": "Apidima Cave",
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": "1",
   "date_kind": "point",
   "date_note": "A minimum age and a debated taxonomic interpretation. The rounded timeline placement is not proof of a precisely dated migration or its failure.",
-  "places": [],
+  "places": [
+    "place-9f59e46be323"
+  ],
   "notes": "",
   "legacy": {
     "id": "attempt-at-migration-to-europe-by-h-sapiens",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -518000000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Science",
+  "location": "Yunnan",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximately 518 million years ago. One of the earliest known vertebrates, not a proven single first fish.",
-  "places": [],
+  "places": [
+    "place-e27b13ead6cc"
+  ],
   "notes": "",
   "legacy": {
     "id": "first-fish-550m-myllokunmingia",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 4
 }

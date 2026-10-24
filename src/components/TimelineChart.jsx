@@ -1,5 +1,5 @@
 import { useRef, useState, useEffect, useMemo } from "react";
-import { Link } from "react-router-dom";
+import EventLink from "./EventLink";
 import { formatYear, ordinalYear, formatRange } from "../utils/dates";
 import { exportTimeline } from "../utils/export-image";
 import { colorFor,trackFor } from "../utils/timeline";
@@ -108,7 +108,7 @@ export default function TimelineChart({
               b = Math.min(610, x(r.end ?? r.start)),
               color = colorFor(track?trackFor(r):r.type);
             return (
-              <a key={r.timelineKey || r.id} href={`/${r.id_num}`}>
+              <EventLink key={r.timelineKey || r.id} event={r}>
                 <title>
                   {r.name}: {formatRange(r)}
                 </title>
@@ -127,7 +127,7 @@ export default function TimelineChart({
                     r.date_kind === "uncertain" ? "4 3" : undefined
                   }
                 />
-              </a>
+              </EventLink>
             );
           })}
           {!rows.length && (
@@ -169,9 +169,9 @@ export default function TimelineChart({
           <ul>
             {rows.map((r) => (
               <li key={r.timelineKey || r.id}>
-                <Link className="underline" to={`/${r.id_num}`}>
+                <EventLink className="underline" event={r}>
                   {r.name}
-                </Link>
+                </EventLink>
                 : {formatRange(r)}
               </li>
             ))}

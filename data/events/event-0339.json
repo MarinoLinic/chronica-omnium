@@ -11,7 +11,7 @@
   "end": 1865,
   "location": "United States",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/American_Civil_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CivilWarUSAColl.png",
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "priority": 2
 }

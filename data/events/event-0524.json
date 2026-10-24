@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1960,
   "end": 1970,
-  "location": null,
-  "type": "Period",
+  "location": "United Kingdom",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/The_Beatles",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Dates shown to year precision; see the source for exact dates and context.",
-  "places": [],
+  "places": [
+    "place-0e98cc0b1589"
+  ],
   "notes": "",
   "legacy": {
     "id": "beatles",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

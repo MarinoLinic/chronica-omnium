@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1124,
   "end": 1218,
-  "location": null,
-  "type": "State",
+  "location": "Central Asia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Qara_Khitai",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Uses the westward establishment around 1124; a usurper ruled in the final years before Mongol conquest.",
-  "places": [],
+  "places": [
+    "place-ab47a133bea8"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

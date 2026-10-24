@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 320,
   "end": 550,
-  "location": null,
-  "type": "State",
+  "location": "South Asia",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Conventional imperial phase beginning with Chandragupta I around 320. Earlier Gupta rulers are known; the end around 550 is approximate.",
-  "places": [],
+  "places": [
+    "place-0f5fbbd8e643"
+  ],
   "notes": "",
   "legacy": {
     "id": "gupta-dynasty",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

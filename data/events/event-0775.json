@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": 1215,
   "end": null,
-  "location": null,
+  "location": "Runnymede",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "15 June 1215; this dates the sealing, not the later history of the document.",
-  "places": [],
+  "places": [
+    "place-8e3191227984"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Charter sealed",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

@@ -11,7 +11,7 @@
   "end": -50,
   "location": "France and Great Britain",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Gallic_Wars",
   "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lionel_Royer_-_Vercingetorix_Throwing_down_His_Weapons_at_the_feet_of_Julius_Caesar.jpg",
@@ -53,5 +53,6 @@
     "time_end": "50 BCE",
     "time_start": "58 BCE",
     "location_info": null
-  }
+  },
+  "priority": 2
 }

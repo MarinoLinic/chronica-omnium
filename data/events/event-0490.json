@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -312,
   "end": null,
-  "location": null,
+  "location": "Rome",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "The original “Roman roads completed” had no defensible single completion date. This record now dates the start of the Appian Way; the empire’s roads developed over many centuries.",
-  "places": [],
+  "places": [
+    "place-d0d220191865"
+  ],
   "notes": "",
   "legacy": {
     "id": "roman-roads-completed",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1950,
   "end": 1953,
-  "location": null,
+  "location": "Korean Peninsula",
   "type": "War",
-  "field": "History",
+  "field": "War",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Korean_War",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Active war, 25 June 1950 to the 27 July 1953 armistice; no final peace treaty is implied.",
-  "places": [],
+  "places": [
+    "place-f450959f870a"
+  ],
   "notes": "",
   "legacy": {
     "id": "korean-war",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

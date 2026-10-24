@@ -9,7 +9,7 @@
   "long_desc": "Attila the Hun",
   "start": 406,
   "end": 453,
-  "location": null,
+  "location": "Asia · Europe",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-ee139bd0fd94",
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "attila-the-hun",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

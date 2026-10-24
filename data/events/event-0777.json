@@ -9,7 +9,7 @@
   "long_desc": null,
   "start": -500,
   "end": null,
-  "location": null,
+  "location": "China",
   "type": "Invention",
   "field": "History",
   "relevance": 1,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Approximate fifth-century BCE development described in the source; the precise first furnace and location remain uncertain.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Approximate development",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 2
 }

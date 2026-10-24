@@ -10,7 +10,7 @@
   "start": 1282,
   "end": 1918,
   "location": "Central Europe",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
@@ -67,5 +67,6 @@
         -95.167241
       ]
     }
-  }
+  },
+  "priority": 2
 }

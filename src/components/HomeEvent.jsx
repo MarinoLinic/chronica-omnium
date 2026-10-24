@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import EventLink from "./EventLink";
 import CachedImage from "./CachedImage";
 import DateLabel from "./DateLabel";
 export default function HomeEvent({ data }) {
@@ -23,19 +23,19 @@ export default function HomeEvent({ data }) {
           )}
         </p>
         <h2>
-          <Link to={`/${data.id_num}`}>{data.name}</Link>
+          <EventLink event={data}>{data.name}</EventLink>
         </h2>
         {data.short_desc && <p className="event-summary">{data.short_desc}</p>}
         <p className="event-place">
           {data.location || (data.field !== "Uncategorized" && data.field)}
         </p>
-        <Link className="read-link" to={`/${data.id_num}`}>
-          Explore story <span aria-hidden="true">↗</span>
-        </Link>
+        <EventLink className="read-link" event={data}>
+          Learn more <span aria-hidden="true">↗</span>
+        </EventLink>
       </div>
       {(data.image || data.local_image) && (
-        <Link
-          to={`/${data.id_num}`}
+        <EventLink
+          event={data}
           className="chronicle-image"
           aria-label={`Read about ${data.name}`}
         >
@@ -44,7 +44,7 @@ export default function HomeEvent({ data }) {
             small
             className="w-full h-full object-contain"
           />
-        </Link>
+        </EventLink>
       )}
     </article>
   );

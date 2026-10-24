@@ -9,7 +9,7 @@
   "long_desc": "Discovery of America",
   "start": 1492,
   "end": null,
-  "location": null,
+  "location": "North America · South America",
   "type": "Event",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-64be0885bc3f",
+    "place-1c583b195015"
+  ],
   "notes": "",
   "legacy": {
     "id": "discovery-of-america",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 1
 }

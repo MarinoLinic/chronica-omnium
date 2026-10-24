@@ -9,7 +9,7 @@
   "long_desc": "Michelangelo",
   "start": 1475,
   "end": 1564,
-  "location": "Capresse",
+  "location": "Caprese Michelangelo",
   "type": "Person",
   "field": "History",
   "relevance": 1,
@@ -21,7 +21,7 @@
   "date_kind": "span",
   "date_note": "",
   "places": [
-    "place-94d6bd9eb556"
+    "place-d181ab3a8dbf"
   ],
   "notes": "",
   "legacy": {
@@ -67,5 +67,6 @@
         -61.0549805
       ]
     }
-  }
+  },
+  "priority": 2
 }

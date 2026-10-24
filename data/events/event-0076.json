@@ -10,8 +10,8 @@
   "start": -12500,
   "end": -3500,
   "location": "Sahara",
-  "type": "Event",
-  "field": "Archaeogenetics",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/African_humid_period",
   "image": "https://i0.wp.com/thinkafrica.net/wp-content/uploads/2021/02/africa-9000-5000-bp-1-location-of-lakes-and-rivers.png?resize=1832%2C2048&ssl=1",
@@ -67,5 +67,6 @@
         9.8
       ]
     }
-  }
+  },
+  "priority": 2
 }

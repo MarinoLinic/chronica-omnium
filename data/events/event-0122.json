@@ -10,7 +10,7 @@
   "start": -2000,
   "end": 250,
   "location": "Mesoamerica",
-  "type": "Civilization",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Preclassic_Maya",
@@ -67,5 +67,6 @@
         -94.5538126
       ]
     }
-  }
+  },
+  "priority": 2
 }

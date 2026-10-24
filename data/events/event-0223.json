@@ -10,7 +10,7 @@
   "start": 960,
   "end": 1279,
   "location": "China",
-  "type": "State",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Song_dynasty",
@@ -67,5 +67,6 @@
         104.999927
       ]
     }
-  }
+  },
+  "priority": 2
 }

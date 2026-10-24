@@ -9,7 +9,7 @@
   "long_desc": "Baroque music",
   "start": 1580,
   "end": 1750,
-  "location": null,
+  "location": "Europe",
   "type": "Period",
   "field": "History",
   "relevance": 1,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-e595f45dc6c9"
+  ],
   "notes": "",
   "legacy": {
     "id": "baroque-music",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

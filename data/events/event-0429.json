@@ -10,7 +10,7 @@
   "start": 1998,
   "end": null,
   "location": "Menlo Park",
-  "type": "Company",
+  "type": "Organization",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Google",
@@ -68,5 +68,6 @@
       ]
     }
   },
-  "date_label": "Founding"
+  "date_label": "Founding",
+  "priority": 2
 }

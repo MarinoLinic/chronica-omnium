@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": 1300,
   "end": 1850,
-  "location": null,
-  "type": "Period",
-  "field": "History",
+  "location": "North Atlantic",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Approximate conventional climate interval, with regional and scholarly differences over its boundaries.",
-  "places": [],
+  "places": [
+    "place-b6f6f1d81695"
+  ],
   "notes": "",
   "legacy": {
     "id": "the-little-ice-age",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

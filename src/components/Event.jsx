@@ -3,8 +3,9 @@ import { useParams, Link } from "react-router-dom";
 import { lazy, Suspense, useEffect, useState, useRef, useMemo } from "react";
 import EventDisplay from "./EventDisplay";
 import SiteHeader from "./SiteHeader";
-import { prepareImage } from "../utils/images";
-import { resolveDates, ordinalYear, historicalYear } from "../utils/dates";
+import { ordinalYear, historicalYear } from "../utils/dates";
+import { loadEvent } from "../utils/event-loader";
+import EventLink from "./EventLink";
 import { timelinePeriods, dateModes } from "../utils/periods";
 import {trackFor} from "../utils/timeline";
 const TimelineChart = lazy(() => import("./TimelineChart"));
@@ -142,23 +143,18 @@ export default function Event() {
   useEffect(() => {
     setError("");
     if (!event) return;
-    const controller = new AbortController();
-    fetch(`/data/events/${event.id}.json`, { signal: controller.signal })
-      .then((r) => {
-        if (!r.ok) throw new Error("Cached article could not be loaded.");
-        return r.json();
-      })
-      .then(async (r) => {
-        const full = await prepareImage(resolveDates(r), controller.signal);
-        if (!controller.signal.aborted) {
-          setDetail({ id: event.id, event: full, content: r.content });
+    let active = true;
+    loadEvent(event.id)
+      .then((result) => {
+        if (active) {
+          setDetail(result);
           window.scrollTo({ top: 0, behavior: "instant" });
         }
       })
       .catch((e) => {
-        if (e.name !== "AbortError") setError(e.message);
+        if (active) setError(e.message);
       });
-    return () => controller.abort();
+    return () => { active = false; };
   }, [event?.id]);
   if (!event)
     return (
@@ -186,10 +182,10 @@ export default function Event() {
         <Link to="/">← Chronicle</Link>
         <div>
           {position > 0 && (
-            <Link to={`/${ordered[position - 1].id_num}`}>← Previous</Link>
+            <EventLink event={ordered[position - 1]}>← Previous</EventLink>
           )}
           {position < ordered.length - 1 && (
-            <Link to={`/${ordered[position + 1].id_num}`}>Next →</Link>
+            <EventLink event={ordered[position + 1]}>Next →</EventLink>
           )}
         </div>
       </nav>

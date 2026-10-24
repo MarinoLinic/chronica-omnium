@@ -9,9 +9,9 @@
   "long_desc": "Volcanic winter of 536",
   "start": 536,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "History",
+  "location": "Northern Hemisphere",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Volcanic_winter_of_536",
   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/SS_Filippo_e_Giacomo%2C_Nosedo._Lapide_del_536_d.c._Photo_by_Giovanni_Dall%27Orto%2C_3_July_2022_2.jpg",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-84c88c5632ee"
+  ],
   "notes": "",
   "legacy": {
     "id": "volcanic-winter-of-536",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

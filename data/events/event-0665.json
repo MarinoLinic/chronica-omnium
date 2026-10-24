@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -6250,
   "end": null,
-  "location": null,
-  "type": "Climate",
-  "field": "Geology",
+  "location": "North Atlantic",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/8.2-kiloyear_event",
   "image": null,
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "About 8,200 years BP, with BP fixed at 1950, plotted at roughly 6250 BCE after rounding. This locates the episode, not an exact onset or duration; estimates vary from roughly 150 years for its central Greenland signal to several centuries for broader changes.",
-  "places": [],
+  "places": [
+    "place-b6f6f1d81695"
+  ],
   "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
   "legacy": {},
   "date_label": "Approximate climatic episode",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 3
 }

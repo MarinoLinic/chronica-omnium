@@ -9,9 +9,9 @@
   "long_desc": "Hominoids ",
   "start": -25000000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Biology",
+  "location": "Africa · Southeast Asia",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Ape",
   "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Ape_skeletons.png",
@@ -20,7 +20,10 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-3f5053b3ae70",
+    "place-a73ef7e2d61c"
+  ],
   "notes": "",
   "legacy": {
     "id": "hominoids-",
@@ -65,5 +68,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 3
 }

@@ -9,9 +9,9 @@
   "long_desc": null,
   "start": -470000000,
   "end": null,
-  "location": null,
-  "type": "Event",
-  "field": "Science",
+  "location": "Worldwide",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
   "image": null,
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "point",
   "date_note": "Around 470 million years ago: early cryptospore evidence, not the invention of all plants or a precise date of first colonization.",
-  "places": [],
+  "places": [
+    "place-7aca9b2c4a36"
+  ],
   "notes": "",
   "legacy": {
     "id": "plants-colonize-land-450m",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }

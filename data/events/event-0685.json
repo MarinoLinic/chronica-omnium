@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 618,
   "end": 907,
-  "location": null,
-  "type": "State",
+  "location": "China",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Tang_dynasty",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Tang rule was interrupted by Wu Zetian’s Zhou dynasty in 690–705; the additional periods retain that interruption.",
-  "places": [],
+  "places": [
+    "place-10436829032f"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
@@ -46,5 +48,6 @@
       "source": "https://en.wikipedia.org/wiki/Tang_dynasty"
     }
   ],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 1
 }

@@ -9,8 +9,8 @@
   "long_desc": null,
   "start": 1347,
   "end": 1527,
-  "location": null,
-  "type": "State",
+  "location": "Deccan",
+  "type": "Polity",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Bahmani_Kingdom",
@@ -20,10 +20,13 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "Later Bahmani rulers retained a diminished or nominal authority as successor sultanates emerged.",
-  "places": [],
+  "places": [
+    "place-50dc20146ce4"
+  ],
   "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
   "legacy": {},
   "date_label": "Political existence",
   "periods": [],
-  "timeline_period": null
+  "timeline_period": null,
+  "priority": 4
 }

@@ -42,6 +42,14 @@ export function periodLabel(year, scales) {
   return groups.find(g=>g.label==='Archaeological ages')?.nodes.at(-1)?.name
     || groups.find(g=>g.label==='Earth')?.nodes.at(-1)?.name || groups[0]?.label || 'Undated';
 }
+// Human periods take precedence for the reader tint, with archaeology/geology
+// supplying deep-time context. Overlaps retain their independent guide labels.
+export function eraForYear(year, scales) {
+  const groups = guideForYear(year, scales);
+  return groups.find(g=>g.label==='Human periods')?.nodes.at(-1)
+    || groups.find(g=>g.label==='Archaeological ages')?.nodes.at(-1)
+    || groups.find(g=>g.label==='Earth')?.nodes.at(-1);
+}
 export function timeBands(scales, start, end, pixels, viewerYear) {
   const columns = [];
   const min = ordinalYear(start), span = ordinalYear(end) - min;

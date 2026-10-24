@@ -9,9 +9,9 @@
   "long_desc": "Late Glacial Interstadial",
   "start": -12670,
   "end": -10890,
-  "location": null,
-  "type": "Climate",
-  "field": null,
+  "location": "North Atlantic",
+  "type": "Natural event",
+  "field": "Natural history",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Late_Glacial_Interstadial",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Evolution_of_temperature_in_the_Post-Glacial_period_according_to_Greenland_ice_cores_%28B%C3%B8lling-Aller%C3%B8d%29.jpg",
@@ -20,7 +20,9 @@
   "dubious": null,
   "date_kind": "span",
   "date_note": "",
-  "places": [],
+  "places": [
+    "place-b6f6f1d81695"
+  ],
   "notes": "",
   "legacy": {
     "id": "late-glacial-interstadial",
@@ -65,5 +67,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "priority": 2
 }
