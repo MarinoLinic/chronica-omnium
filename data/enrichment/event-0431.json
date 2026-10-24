@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0431",
+  "source": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+  "revisionId": 1379094332,
+  "fetchedAt": "2026-10-24T10:44:09.803Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/960px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:U.S._Army_firefight_in_Kunar.jpg",
+      "artist": "Pfc. Cameron Boyd",
+      "credit": "https://www.flickr.com/photos/soldiersmediacenter/5619029758/in/photostream/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

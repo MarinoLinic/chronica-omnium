@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0482",
+  "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+  "revisionId": 1377525007,
+  "fetchedAt": "2026-10-24T10:24:06.986Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Woman%27s_Rights_Convention.jpg/330px-Woman%27s_Rights_Convention.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Rights_Convention.jpg",
+      "artist": "https://pbs.twimg.com/media/CKXzBSKWwAEzQT8.jpg",
+      "credit": "https://pbs.twimg.com/media/CKXzBSKWwAEzQT8.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

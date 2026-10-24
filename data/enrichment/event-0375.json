@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0375",
+  "source": "https://en.wikipedia.org/wiki/Yugoslavia",
+  "revisionId": 1379500647,
+  "fetchedAt": "2026-10-24T10:43:29.817Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yugoslavia_location_map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Yugoslavia_location_map.svg/960px-Yugoslavia_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Yugoslavia_location_map.svg/330px-Yugoslavia_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Yugoslavia_location_map.svg",
+      "artist": "Derivative work of History_of_Yugoslavia.svg by NikNaks\nPortions used contain parts of: Blank_map_of_Europe_1929-1938.svg and Blank_map_of_Europe_1956-1990.svg by Alphathon.\nThese are in turn were derived from Blank map of Europe (with disputed regions).svg by maix, W!B:, Zirland, MrWeeble, CarolSpears, TimothyBourke, Collard, F7, Alphathon and Heb)\nThis itself is derived from Europe_countries.svg by Tintazul\nderivative work: Alphathon",
+      "credit": "This file was derived from: \n\n History of Yugoslavia.svg: \nBlank map of Europe 1929-1938.svg: \nBlank map of Europe 1956-1990.svg: \nBlank map of Europe (with disputed regions).svg: \nEurope countries.svg:",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

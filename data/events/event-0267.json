@@ -5,10 +5,10 @@
   "slug": "anglicanism",
   "status": "review",
   "name": "Anglicanism",
-  "short_desc": null,
+  "short_desc": "Anglicanism, also known as Episcopalianism in some countries, is a Western Christian tradition which developed from the practices, liturgy and identity of the Church of England following the English Reformation, in the context of the Protestant Reformation in Europe.",
   "long_desc": "Anglicanism",
   "start": 1534,
-  "end": 2023,
+  "end": null,
   "location": "England",
   "type": "Religion",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "The 1534 Act of Supremacy marks a legal break with papal authority. Anglican identity developed over time and has earlier roots.",
   "places": [
     "place-c0ea960b065c"
   ],
@@ -67,5 +67,6 @@
         -1.2649062
       ]
     }
-  }
+  },
+  "date_label": "English Reformation milestone"
 }

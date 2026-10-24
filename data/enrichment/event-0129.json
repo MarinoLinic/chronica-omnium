@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0129",
+  "source": "https://en.wikipedia.org/wiki/Troy",
+  "revisionId": 1379991372,
+  "fetchedAt": "2026-10-24T10:40:57.059Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Walls_of_Troy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_%282%29.jpg/960px-Walls_of_Troy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_%282%29.jpg/330px-Walls_of_Troy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg",
+      "artist": "CherryX",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "CherryX per Wikimedia Commons"
+    }
+  }
+}

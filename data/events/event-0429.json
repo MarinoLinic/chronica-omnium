@@ -5,10 +5,10 @@
   "slug": "google",
   "status": "review",
   "name": "Google",
-  "short_desc": null,
+  "short_desc": "Google (officially known as Google LLC) ( , GOO-gəl) is an American multinational technology corporation focused on information technology, online advertising, search engine technology, email, cloud computing, software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI).",
   "long_desc": null,
   "start": 1998,
-  "end": 2023,
+  "end": null,
   "location": "Menlo Park",
   "type": "Company",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
   "places": [
     "place-7e12449255ed"
   ],
@@ -67,5 +67,6 @@
         -122.177992
       ]
     }
-  }
+  },
+  "date_label": "Founding"
 }

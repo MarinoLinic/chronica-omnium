@@ -1,0 +1,13 @@
+# Canonical authoring files use LF on every platform. Do not renormalize the
+# preserved spreadsheet-era archive under src/resources/.
+data/** text eol=lf
+scripts/** text eol=lf
+tests/** text eol=lf
+src/*.jsx text eol=lf
+src/*.js text eol=lf
+src/components/** text eol=lf
+src/styles/** text eol=lf
+src/utils/** text eol=lf
+docs/** text eol=lf
+package*.json text eol=lf
+*.md text eol=lf

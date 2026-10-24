@@ -5,7 +5,7 @@
   "slug": "settlement-of-the-americas",
   "status": "review",
   "name": "Settlement of the Americas",
-  "short_desc": null,
+  "short_desc": "The peopling of the Americas involved multiple movements and long regional histories. Earlier occupation is demonstrated at sites such as White Sands (record 66).",
   "long_desc": "Settlement of the Americas",
   "start": -18000,
   "end": -12000,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "The imported 18,000–12,000 BCE window is not the earliest possible arrival. It is retained as a broad late-glacial dispersal interval, not a continent-wide first settlement date.",
   "places": [],
   "notes": "",
   "legacy": {

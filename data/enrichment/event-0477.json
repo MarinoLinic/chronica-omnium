@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0477",
+  "source": "https://en.wikipedia.org/wiki/Pollution",
+  "revisionId": 1361721618,
+  "fetchedAt": "2026-10-24T10:24:03.410Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Air_pollution3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Air_pollution3.jpg/960px-Air_pollution3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Air_pollution3.jpg/330px-Air_pollution3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg",
+      "artist": "Janak Bhatta",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

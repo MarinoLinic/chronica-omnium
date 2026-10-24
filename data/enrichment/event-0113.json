@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0113",
+  "source": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+  "revisionId": 1377446505,
+  "fetchedAt": "2026-10-24T10:40:45.554Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/4th_Dynasty_of_Egypt-03.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/4th_Dynasty_of_Egypt-03.png/960px-4th_Dynasty_of_Egypt-03.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/4th_Dynasty_of_Egypt-03.png/330px-4th_Dynasty_of_Egypt-03.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:4th_Dynasty_of_Egypt-03.png",
+      "artist": "Cattette",
+      "credit": "Own work\n\n This  PNG graphic was created with Adobe Illustrator.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

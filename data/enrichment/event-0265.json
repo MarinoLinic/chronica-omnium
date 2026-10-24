@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0265",
+  "source": "https://en.wikipedia.org/wiki/Mughal_Empire",
+  "revisionId": 1381588444,
+  "fetchedAt": "2026-10-24T10:42:10.807Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/en/5/51/Joppen1907India1700a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/en/5/51/Joppen1907India1700a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/51/Joppen1907India1700a.jpg/330px-Joppen1907India1700a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Joppen1907India1700a.jpg",
+      "artist": "Justus Perthes, Gotha./Charles Joppen",
+      "credit": "Joppen, Charles [SJ.] (1907) A Historical Atlas of India for the use of High-Schools, Colleges, and Private Students, London, New York, Bombay, and Calcutta: Longman Green and Co. Pp. 16, 26 maps",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "attribution": ""
+    }
+  }
+}

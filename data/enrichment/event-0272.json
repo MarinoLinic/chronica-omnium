@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0272",
+  "source": "https://en.wikipedia.org/wiki/Baroque_music",
+  "revisionId": 1375381637,
+  "fetchedAt": "2026-10-24T10:42:16.022Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Baschenis_-_Musical_Instruments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Baschenis_-_Musical_Instruments.jpg/960px-Baschenis_-_Musical_Instruments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Baschenis_-_Musical_Instruments.jpg/330px-Baschenis_-_Musical_Instruments.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Baschenis_-_Musical_Instruments.jpg",
+      "artist": "Evaristo Baschenis",
+      "credit": "Art Renewal Center",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

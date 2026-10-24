@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0533",
+  "source": "https://en.wikipedia.org/wiki/Panmixia",
+  "title": "Panmixia",
+  "revisionId": 1375553466,
+  "revisionTimestamp": "2026-09-18T14:16:46Z",
+  "fetchedAt": "2026-10-24T10:44:26.173Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Panmixia (or panmixis) means uniform random fertilization, which means individuals do not select a mate based on physical traits. A panmictic population is one where all potential parents may contribute equally to the gamete pool, and that these gametes are uniformly distributed within the gamete population (gamodeme). This assumes that there are no hybridising restrictions within the parental population: neither genetics, cytogenetics nor behavioural; and neither spatial nor temporal (see also Quantitative genetics for further discussion). True panmixia is rarely, if ever, observed in natural populations. It is a theoretical model used as a null hypothesis in population genetics. It serves as a point of comparison to understand how deviations from random mating affect allele and genotype frequencies. Therefore, all gamete recombination (fertilization) is uniformly possible. Both the Wahlund effect and the Hardy Weinberg equilibrium assume that the overall population is panmictic.\nIn genetics and heredity, random mating usually implies the hybridising (mating) of individuals regardless of any spatial, physical, genetical, temporal or social preference. That is, the mating between two organisms is not influenced by any environmental, nor hereditary interaction. There is no tendency for similar individuals (positive assortative mating) or dissimilar individuals (negative assortative mating) to mate. Hence, potential mates have an equal chance of being contributors to the fertilizing gamete pool. If there is no random sub-sampling of gametes involved in the fertilization cohort, panmixia has occurred. This scenario is considered rare as it is very idealized. In real life, there are many different factors that can influence mate choice.\nSuch uniform random mating is distinct from lack of natural selection: in viability selection for instance, selection occurs before mating."
+}

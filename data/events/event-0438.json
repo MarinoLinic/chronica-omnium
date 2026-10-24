@@ -4,8 +4,8 @@
   "id_num": 438,
   "slug": "donald-trump-in-office",
   "status": "review",
-  "name": "Donald Trump (in office)",
-  "short_desc": null,
+  "name": "Donald Trump",
+  "short_desc": "Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States.",
   "long_desc": null,
   "start": 2017,
   "end": 2021,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
   "places": [
     "place-49dca65f362f"
   ],
@@ -67,5 +67,28 @@
         -100.445882
       ]
     }
-  }
+  },
+  "date_label": "First U.S. presidency",
+  "periods": [
+    {
+      "id": "life",
+      "kind": "life",
+      "label": "Lifespan",
+      "start": 1946,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_note": "No death recorded in the source checked 24 October 2026.",
+      "source": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+      "id": "second-presidency",
+      "kind": "office",
+      "label": "Second U.S. presidency",
+      "start": 2025,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_note": "Began 20 January 2025. This term is distinct from 2017–2021.",
+      "source": "https://en.wikipedia.org/wiki/Donald_Trump"
+    }
+  ]
 }

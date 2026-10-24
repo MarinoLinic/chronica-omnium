@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0228",
+  "source": "https://en.wikipedia.org/wiki/Crusades",
+  "revisionId": 1381209140,
+  "fetchedAt": "2026-10-24T10:41:40.811Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Combat_deuxi%C3%A8me_croisade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Combat_deuxi%C3%A8me_croisade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Combat_deuxi%C3%A8me_croisade.jpg/330px-Combat_deuxi%C3%A8me_croisade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Combat_deuxi%C3%A8me_croisade.jpg",
+      "artist": "anonymus",
+      "credit": "http://classes.bnf.fr/ema/images/3/chrono/7-1.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

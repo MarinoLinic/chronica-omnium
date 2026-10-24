@@ -3,23 +3,23 @@
   "id": "event-0564",
   "id_num": 564,
   "slug": "slavoj-iek",
-  "status": "stub",
-  "name": "Slavoj iek",
-  "short_desc": null,
+  "status": "review",
+  "name": "Slavoj Žižek",
+  "short_desc": "Slavoj Žižek (born 21 March 1949) is a Slovenian philosopher, cultural theorist and public intellectual.",
   "long_desc": null,
-  "start": null,
+  "start": 1949,
   "end": null,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

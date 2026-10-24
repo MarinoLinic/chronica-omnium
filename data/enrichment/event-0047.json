@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0047",
+  "source": "https://en.wikipedia.org/wiki/Homo_erectus",
+  "revisionId": 1376887575,
+  "fetchedAt": "2026-10-24T10:36:40.346Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Java_Man_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Java_Man_holotype.jpg/960px-Java_Man_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Java_Man_holotype.jpg/330px-Java_Man_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Java_Man_holotype.jpg",
+      "artist": "Eduard Pop et al.",
+      "credit": "https://doi.org/10.1016/j.jhevol.2024.103516",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

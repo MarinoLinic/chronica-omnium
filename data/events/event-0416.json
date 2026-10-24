@@ -5,10 +5,10 @@
   "slug": "elon-musk",
   "status": "review",
   "name": "Elon Musk",
-  "short_desc": null,
+  "short_desc": "Elon Reeve Musk (  EE-lon; born June 28, 1971) is an industrialist and former public official who is the chief executive officer (CEO) and largest shareholder of Tesla and SpaceX.",
   "long_desc": null,
   "start": 1971,
-  "end": 2023,
+  "end": null,
   "location": "Pretoria",
   "type": "Person",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
   "places": [
     "place-d10b273fab39"
   ],
@@ -67,5 +67,6 @@
         28.1879101
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

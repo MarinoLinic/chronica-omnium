@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0366",
+  "source": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "revisionId": 1381462563,
+  "fetchedAt": "2026-10-24T10:43:22.262Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alan_turing_header.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Alan_turing_header.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/330px-Alan_turing_header.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Alan_turing_header.jpg",
+      "artist": "Elliott & Fry",
+      "credit": "https://commons.wikimedia.org/wiki/File:Alan_Turing_(1951).jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

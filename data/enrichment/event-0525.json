@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0525",
+  "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
+  "revisionId": 1375287199,
+  "fetchedAt": "2026-10-24T10:24:36.967Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/290_global.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/3c/290_global.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/290_global.png/330px-290_global.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:290_global.png",
+      "artist": "The original uploader was Moumine at English Wikipedia.",
+      "credit": "This image comes from an online verson of the PhD thesis of Pierre Dèzes (1999; Institut de Mineralogie et Petrographie, Université de Lausanne). Dèzes gives permission for \"Documents on this site can be used inasmuch as reference is clearly made to the above-mentionned publication and/or this website\". Originally from en.wikipedia; description page is/was here.",
+      "license": "Attribution",
+      "licenseUrl": "",
+      "attribution": "PhD thesis of Pierre Dèzes (1999; Institut de Mineralogie et Petrographie, Université de Lausanne), http://www-sst.unil.ch/research/plate_tecto/alp_tet.htm"
+    }
+  }
+}

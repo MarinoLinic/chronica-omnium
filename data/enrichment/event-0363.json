@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0363",
+  "source": "https://en.wikipedia.org/wiki/Bolsheviks",
+  "revisionId": 1375709025,
+  "fetchedAt": "2026-10-24T10:43:20.557Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg/330px-Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_%28Bolsheviks%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Presidium_of_the_9th_Congress_of_the_Russian_Communist_Party_(Bolsheviks).jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "9th Congress of Russian Communist Party Photo #850828",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

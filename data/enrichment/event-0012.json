@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0012",
+  "source": "https://en.wikipedia.org/wiki/Eukaryote",
+  "revisionId": 1377320053,
+  "fetchedAt": "2026-10-24T10:40:27.698Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhodomonas_salina_CCMP_322_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Rhodomonas_salina_CCMP_322_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Rhodomonas_salina_CCMP_322_%28cropped%29.jpg/330px-Rhodomonas_salina_CCMP_322_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Rhodomonas_salina_CCMP_322_(cropped).jpg",
+      "artist": "Daniel Vaulot, CNRS, Station Biologique de Roscoff",
+      "credit": "Own work",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": ""
+    }
+  }
+}

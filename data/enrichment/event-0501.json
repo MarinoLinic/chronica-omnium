@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0501",
+  "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+  "revisionId": 1375089839,
+  "fetchedAt": "2026-10-24T10:24:19.043Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WorldWideWeb_Icon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WorldWideWeb_Icon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WorldWideWeb_Icon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:WorldWideWeb_Icon.png",
+      "artist": "This file was made by User:Sven\n\n\n Translation\nIf this image contains text, it can be translated easily into your\nlanguage. If you need help, contact me\n\n\n Flexible licenses\nIf you want to use this picture with another license than stated below,\ncontact me\n\n\n Contact the author\nIf you need a really fast answer, mail me. If you\nneed only a fast answer, write me here.",
+      "credit": "from en, en:Image:WorldWideWeb.png, original uploader en:User:CyberSkull",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

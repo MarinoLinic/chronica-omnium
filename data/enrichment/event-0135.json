@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0135",
+  "source": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+  "revisionId": 1381556878,
+  "fetchedAt": "2026-10-24T10:41:01.058Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Map_of_Assyria.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_Assyria.png/960px-Map_of_Assyria.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_Assyria.png/330px-Map_of_Assyria.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_Assyria.png",
+      "artist": "Ningyou",
+      "credit": "Own work data from \n\nBased on a map in 'Atlas of the Bible Lands', C S Hammond & Co (1959), ISBN 9780843709414.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

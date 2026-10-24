@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0327",
+  "source": "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+  "revisionId": 1380366951,
+  "fetchedAt": "2026-10-24T10:42:50.946Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/960px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/IV_corpo_durante_la_campagna_di_Russia.jpg/330px-IV_corpo_durante_la_campagna_di_Russia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:IV_corpo_durante_la_campagna_di_Russia.jpg",
+      "artist": "Albrecht Adam",
+      "credit": "http://napoleon1812.wordpress.com/2012/07/page/2/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0558",
+  "source": "https://en.wikipedia.org/wiki/Epipalaeolithic_Near_East",
+  "revisionId": 1369638586,
+  "fetchedAt": "2026-10-24T10:25:02.963Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Near_East_Paleolithic_cave_shelter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Near_East_Paleolithic_cave_shelter.jpg/960px-Near_East_Paleolithic_cave_shelter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Near_East_Paleolithic_cave_shelter.jpg/330px-Near_East_Paleolithic_cave_shelter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Near_East_Paleolithic_cave_shelter.jpg",
+      "artist": "Cobija",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

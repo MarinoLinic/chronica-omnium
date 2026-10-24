@@ -3,23 +3,23 @@
   "id": "event-0570",
   "id_num": 570,
   "slug": "nicolae-ceauescu",
-  "status": "stub",
-  "name": "Nicolae Ceau?escu",
-  "short_desc": null,
+  "status": "review",
+  "name": "Nicolae Ceaușescu",
+  "short_desc": "Nicolae Ceaușescu (8 February [O.S. 26 January] 1918 – 25 December 1989) was a Romanian politician who was the second and last leader of Communist Romania as general secretary of the Romanian Communist Party from 1965 until his overthrow and execution in 1989.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1918,
+  "end": 1989,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,19 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "leadership",
+      "label": "Romanian Communist Party leadership",
+      "kind": "office",
+      "start": 1965,
+      "end": 1989,
+      "date_kind": "span",
+      "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+      "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu"
+    }
+  ],
+  "timeline_period": "leadership"
 }

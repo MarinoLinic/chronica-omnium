@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0123",
+  "source": "https://en.wikipedia.org/wiki/Babylonia",
+  "revisionId": 1374896813,
+  "fetchedAt": "2026-10-24T10:40:52.562Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hammurabi%27s_Babylonia_1.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/960px-Hammurabi%27s_Babylonia_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/330px-Hammurabi%27s_Babylonia_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hammurabi%27s_Babylonia_1.svg",
+      "artist": "MapMaster",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "MapMaster"
+    }
+  }
+}

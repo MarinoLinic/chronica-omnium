@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0324",
+  "source": "https://en.wikipedia.org/wiki/First_French_Empire",
+  "revisionId": 1380791769,
+  "fetchedAt": "2026-10-24T10:42:48.256Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/960px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg",
+      "artist": "Original: Unknown Vector:  SKopp",
+      "credit": "This SVG flag includes elements that have been taken or adapted from this flag:",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

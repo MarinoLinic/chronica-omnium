@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0034",
+  "source": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
+  "revisionId": 1374935316,
+  "fetchedAt": "2026-10-24T10:40:31.573Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg/960px-Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg/330px-Ardipithecus_ramidus_skull_%282016.003.0002%29%2C_Royal_Tyrrell_Museum%2C_Drumheller%2C_Alberta%2C_2025-07-13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ardipithecus_ramidus_skull_(2016.003.0002),_Royal_Tyrrell_Museum,_Drumheller,_Alberta,_2025-07-13.jpg",
+      "artist": "Chris Woodrich",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

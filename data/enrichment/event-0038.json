@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0038",
+  "source": "https://en.wikipedia.org/wiki/LD_350-1",
+  "revisionId": 1370054953,
+  "fetchedAt": "2026-10-24T10:36:37.884Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/LD_350-1_mandible.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/LD_350-1_mandible.jpg/960px-LD_350-1_mandible.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/LD_350-1_mandible.jpg/330px-LD_350-1_mandible.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:LD_350-1_mandible.jpg",
+      "artist": "Brian Villmoare",
+      "credit": "https://doi.org/10.1590/0001-3765202320230032",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

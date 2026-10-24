@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0262",
+  "source": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent",
+  "revisionId": 1379574711,
+  "fetchedAt": "2026-10-24T10:42:08.382Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/330px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:EmperorSuleiman.jpg",
+      "artist": "Circle of Titian",
+      "credit": "Kunsthistorisches Museum Wien",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

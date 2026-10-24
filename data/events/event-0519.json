@@ -3,23 +3,23 @@
   "id": "event-0519",
   "id_num": 519,
   "slug": "mahatma-gandhi",
-  "status": "stub",
+  "status": "review",
   "name": "Mahatma Gandhi",
-  "short_desc": null,
+  "short_desc": "Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and whose legacy would later inspire movements for civil rights and freedom across the world.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1869,
+  "end": 1948,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

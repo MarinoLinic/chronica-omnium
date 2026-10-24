@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0372",
+  "source": "https://en.wikipedia.org/wiki/October_Revolution",
+  "revisionId": 1379228275,
+  "fetchedAt": "2026-10-24T10:43:27.305Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg/330px-After_the_capture_of_the_Winter_Palace_26_October_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+      "artist": "Pyotr Novitsky",
+      "credit": "https://russiainphoto.ru/search/years_1860-1999/?author_ids=222",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

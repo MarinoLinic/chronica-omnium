@@ -5,10 +5,10 @@
   "slug": "fifa-world-cup",
   "status": "review",
   "name": "FIFA World Cup",
-  "short_desc": null,
+  "short_desc": "The FIFA World Cup is an international association football competition among the senior men's national teams of the members of the Fédération Internationale de Football Association (FIFA), the sport's global governing body.",
   "long_desc": null,
   "start": 1930,
-  "end": 2023,
+  "end": null,
   "location": "World",
   "type": "Event",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
   "places": [
     "place-78ae647dc554"
   ],
@@ -67,5 +67,6 @@
         174.7456809
       ]
     }
-  }
+  },
+  "date_label": "First tournament"
 }

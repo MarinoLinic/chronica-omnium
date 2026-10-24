@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0112",
+  "source": "https://en.wikipedia.org/wiki/Minoan_civilization",
+  "revisionId": 1381616567,
+  "fetchedAt": "2026-10-24T10:40:44.874Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Map_Minoan_Crete-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_Minoan_Crete-en.svg/960px-Map_Minoan_Crete-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_Minoan_Crete-en.svg/330px-Map_Minoan_Crete-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_Minoan_Crete-en.svg",
+      "artist": "User:Bibi Saint-Pol",
+      "credit": "Own work (data from http://metamedia.stanford.edu/imagebin/minoan%20crete%20map.JPG, map background from Image:Map greek sanctuaries-fr.svg).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

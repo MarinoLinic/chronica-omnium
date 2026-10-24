@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0427",
+  "source": "https://en.wikipedia.org/wiki/Third-wave_feminism",
+  "revisionId": 1380708203,
+  "fetchedAt": "2026-10-24T10:32:31.568Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rebeccawalker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Rebeccawalker.jpg/960px-Rebeccawalker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Rebeccawalker.jpg/330px-Rebeccawalker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Rebeccawalker.jpg",
+      "artist": "David Fenton",
+      "credit": "http://www.rebeccawalker.com/presskit.htm (presskit Rebecca Walker)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": ""
+    }
+  }
+}

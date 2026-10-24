@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0048",
+  "source": "https://en.wikipedia.org/wiki/Clothing",
+  "revisionId": 1381510384,
+  "fetchedAt": "2026-10-24T10:36:40.765Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Clothes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clothes.jpg/960px-Clothes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clothes.jpg/330px-Clothes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Clothes.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "LA2-NSRW-2-0064.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

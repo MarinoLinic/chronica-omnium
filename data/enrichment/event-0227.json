@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0227",
+  "source": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church",
+  "revisionId": 1380941268,
+  "fetchedAt": "2026-10-24T10:41:40.095Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/St._George%27s_Cathedral_2022_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/St._George%27s_Cathedral_2022_%286%29.jpg/960px-St._George%27s_Cathedral_2022_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/St._George%27s_Cathedral_2022_%286%29.jpg/330px-St._George%27s_Cathedral_2022_%286%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:St._George%27s_Cathedral_2022_(6).jpg",
+      "artist": "Antoloji",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

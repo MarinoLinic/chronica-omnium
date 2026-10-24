@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0456",
+  "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+  "revisionId": 1379966359,
+  "fetchedAt": "2026-10-24T10:44:24.302Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/JFK_Motorcade_GettyImages-517330536.jpg/960px-JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/JFK_Motorcade_GettyImages-517330536.jpg/330px-JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:JFK_Motorcade_GettyImages-517330536.jpg",
+      "artist": "Walt Cisco, Dallas Morning News",
+      "credit": "https://www.outkick.com/culture/aaron-rodgers-jfk-assassination-conspiracy-theory (Getty: https://www.gettyimages.com/detail/news-photo/president-john-f-kennedy-first-lady-jacqueline-kennedy-news-photo/517330536)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

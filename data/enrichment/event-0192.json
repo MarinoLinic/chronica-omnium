@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0192",
+  "source": "https://en.wikipedia.org/wiki/Theodosius_I",
+  "revisionId": 1377840833,
+  "fetchedAt": "2026-10-24T10:41:22.066Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bust_of_Theodosius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Bust_of_Theodosius_I.jpg/330px-Bust_of_Theodosius_I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bust_of_Theodosius_I.jpg",
+      "artist": "www.livius.org",
+      "credit": "https://www.livius.org/pictures/turkey/aphrodisias/aphrodisias-museum-pieces/theodosius-i-or-ii/",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

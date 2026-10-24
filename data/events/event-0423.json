@@ -4,8 +4,8 @@
   "id_num": 423,
   "slug": "ronald-reagan-in-office",
   "status": "review",
-  "name": "Ronald Reagan (in office)",
-  "short_desc": null,
+  "name": "Ronald Reagan",
+  "short_desc": "Ronald Wilson Reagan (February 6, 1911 – June 5, 2004) was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.",
   "long_desc": null,
   "start": 1981,
   "end": 1989,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
   "places": [
     "place-49dca65f362f"
   ],
@@ -67,5 +67,18 @@
         -100.445882
       ]
     }
-  }
+  },
+  "date_label": "U.S. presidency",
+  "periods": [
+    {
+      "id": "life",
+      "kind": "life",
+      "label": "Lifespan",
+      "start": 1911,
+      "end": 2004,
+      "date_kind": "span",
+      "date_note": "Birth and death years checked against the article and infobox.",
+      "source": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    }
+  ]
 }

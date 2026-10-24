@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0516",
+  "source": "https://en.wikipedia.org/wiki/Pasteurization",
+  "title": "Pasteurization",
+  "revisionId": 1366228867,
+  "revisionTimestamp": "2026-07-26T23:24:26Z",
+  "fetchedAt": "2026-10-24T10:24:30.428Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "In food processing, pasteurization (-isation) is a process of food preservation in which packaged foods (e.g., milk and fruit juices) are treated with mild heat, usually to less than 100 °C (212 °F), to eliminate pathogens and extend shelf life. Pasteurization either destroys or deactivates microorganisms and enzymes that contribute to food spoilage or the risk of disease, including vegetative bacteria, but most bacterial spores survive the process. \nPasteurization is named after French microbiologist Louis Pasteur, whose research in the 1860s demonstrated that thermal processing would deactivate unwanted microorganisms in wine. Spoilage enzymes are also inactivated during pasteurization. Today, pasteurization is used widely in the dairy industry and other food processing industries for food preservation and food safety.\nBy the year 1999, most liquid products were heat treated in a continuous system where heat was applied using a heat exchanger or the direct or indirect use of hot water and steam. Due to the mild heat, there are minor changes to the nutritional quality and sensory characteristics of the treated foods. Pascalization or high-pressure processing (HPP) and pulsed electric field (PEF) are non-thermal processes that are also used to pasteurize foods."
+}

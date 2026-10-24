@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0348",
+  "source": "https://en.wikipedia.org/wiki/Gilded_Age",
+  "revisionId": 1378879052,
+  "fetchedAt": "2026-10-24T10:43:10.186Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Breakers_Newport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Breakers_Newport.jpg/960px-The_Breakers_Newport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Breakers_Newport.jpg/330px-The_Breakers_Newport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Breakers_Newport.jpg",
+      "artist": "UpstateNYer",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

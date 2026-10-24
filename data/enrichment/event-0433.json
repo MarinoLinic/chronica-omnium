@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0433",
+  "source": "https://en.wikipedia.org/wiki/Arab_Spring",
+  "revisionId": 1381609646,
+  "fetchedAt": "2026-10-24T10:44:10.436Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/330px-Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Tunisian_Revolution_Protest.jpg",
+      "artist": "cjb",
+      "credit": "https://www.flickr.com/photos/cjb22222222/5373435731/",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

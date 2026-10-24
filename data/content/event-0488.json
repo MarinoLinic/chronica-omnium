@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0488",
+  "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+  "title": "Smallpox vaccine",
+  "revisionId": 1381372461,
+  "revisionTimestamp": "2026-10-22T00:11:25Z",
+  "fetchedAt": "2026-10-24T10:24:10.592Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The smallpox vaccine is used to prevent smallpox infection caused by the variola virus. It is the first vaccine to have been developed against a contagious disease. In 1796, British physician Edward Jenner demonstrated that an infection with the relatively mild cowpox virus conferred immunity against the deadly smallpox disease. Cowpox served as a natural vaccine until the modern smallpox vaccine emerged in the 20th century. From 1958 to 1977, the World Health Organization (WHO) conducted a global vaccination campaign that eradicated smallpox, making it the only human disease to be eradicated. Although routine smallpox vaccination is no longer performed on the general public, the vaccine is still being produced for research, and to guard against bioterrorism and biological warfare.\nThe term vaccine derives from vacca, the Latin word for cow, reflecting the origins of smallpox vaccination. Edward Jenner referred to cowpox as variolae vaccinae (smallpox of the cow). The origins of the smallpox vaccine became murky over time, especially after Louis Pasteur developed laboratory techniques for creating vaccines in the 19th century. Allan Watt Downie demonstrated in 1939 that the modern smallpox vaccine was serologically distinct from cowpox, and vaccinia was subsequently recognized as a separate viral species. Whole-genome sequencing has revealed that vaccinia is most closely related to horsepox, and the cowpox strains found in Great Britain are the least closely related to vaccinia.\nThe smallpox vaccine has also proven useful in preventing emergent infectious diseases caused by closely-related orthopoxviruses such as Mpox. Three specific smallpox vaccines have been approved in at least one country for Mpox prevention: MVA-BN, LC16m8, and ACAM2000. The Mpox vaccine is on the World Health Organization's List of Essential Medicines."
+}

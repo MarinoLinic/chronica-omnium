@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0221",
+  "source": "https://en.wikipedia.org/wiki/Maya_civilization",
+  "revisionId": 1378100525,
+  "fetchedAt": "2026-10-24T10:41:37.138Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mayamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Mayamap.png/960px-Mayamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Mayamap.png/330px-Mayamap.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mayamap.png",
+      "artist": "Kmusser",
+      "credit": "Foster, Lynn (2002). Handbook to Life in the Ancient Maya World. New York, US: Oxford University Press. ISBN 978-0-19-518363-4. OCLC 57319740. Page 4.\nSharer, Robert J.; Loa P. Traxler (2006). The Ancient Maya (6th (fully revised) ed.). Stanford, California, US: Stanford University Press. ISBN 0-8047-4817-9. OCLC 57577446. Page 24.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

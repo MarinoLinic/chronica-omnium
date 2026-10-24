@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0552",
+  "source": "https://en.wikipedia.org/wiki/SPQR",
+  "title": "SPQR",
+  "revisionId": 1381434073,
+  "revisionTimestamp": "2026-10-22T13:23:33Z",
+  "fetchedAt": "2026-10-24T10:24:46.059Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "SPQR or S.P.Q.R., an initialism for Senatus Populusque Romanus (Classical Latin: [sɛˈnaːtʊs pɔpʊˈɫʊskʷɛ roːˈmaːnʊs]; transl. \"The Senate and People of Rome\"), is an emblematic phrase referring to the government of the Roman Republic. It appears on documents made public by an inscription in stone or metal, in dedications of monuments and public works, and on some Roman currency.\nThe full phrase appears in Roman political, legal and historical literature, such as the speeches of Cicero and the Ab Urbe Condita Libri (Books from the Founding of the City) of Livy."
+}

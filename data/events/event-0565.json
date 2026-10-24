@@ -3,23 +3,23 @@
   "id": "event-0565",
   "id_num": 565,
   "slug": "muammar-gaddafi",
-  "status": "stub",
+  "status": "review",
   "name": "Muammar Gaddafi",
-  "short_desc": null,
+  "short_desc": "Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1942,
+  "end": 2011,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Birth year is approximate (circa 1942).",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,19 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "leadership",
+      "label": "Leadership of Libya",
+      "kind": "office",
+      "start": 1969,
+      "end": 2011,
+      "date_kind": "span",
+      "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+    }
+  ],
+  "timeline_period": "leadership"
 }

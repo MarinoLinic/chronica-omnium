@@ -1,43 +1,51 @@
-import { Link } from 'react-router-dom'
-import CachedImage from './CachedImage'
-
-const HomeEvent = ({ data }) => {
-	return (
-		<div className="grid grid-cols-1 items-center gap-3 py-6 md:grid-cols-[1fr_2fr_1fr] md:gap-6">
-			<section className="order-2 text-center text-sm md:order-1 md:text-right">
-				<div className="font-semibold text-[#5f1212]">
-					{data.date_label && <span>{data.date_label}: </span>}
-					{data.time_start}
-					{data.time_end && ` – ${data.time_end}`}
-				</div>
-				{data.location && <div className="mt-1 text-slate-500">{data.location}</div>}
-				{data.type && data.type !== 'Uncategorized' && (
-					<div className="mt-1 text-xs uppercase tracking-wide text-slate-400">{data.type}</div>
-				)}
-			</section>
-
-			<section className="order-1 text-center md:order-2">
-				<Link to={`/${data.id_num}`} className="group">
-					<p className="text-xl font-bold blue transition group-hover:text-[#3a4da3]">{data.name}</p>
-				</Link>
-				{data.short_desc && <p className="mx-auto mt-1 max-w-prose text-sm font-light text-slate-600">{data.short_desc}</p>}
-				<Link
-					to={`/${data.id_num}`}
-					className="mt-2 inline-block text-xs font-medium text-[#21306a] hover:underline"
-				>
-					Read more →
-				</Link>
-			</section>
-
-			<section className="order-3 flex justify-center md:justify-start">
-				{data.image && (
-					<Link to={`/${data.id_num}`} className="block w-1/2 md:w-full">
-						<CachedImage key={data.id} event={data} small className="max-h-48 w-full rounded-lg object-contain shadow-sm ring-1 ring-slate-200" />
-					</Link>
-				)}
-			</section>
-		</div>
-	)
+import { Link } from "react-router-dom";
+import CachedImage from "./CachedImage";
+import DateLabel from "./DateLabel";
+export default function HomeEvent({ data }) {
+  return (
+    <article className="chronicle-event">
+      <div className="chronicle-copy">
+        <p className="event-eyebrow">
+          <DateLabel year={data.start} />
+          {data.time_end && (
+            <>
+              {" "}
+              <span>–</span>{" "}
+              {data.date_kind === "ongoing" ? (
+                "present"
+              ) : (
+                <DateLabel year={data.end} />
+              )}
+            </>
+          )}
+          {data.type !== "Uncategorized" && (
+            <span className="event-type">{data.type}</span>
+          )}
+        </p>
+        <h2>
+          <Link to={`/${data.id_num}`}>{data.name}</Link>
+        </h2>
+        {data.short_desc && <p className="event-summary">{data.short_desc}</p>}
+        <p className="event-place">
+          {data.location || (data.field !== "Uncategorized" && data.field)}
+        </p>
+        <Link className="read-link" to={`/${data.id_num}`}>
+          Explore story <span aria-hidden="true">↗</span>
+        </Link>
+      </div>
+      {(data.image || data.local_image) && (
+        <Link
+          to={`/${data.id_num}`}
+          className="chronicle-image"
+          aria-label={`Read about ${data.name}`}
+        >
+          <CachedImage
+            event={data}
+            small
+            className="w-full h-full object-contain"
+          />
+        </Link>
+      )}
+    </article>
+  );
 }
-
-export default HomeEvent

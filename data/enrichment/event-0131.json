@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0131",
+  "source": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+  "revisionId": 1379919190,
+  "fetchedAt": "2026-10-24T10:40:58.376Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hallstatt_LaTene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hallstatt_LaTene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hallstatt_LaTene.png/330px-Hallstatt_LaTene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hallstatt_LaTene.png",
+      "artist": "Dbachmann",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Dbachmann"
+    }
+  }
+}

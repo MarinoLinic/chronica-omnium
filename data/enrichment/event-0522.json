@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0522",
+  "source": "https://en.wikipedia.org/wiki/Disco",
+  "revisionId": 1381574884,
+  "fetchedAt": "2026-10-24T10:24:34.719Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Disco_TGI_Bar_by_John_Vance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Disco_TGI_Bar_by_John_Vance.jpg/960px-Disco_TGI_Bar_by_John_Vance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Disco_TGI_Bar_by_John_Vance.jpg/330px-Disco_TGI_Bar_by_John_Vance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Disco_TGI_Bar_by_John_Vance.jpg",
+      "artist": "John Vance",
+      "credit": "https://www.flickr.com/photos/mstreetphoto/5503884189/in/faves-129708893@N04/",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": ""
+    }
+  }
+}

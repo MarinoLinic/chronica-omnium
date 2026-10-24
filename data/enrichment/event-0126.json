@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0126",
+  "source": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
+  "revisionId": 1379714897,
+  "fetchedAt": "2026-10-24T10:40:54.987Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mycenaean_World_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mycenaean_World_en.png/960px-Mycenaean_World_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mycenaean_World_en.png/330px-Mycenaean_World_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mycenaean_World_en.png",
+      "artist": "User:Alexikoua, User:Panthera tigris tigris, TL User:Reedside",
+      "credit": "Ιστορία του Ελληνικού Έθνους, Εκδοτική Αθηνών, τ. Α' χάρτες σε σελ. 263-265, σελ. 290, 292-293 (επίσης [1]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

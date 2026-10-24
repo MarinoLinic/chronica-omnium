@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0450",
+  "source": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+  "revisionId": 1381619041,
+  "fetchedAt": "2026-10-24T10:23:46.590Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Red_Ribbon.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/960px-Red_Ribbon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/330px-Red_Ribbon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Ribbon.svg",
+      "artist": "Gary van der Merwe",
+      "credit": "Own work based on: graphics by Niki K Aids Awareness Red Ribbon Lapel pins http://www.aochiworld.com/",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Gary van der Merwe"
+    }
+  }
+}

@@ -1042,34 +1042,34 @@
       }
     },
     "event-0077": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:34:50.996Z",
+      "path": "/media/d4d4f22d357df503a8cb87db179976e43df45af0ec3ae6fae54043ec118e8bae.jpg",
+      "sha256": "d4d4f22d357df503a8cb87db179976e43df45af0ec3ae6fae54043ec118e8bae",
+      "bytes": 227348,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg/960px-KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:01.345Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
+        "source": "https://commons.wikimedia.org/wiki/File:KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg",
+        "artist": "Kassian Cephas",
+        "credit": "Leiden University Library, KITLV, image 40091 Collection page Southeast Asian & Caribbean Images (KITLV)",
         "license": "Public domain",
         "licenseUrl": "",
         "attribution": ""
       }
     },
     "event-0078": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:34:53.318Z",
+      "path": "/media/df7fbce2444089023240247d2c5586897ff3628b200a20c325898c6ef2d5f9c9.jpg",
+      "sha256": "df7fbce2444089023240247d2c5586897ff3628b200a20c325898c6ef2d5f9c9",
+      "bytes": 176941,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Siam_lilacpoint.jpg/960px-Siam_lilacpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:03.880Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+        "artist": "Karin Langner-Bahmann, upload von Martin Bahmann",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
         "attribution": ""
       }
     },
@@ -1106,130 +1106,130 @@
       }
     },
     "event-0081": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:00.819Z",
+      "path": "/media/8ca0d5c5be60528ce9fb6aebe8a82ddbf48eff022e3779993f132a0827e43f6a.png",
+      "sha256": "8ca0d5c5be60528ce9fb6aebe8a82ddbf48eff022e3779993f132a0827e43f6a",
+      "bytes": 1070621,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Triticum_turgidum_illustration_%2802c%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Triticum_turgidum_illustration_%2802c%29.png/960px-Triticum_turgidum_illustration_%2802c%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:07.937Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
+        "source": "https://commons.wikimedia.org/wiki/File:Triticum_turgidum_illustration_(02c).png",
+        "artist": "https://www.biodiversitylibrary.org/item/9921#page/128/mode/1up    Icones et descriptiones Graminum austriacorum\nAuthor:\tHost, Nikolaus Thomas\n\nPublisher:\tVindobonae : A. Schmidt, 1801-1809.",
+        "credit": "File:Triticum turgidum illustration (02).jpg",
         "license": "Public domain",
         "licenseUrl": "",
         "attribution": ""
       }
     },
     "event-0082": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:03.150Z",
+      "path": "/media/0642bd710d9f8ace543b73a60a9c75b0cba17824cb0a6ddad3781886b02f0f76.png",
+      "sha256": "0642bd710d9f8ace543b73a60a9c75b0cba17824cb0a6ddad3781886b02f0f76",
+      "bytes": 1387932,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/S%C3%A3o_Paulo_Marginal_Pinheiros.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/S%C3%A3o_Paulo_Marginal_Pinheiros.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:47:10.910Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Paulo_Marginal_Pinheiros.png",
+        "artist": "NunysBR",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "attribution": ""
       }
     },
     "event-0083": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:05.488Z",
+      "path": "/media/5757fbac00162ce54e7e7d4af33c7353f34159cc50f37d3c7cb90370643933a5.jpg",
+      "sha256": "5757fbac00162ce54e7e7d4af33c7353f34159cc50f37d3c7cb90370643933a5",
+      "bytes": 461177,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/960px-Flock_of_sheep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:13.578Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
+        "source": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg",
+        "artist": "Keith Weller",
+        "credit": "http://www.ars.usda.gov/is/graphics/photos/apr12/k4166-5.htm (Image Number K4166-5)",
         "license": "Public domain",
         "licenseUrl": "",
         "attribution": ""
       }
     },
     "event-0084": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:07.811Z",
+      "path": "/media/c4d69811ad3fe20fcd7a4fac7f196c87f7c941658d7bf2e1d2b89f03e3e1f7e2.jpg",
+      "sha256": "c4d69811ad3fe20fcd7a4fac7f196c87f7c941658d7bf2e1d2b89f03e3e1f7e2",
+      "bytes": 265250,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg/960px-Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:16.061Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+        "artist": "Kim Hansen",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "attribution": ""
       }
     },
     "event-0085": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:10.137Z",
+      "path": "/media/4915dcbfc7f8f2a5e9e772f7e510e26d0b7ab9b188e2094a07ee02eb9b623d79.jpg",
+      "sha256": "4915dcbfc7f8f2a5e9e772f7e510e26d0b7ab9b188e2094a07ee02eb9b623d79",
+      "bytes": 181728,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pig_farm_Vampula_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Pig_farm_Vampula_1.jpg/960px-Pig_farm_Vampula_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:18.506Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg",
+        "artist": "kallerna",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "attribution": ""
       }
     },
     "event-0086": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:12.467Z",
+      "path": "/media/7c58dfda83fa42f82257ffb24f1617315a8e450142a3f4f29cb685be4c3c86d3.jpg",
+      "sha256": "7c58dfda83fa42f82257ffb24f1617315a8e450142a3f4f29cb685be4c3c86d3",
+      "bytes": 202478,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg/960px-Llamas%2C_Vernagt-Stausee%2C_Italy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:21.086Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Llamas,_Vernagt-Stausee,_Italy.jpg",
+        "artist": "Andrija12345678",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "attribution": ""
       }
     },
     "event-0088": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:14.802Z",
+      "path": "/media/0d74d428a9599af4f155dc7c24e319ab600cd15fac5e3e60a103ec9e90dcd304.png",
+      "sha256": "0d74d428a9599af4f155dc7c24e319ab600cd15fac5e3e60a103ec9e90dcd304",
+      "bytes": 554424,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png/960px-Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:23.590Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Expansion_of_farming_in_western_Eurasia,_9600%E2%80%934000_BCE.png",
+        "artist": "Detlef Gronenborn, Barbara Horejs, Börner, Ober",
+        "credit": "https://www.academia.edu/9424525/Map_Expansion_of_farming_in_western_Eurasia_9600_4000_cal_BC_update_vers_2021_1_",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "attribution": ""
       }
     },
     "event-0089": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:17.136Z",
+      "path": "/media/dcb5942a29fdea6096bca1cd396b25b6c78fad9d44bc60239dc320bfe8057205.jpg",
+      "sha256": "dcb5942a29fdea6096bca1cd396b25b6c78fad9d44bc60239dc320bfe8057205",
+      "bytes": 142869,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg/960px-Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:26.027Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Beekeeper_2017_Honeybee_Conservancy,_College_of_DuPage.jpg",
+        "artist": "COD Newsroom",
+        "credit": "https://www.flickr.com/photos/codnewsroom/34992577656",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "attribution": ""
       }
     },
@@ -1266,18 +1266,18 @@
       }
     },
     "event-0095": {
-      "path": "/media/186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5.jpg",
-      "sha256": "186b3c73934f9c7628e83e8d8c757eb463dd35ccc3445ceb5115f3dfe823fae5",
-      "bytes": 268274,
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
-      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "fetchedAt": "2026-10-23T18:35:24.376Z",
+      "path": "/media/15dedff918fda1375409bf4ac7b5090e15aefaa6a9aa46a30a1137c4074f16ad.jpg",
+      "sha256": "15dedff918fda1375409bf4ac7b5090e15aefaa6a9aa46a30a1137c4074f16ad",
+      "bytes": 235511,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Funnelbeaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Funnelbeaker_culture.jpg/960px-Funnelbeaker_culture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:35.871Z",
       "credit": {
-        "source": "https://commons.wikimedia.org/wiki/File:PivotWithDrops.JPG",
-        "artist": "Laura Wilson farm , USDA Natural Resources Conservation Service",
-        "credit": "photogallery.nrcs.usda.gov No. NRCSCO87001",
-        "license": "Public domain",
-        "licenseUrl": "",
+        "source": "https://commons.wikimedia.org/wiki/File:Funnelbeaker_culture.jpg",
+        "artist": "Krakkos",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "attribution": ""
       }
     },
@@ -6332,6 +6332,2134 @@
         "source": "https://commons.wikimedia.org/wiki/File:Sending_officials_to_the_countryside.jpg",
         "artist": "赵仰山",
         "credit": "《中國攝影藝術選集》(1959) p9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0043": {
+      "path": "/media/e352bb06ebb306a96f0b99a61c6f735fd5329f17db8ee041791156b053e59f18.jpg",
+      "sha256": "e352bb06ebb306a96f0b99a61c6f735fd5329f17db8ee041791156b053e59f18",
+      "bytes": 129974,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homo_longi_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homo_longi_holotype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:46:53.547Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Homo_longi_holotype.jpg",
+        "artist": "Fu et al. (2025)",
+        "credit": "https://doi.org/10.1016/j.cell.2025.05.040",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0052": {
+      "path": "/media/54533fd3dff0f5120f852e27f05a319cf6f097d372f1433c11194717b224acab.jpg",
+      "sha256": "54533fd3dff0f5120f852e27f05a319cf6f097d372f1433c11194717b224acab",
+      "bytes": 233835,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/EntradaMaltravieso.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EntradaMaltravieso.JPG/960px-EntradaMaltravieso.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:46:56.308Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:EntradaMaltravieso.JPG",
+        "artist": "Mario modesto",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0056": {
+      "path": "/media/391c98001eab61fc892580280840f6f0fb683c27c725c269505f08acb290b77a.jpg",
+      "sha256": "391c98001eab61fc892580280840f6f0fb683c27c725c269505f08acb290b77a",
+      "bytes": 400260,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/VenusHohlefels2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/VenusHohlefels2.jpg/960px-VenusHohlefels2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:46:58.792Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:VenusHohlefels2.jpg",
+        "artist": "Ramessos",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0092": {
+      "path": "/media/0ca2bf310efc11de128e72f5be263b543419ffe025d87e370eda1654d6ea4f83.jpg",
+      "sha256": "0ca2bf310efc11de128e72f5be263b543419ffe025d87e370eda1654d6ea4f83",
+      "bytes": 183006,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/T%C3%B6pferscheibe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/T%C3%B6pferscheibe.jpg/960px-T%C3%B6pferscheibe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:28.478Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6pferscheibe.jpg",
+        "artist": "Oliver Kurmis",
+        "credit": "Self-photographed",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0093": {
+      "path": "/media/9c34c8eb8d010702e949c2ee2543cd39edf625b4ed68a478cd53c4b754319b3a.jpg",
+      "sha256": "9c34c8eb8d010702e949c2ee2543cd39edf625b4ed68a478cd53c4b754319b3a",
+      "bytes": 290701,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Wagon_Ride_P9190071.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wagon_Ride_P9190071.jpg/960px-Wagon_Ride_P9190071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:31.042Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Wagon_Ride_P9190071.jpg",
+        "artist": "Chris Light",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0094": {
+      "path": "/media/0d74d428a9599af4f155dc7c24e319ab600cd15fac5e3e60a103ec9e90dcd304.png",
+      "sha256": "0d74d428a9599af4f155dc7c24e319ab600cd15fac5e3e60a103ec9e90dcd304",
+      "bytes": 554424,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png/960px-Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:33.432Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Expansion_of_farming_in_western_Eurasia,_9600%E2%80%934000_BCE.png",
+        "artist": "Detlef Gronenborn, Barbara Horejs, Börner, Ober",
+        "credit": "https://www.academia.edu/9424525/Map_Expansion_of_farming_in_western_Eurasia_9600_4000_cal_BC_update_vers_2021_1_",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0101": {
+      "path": "/media/9c34c8eb8d010702e949c2ee2543cd39edf625b4ed68a478cd53c4b754319b3a.jpg",
+      "sha256": "9c34c8eb8d010702e949c2ee2543cd39edf625b4ed68a478cd53c4b754319b3a",
+      "bytes": 290701,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Wagon_Ride_P9190071.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wagon_Ride_P9190071.jpg/960px-Wagon_Ride_P9190071.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:38.234Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Wagon_Ride_P9190071.jpg",
+        "artist": "Chris Light",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0108": {
+      "path": "/media/e9bd29d332150abd4c3e72af1ba2acea8a303b7e20ad10611f9c45f39adb9144.jpg",
+      "sha256": "e9bd29d332150abd4c3e72af1ba2acea8a303b7e20ad10611f9c45f39adb9144",
+      "bytes": 479491,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg/960px-07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:40.775Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg",
+        "artist": "Jjron",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0109": {
+      "path": "/media/4cf95c030a0fffb48d883047412711db97e65f34a27ee661d5e3eb286aac7251.png",
+      "sha256": "4cf95c030a0fffb48d883047412711db97e65f34a27ee661d5e3eb286aac7251",
+      "bytes": 690558,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Corded_Ware_Culture.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Corded_Ware_Culture.png/960px-Corded_Ware_Culture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:43.320Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Corded_Ware_Culture.png",
+        "artist": "Maptist",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0110": {
+      "path": "/media/a179d61f32cb8d886e35cf4869c1648a5710421eb64538a2d27a96441a504ab4.jpg",
+      "sha256": "a179d61f32cb8d886e35cf4869c1648a5710421eb64538a2d27a96441a504ab4",
+      "bytes": 164866,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/960px-Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:45.759Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+        "artist": "garethwiscombe",
+        "credit": "https://www.flickr.com/photos/garethwiscombe/1071477228/in/photostream/",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": ""
+      }
+    },
+    "event-0111": {
+      "path": "/media/d595e3a605618cecb69c9fbf25b3774c3fb411a77decc3ee515ebda8ee6f7196.png",
+      "sha256": "d595e3a605618cecb69c9fbf25b3774c3fb411a77decc3ee515ebda8ee6f7196",
+      "bytes": 773999,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bell_Beaker_Culture.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bell_Beaker_Culture.png/960px-Bell_Beaker_Culture.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:48.424Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Bell_Beaker_Culture.png",
+        "artist": "Maptist",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0113": {
+      "path": "/media/dea23db95fb4053d4a5366ac5b7bbf95201d226a27fede88299e39b5f140f06d.png",
+      "sha256": "dea23db95fb4053d4a5366ac5b7bbf95201d226a27fede88299e39b5f140f06d",
+      "bytes": 858348,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/4th_Dynasty_of_Egypt-03.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/4th_Dynasty_of_Egypt-03.png/960px-4th_Dynasty_of_Egypt-03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:51.363Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:4th_Dynasty_of_Egypt-03.png",
+        "artist": "Cattette",
+        "credit": "Own work\n\n This  PNG graphic was created with Adobe Illustrator.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0114": {
+      "path": "/media/1509c204876f7d2d04ae6e5b9a990b057d10c48bbe3afb19c1358217f22ce274.png",
+      "sha256": "1509c204876f7d2d04ae6e5b9a990b057d10c48bbe3afb19c1358217f22ce274",
+      "bytes": 161097,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Abacus_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:53.894Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+        "artist": "Pearson Scott Foresman",
+        "credit": "This image has been extracted from another file",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0115": {
+      "path": "/media/52f5135d9eca53d148f9bb6f2981076a4185a32e3e512e9e677054fc8c61e5d2.jpg",
+      "sha256": "52f5135d9eca53d148f9bb6f2981076a4185a32e3e512e9e677054fc8c61e5d2",
+      "bytes": 203225,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg/960px-Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:56.316Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+        "artist": "Douwe C. van der Zee",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0116": {
+      "path": "/media/94c0c9f81022e3d48eecc13214ebb9e4db1427a3faff7ff607f7dfd5e305e0c1.png",
+      "sha256": "94c0c9f81022e3d48eecc13214ebb9e4db1427a3faff7ff607f7dfd5e305e0c1",
+      "bytes": 77217,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Phoenicia_map-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Phoenicia_map-en.svg/960px-Phoenicia_map-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:47:58.747Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Phoenicia_map-en.svg",
+        "artist": "Kordas, based on Alvaro's work",
+        "credit": "This map",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0119": {
+      "path": "/media/d617e784ed85ba5d328e6c9af67d94d175fed1dbd1e7ad2fdf8dcc909190daa8.jpg",
+      "sha256": "d617e784ed85ba5d328e6c9af67d94d175fed1dbd1e7ad2fdf8dcc909190daa8",
+      "bytes": 338227,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/British_Museum_Flood_Tablet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/British_Museum_Flood_Tablet.jpg/960px-British_Museum_Flood_Tablet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:01.281Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg",
+        "artist": "",
+        "credit": "BabelStone (Own work)",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0121": {
+      "path": "/media/78b4d82f2590becf7033a23bbeb6fe97e4457c0dbef57072f3a1e06c4d5f12f7.jpg",
+      "sha256": "78b4d82f2590becf7033a23bbeb6fe97e4457c0dbef57072f3a1e06c4d5f12f7",
+      "bytes": 246640,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/From_Corded_Ware_to_Sintashta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/60/From_Corded_Ware_to_Sintashta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:48:03.884Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:From_Corded_Ware_to_Sintashta.jpg",
+        "artist": "Joshua Jonathan",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0123": {
+      "path": "/media/703317f4dec50bfc39f86063137703b9615cffd00a3af34560d1fd960ca417e2.png",
+      "sha256": "703317f4dec50bfc39f86063137703b9615cffd00a3af34560d1fd960ca417e2",
+      "bytes": 298176,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hammurabi%27s_Babylonia_1.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Hammurabi%27s_Babylonia_1.svg/960px-Hammurabi%27s_Babylonia_1.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:06.507Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hammurabi%27s_Babylonia_1.svg",
+        "artist": "MapMaster",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "MapMaster"
+      }
+    },
+    "event-0125": {
+      "path": "/media/cab868f7f7f2925833cbd4c60678892a45c714aa348a7e3b8c8e18feac28957e.jpg",
+      "sha256": "cab868f7f7f2925833cbd4c60678892a45c714aa348a7e3b8c8e18feac28957e",
+      "bytes": 207497,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D0%B4_%D0%A1%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D0%B4_%D0%A1%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.jpg/960px-%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D0%B4_%D0%A1%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:09.216Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D0%B0%D0%B4_%D0%A1%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%BE%D1%80%D0%B0%D0%BC%D0%B8.jpg",
+        "artist": "Анастасия Игоревна Петухова",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0126": {
+      "path": "/media/869d6642ca2a82bcceec0ce32a3d9dd3bca87dac90b6830fe805be909ff98eb3.png",
+      "sha256": "869d6642ca2a82bcceec0ce32a3d9dd3bca87dac90b6830fe805be909ff98eb3",
+      "bytes": 701840,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mycenaean_World_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Mycenaean_World_en.png/960px-Mycenaean_World_en.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:11.752Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mycenaean_World_en.png",
+        "artist": "User:Alexikoua, User:Panthera tigris tigris, TL User:Reedside",
+        "credit": "Ιστορία του Ελληνικού Έθνους, Εκδοτική Αθηνών, τ. Α' χάρτες σε σελ. 263-265, σελ. 290, 292-293 (επίσης [1]",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0129": {
+      "path": "/media/d96db58136c4a2d20f2d6d23a05a179364541cb5ae6a160e3a0c5d1246909420.jpg",
+      "sha256": "d96db58136c4a2d20f2d6d23a05a179364541cb5ae6a160e3a0c5d1246909420",
+      "bytes": 316874,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Walls_of_Troy_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_%282%29.jpg/960px-Walls_of_Troy_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:14.231Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg",
+        "artist": "CherryX",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "CherryX per Wikimedia Commons"
+      }
+    },
+    "event-0130": {
+      "path": "/media/7365e0059623aa0a12b8e3a0f9355898993b59af733761d3423337c662e85c49.jpg",
+      "sha256": "7365e0059623aa0a12b8e3a0f9355898993b59af733761d3423337c662e85c49",
+      "bytes": 735383,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Merneptah_Steli_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Merneptah_Steli_%28cropped%29.jpg/960px-Merneptah_Steli_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:16.790Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Merneptah_Steli_(cropped).jpg",
+        "artist": "𐰇𐱅𐰚𐰤",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0131": {
+      "path": "/media/8805b6a6ab6f7c591bd881ae89866bb8f02be7799979224775b656af9702ccd2.png",
+      "sha256": "8805b6a6ab6f7c591bd881ae89866bb8f02be7799979224775b656af9702ccd2",
+      "bytes": 256427,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hallstatt_LaTene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hallstatt_LaTene.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:48:19.420Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hallstatt_LaTene.png",
+        "artist": "Dbachmann",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Dbachmann"
+      }
+    },
+    "event-0132": {
+      "path": "/media/8855cdcda265d65e322e8b49ad19733c49617d601fb7ecb1e5b3625fc017a3cb.png",
+      "sha256": "8855cdcda265d65e322e8b49ad19733c49617d601fb7ecb1e5b3625fc017a3cb",
+      "bytes": 680960,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bronze_Age_End.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bronze_Age_End.svg/960px-Bronze_Age_End.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:22.118Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Bronze_Age_End.svg",
+        "artist": "Alexikoua",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0133": {
+      "path": "/media/dea9a7c10bb3bab4ecd680fbf166cde3b472e55fd5f432e80d4feb6663519708.jpg",
+      "sha256": "dea9a7c10bb3bab4ecd680fbf166cde3b472e55fd5f432e80d4feb6663519708",
+      "bytes": 293118,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg/960px-Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:24.693Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Graecia_tempore_Migrationis_Doricae,_circa_1000_an1803520899589105332011676031.jpg",
+        "artist": "Author\tSpruner von Merz, Karl, 1803-1892\n\nDate\t1855",
+        "credit": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~357694~90124542:Graecia-tempore-Migrationis-Doricae",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0137": {
+      "path": "/media/e2315bf6c258443b2bbcfcbd30340fec1a923400ac525da7a13f28dddc9d6b0b.jpg",
+      "sha256": "e2315bf6c258443b2bbcfcbd30340fec1a923400ac525da7a13f28dddc9d6b0b",
+      "bytes": 469900,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg/960px-William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:27.746Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:William_Hughes,_The_Kingdoms_of_Judah_and_Israel_(FL36567450_3909153).jpg",
+        "artist": "William Hughes",
+        "credit": "This map is available from Eran Laor Cartographic Collection of the National Library of Israel. link to the source:The Kingdoms of Judah and Israel",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0144": {
+      "path": "/media/8053eacaf8ebc2d6141877eedc19823b58ea7c292497c2190f2c404d8e2a856b.jpg",
+      "sha256": "8053eacaf8ebc2d6141877eedc19823b58ea7c292497c2190f2c404d8e2a856b",
+      "bytes": 144672,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ajrud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ajrud.jpg/960px-Ajrud.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:31.501Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Ajrud.jpg",
+        "artist": "Unknown authorUnknown author",
+        "credit": "Kuntilat Ajrud",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0158": {
+      "path": "/media/dbead6afef6a37a2cdc3fc5b621cf436650f63fe8e0e0ea39490f9e67fdd9916.jpg",
+      "sha256": "dbead6afef6a37a2cdc3fc5b621cf436650f63fe8e0e0ea39490f9e67fdd9916",
+      "bytes": 346657,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alexander_the_Great_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexander_the_Great_mosaic.jpg/960px-Alexander_the_Great_mosaic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:34.040Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+        "artist": "Unknown authorUnknown author",
+        "credit": "The Guardian (DEA/G Nimatallah/De Agostini/Getty Images)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0198": {
+      "path": "/media/360a95619a641efc60fbe6e83d414feea942b312d292f62c5362a0ba0609a03b.png",
+      "sha256": "360a95619a641efc60fbe6e83d414feea942b312d292f62c5362a0ba0609a03b",
+      "bytes": 322832,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Solidus_of_Julius_Nepos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Solidus_of_Julius_Nepos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:48:36.874Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Solidus_of_Julius_Nepos.png",
+        "artist": "CNG Coins",
+        "credit": "CNG Coins",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "attribution": "Classical Numismatic Group, Inc. http://www.cngcoins.com"
+      }
+    },
+    "event-0204": {
+      "path": "/media/015f4349753b2992d87c4b8e21a66405d8683cd485ad4c19a2b1cceacccf1c28.png",
+      "sha256": "015f4349753b2992d87c4b8e21a66405d8683cd485ad4c19a2b1cceacccf1c28",
+      "bytes": 636100,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Mapa_Imperio_Occidental_a%C3%B1o_418.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Mapa_Imperio_Occidental_a%C3%B1o_418.svg/960px-Mapa_Imperio_Occidental_a%C3%B1o_418.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:40.893Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mapa_Imperio_Occidental_a%C3%B1o_418.svg",
+        "artist": "Paulusburg",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0450": {
+      "path": "/media/8036b1f17ff4fb8db32a697b2222445c87f7bc0f52a5365837145b59c6cdaac0.png",
+      "sha256": "8036b1f17ff4fb8db32a697b2222445c87f7bc0f52a5365837145b59c6cdaac0",
+      "bytes": 127009,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Red_Ribbon.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Ribbon.svg/960px-Red_Ribbon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:52.857Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Red_Ribbon.svg",
+        "artist": "Gary van der Merwe",
+        "credit": "Own work based on: graphics by Niki K Aids Awareness Red Ribbon Lapel pins http://www.aochiworld.com/",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": "Gary van der Merwe"
+      }
+    },
+    "event-0458": {
+      "path": "/media/327c6e03f5a85cabd160575f791c10f828c9affcbfd149dc0eea2c78ee3f4959.jpg",
+      "sha256": "327c6e03f5a85cabd160575f791c10f828c9affcbfd149dc0eea2c78ee3f4959",
+      "bytes": 340012,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/960px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:55.471Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hungarian_Revolution_of_1956_collage.jpg",
+        "artist": "Главцентроархив",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0459": {
+      "path": "/media/302a741878fc247213ba9a4ea6f5984f04b80c04ecfff9d14c5c39cf9f2278b2.jpg",
+      "sha256": "302a741878fc247213ba9a4ea6f5984f04b80c04ecfff9d14c5c39cf9f2278b2",
+      "bytes": 189999,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/960px-Chosin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:48:57.894Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Chosin.jpg",
+        "artist": "Photo by Corporal Peter McDonald, USMC",
+        "credit": "[1] (originally uploaded to en.wiki by Raul654)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0460": {
+      "path": "/media/5f2d474fa13a5c2fd5d0cc218d2a20fc9f9619cf691d86d35d8c0e63028abbc8.jpg",
+      "sha256": "5f2d474fa13a5c2fd5d0cc218d2a20fc9f9619cf691d86d35d8c0e63028abbc8",
+      "bytes": 252367,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Orwell_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/George_Orwell_press_photo.jpg/960px-George_Orwell_press_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:00.324Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:George_Orwell_press_photo.jpg",
+        "artist": "Branch of the National Union of Journalists (BNUJ).",
+        "credit": "https://web.archive.org/web/20080608013945/http://www.netcharles.com/orwell/pics/orwell-unioncard.htm",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0461": {
+      "path": "/media/1145b0e40bc2dd1880d40473783ca92577efbb247fa96aec823f7fe03258f2ec.jpg",
+      "sha256": "1145b0e40bc2dd1880d40473783ca92577efbb247fa96aec823f7fe03258f2ec",
+      "bytes": 26995,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:49:02.834Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg",
+        "artist": "Michael Kennard",
+        "credit": "https://interminablerambling.com/2020/10/21/george-orwell-1984/",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0462": {
+      "path": "/media/bb2d6930f8f4fc9f08afbe2d6467cd1aae2ed7f17d6becdc8d01c38706678583.jpg",
+      "sha256": "bb2d6930f8f4fc9f08afbe2d6467cd1aae2ed7f17d6becdc8d01c38706678583",
+      "bytes": 244791,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/960px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:05.428Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg",
+        "artist": "Unknown authorUnknown author",
+        "credit": "https://time.com/4305653/fidel-castro-life-in-pictures/",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0463": {
+      "path": "/media/f7e36ff1cd793d0490a9b7c89904f3fd0002aad02d338771cbc27316bf626ed6.jpg",
+      "sha256": "f7e36ff1cd793d0490a9b7c89904f3fd0002aad02d338771cbc27316bf626ed6",
+      "bytes": 229524,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Declaration_of_State_of_Israel_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Declaration_of_State_of_Israel_1948.jpg/960px-Declaration_of_State_of_Israel_1948.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:07.863Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Declaration_of_State_of_Israel_1948.jpg",
+        "artist": "Rudi Weissenstein",
+        "credit": "This is available from National Photo Collection of Israel, Photography dept. Government Press Office (link), under the digital ID D247-041.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0464": {
+      "path": "/media/0b0265f52646a3c97211200e47500cc3dbab0ecfbc9172fddce07ba04387caf9.jpg",
+      "sha256": "0b0265f52646a3c97211200e47500cc3dbab0ecfbc9172fddce07ba04387caf9",
+      "bytes": 134644,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Into_the_Jaws_of_Death_23-0455M_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Into_the_Jaws_of_Death_23-0455M_edit.jpg/960px-Into_the_Jaws_of_Death_23-0455M_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:10.327Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Into_the_Jaws_of_Death_23-0455M_edit.jpg",
+        "artist": "Chief Photographer's Mate (CPHoM) Robert F. Sargent",
+        "credit": "This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0465": {
+      "path": "/media/1221aa6de49d74a81a468c49fc801f314f12f704281ec5ff4975e43bcc6252c0.jpg",
+      "sha256": "1221aa6de49d74a81a468c49fc801f314f12f704281ec5ff4975e43bcc6252c0",
+      "bytes": 207111,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Attack_on_Pearl_Harbor_Japanese_planes_view.jpg/960px-Attack_on_Pearl_Harbor_Japanese_planes_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:12.751Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Attack_on_Pearl_Harbor_Japanese_planes_view.jpg",
+        "artist": "Imperial Japanese Navy",
+        "credit": "Official U.S. Navy photograph NH 50930.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0466": {
+      "path": "/media/fbfdea713ae1c766139367697678100f30ef17df40a5a3c102a633a8ec191c89.jpg",
+      "sha256": "fbfdea713ae1c766139367697678100f30ef17df40a5a3c102a633a8ec191c89",
+      "bytes": 234000,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Operation_Barbarossa_collage.jpg/960px-Operation_Barbarossa_collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:15.208Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Operation_Barbarossa_collage.jpg",
+        "artist": "Bundesarchiv, Bild 146-1974-099-19 / Kempe / CC-BY-SA 3.0\nSamaryi Guraryi / Самарий Гурарий\nUstinov / Александр Устинов \n\nBundesarchiv, Bild 101I-209-0090-28 / Zoll / CC-BY-SA 3.0",
+        "credit": "This file was derived from: \n\n Bundesarchiv Bild 146-1974-099-19, Russland, Angriff auf ein Dorf.jpg: \nBundesarchiv Bild 101I-215-0354-14, Russland, Panzer IV im Schnee.jpg: \nRIAN archive 2564 Soviet planes flying over Nazi positions near Moscow.jpg: \nRussian POW (1941).jpg: \nRIAN archive 607025 Soldiers of the Great Patriotic War.jpg: \nBundesarchiv Bild 101I-209-0090-28, Russland-Nord, Infanterie und Panzer 35t.jpg:",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0467": {
+      "path": "/media/75fd4dc5c48b67de02ef0eefa17968bdb722151b56bd2a99342628841be5ee3b.jpg",
+      "sha256": "75fd4dc5c48b67de02ef0eefa17968bdb722151b56bd2a99342628841be5ee3b",
+      "bytes": 191119,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg/960px-The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:17.618Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:The_Withdrawal_from_Dunkirk,_June_1940_Art.IWMARTLD305.jpg",
+        "artist": "Charles Cundall",
+        "credit": "http://media.iwm.org.uk/iwm/mediaLib//141/media-141192/large.jpg\n\n\n\n\n\nThis photograph Art.IWM ART LD 305 comes from the collections of the Imperial War Museums.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0468": {
+      "path": "/media/6c1dd4ea75d0fc07f533c2886f58023c0dc822c1ea527f5f315841ec79495dac.png",
+      "sha256": "6c1dd4ea75d0fc07f533c2886f58023c0dc822c1ea527f5f315841ec79495dac",
+      "bytes": 523832,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/960px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:20.113Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_(obverse).svg",
+        "artist": "U.S. Government",
+        "credit": "Extracted from PDF version of Our Flag, available here (direct PDF URL here.)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0470": {
+      "path": "/media/6443a4de69519b4176fa92f5eee13b7208ffe38c2b16f358869c38744905284f.jpg",
+      "sha256": "6443a4de69519b4176fa92f5eee13b7208ffe38c2b16f358869c38744905284f",
+      "bytes": 175478,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Black_Powder-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Black_Powder-1.JPG/960px-Black_Powder-1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:22.548Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Black_Powder-1.JPG",
+        "artist": "Lord Mountbatten",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0471": {
+      "path": "/media/bd2aa3831c22dee96b29e93461a5ecf698668204578ef80b49a136f38dffddff.png",
+      "sha256": "bd2aa3831c22dee96b29e93461a5ecf698668204578ef80b49a136f38dffddff",
+      "bytes": 1373199,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Map_of_the_Gupta_Empire.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_Gupta_Empire.png/960px-Map_of_the_Gupta_Empire.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:25.220Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Gupta_Empire.png",
+        "artist": "Map created from DEMIS Mapserver, which are public domain. Koba-chan.",
+        "credit": "This image has been extracted from another file",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0472": {
+      "path": "/media/b94871bd45077f023a9dbf1f99c8d636e711d9b3610f276a4fc4b2b6c1a16862.jpg",
+      "sha256": "b94871bd45077f023a9dbf1f99c8d636e711d9b3610f276a4fc4b2b6c1a16862",
+      "bytes": 106072,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/960px-2016_Busola.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:27.814Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:2016_Busola.JPG",
+        "artist": "Jacek Halicki",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0473": {
+      "path": "/media/bd125f2856726680f80b6325b5dd39d4a8a30a2f09b0d06ab0f7963ab50e471b.png",
+      "sha256": "bd125f2856726680f80b6325b5dd39d4a8a30a2f09b0d06ab0f7963ab50e471b",
+      "bytes": 794288,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/960px-WMAP_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:30.373Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:WMAP_2012.png",
+        "artist": "NASA / WMAP Science Team",
+        "credit": "http://map.gsfc.nasa.gov/media/121238/ilc_9yr_moll4096.png",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0474": {
+      "path": "/media/8674c093b9f1c03ff97a8de50be5af14bde1abdc72ad51707663653af810972b.jpg",
+      "sha256": "8674c093b9f1c03ff97a8de50be5af14bde1abdc72ad51707663653af810972b",
+      "bytes": 240097,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/960px-Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:32.851Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+        "artist": "Bjørn Christian Tørrissen",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0475": {
+      "path": "/media/9e68fb3add5ec7e95c8837210be182b4f489cf7446d2d091a2cf8c509818c771.jpg",
+      "sha256": "9e68fb3add5ec7e95c8837210be182b4f489cf7446d2d091a2cf8c509818c771",
+      "bytes": 96293,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vereinigte_Ostindische_Compagnie_bond_-_Middelburg_-_Amsterdam_-_1622.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vereinigte_Ostindische_Compagnie_bond_-_Middelburg_-_Amsterdam_-_1622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:49:35.545Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Vereinigte_Ostindische_Compagnie_bond_-_Middelburg_-_Amsterdam_-_1622.jpg",
+        "artist": "Jacob Cornelisz. van Neck (Necq)",
+        "credit": "http://en.wikipedia.org/wiki/Image:Vereinigte_Ostindische_Compagnie_(VOC)share.jpg, http://www.tschoepe.de/auktion51/auktion51.htm",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0476": {
+      "path": "/media/fbb82fd7b3b84678a479415428d83159ccdae5625d06b1072b8b65b0c7aafeb5.png",
+      "sha256": "fbb82fd7b3b84678a479415428d83159ccdae5625d06b1072b8b65b0c7aafeb5",
+      "bytes": 203942,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg/960px-Aztec_Empire_ME_%28orthographic_projection%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:38.132Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Aztec_Empire_ME_(orthographic_projection).svg",
+        "artist": "File:Aztec Empire (orthographic projection).svg : Keepscases\nDerivative work : Giggette",
+        "credit": "Aztec Warfare: Imperial Expansion and Political Control by Ross Hassig, University of Oklahoma Press [1]\n[2] Department of History by Ian Mladjov, University of Michigan. [3]\n[4] Encyclopædia Britannica\nWeb's pages : [5], [6], [7], [8], [9], [10], [11], [12], [13]",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0477": {
+      "path": "/media/00d002c14b413fa5c6553e1dcff4c8c560a25ba0dbee90559af76c2890a1f6c0.jpg",
+      "sha256": "00d002c14b413fa5c6553e1dcff4c8c560a25ba0dbee90559af76c2890a1f6c0",
+      "bytes": 45361,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Air_pollution3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Air_pollution3.jpg/960px-Air_pollution3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:40.599Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg",
+        "artist": "Janak Bhatta",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0478": {
+      "path": "/media/f5567e1c2387bb4b8df6ce0baea55647ee1e636c648da5954ab03fc298ea2fd4.jpg",
+      "sha256": "f5567e1c2387bb4b8df6ce0baea55647ee1e636c648da5954ab03fc298ea2fd4",
+      "bytes": 248928,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg/960px-Carl_Friedrich_Lessing_-_The_Siege_%28Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:43.238Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Lessing_-_The_Siege_(Defense_of_a_Church_Courtyard_During_the_Thirty_Years%E2%80%99_War)_-_Google_Art_Project.jpg",
+        "artist": "Karl Friedrich Lessing",
+        "credit": "1wEqeIJ6E-zN8w at Google Cultural Institute maximum zoom level",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0479": {
+      "path": "/media/4b1be80c4f5041c26b98c482592f4e7c1a2c7da6e90df3068b69d32dbd70cda6.jpg",
+      "sha256": "4b1be80c4f5041c26b98c482592f4e7c1a2c7da6e90df3068b69d32dbd70cda6",
+      "bytes": 399485,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg/960px-M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:45.963Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Historisches_Rathaus_--_2014_--_6855.jpg",
+        "artist": "Dietmar Rabich",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Dietmar Rabich"
+      }
+    },
+    "event-0480": {
+      "path": "/media/a488654ff21e37955b61fe0cd7c7a257b1bfec655a519bcc4a3516d9b31c2739.jpg",
+      "sha256": "a488654ff21e37955b61fe0cd7c7a257b1bfec655a519bcc4a3516d9b31c2739",
+      "bytes": 53992,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wealth_of_Nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wealth_of_Nations.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:49:48.593Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Wealth_of_Nations.jpg",
+        "artist": "Gerhard Streminger",
+        "credit": "http://members.aon.at/gstremin/zeit_smith.htm",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0481": {
+      "path": "/media/a205485104530b3f3894470eda62a0e0a3ebef5214feaf38a00df13b8194714e.jpg",
+      "sha256": "a205485104530b3f3894470eda62a0e0a3ebef5214feaf38a00df13b8194714e",
+      "bytes": 221074,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg/960px-F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:51.206Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg",
+        "artist": "Claude Lorrain",
+        "credit": "Mbzt",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0482": {
+      "path": "/media/bf4ca944d7533df6b5af4a4915ca04bd03a579485f73351256c23f4547853d8c.jpg",
+      "sha256": "bf4ca944d7533df6b5af4a4915ca04bd03a579485f73351256c23f4547853d8c",
+      "bytes": 68265,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/43/Woman%27s_Rights_Convention.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:49:53.904Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Woman%27s_Rights_Convention.jpg",
+        "artist": "https://pbs.twimg.com/media/CKXzBSKWwAEzQT8.jpg",
+        "credit": "https://pbs.twimg.com/media/CKXzBSKWwAEzQT8.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0483": {
+      "path": "/media/f480cf643d13bfd76c6d69fc7d845e0735a4bb3d169e99b1975148343c739843.jpg",
+      "sha256": "f480cf643d13bfd76c6d69fc7d845e0735a4bb3d169e99b1975148343c739843",
+      "bytes": 449269,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FaminesMapOfIndia1800-1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/FaminesMapOfIndia1800-1885.jpg/960px-FaminesMapOfIndia1800-1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:49:56.581Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:FaminesMapOfIndia1800-1885.jpg",
+        "artist": "Stanford's Geog. Etab. London",
+        "credit": "India: Famines map 1800-1878. Scanned from personal copy by Fowler&fowler (talk) 19:45, 15 April 2017 (UTC)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0484": {
+      "path": "/media/ef08115e34ba1dde985989224caf06e4ba8717c29f4d2867c0003be29a32817f.jpg",
+      "sha256": "ef08115e34ba1dde985989224caf06e4ba8717c29f4d2867c0003be29a32817f",
+      "bytes": 151614,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/VegCorn_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/34/VegCorn_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:49:59.208Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:VegCorn_(cropped).jpg",
+        "artist": "",
+        "credit": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0485": {
+      "path": "/media/be137535f3ba854be5abc7e9fd5b68ce858cac640be37e3846147fd5a290b566.jpg",
+      "sha256": "be137535f3ba854be5abc7e9fd5b68ce858cac640be37e3846147fd5a290b566",
+      "bytes": 129633,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Ukrainian_microscope_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Ukrainian_microscope_%28cropped%29.jpg/960px-Ukrainian_microscope_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:01.816Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Ukrainian_microscope_(cropped).jpg",
+        "artist": "Ann 2000",
+        "credit": "Микроскоп.JPG",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0486": {
+      "path": "/media/d5c4aea70bde18a0abf3fa496c832668c6164234e6bfc34b787e9f9f1733c896.jpg",
+      "sha256": "d5c4aea70bde18a0abf3fa496c832668c6164234e6bfc34b787e9f9f1733c896",
+      "bytes": 301518,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Emblemata_1624.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblemata_1624.jpg/960px-Emblemata_1624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:04.450Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Emblemata_1624.jpg",
+        "artist": "Adriaen van de Venne",
+        "credit": "http://www.phys.uu.nl/~vgent/telescope/telescopenl.htm",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0487": {
+      "path": "/media/f7879f4057ee8e28e50831225951530ebe07fdaea6a7af1508cf2e269c13121f.jpg",
+      "sha256": "f7879f4057ee8e28e50831225951530ebe07fdaea6a7af1508cf2e269c13121f",
+      "bytes": 145457,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sir_John_Harington_by_Hieronimo_Custodis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Sir_John_Harington_by_Hieronimo_Custodis.jpg/960px-Sir_John_Harington_by_Hieronimo_Custodis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:06.988Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Sir_John_Harington_by_Hieronimo_Custodis.jpg",
+        "artist": "Circle of Hieronimo Custodis",
+        "credit": "one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof. This may be due to recognition of the \"sweat of the brow\" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.\nAs such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement. Please see Commons:When to use the PD-Art tag for more information.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0488": {
+      "path": "/media/813e046dec3979657c45def01bdc3ad3e17b419c09920f1132b28fd14e99482e.jpg",
+      "sha256": "813e046dec3979657c45def01bdc3ad3e17b419c09920f1132b28fd14e99482e",
+      "bytes": 151519,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Smallpox_vaccine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smallpox_vaccine.jpg/960px-Smallpox_vaccine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:09.420Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Smallpox_vaccine.jpg",
+        "artist": "Photo Credit: James Gathany\nContent Providers(s): CDC",
+        "credit": "This media comes from the Centers for Disease Control and Prevention's Public Health Image Library (PHIL), with identification number #2674.\n\n\nNote: Not all PHIL images are public domain; be sure to check copyright status and credit authors and content providers.\n\n\n\nالعربية | Deutsch | English | македонски | slovenščina | +/−",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0489": {
+      "path": "/media/33da78e9ef259cf5a7a5be4ab071770937e45381ee2d7f988e5a704f2e6f4802.jpg",
+      "sha256": "33da78e9ef259cf5a7a5be4ab071770937e45381ee2d7f988e5a704f2e6f4802",
+      "bytes": 33918,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kondom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kondom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:50:11.968Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Kondom.jpg",
+        "artist": "User Flegmus on pl.wikipedia",
+        "credit": "Flegmus",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0490": {
+      "path": "/media/dff4930dbc6fbb3b4fc8b668cfe0b1aff0de5867d2082c5702c20e17609b90f1.jpg",
+      "sha256": "dff4930dbc6fbb3b4fc8b668cfe0b1aff0de5867d2082c5702c20e17609b90f1",
+      "bytes": 316865,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Paesaggio_dell%27Appia_antica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Paesaggio_dell%27Appia_antica.jpg/960px-Paesaggio_dell%27Appia_antica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:14.565Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Paesaggio_dell%27Appia_antica.jpg",
+        "artist": "LuisaV72",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0491": {
+      "path": "/media/254b33f16359b5b45bd83d5bf5aa7b687d87832a83ce9940867cb0fdd7130666.jpg",
+      "sha256": "254b33f16359b5b45bd83d5bf5aa7b687d87832a83ce9940867cb0fdd7130666",
+      "bytes": 326567,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg/960px-Braine-le-Ch%C3%A2teau_JPG02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:17.056Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Braine-le-Ch%C3%A2teau_JPG02.jpg",
+        "artist": "Jean-Pol GRANDMONT",
+        "credit": "travail personnel (own work)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": ""
+      }
+    },
+    "event-0492": {
+      "path": "/media/c5e8e5dea319cc7bfc4cf5a606e750bd962e0a04cf12a7487241f61d9a0b0180.jpg",
+      "sha256": "c5e8e5dea319cc7bfc4cf5a606e750bd962e0a04cf12a7487241f61d9a0b0180",
+      "bytes": 254578,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/DK_Fanoe_Windmill01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/DK_Fanoe_Windmill01.JPG/960px-DK_Fanoe_Windmill01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:19.603Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:DK_Fanoe_Windmill01.JPG",
+        "artist": "Cnyborg",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0493": {
+      "path": "/media/b94871bd45077f023a9dbf1f99c8d636e711d9b3610f276a4fc4b2b6c1a16862.jpg",
+      "sha256": "b94871bd45077f023a9dbf1f99c8d636e711d9b3610f276a4fc4b2b6c1a16862",
+      "bytes": 106072,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2016_Busola.JPG/960px-2016_Busola.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:21.911Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:2016_Busola.JPG",
+        "artist": "Jacek Halicki",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0494": {
+      "path": "/media/677704a94bab57276053407a417c0f875cea5c97c467d33deb0ea5f1d9fce127.png",
+      "sha256": "677704a94bab57276053407a417c0f875cea5c97c467d33deb0ea5f1d9fce127",
+      "bytes": 799874,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gutenberg_press.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gutenberg_press.png/960px-Gutenberg_press.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:24.547Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Gutenberg_press.png",
+        "artist": "International Printing Museum",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0495": {
+      "path": "/media/1b16c301dbb7ec7cea1b044349b17f3e8784758174bd55f3857b6eedc50e964b.gif",
+      "sha256": "1b16c301dbb7ec7cea1b044349b17f3e8784758174bd55f3857b6eedc50e964b",
+      "bytes": 591502,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Thomas_Savery.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Thomas_Savery.gif/960px-Thomas_Savery.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:27.837Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Thomas_Savery.gif",
+        "artist": "Unknown authorUnknown author",
+        "credit": "http://www.history.rochester.edu/steam/thurston/1878/Chapter1.html\nhttp://www.moah.org/steam/steam.html",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0496": {
+      "path": "/media/45552f1c9d39e56e12866b14dbc7abe97ed37043b63bc87ff4cf641dbe4ff725.jpg",
+      "sha256": "45552f1c9d39e56e12866b14dbc7abe97ed37043b63bc87ff4cf641dbe4ff725",
+      "bytes": 216434,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg/960px-Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:30.271Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg",
+        "artist": "Radio Corporation of America (RCA)  Restored by: Bammesk",
+        "credit": "Hagley Museum and Library, https://digital.hagley.org/AVD246455_040_001",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0497": {
+      "path": "/media/8ac463f96f22028a3c11bfc4ac2ccff041e5aee7db177f72a9f4a82236b49a68.jpg",
+      "sha256": "8ac463f96f22028a3c11bfc4ac2ccff041e5aee7db177f72a9f4a82236b49a68",
+      "bytes": 185194,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/960px-Orville_Wright_1905-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:32.716Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Orville_Wright_1905-crop.jpg",
+        "artist": "Orville Wright and Wilbur Wright (credited as photographers) [1], [2]",
+        "credit": "Library of Congress",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0498": {
+      "path": "/media/0f56e2a5002db1d0d8c0b21de0337d7298ecacf47d12030a1f5ab4a9668cb703.jpg",
+      "sha256": "0f56e2a5002db1d0d8c0b21de0337d7298ecacf47d12030a1f5ab4a9668cb703",
+      "bytes": 245051,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/John_Logie_Baird_in_1917.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/John_Logie_Baird_in_1917.jpg/960px-John_Logie_Baird_in_1917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:35.163Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:John_Logie_Baird_in_1917.jpg",
+        "artist": "Unknown authorUnknown author",
+        "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID ggbain.25629.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0499": {
+      "path": "/media/8d76caa625ed55217662068653d6bba51e4cc26f0374d955f02e8def6134d67a.jpg",
+      "sha256": "8d76caa625ed55217662068653d6bba51e4cc26f0374d955f02e8def6134d67a",
+      "bytes": 46555,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/960px-Sputnik_asm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:37.605Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Sputnik_asm.jpg",
+        "artist": "NSSDC, NASA[1]",
+        "credit": "http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1957-001B",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0500": {
+      "path": "/media/321c9f681779b56085fca5d9404421f55a0dd35c5040fc44506ba269caa78ad3.png",
+      "sha256": "321c9f681779b56085fca5d9404421f55a0dd35c5040fc44506ba269caa78ad3",
+      "bytes": 80379,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/960px-Chrome_on_Linux.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:40.086Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Chrome_on_Linux.png",
+        "artist": "Liamd967",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0501": {
+      "path": "/media/ddf38af214cb6c4dd74c417efffa4b9e9c818da9339c20ed358fe915788b6041.png",
+      "sha256": "ddf38af214cb6c4dd74c417efffa4b9e9c818da9339c20ed358fe915788b6041",
+      "bytes": 621,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WorldWideWeb_Icon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WorldWideWeb_Icon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:50:42.597Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:WorldWideWeb_Icon.png",
+        "artist": "This file was made by User:Sven\n\n\n Translation\nIf this image contains text, it can be translated easily into your\nlanguage. If you need help, contact me\n\n\n Flexible licenses\nIf you want to use this picture with another license than stated below,\ncontact me\n\n\n Contact the author\nIf you need a really fast answer, mail me. If you\nneed only a fast answer, write me here.",
+        "credit": "from en, en:Image:WorldWideWeb.png, original uploader en:User:CyberSkull",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0502": {
+      "path": "/media/34e649d47869906de9617c73e86dd86d675c657f3866bb9b2c9e32e48e250fa7.png",
+      "sha256": "34e649d47869906de9617c73e86dd86d675c657f3866bb9b2c9e32e48e250fa7",
+      "bytes": 29136,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/IBM_Simon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f8/IBM_Simon.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:50:45.068Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:IBM_Simon.png",
+        "artist": "IBM",
+        "credit": "IBM",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0503": {
+      "path": "/media/f4aa384e479da949160b9738daec6ddc651a05cea13d3092aa08ad4a9d1eb972.png",
+      "sha256": "f4aa384e479da949160b9738daec6ddc651a05cea13d3092aa08ad4a9d1eb972",
+      "bytes": 87506,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:47.644Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:The_Simpsons_yellow_logo.svg",
+        "artist": "20th Television Animation",
+        "credit": "Disney+",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0504": {
+      "path": "/media/9a3e94219fc2186413d1951f4c30bf68767fad4c769453178faf97d1547119e4.jpg",
+      "sha256": "9a3e94219fc2186413d1951f4c30bf68767fad4c769453178faf97d1547119e4",
+      "bytes": 345832,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Drake_Well%2C_June_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Drake_Well%2C_June_2012.jpg/960px-Drake_Well%2C_June_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:50.126Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Drake_Well,_June_2012.jpg",
+        "artist": "Niagara",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0505": {
+      "path": "/media/5ea2aa17821e74d8a76693f684838e04f5644ce57f88a724b79ebe4f50328129.png",
+      "sha256": "5ea2aa17821e74d8a76693f684838e04f5644ce57f88a724b79ebe4f50328129",
+      "bytes": 111152,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg/960px-2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:52.557Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg",
+        "artist": "RCraig09",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0506": {
+      "path": "/media/badd4368ea132cc897b2a59cf7a4ccc0ef85011e24a35c8d32946dfafc38d6d8.png",
+      "sha256": "badd4368ea132cc897b2a59cf7a4ccc0ef85011e24a35c8d32946dfafc38d6d8",
+      "bytes": 273762,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/2000_Year_Temperature_Comparison.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2000_Year_Temperature_Comparison.png/960px-2000_Year_Temperature_Comparison.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:55.046Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:2000_Year_Temperature_Comparison.png",
+        "artist": "",
+        "credit": "",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0507": {
+      "path": "/media/cc65455f04b8ee4e9bfc2168f0c2ebcc1d2dc031febdb82f767228740f517bb2.jpg",
+      "sha256": "cc65455f04b8ee4e9bfc2168f0c2ebcc1d2dc031febdb82f767228740f517bb2",
+      "bytes": 208118,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Great_famine.jpg/960px-Great_famine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:57.495Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Great_famine.jpg",
+        "artist": "Scanned (by me) from the cover of The Great Famine (1996) by William Chester Jordan. Original cover art from a photograph courtesy of Stiftung Weimarer Klassik, Herzogin Anna Amalia Bibliothek.",
+        "credit": "Own work",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0508": {
+      "path": "/media/005a648083f73c91bc07f33c984b457450f3e782204c41b9fa90deb916395b35.jpg",
+      "sha256": "005a648083f73c91bc07f33c984b457450f3e782204c41b9fa90deb916395b35",
+      "bytes": 216211,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/960px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:50:59.937Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg",
+        "artist": "John Linnell",
+        "credit": "https://wellcomeimages.org/indexplus/obf_images/fa/25/d2c7707f809bd259eb86d61d1cc5.jpg\n\nGallery: https://wellcomeimages.org/indexplus/image/L0069037.html\nWellcome Collection gallery (2018-04-05): https://wellcomecollection.org/works/f4ep87xc CC-BY-4.0",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0509": {
+      "path": "/media/676d85ec129c1ce768aef2fea16c98da7a1e1e17f8ade98d5f6d71cf0497b869.jpg",
+      "sha256": "676d85ec129c1ce768aef2fea16c98da7a1e1e17f8ade98d5f6d71cf0497b869",
+      "bytes": 133380,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg/960px-%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:02.419Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg",
+        "artist": "Andrey Butko",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Andrew Butko"
+      }
+    },
+    "event-0510": {
+      "path": "/media/dba8cd0f74106ee4c4a771688fd029e515681b9f58f5a9d5b504d1522d2f515f.jpg",
+      "sha256": "dba8cd0f74106ee4c4a771688fd029e515681b9f58f5a9d5b504d1522d2f515f",
+      "bytes": 229344,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_HGP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_HGP.jpg/960px-Logo_HGP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:04.890Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Logo_HGP.jpg",
+        "artist": "U.S. Department of Energy, Human Genome Project",
+        "credit": "http://www.ornl.gov/hgmis",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0511": {
+      "path": "/media/8621c1f325e1d3d6bdc4d267d155e0f4969ca70075cf83d3be5188e973505994.jpg",
+      "sha256": "8621c1f325e1d3d6bdc4d267d155e0f4969ca70075cf83d3be5188e973505994",
+      "bytes": 161401,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pilule_contraceptive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Pilule_contraceptive.jpg/960px-Pilule_contraceptive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:07.852Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Pilule_contraceptive.jpg",
+        "artist": "",
+        "credit": "",
+        "license": "CC BY-SA 2.0 fr",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0512": {
+      "path": "/media/a53d81bb5f46c2bb55b381315c4a659722ea828df74dc05b4cd3d445639f1ac3.png",
+      "sha256": "a53d81bb5f46c2bb55b381315c4a659722ea828df74dc05b4cd3d445639f1ac3",
+      "bytes": 146275,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg/960px-Index-of-cereal-production-yield-and-land-use_World.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:10.394Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Index-of-cereal-production-yield-and-land-use_World.svg",
+        "artist": "Hannah Ritchie",
+        "credit": "https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0513": {
+      "path": "/media/8d6b300e488d9c111b9b33bf9e5a0c889346d9dc949a9fe02c81fcf987c43892.jpg",
+      "sha256": "8d6b300e488d9c111b9b33bf9e5a0c889346d9dc949a9fe02c81fcf987c43892",
+      "bytes": 183910,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canton_Tower_20220626.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Canton_Tower_20220626.jpg/960px-Canton_Tower_20220626.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:12.841Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626.jpg",
+        "artist": "Tim Wu",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0514": {
+      "path": "/media/4e100a8e77d63966a468832db689c47db0df44ed8f2c579ffec954b46a3ebc92.jpg",
+      "sha256": "4e100a8e77d63966a468832db689c47db0df44ed8f2c579ffec954b46a3ebc92",
+      "bytes": 186402,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg/960px-Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_%28Auschwitz_Album%29_1b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:15.272Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Selection_on_the_ramp_at_Auschwitz-Birkenau,_1944_(Auschwitz_Album)_1b.jpg",
+        "artist": "Bernhard Walter",
+        "credit": "Yad Vashem: \"Jews undergoing selection on the ramp. Visible in the background is the famous entrance to the camp. Some veteran inmates are helping the new comers.\"",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0515": {
+      "path": "/media/b8faed624bb1426499e938eb497a9a98799eb86ee975603b111cf4fc976d3854.jpg",
+      "sha256": "b8faed624bb1426499e938eb497a9a98799eb86ee975603b111cf4fc976d3854",
+      "bytes": 139525,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Skibbereen_by_James_Mahony%2C_1847.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/97/Skibbereen_by_James_Mahony%2C_1847.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:51:17.853Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Skibbereen_by_James_Mahony,_1847.JPG",
+        "artist": "James Mahony",
+        "credit": "http://seanduke.com/2011/08/08/is-there-a-genetic-memory-of-the-irish-famine-the-holocaust/",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0516": {
+      "path": "/media/e0f6bbbd028cd7d068aa75af2856afcac3eeaa9b0d274978f926e9a04c67fbae.jpg",
+      "sha256": "e0f6bbbd028cd7d068aa75af2856afcac3eeaa9b0d274978f926e9a04c67fbae",
+      "bytes": 124156,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:51:20.443Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg",
+        "artist": "Chicago Department of Health artist",
+        "credit": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448139/",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0517": {
+      "path": "/media/e81236bb29385677b55d85e1912a3434ff5f2586d40e1dfd84a8705a46454626.jpg",
+      "sha256": "e81236bb29385677b55d85e1912a3434ff5f2586d40e1dfd84a8705a46454626",
+      "bytes": 333020,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Iron-working%2C_Angola%2C_ca._1650s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/67/Iron-working%2C_Angola%2C_ca._1650s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:51:23.227Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Iron-working,_Angola,_ca._1650s.jpg",
+        "artist": "Giovanni Cavazzi da Montecuccolo",
+        "credit": "http://www.slaveryimages.org/s/slaveryimages/item/2282\n\nEzio Bassani, ed., Un Cappuccino nell'Africa nera del seicento: I disegni dei Manoscritti Araldi del Padre Giovanni Antonio Cavazzi da Montecuccolo [A Capuchin in Black Africa in the Seventeenth Century: Drawings of the Araldi Manuscript of Father Giovanni Antonio Cavazzi da Montecuccolo] (Milan: Quaderni Poro, no. 4, 1987), plate 20.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0518": {
+      "path": "/media/d96f58184798b9906e22ebaa02f4197a2c8e91f641b73c41274d8038c2fe701e.jpg",
+      "sha256": "d96f58184798b9906e22ebaa02f4197a2c8e91f641b73c41274d8038c2fe701e",
+      "bytes": 314817,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Seven_Years%27_War_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Seven_Years%27_War_Collage.jpg/960px-Seven_Years%27_War_Collage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:25.855Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Seven_Years%27_War_Collage.jpg",
+        "artist": "Blaue Max",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0519": {
+      "path": "/media/20d7f6eac7cd8877eb916dce4cb3e6513bd7c181388f87f1cca114a43a08aaa8.jpg",
+      "sha256": "20d7f6eac7cd8877eb916dce4cb3e6513bd7c181388f87f1cca114a43a08aaa8",
+      "bytes": 300129,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/960px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:28.353Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+        "artist": "Elliott & Fry",
+        "credit": "philogalichet.fr (context)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0520": {
+      "path": "/media/eef0c6e6708532e09463b8fb1f43fa59c0f4f155e92eef8c7bd4fac766f372bc.png",
+      "sha256": "eef0c6e6708532e09463b8fb1f43fa59c0f4f155e92eef8c7bd4fac766f372bc",
+      "bytes": 64515,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Emblem_of_the_Kuomintang.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/960px-Emblem_of_the_Kuomintang.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:30.764Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Kuomintang.svg",
+        "artist": "see above",
+        "credit": "Drawn and originally uploaded onto English Wikipedia by Zscout370, then modified by Laurent1979 based on the official KMT website logo.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0521": {
+      "path": "/media/977dd6c8df92a343e4b57685d39e8cb5bba1e9a37610fdcd8b9a425df266fdbb.jpg",
+      "sha256": "977dd6c8df92a343e4b57685d39e8cb5bba1e9a37610fdcd8b9a425df266fdbb",
+      "bytes": 142577,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hammond_Collection_Moscow_Unlabeled_32.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Hammond_Collection_Moscow_Unlabeled_32.jpg/960px-Hammond_Collection_Moscow_Unlabeled_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:33.323Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hammond_Collection_Moscow_Unlabeled_32.jpg",
+        "artist": "Thomas Taylor Hammond (1920-1993)",
+        "credit": "University of Virginia Center for Russian, East European, and Eurasian Studies (www.virginia.edu/creees)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0522": {
+      "path": "/media/fd16d9ba9755af1b660628b91195f35e9cd1e702ee98fd800a0591ef424e513e.jpg",
+      "sha256": "fd16d9ba9755af1b660628b91195f35e9cd1e702ee98fd800a0591ef424e513e",
+      "bytes": 126063,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Disco_TGI_Bar_by_John_Vance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Disco_TGI_Bar_by_John_Vance.jpg/960px-Disco_TGI_Bar_by_John_Vance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:35.761Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Disco_TGI_Bar_by_John_Vance.jpg",
+        "artist": "John Vance",
+        "credit": "https://www.flickr.com/photos/mstreetphoto/5503884189/in/faves-129708893@N04/",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": ""
+      }
+    },
+    "event-0524": {
+      "path": "/media/ac25763b4ed322f080fc0d6aebb069cf80bb4898683fad0ecb35910ba9a4205c.jpg",
+      "sha256": "ac25763b4ed322f080fc0d6aebb069cf80bb4898683fad0ecb35910ba9a4205c",
+      "bytes": 140676,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/960px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:38.200Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg",
+        "artist": "Dezo Hoffmann, Distributed by Capitol Records",
+        "credit": "[1], [2], [3], Discogs\n\nImmediate from New York Post",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0527": {
+      "path": "/media/fb0fbb360d98c0f38d53b576fbfa7e21ad877b65dccc5f6478c9ed38efe6f67a.png",
+      "sha256": "fb0fbb360d98c0f38d53b576fbfa7e21ad877b65dccc5f6478c9ed38efe6f67a",
+      "bytes": 576477,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:51:43.377Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Trilete_spores.png",
+        "artist": "Smith609",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0528": {
+      "path": "/media/fb0fbb360d98c0f38d53b576fbfa7e21ad877b65dccc5f6478c9ed38efe6f67a.png",
+      "sha256": "fb0fbb360d98c0f38d53b576fbfa7e21ad877b65dccc5f6478c9ed38efe6f67a",
+      "bytes": 576477,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:51:45.761Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Trilete_spores.png",
+        "artist": "Smith609",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0529": {
+      "path": "/media/ac14fe6aca14eba6f088c8be0689296ffb82d2b2d5675c8e2521d05847bf626c.png",
+      "sha256": "ac14fe6aca14eba6f088c8be0689296ffb82d2b2d5675c8e2521d05847bf626c",
+      "bytes": 363127,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png/960px-Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:48.407Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mollweide_Paleographic_Map_of_Earth,_690_Ma_(Cryogenian_Period).png",
+        "artist": "Scotese, Christopher R.; Vérard, Christian; Burgener, Landon; Elling, Reece P.; Kocsis, Ádám T.",
+        "credit": "\"Phanerozoic-scope supplementary material to \"The Cretaceous World: Plate Tectonics, Paleogeography, and Paleoclimate (doi:10.1144/sp544-2024-28)\" from the PALEOMAP project\". doi:10.5281/zenodo.10659112 https://zenodo.org/records/10659112",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0530": {
+      "path": "/media/4067433cfe21189cd98912bcc0e11adde9a6501bd62fae7850b6c830bbc14c93.jpg",
+      "sha256": "4067433cfe21189cd98912bcc0e11adde9a6501bd62fae7850b6c830bbc14c93",
+      "bytes": 283910,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Robespierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/960px-Robespierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:50.854Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Robespierre.jpg",
+        "artist": "Unidentified painter",
+        "credit": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/portrait-de-maximilien-de-robespierre-1758-1794-homme-politique#infos-principales",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0531": {
+      "path": "/media/c727ef236173d0d135121131326f7f1f2d44b5b33027bf448aea60308e6639ce.png",
+      "sha256": "c727ef236173d0d135121131326f7f1f2d44b5b33027bf448aea60308e6639ce",
+      "bytes": 281060,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Chechnya_in_Russia.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_Chechnya_in_Russia.svg/960px-Map_of_Chechnya_in_Russia.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:53.331Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Map_of_Chechnya_in_Russia.svg",
+        "artist": "TUBS",
+        "credit": "This vector image includes elements that have been taken or adapted from this file:",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0534": {
+      "path": "/media/9760f910d0b606ce327b7535b266d11d583b0f1582db9001c26765d29e9c93e2.png",
+      "sha256": "9760f910d0b606ce327b7535b266d11d583b0f1582db9001c26765d29e9c93e2",
+      "bytes": 20767,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Population_curve.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/960px-Population_curve.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:51:55.759Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Population_curve.svg",
+        "artist": "El T",
+        "credit": "Originally uploaded to en.wikipedia as Population curve.svg. The data is from the \"lower\" estimates at census.gov (archive.org mirror).",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0536": {
+      "path": "/media/52f5135d9eca53d148f9bb6f2981076a4185a32e3e512e9e677054fc8c61e5d2.jpg",
+      "sha256": "52f5135d9eca53d148f9bb6f2981076a4185a32e3e512e9e677054fc8c61e5d2",
+      "bytes": 203225,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg/960px-Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:00.481Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+        "artist": "Douwe C. van der Zee",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0537": {
+      "path": "/media/c8d7ee82d65bec4a3163461ed545f7f9c2da0b82c9ea3f4624709e399f5010ec.jpg",
+      "sha256": "c8d7ee82d65bec4a3163461ed545f7f9c2da0b82c9ea3f4624709e399f5010ec",
+      "bytes": 54631,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:52:03.137Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Weatheringcartoon.jpg",
+        "artist": "IntrplnetSarah",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0538": {
+      "path": "/media/f6b061b213c6dc5f54280242f2cc7d9752f3bbf1a41971a5e7df8252241a0d07.jpg",
+      "sha256": "f6b061b213c6dc5f54280242f2cc7d9752f3bbf1a41971a5e7df8252241a0d07",
+      "bytes": 245826,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/960px-Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:05.549Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+        "artist": "Thomas Wolf, www.foto-tw.de",
+        "credit": "Own work",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Thomas Wolf, www.foto-tw.de"
+      }
+    },
+    "event-0539": {
+      "path": "/media/9760f910d0b606ce327b7535b266d11d583b0f1582db9001c26765d29e9c93e2.png",
+      "sha256": "9760f910d0b606ce327b7535b266d11d583b0f1582db9001c26765d29e9c93e2",
+      "bytes": 20767,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Population_curve.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/960px-Population_curve.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:07.868Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Population_curve.svg",
+        "artist": "El T",
+        "credit": "Originally uploaded to en.wikipedia as Population curve.svg. The data is from the \"lower\" estimates at census.gov (archive.org mirror).",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0541": {
+      "path": "/media/4daca00bd7365b126cdf5dc054354f133e8a7138e18c6087ad7fc8b834c1551c.jpg",
+      "sha256": "4daca00bd7365b126cdf5dc054354f133e8a7138e18c6087ad7fc8b834c1551c",
+      "bytes": 158106,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/960px-Sahara_satellite_hires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:10.325Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Sahara_satellite_hires.jpg",
+        "artist": "NASA",
+        "credit": "Cropped from Image:Africa satellite plane.jpg.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0542": {
+      "path": "/media/acdb4833af487778f36629dd9b7058a95f714245931787c29270f93cf69bfd63.jpg",
+      "sha256": "acdb4833af487778f36629dd9b7058a95f714245931787c29270f93cf69bfd63",
+      "bytes": 231738,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Mediterranean_Sea_16.61811E_38.99124N.jpg/960px-Mediterranean_Sea_16.61811E_38.99124N.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:12.789Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg",
+        "artist": "of the modification : Eric Gaba (Sting)",
+        "credit": "Screenshot from NASA World Wind (retouched)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0543": {
+      "path": "/media/7959338ac26446c2d3d3d66a1cc7780ca516d8ca0c6b37fc440ebdffc5763691.png",
+      "sha256": "7959338ac26446c2d3d3d66a1cc7780ca516d8ca0c6b37fc440ebdffc5763691",
+      "bytes": 706939,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Milky_Way_Arms_ssc2008-10.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Milky_Way_Arms_ssc2008-10.svg/960px-Milky_Way_Arms_ssc2008-10.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:15.543Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_Arms_ssc2008-10.svg",
+        "artist": "File:Artist’s impression of the Milky Way.jpg: NASA/JPL-Caltech/ESO/R. Hurt\nderivative work: Cmglee",
+        "credit": "File:Artist’s impression of the Milky Way.jpg",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0544": {
+      "path": "/media/49d70f011d7028c381c68c2438c81f2c09fa32537cdc0200f6d0d0ffaf3a89d4.png",
+      "sha256": "49d70f011d7028c381c68c2438c81f2c09fa32537cdc0200f6d0d0ffaf3a89d4",
+      "bytes": 175414,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pangea_assembly_250.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pangea_assembly_250.png/960px-Pangea_assembly_250.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:18.307Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Pangea_assembly_250.png",
+        "artist": "Kent G. Budge",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0545": {
+      "path": "/media/e0f46d5c38a4e4aef9f7cb0a7b708839f4bfa78db3f8a3d39787a26c544a1819.png",
+      "sha256": "e0f46d5c38a4e4aef9f7cb0a7b708839f4bfa78db3f8a3d39787a26c544a1819",
+      "bytes": 177861,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pangaea_continents.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pangaea_continents.svg/960px-Pangaea_continents.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:20.840Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Pangaea_continents.svg",
+        "artist": "User:Kieff",
+        "credit": "Own work based on: File:Pangaea continents.png",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0547": {
+      "path": "/media/8ee253ce75b085632b17cc14c6b0d0010856467577189e7674a4515a4b838612.png",
+      "sha256": "8ee253ce75b085632b17cc14c6b0d0010856467577189e7674a4515a4b838612",
+      "bytes": 2665800,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Step_by_step_greene.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Step_by_step_greene.png/960px-Step_by_step_greene.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:25.054Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Step_by_step_greene.png",
+        "artist": "Sidney Joseph Greene",
+        "credit": "https://medium.com/make-it-personal/you-are-not-crazy-for-hating-the-idea-of-work-87c282e26c9f",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0548": {
+      "path": "/media/84c686006cb118ae14a8578eb9fc48c68adf81bf53eb5c0c514c958210929846.png",
+      "sha256": "84c686006cb118ae14a8578eb9fc48c68adf81bf53eb5c0c514c958210929846",
+      "bytes": 61649,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:52:27.634Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Anticommunist_Literature_1950s.png",
+        "artist": "Anticommunist_Literature_1950s.tiff: Myron Coureval Fagan\nderivative work: Comte0 (talk)",
+        "credit": "Anticommunist_Literature_1950s.tiff",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0549": {
+      "path": "/media/d21f54859a1cba490504a48b05ed19f64938b911247eed4eb2df75d01a0e30b8.jpg",
+      "sha256": "d21f54859a1cba490504a48b05ed19f64938b911247eed4eb2df75d01a0e30b8",
+      "bytes": 206492,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/960px-Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:30.253Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hannibal_Barca_bust_from_Capua_photo.jpg",
+        "artist": "Fratelli Alinari",
+        "credit": "Reddit - https://www.reddit.com/r/europe/comments/d0szfs/a_marble_bust_of_hannibal_𐤇𐤍𐤁𐤏𐤋_originally_found/  . The original photograph source = alinari.it",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0550": {
+      "path": "/media/de7082f8c95b072b521eb64fb710754af3027785f35aa7c5a6d814ce2de8aea3.jpg",
+      "sha256": "de7082f8c95b072b521eb64fb710754af3027785f35aa7c5a6d814ce2de8aea3",
+      "bytes": 190496,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg/960px-Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:33.159Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Pyrrhic_War_(280%E2%80%93275_BC)_(English).jpg",
+        "artist": "Megistias",
+        "credit": "Own work data from \n\nHistory of Rome, from its earliest period to the death of Vespasian by William Charles MacDermott - 1853,\nHammond, N. G. L. A History of Greece to 322 B.C., 1986, ISBN-10: 0198730950\nEpirus, 4000 years of Greek history and civilization by M. B. Hatzopoulos,M. V. Sakellariou,L. D. Loukopoulou,M. B. Sakellariou\nBlank map,nasa",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0552": {
+      "path": "/media/37ae32311fc1a289cd66fca6e4b9c36db8614ca5d996f64d46a5e2cd58de8866.png",
+      "sha256": "37ae32311fc1a289cd66fca6e4b9c36db8614ca5d996f64d46a5e2cd58de8866",
+      "bytes": 240995,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/960px-Roman_SPQR_banner.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:36.941Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Roman_SPQR_banner.svg",
+        "artist": "Ssolbergj",
+        "credit": "Own work",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0553": {
+      "path": "/media/cb293679809477fc7e8d3a226e5925f736c74d75e385ccd63f16c8e56260de27.png",
+      "sha256": "cb293679809477fc7e8d3a226e5925f736c74d75e385ccd63f16c8e56260de27",
+      "bytes": 283509,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Precambrian_Evolution_of_Life.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Precambrian_Evolution_of_Life.png/960px-Precambrian_Evolution_of_Life.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:39.394Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Precambrian_Evolution_of_Life.png",
+        "artist": "Sciencia58",
+        "credit": "Own work",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": ""
+      }
+    },
+    "event-0554": {
+      "path": "/media/9c2f2810bc20c99062229cafd96ecc0c97e1e29eb22040b64a903413837ed5c8.png",
+      "sha256": "9c2f2810bc20c99062229cafd96ecc0c97e1e29eb22040b64a903413837ed5c8",
+      "bytes": 32130,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nordic_Bronze_Age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nordic_Bronze_Age.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:52:41.916Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Nordic_Bronze_Age.png",
+        "artist": "Wiglaf",
+        "credit": "Own work based on: Europe plain rivers.png and the Harper Atlas of World History (ed. Vidal-Naquet) in Swedish translation: Atlas över mänsklighetens historia.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0555": {
+      "path": "/media/dbe09a11b8693089630692eb0b0f65f121c57277a2516a155f18cfcd164d42a6.png",
+      "sha256": "dbe09a11b8693089630692eb0b0f65f121c57277a2516a155f18cfcd164d42a6",
+      "bytes": 507133,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Etruscan_civilization_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Etruscan_civilization_map.png/960px-Etruscan_civilization_map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:44.576Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Etruscan_civilization_map.png",
+        "artist": "NormanEinstein",
+        "credit": "Based on a map from The National Geographic Magazine Vol.173 No.6 June 1988.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "attribution": ""
+      }
+    },
+    "event-0556": {
+      "path": "/media/140e39d4817af83d06519c1dfe73bc18b8487982335312572cfe0c3c00187013.png",
+      "sha256": "140e39d4817af83d06519c1dfe73bc18b8487982335312572cfe0c3c00187013",
+      "bytes": 331283,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png/960px-Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:47.864Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_(WHG_highlighted).png",
+        "artist": "Posth, C., Yu, H., Ghalichi, A. et al.",
+        "credit": "Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126 (2023). https://doi.org/10.1038/s41586-023-05726-0\nProvided under CC BY 4.0:\n\"Rights and permissions\n\nOpen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.\"",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0557": {
+      "path": "/media/b23527066d2c9bf7d456594d4571bd448e72b1cd557d5dabaf99d690fa366adf.jpg",
+      "sha256": "b23527066d2c9bf7d456594d4571bd448e72b1cd557d5dabaf99d690fa366adf",
+      "bytes": 715302,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vasco_Da_Gama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vasco_Da_Gama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:52:50.546Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Vasco_Da_Gama.jpg",
+        "artist": "Anonymous",
+        "credit": "A descoberta e conquista da India pelos portuguezes; romance histórico\nby Lobo d'Avila, Arthur, 1855-1945\nPublication date 1898 \n\nhttps://archive.org/details/descobertaeconqu00lobo/",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0558": {
+      "path": "/media/664609ada41b903eb6ff7d8e82a5e6884e6d67cabb6718bd6fa7c1be06c3a9fa.jpg",
+      "sha256": "664609ada41b903eb6ff7d8e82a5e6884e6d67cabb6718bd6fa7c1be06c3a9fa",
+      "bytes": 225370,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Near_East_Paleolithic_cave_shelter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Near_East_Paleolithic_cave_shelter.jpg/960px-Near_East_Paleolithic_cave_shelter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:53.456Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Near_East_Paleolithic_cave_shelter.jpg",
+        "artist": "Cobija",
+        "credit": "This image has been extracted from another file",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": ""
+      }
+    },
+    "event-0559": {
+      "path": "/media/78284e1d90557d11629a73758a70ca713b6a1176eb7228b79a15ce934e99eaf2.jpg",
+      "sha256": "78284e1d90557d11629a73758a70ca713b6a1176eb7228b79a15ce934e99eaf2",
+      "bytes": 415260,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Portrait_of_Francisco_Pizarro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Portrait_of_Francisco_Pizarro.jpg/960px-Portrait_of_Francisco_Pizarro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:52:55.990Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Francisco_Pizarro.jpg",
+        "artist": "Amable-Paul Coutan",
+        "credit": "artsy.net",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0560": {
+      "path": "/media/4880753e5ddc115e83400c78dce76677a5f4be8cb7f78eabbff5b60cb5829531.jpg",
+      "sha256": "4880753e5ddc115e83400c78dce76677a5f4be8cb7f78eabbff5b60cb5829531",
+      "bytes": 228918,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/06/Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:52:58.583Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Retrato_de_Hern%C3%A1n_Cort%C3%A9s.jpg",
+        "artist": "Unknown artistUnknown artist",
+        "credit": "[1]",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0562": {
+      "path": "/media/5e6053fd34adc6e720d30d1ca20af45c23b74031b0ae5b6762b79d35c1899e7b.png",
+      "sha256": "5e6053fd34adc6e720d30d1ca20af45c23b74031b0ae5b6762b79d35c1899e7b",
+      "bytes": 1905832,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carl_Menger_Portrait_ONB_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Carl_Menger_Portrait_ONB_cropped.png/960px-Carl_Menger_Portrait_ONB_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:03.453Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Carl_Menger_Portrait_ONB_cropped.png",
+        "artist": "Unknown authorUnknown author",
+        "credit": "ÖNB,  Bildarchiv und Grafiksammlung (POR)   Bildarchiv und Grafiksammlung (POR-MAG)   Signatur: Pf 24196:E (1), alma788690",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0563": {
+      "path": "/media/e6d31f4271d5ff5cdb340b86a133d2903259713f5af475dc3c8d9c01bbc8f886.jpg",
+      "sha256": "e6d31f4271d5ff5cdb340b86a133d2903259713f5af475dc3c8d9c01bbc8f886",
+      "bytes": 117688,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg/960px-Jordan_Peterson_in_2018_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:05.980Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Jordan_Peterson_in_2018_(3x4_cropped).jpg",
+        "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+        "credit": "Jordan Peterson",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": ""
+      }
+    },
+    "event-0564": {
+      "path": "/media/2d8469732cb2ccfe09fc8d93ca3fafacb8008b195b85b2f26d96d376a79edc67.jpg",
+      "sha256": "2d8469732cb2ccfe09fc8d93ca3fafacb8008b195b85b2f26d96d376a79edc67",
+      "bytes": 170246,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slavoj_%C5%BDi%C5%BEek-5229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Slavoj_%C5%BDi%C5%BEek-5229.jpg/960px-Slavoj_%C5%BDi%C5%BEek-5229.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:08.439Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Slavoj_%C5%BDi%C5%BEek-5229.jpg",
+        "artist": "Harald Krichel",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Harald Krichel / WikiPortraits"
+      }
+    },
+    "event-0565": {
+      "path": "/media/4898647fe1d35a1108dcdb25ec352fe68d2a0b6059d9ccd19b3f82218fa2700e.jpg",
+      "sha256": "4898647fe1d35a1108dcdb25ec352fe68d2a0b6059d9ccd19b3f82218fa2700e",
+      "bytes": 287632,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Moamer_el_Gadafi_%28cropped%29.jpg/960px-Moamer_el_Gadafi_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:10.924Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Moamer_el_Gadafi_(cropped).jpg",
+        "artist": "Stevan Kragujević",
+        "credit": "Transferred from sr.wikipedia to Commons.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0567": {
+      "path": "/media/a039cf549f6fa7c62db7146eceeef2c76c54bdc5688672115a20566080e426b0.jpg",
+      "sha256": "a039cf549f6fa7c62db7146eceeef2c76c54bdc5688672115a20566080e426b0",
+      "bytes": 675548,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saddam_Hussein_in_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saddam_Hussein_in_1998.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:53:13.622Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.jpg",
+        "artist": "Iraqi News Agency",
+        "credit": "Getty Images",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0568": {
+      "path": "/media/0346146342186c9f3379b1a3a0f6fa50a75537cd1437d273fd0b827b3265d2ed.jpg",
+      "sha256": "0346146342186c9f3379b1a3a0f6fa50a75537cd1437d273fd0b827b3265d2ed",
+      "bytes": 316824,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Julian_Assange_at_2025_Cannes_The_Six_Billion_Dollar_Man_Photocall_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Julian_Assange_at_2025_Cannes_The_Six_Billion_Dollar_Man_Photocall_3_%28cropped%29.jpg/960px-Julian_Assange_at_2025_Cannes_The_Six_Billion_Dollar_Man_Photocall_3_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:16.770Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Julian_Assange_at_2025_Cannes_The_Six_Billion_Dollar_Man_Photocall_3_(cropped).jpg",
+        "artist": "Kacy Bao",
+        "credit": "Own work",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Kacy Bao / WikiPortraits"
+      }
+    },
+    "event-0569": {
+      "path": "/media/21a676a364c3a761233061db68a0ffeccebcb8a06b55a9ef25aefa9d6e7cf928.jpg",
+      "sha256": "21a676a364c3a761233061db68a0ffeccebcb8a06b55a9ef25aefa9d6e7cf928",
+      "bytes": 343731,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "fetchedAt": "2026-10-24T10:53:19.385Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Edward_Snowden_2013-10-9_(1)_(cropped).jpg",
+        "artist": "https://www.youtube.com/user/TheWikiLeaksChannel",
+        "credit": "Derived from: File:Edward Snowden speaks about government transparency at Sam Adams award presentation in Moscow.webm @20s",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": ""
+      }
+    },
+    "event-0571": {
+      "path": "/media/1a0612dd20862b49d923f13e8d4c37190b1370938839d6b713003db9064c0300.jpg",
+      "sha256": "1a0612dd20862b49d923f13e8d4c37190b1370938839d6b713003db9064c0300",
+      "bytes": 347612,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Josip_Broz_Tito_uniform_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/960px-Josip_Broz_Tito_uniform_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:23.369Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Josip_Broz_Tito_uniform_portrait.jpg",
+        "artist": "Unknown authorUnknown author",
+        "credit": "This image is available from the Digital Library of Slovenia under the reference number MJVNDGTF \nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "attribution": ""
+      }
+    },
+    "event-0573": {
+      "path": "/media/cc30a6dd920ba0c6c77513108e184dec688e6b685077159f9a8d45d1ea90932e.png",
+      "sha256": "cc30a6dd920ba0c6c77513108e184dec688e6b685077159f9a8d45d1ea90932e",
+      "bytes": 1396796,
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "remoteThumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png/960px-Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "fetchedAt": "2026-10-24T10:53:26.180Z",
+      "credit": {
+        "source": "https://commons.wikimedia.org/wiki/File:Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png",
+        "artist": "Josef Löwy",
+        "credit": "Austrian National Libarry (Österreichische Nationalbibliothek),  Pf 159549:C (4)",
         "license": "Public domain",
         "licenseUrl": "",
         "attribution": ""

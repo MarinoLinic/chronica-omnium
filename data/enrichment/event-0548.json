@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0548",
+  "source": "https://en.wikipedia.org/wiki/McCarthyism",
+  "revisionId": 1380714898,
+  "fetchedAt": "2026-10-24T10:24:43.414Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anticommunist_Literature_1950s.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Anticommunist_Literature_1950s.png",
+      "artist": "Anticommunist_Literature_1950s.tiff: Myron Coureval Fagan\nderivative work: Comte0 (talk)",
+      "credit": "Anticommunist_Literature_1950s.tiff",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

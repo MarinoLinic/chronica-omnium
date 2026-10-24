@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0512",
+  "source": "https://en.wikipedia.org/wiki/Green_Revolution",
+  "revisionId": 1381183766,
+  "fetchedAt": "2026-10-24T10:24:26.904Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg/960px-Index-of-cereal-production-yield-and-land-use_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Index-of-cereal-production-yield-and-land-use_World.svg/330px-Index-of-cereal-production-yield-and-land-use_World.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Index-of-cereal-production-yield-and-land-use_World.svg",
+      "artist": "Hannah Ritchie",
+      "credit": "https://ourworldindata.org/yields-vs-land-use-how-has-the-world-produced-enough-food-for-a-growing-population",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

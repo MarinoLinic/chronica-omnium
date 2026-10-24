@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0562",
+  "source": "https://en.wikipedia.org/wiki/Carl_Menger",
+  "revisionId": 1379800318,
+  "fetchedAt": "2026-10-24T10:25:05.365Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carl_Menger_Portrait_ONB_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Carl_Menger_Portrait_ONB_cropped.png/960px-Carl_Menger_Portrait_ONB_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Carl_Menger_Portrait_ONB_cropped.png/330px-Carl_Menger_Portrait_ONB_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Menger_Portrait_ONB_cropped.png",
+      "artist": "Unknown authorUnknown author",
+      "credit": "ÖNB,  Bildarchiv und Grafiksammlung (POR)   Bildarchiv und Grafiksammlung (POR-MAG)   Signatur: Pf 24196:E (1), alma788690",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0137",
+  "source": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+  "revisionId": 1351791549,
+  "fetchedAt": "2026-10-24T10:41:02.328Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg/960px-William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg/330px-William_Hughes%2C_The_Kingdoms_of_Judah_and_Israel_%28FL36567450_3909153%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:William_Hughes,_The_Kingdoms_of_Judah_and_Israel_(FL36567450_3909153).jpg",
+      "artist": "William Hughes",
+      "credit": "This map is available from Eran Laor Cartographic Collection of the National Library of Israel. link to the source:The Kingdoms of Judah and Israel",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

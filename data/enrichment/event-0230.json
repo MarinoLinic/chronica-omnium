@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0230",
+  "source": "https://en.wikipedia.org/wiki/Mongol_Empire",
+  "revisionId": 1379969987,
+  "fetchedAt": "2026-10-24T10:41:42.423Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif/960px-Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif/330px-Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif",
+      "artist": "DannamEmpire",
+      "credit": "Own work",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

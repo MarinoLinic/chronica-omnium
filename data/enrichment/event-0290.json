@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0290",
+  "source": "https://en.wikipedia.org/wiki/Quakers",
+  "revisionId": 1381346373,
+  "fetchedAt": "2026-10-24T10:42:24.686Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Religious_denominations_of_the_world_-_comprising_a_general_view_of_the_origin%2C_history%2C_and_condition_of_the_various_sects_of_Christians%2C_the_Jews%2C_and_Mahometans%2C_as_well_as_the_pagan_forms_of_%2814761837356%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Religious_denominations_of_the_world_-_comprising_a_general_view_of_the_origin%2C_history%2C_and_condition_of_the_various_sects_of_Christians%2C_the_Jews%2C_and_Mahometans%2C_as_well_as_the_pagan_forms_of_%2814761837356%29.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Religious_denominations_of_the_world_-_comprising_a_general_view_of_the_origin%2C_history%2C_and_condition_of_the_various_sects_of_Christians%2C_the_Jews%2C_and_Mahometans%2C_as_well_as_the_pagan_forms_of_%2814761837356%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Religious_denominations_of_the_world_-_comprising_a_general_view_of_the_origin,_history,_and_condition_of_the_various_sects_of_Christians,_the_Jews,_and_Mahometans,_as_well_as_the_pagan_forms_of_(14761837356).jpg",
+      "artist": "Internet Archive Book Images",
+      "credit": "https://www.flickr.com/photos/internetarchivebookimages/14761837356/\n\nSource book page: https://archive.org/stream/religiousdenomina00miln/religiousdenomina00miln#page/n244/mode/1up",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "attribution": ""
+    }
+  }
+}

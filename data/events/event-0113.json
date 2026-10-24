@@ -5,7 +5,7 @@
   "slug": "old-kingdom-of-egypt",
   "status": "review",
   "name": "Old Kingdom of Egypt",
-  "short_desc": null,
+  "short_desc": "In ancient Egyptian history, the Old Kingdom is the period spanning c. 2700 – c. 2200 BC.",
   "long_desc": "Old Kingdom of Egypt",
   "start": -2700,
   "end": -2200,
@@ -13,7 +13,7 @@
   "type": "Unit",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-557c1599d9a0"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "old-kingdom-of-egypt",
     "Unnamed: 30": null,

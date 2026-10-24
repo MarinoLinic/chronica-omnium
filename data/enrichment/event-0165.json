@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0165",
+  "source": "https://en.wikipedia.org/wiki/Silk_Road",
+  "revisionId": 1379074984,
+  "fetchedAt": "2026-10-24T10:41:16.751Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Silk_road_Kazakhstan.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Silk_road_Kazakhstan.svg/960px-Silk_road_Kazakhstan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Silk_road_Kazakhstan.svg/330px-Silk_road_Kazakhstan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Silk_road_Kazakhstan.svg",
+      "artist": "User:Kelvin Case\nUser:Turkish Flame\n\nUser:SmallJarsWithGreenLabels",
+      "credit": "File:Kazakhstan (orthographic projection).svg overlaid with vectorised (by my own work) path taken from this bitmap image, per the request of user:CactiStaccingCrane",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

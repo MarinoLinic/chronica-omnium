@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0479",
+  "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+  "revisionId": 1381614707,
+  "fetchedAt": "2026-10-24T10:24:04.889Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg/960px-M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg/330px-M%C3%BCnster%2C_Historisches_Rathaus_--_2014_--_6855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Historisches_Rathaus_--_2014_--_6855.jpg",
+      "artist": "Dietmar Rabich",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Dietmar Rabich"
+    }
+  }
+}

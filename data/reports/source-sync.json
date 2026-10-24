@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-10-23T19:14:05.538Z",
+  "startedAt": "2026-10-24T10:46:49.394Z",
   "mode": {
     "images": true,
     "refresh": false,
@@ -222,7 +222,7 @@
     {
       "id": "event-0043",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0044",
@@ -267,7 +267,7 @@
     {
       "id": "event-0052",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0053",
@@ -287,7 +287,7 @@
     {
       "id": "event-0056",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0057",
@@ -392,12 +392,12 @@
     {
       "id": "event-0077",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0078",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0079",
@@ -412,32 +412,32 @@
     {
       "id": "event-0081",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0082",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0083",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0084",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0085",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0086",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0087",
@@ -447,12 +447,12 @@
     {
       "id": "event-0088",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0089",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0090",
@@ -467,22 +467,22 @@
     {
       "id": "event-0092",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0093",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0094",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0095",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0096",
@@ -512,7 +512,7 @@
     {
       "id": "event-0101",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0102",
@@ -547,22 +547,22 @@
     {
       "id": "event-0108",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0109",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0110",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0111",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0112",
@@ -572,22 +572,22 @@
     {
       "id": "event-0113",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0114",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0115",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0116",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0117",
@@ -602,7 +602,7 @@
     {
       "id": "event-0119",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0120",
@@ -612,7 +612,7 @@
     {
       "id": "event-0121",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0122",
@@ -622,7 +622,7 @@
     {
       "id": "event-0123",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0124",
@@ -632,12 +632,12 @@
     {
       "id": "event-0125",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0126",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0127",
@@ -652,27 +652,27 @@
     {
       "id": "event-0129",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0130",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0131",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0132",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0133",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0134",
@@ -692,7 +692,7 @@
     {
       "id": "event-0137",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0138",
@@ -728,7 +728,7 @@
     {
       "id": "event-0144",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0145",
@@ -798,7 +798,7 @@
     {
       "id": "event-0158",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0159",
@@ -998,7 +998,7 @@
     {
       "id": "event-0198",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0199",
@@ -1029,7 +1029,7 @@
     {
       "id": "event-0204",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0205",
@@ -2210,153 +2210,152 @@
     {
       "id": "event-0439",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0440",
       "text": "unchanged",
-      "image": "failed",
-      "imageError": "EPERM: operation not permitted, rename 'C:\\Users\\marin\\OneDrive\\Documents\\My Programs\\chronica-omnium\\data\\media\\manifest.json.48a5e681-4ac5-4693-a937-1f052f475e4c.tmp' -> 'C:\\Users\\marin\\OneDrive\\Documents\\My Programs\\chronica-omnium\\data\\media\\manifest.json'"
+      "image": "unchanged"
     },
     {
       "id": "event-0441",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0442",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0443",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0444",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0445",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0446",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0447",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0448",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0449",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0450",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0451",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0452",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0453",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0454",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0455",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0456",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0457",
       "text": "unchanged",
-      "image": "cached"
+      "image": "unchanged"
     },
     {
       "id": "event-0458",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0459",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0460",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0461",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0462",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0463",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0464",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0465",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0466",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0467",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0468",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0469",
@@ -2366,267 +2365,267 @@
     {
       "id": "event-0470",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0471",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0472",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0473",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0474",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0475",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0476",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0477",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0478",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0479",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0480",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0481",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0482",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0483",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0484",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0485",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0486",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0487",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0488",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0489",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0490",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0491",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0492",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0493",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0494",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0495",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0496",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0497",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0498",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0499",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0500",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0501",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0502",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0503",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0504",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0505",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0506",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0507",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0508",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0509",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0510",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0511",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0512",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0513",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0514",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0515",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0516",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0517",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0518",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0519",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0520",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0521",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0522",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0523",
@@ -2636,42 +2635,44 @@
     {
       "id": "event-0524",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0525",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Image license requires manual review: Attribution"
     },
     {
       "id": "event-0526",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Image license requires manual review: Attribution"
     },
     {
       "id": "event-0527",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0528",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0529",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0530",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0531",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0532",
@@ -2686,32 +2687,33 @@
     {
       "id": "event-0534",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0535",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Response exceeds size limit"
     },
     {
       "id": "event-0536",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0537",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0538",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0539",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0540",
@@ -2721,102 +2723,104 @@
     {
       "id": "event-0541",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0542",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0543",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0544",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0545",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0546",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Image license requires manual review: GPL"
     },
     {
       "id": "event-0547",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0548",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0549",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0550",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0551",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Image license requires manual review: CC SA 1.0"
     },
     {
       "id": "event-0552",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0553",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0554",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0555",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0556",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0557",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0558",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0559",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0560",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0561",
@@ -2826,52 +2830,53 @@
     {
       "id": "event-0562",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0563",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0564",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0565",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0566",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "external image retained; local import needs manual attribution"
     },
     {
       "id": "event-0567",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0568",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0569",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0570",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "failed",
+      "imageError": "Image license requires manual review: Attribution"
     },
     {
       "id": "event-0571",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0572",
@@ -2881,7 +2886,7 @@
     {
       "id": "event-0573",
       "text": "unchanged",
-      "image": "unchanged"
+      "image": "cached"
     },
     {
       "id": "event-0574",
@@ -2889,6 +2894,6 @@
       "image": "unchanged"
     }
   ],
-  "finishedAt": "2026-10-23T19:15:08.529Z",
-  "downloadedBytes": 6772219
+  "finishedAt": "2026-10-24T10:53:26.203Z",
+  "downloadedBytes": 47394259
 }

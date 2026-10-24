@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0309",
+  "source": "https://en.wikipedia.org/wiki/Rothschild_family",
+  "revisionId": 1379015371,
+  "fetchedAt": "2026-10-24T10:42:38.238Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Great_coat_of_arms_of_Rothschild_family.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Great_coat_of_arms_of_Rothschild_family.svg/960px-Great_coat_of_arms_of_Rothschild_family.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Great_coat_of_arms_of_Rothschild_family.svg/330px-Great_coat_of_arms_of_Rothschild_family.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Great_coat_of_arms_of_Rothschild_family.svg",
+      "artist": "Mathieu CHAINE",
+      "credit": "Own work, some elements by Sodacan, Katepanomegas, Adelbrecht, Heralder, Madboy74 and Nanin7\n\nGraphic",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

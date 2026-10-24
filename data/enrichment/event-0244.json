@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0244",
+  "source": "https://en.wikipedia.org/wiki/Inca_Empire",
+  "revisionId": 1378979879,
+  "fetchedAt": "2026-10-24T10:41:50.622Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Banner_of_the_Inca_Empire.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Banner_of_the_Inca_Empire.svg/960px-Banner_of_the_Inca_Empire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Banner_of_the_Inca_Empire.svg/330px-Banner_of_the_Inca_Empire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Banner_of_the_Inca_Empire.svg",
+      "artist": "Made and uploaded by Huhsunqu.",
+      "credit": "Own work",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": ""
+    }
+  }
+}

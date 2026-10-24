@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0434",
+  "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+  "revisionId": 1381701325,
+  "fetchedAt": "2026-10-24T10:44:11.245Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fukushima_I_by_Digital_Globe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/960px-Fukushima_I_by_Digital_Globe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/330px-Fukushima_I_by_Digital_Globe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fukushima_I_by_Digital_Globe.jpg",
+      "artist": "Digital Globe",
+      "credit": "Earthquake and Tsunami damage-Dai Ichi Power Plant, Japan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

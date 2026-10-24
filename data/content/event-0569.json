@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0569",
+  "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+  "title": "Edward Snowden",
+  "revisionId": 1381314665,
+  "revisionTimestamp": "2026-10-21T15:11:27Z",
+  "fetchedAt": "2026-10-24T10:25:13.508Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Edward Joseph Snowden (born June 21, 1983) is a former National Security Agency (NSA) intelligence contractor who leaked classified documents revealing the existence of global surveillance programs.\nBorn in 1983 in Elizabeth City, North Carolina, he attended a community college and later enrolled in a master's programme at the University of Liverpool without finishing it. In 2006, he started working for the Central Intelligence Agency (CIA) and then moved to Dell in 2009, where he managed computer systems for the NSA. In 2013, he worked for two months at Booz Allen Hamilton, with the purpose of gathering more NSA documents.\nIn May 2013, Snowden flew to Hong Kong, and in early June he revealed thousands of classified NSA documents to journalists Glenn Greenwald, Laura Poitras, Barton Gellman, and Ewen MacAskill. His disclosures revealed numerous global surveillance programs, many run by the NSA and the Five Eyes intelligence alliance with the cooperation of telecommunications companies and European governments, and prompted a cultural discussion about national security and individual privacy.\nOn June 21, 2013, the United States Department of Justice unsealed charges against Snowden on two counts of violating the Espionage Act of 1917 and theft of government property, following which the Department of State revoked his passport. He stayed in Sheremetyevo International Airport in Moscow for a month before being granted asylum. He became a naturalized Russian citizen in 2022.\nIn early 2016, Snowden became the president of the Freedom of the Press Foundation, a San Francisco–based nonprofit organization that aims to protect journalists from hacking and government surveillance. He also has a job at an unnamed Russian IT company. In 2017, he married Lindsay Mills. On September 17, 2019, his memoir Permanent Record was published. On September 2, 2020, the United States Court of Appeals for the Ninth Circuit ruled in United States v. Moalin that one of the U.S. intelligence's mass surveillance programs exposed by Snowden was illegal and possibly unconstitutional."
+}

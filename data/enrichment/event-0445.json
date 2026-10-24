@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0445",
+  "source": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+  "revisionId": 1379519083,
+  "fetchedAt": "2026-10-24T10:44:19.529Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mortgage_delinquencies_by_loan_type_%282000%E2%80%932010%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mortgage_delinquencies_by_loan_type_%282000%E2%80%932010%29.svg/960px-Mortgage_delinquencies_by_loan_type_%282000%E2%80%932010%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mortgage_delinquencies_by_loan_type_%282000%E2%80%932010%29.svg/330px-Mortgage_delinquencies_by_loan_type_%282000%E2%80%932010%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mortgage_delinquencies_by_loan_type_(2000%E2%80%932010).svg",
+      "artist": "Isochrone",
+      "credit": "Own work using: Financial Crisis Inquiry Report, p. 217 and National Delinquency Survey 2010, p. 3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

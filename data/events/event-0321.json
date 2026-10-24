@@ -5,7 +5,7 @@
   "slug": "haitian-revolution",
   "status": "review",
   "name": "Haitian Revolution",
-  "short_desc": null,
+  "short_desc": "The Haitian Revolution overthrew slavery and French colonial rule in Saint-Domingue, leading to Haitian independence in 1804.",
   "long_desc": null,
   "start": 1791,
   "end": 1804,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Revolutionary conflict from 1791 to independence in 1804. The original pinned 2015 Wikipedia revision and its cached text are retained.",
   "places": [
     "place-d090b87e4a3b"
   ],

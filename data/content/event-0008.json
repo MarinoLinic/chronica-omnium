@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0008",
-  "text": "The Late Heavy Bombardment (LHB), or lunar cataclysm, is a hypothesized event thought to have occurred approximately 4.1 to 3.8 billion years (Ga) ago, at a time corresponding to the Neohadean and Eoarchean eras on Earth. According to the hypothesis, during this interval, a disproportionately large number of asteroids and comets collided with the early terrestrial planets in the inner Solar System, including Mercury, Venus, Earth and Mars. These came from both post-accretion and planetary instability-driven populations of impactors.  Although widely accepted, it remains difficult to prove conclusively.\n\nEvidence for the LHB derives from rock samples of Moon craters brought back by the Apollo astronauts. Isotopic dating showed that the rocks were last molten during impact events in a rather narrow interval of time, suggesting that a large proportion of craters were formed during this period. Several hypotheses attempt to explain this apparent spike in the flux of impactors in the inner Solar System, but no consensus yet exists. The Nice model, popular among planetary scientists, postulates that the giant planets underwent orbital migration, scattering objects from the asteroid belt, Kuiper belt, or both, into eccentric orbits, and into the path of the terrestrial planets.\n\nOther researchers doubt the heavy bombardment, arguing that the apparent clustering of lunar impact-melt ages is a statistical artifact produced by sampling rocks scattered from a single large impact. They also note that the rate of impact cratering could differ significantly between the outer and inner zones of the Solar System.\n\n",
   "source": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Late Heavy Bombardment",
+  "revisionId": 1377677077,
+  "revisionTimestamp": "2026-09-30T14:23:37Z",
+  "fetchedAt": "2026-10-24T10:40:26.304Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Late Heavy Bombardment (LHB), or lunar cataclysm, is a hypothesized astronomical event thought to have occurred approximately 4.1 to 3.8 billion years (Ga) ago, at a time corresponding to the Neohadean and Eoarchean eras on Earth. According to the hypothesis, during this interval, a disproportionately large number of asteroids and comets collided into the terrestrial planets and their natural satellites in the inner Solar System, including Mercury, Venus, Earth (and the Moon) and Mars. These came from both post-accretion and planetary instability-driven populations of impactors.\nEvidence for the LHB derives from Moon rock samples of Lunar craters brought back by the Apollo program astronauts. Isotopic dating showed that the rocks were last molten during impact events in a rather narrow interval of time, suggesting that a large proportion of craters were formed during this period. Several hypotheses attempt to explain this apparent spike in the flux of impactors in the inner Solar System, but no consensus yet exists. The Nice model, popular among planetary scientists, postulates that the giant planets underwent orbital migration, scattering objects from the asteroid belt, Kuiper belt, or both, into eccentric orbits and into the path of the terrestrial planets.  \nOther researchers doubt the heavy bombardment, arguing for example that the apparent clustering of lunar impact-melt ages is a statistical artifact produced by sampling rocks scattered from a single large impact. A range of evidence suggests that there may instead have been a more extended period of lunar bombardment, lasting from approximately 4.2 billion years ago to 3.5 billion years ago.\nThe existence of the LHB was once widely accepted by the academic community but is now debated; definitive evidence either way remains elusive."
 }

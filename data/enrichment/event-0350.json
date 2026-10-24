@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0350",
+  "source": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+  "revisionId": 1381217103,
+  "fetchedAt": "2026-10-24T10:43:11.812Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/StalinCropped1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/960px-StalinCropped1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/StalinCropped1943.jpg/330px-StalinCropped1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg",
+      "artist": "Franklin D. Roosevelt Library Public Domain Photographs",
+      "credit": "https://www.flickr.com/photos/fdrlibrary/5692883651/in/photolist-9F4vYp-22ae5pb-pJ7JqW-K3WmE1-aLPLs-6Vabay-NqPyuh-HWjDm-c6vbJb-6nB5GV-2nz3Z3L-2ng3EXs-jPHsby-2mjXbtV-2mk35mZ-2mk1R6S-N3mAhq-badiTV-Tbz48z-8FEJKL-cW5Ai3-6DbnWC-2mk2hny-8r4J3U-rf4YtS-2mk2dbs-Pc4H6w-c7JERw-2mjTwCr-2mk2fmV-2mk33V2-2mjYipt-2mk27yL-c6v3hU-puHocy-2mjXmTY-2mjYHHd-2mk23wn-2mjTgEF-2mjTmiZ-2mk3cUj-2mk23vR-2mjYxkK-2mjX2vj-2mjTfnq-2mk3746-2mjYpQV-2mk33Uv-9qqUDz-2mawZaz",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

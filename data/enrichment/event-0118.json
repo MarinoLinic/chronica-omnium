@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0118",
+  "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+  "revisionId": 1381712079,
+  "fetchedAt": "2026-10-24T10:40:49.529Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Empire_akkad.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/960px-Empire_akkad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/330px-Empire_akkad.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Empire_akkad.svg",
+      "artist": "Middle_East_topographic_map-blank.svg: Sémhur (talk)\nderivative work: Zunkir (talk)",
+      "credit": "Middle_East_topographic_map-blank.svg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

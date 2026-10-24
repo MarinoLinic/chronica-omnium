@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0017",
+  "source": "https://en.wikipedia.org/wiki/Sarcopterygii",
+  "revisionId": 1369315573,
+  "fetchedAt": "2026-10-24T10:40:28.955Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Sarcopterygii.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Sarcopterygii.png/960px-Sarcopterygii.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Sarcopterygii.png/330px-Sarcopterygii.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sarcopterygii.png",
+      "artist": "User:ArthurWeasley\nUser:Bruce A.S.Henderson\nUser:Mitch Ames\nUser:DiBgd",
+      "credit": "File:Guiyu BW.jpg\nFile:Coelacanth off Pumula on the KwaZulu-Natal South Coast, South Africa, on 22 November 2019.png\nFile:Neoceratodus forsteri, 2014-09-19.JPG\nFile:Panderichthys12DB.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

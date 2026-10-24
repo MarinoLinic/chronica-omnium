@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0029",
+  "source": "https://en.wikipedia.org/wiki/Graecopithecus",
+  "revisionId": 1375294740,
+  "fetchedAt": "2026-10-24T10:36:35.612Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Graecopithecus_%28from_PLoS_ONE%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Graecopithecus_%28from_PLoS_ONE%29.jpg/960px-Graecopithecus_%28from_PLoS_ONE%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Graecopithecus_%28from_PLoS_ONE%29.jpg/330px-Graecopithecus_%28from_PLoS_ONE%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Graecopithecus_(from_PLoS_ONE).jpg",
+      "artist": "Jochen Fuss, Nikolai Spassov, David R. Begun, Madelaine Böhme",
+      "credit": "https://doi.org/10.1371/journal.pone.0177127.g001 (Fig. 1)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

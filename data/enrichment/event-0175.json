@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0175",
+  "source": "https://en.wikipedia.org/wiki/Caesar's_civil_war",
+  "revisionId": 1379359052,
+  "fetchedAt": "2026-10-24T10:41:19.701Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Map_of_the_Ancient_Rome_at_Caesar_time_%28with_conquests%29-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Map_of_the_Ancient_Rome_at_Caesar_time_%28with_conquests%29-en.svg/960px-Map_of_the_Ancient_Rome_at_Caesar_time_%28with_conquests%29-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Map_of_the_Ancient_Rome_at_Caesar_time_%28with_conquests%29-en.svg/330px-Map_of_the_Ancient_Rome_at_Caesar_time_%28with_conquests%29-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Ancient_Rome_at_Caesar_time_(with_conquests)-en.svg",
+      "artist": "User:Historicair,  Ifly6",
+      "credit": "Own work based on: Map of the Ancient Rome at Caesar time (with conquests)-fr.svg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

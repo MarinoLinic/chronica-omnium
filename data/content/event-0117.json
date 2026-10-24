@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0117",
-  "text": "Sargon of Akkad (/ˈsɑːrɡɒn/; Akkadian: 𒊬𒊒𒄀 Šarrugi), also known as Sargon the Great, was the first ruler of the Akkadian Empire, known for his conquests of the Sumerian city-states in the 24th to 23rd centuries BC. He is sometimes identified as the first person in recorded history to rule over an empire.\n\nHe was the founder of the \"Sargonic\" or \"Old Akkadian\" dynasty, which ruled for about a century after his death until the Gutian conquest of Sumer.\nThe Sumerian king list makes him the cup-bearer to king Ur-Zababa of Kish.\n\nHis empire is thought to have included most of Mesopotamia, parts of the Levant, besides incursions into Hurrian and Elamite territory, ruling from his (archaeologically as yet unidentified) capital, Akkad (also Agade).\n\nSargon appears as a legendary figure in Neo-Assyrian literature of the 8th to 7th centuries BC.\nTablets with fragments of a Sargon Birth Legend were found in the Library of Ashurbanipal.\n\n",
   "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Sargon of Akkad",
+  "revisionId": 1380099834,
+  "revisionTimestamp": "2026-10-13T19:57:11Z",
+  "fetchedAt": "2026-10-24T10:40:48.750Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sargon of Akkad (; Akkadian: 𒊬𒊒𒄀, romanized: Šarrugi; died c. 2279 BC), also known as Sargon the Great, was the first ruler of the Akkadian Empire, known for his conquests of the Sumerian city-states in the 24th to 23rd centuries BC. He is sometimes identified as the first person in recorded history to rule over an empire.\nHe was the founder of the \"Sargonic\" or \"Old Akkadian\" dynasty, which ruled for about a century after his death until the Gutian conquest of Sumer.\nThe Sumerian King List makes him the cup-bearer to King Ur-Zababa of Kish before becoming king himself.\nHis empire, which he ruled from his archaeologically as-yet-unidentified capital, Akkad, is thought to have included most of Mesopotamia and parts of the Levant, Hurrian and Elamite territory.\nSargon appears as a legendary figure in Neo-Assyrian literature of the 8th to 7th centuries BC. Tablets with fragments of a Sargon Birth Legend were found in the Library of Ashurbanipal."
 }

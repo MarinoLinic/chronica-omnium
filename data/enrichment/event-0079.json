@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0079",
+  "source": "https://en.wikipedia.org/wiki/Swastika",
+  "revisionId": 1381597661,
+  "fetchedAt": "2026-10-24T10:40:34.836Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Four-swastika_collage_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/960px-Four-swastika_collage_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/330px-Four-swastika_collage_%28transparent%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Four-swastika_collage_(transparent).png",
+      "artist": "MennasDosbin",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

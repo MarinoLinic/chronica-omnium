@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0279",
+  "source": "https://en.wikipedia.org/wiki/European_maritime_exploration_of_Australia",
+  "revisionId": 1372927814,
+  "fetchedAt": "2026-10-24T10:42:19.534Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Duyfken_Replica_Under_Sail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Duyfken_Replica_Under_Sail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Duyfken_Replica_Under_Sail.jpg/330px-Duyfken_Replica_Under_Sail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Duyfken_Replica_Under_Sail.jpg",
+      "artist": "Rupert Gerritsen",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

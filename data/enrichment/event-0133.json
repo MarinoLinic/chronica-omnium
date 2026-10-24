@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0133",
+  "source": "https://en.wikipedia.org/wiki/Greek_Dark_Ages",
+  "revisionId": 1379302958,
+  "fetchedAt": "2026-10-24T10:40:59.645Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg/960px-Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg/330px-Graecia_tempore_Migrationis_Doricae%2C_circa_1000_an1803520899589105332011676031.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Graecia_tempore_Migrationis_Doricae,_circa_1000_an1803520899589105332011676031.jpg",
+      "artist": "Author\tSpruner von Merz, Karl, 1803-1892\n\nDate\t1855",
+      "credit": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~357694~90124542:Graecia-tempore-Migrationis-Doricae",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

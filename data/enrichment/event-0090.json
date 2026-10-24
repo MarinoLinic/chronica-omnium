@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0090",
+  "source": "https://en.wikipedia.org/wiki/Prehistoric_Egypt",
+  "revisionId": 1380564548,
+  "fetchedAt": "2026-10-24T10:40:35.917Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Predynastic_collage_%28new_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Predynastic_collage_%28new_version%29.jpg/960px-Predynastic_collage_%28new_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Predynastic_collage_%28new_version%29.jpg/330px-Predynastic_collage_%28new_version%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Predynastic_collage_(new_version).jpg",
+      "artist": "Collage of:Image:Diorite Vase Neqada II Predynastic Ancient Egypt Field Museum.jpg by User:Madman2001, Image:Egypte louvre 322.jpg and Image:Egypte louvre 314.jpg by User:Borislav, Image:Egypte louvre 316.jpg by [[fr:Utilisateur:Aoineko]] (Guillaume Blanchard), Image:PredynasticFemaleFigurine BrooklynMuseum.png by User:Captmondo, and Image:Louvre-antiquites-egyptiennes-p1020364.jpg by User:Rama",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

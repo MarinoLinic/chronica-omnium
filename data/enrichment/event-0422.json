@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0422",
+  "source": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
+  "revisionId": 1379434989,
+  "fetchedAt": "2026-10-24T10:32:30.894Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg/960px-Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg/330px-Eliezer_Yudkowsky%2C_Stanford_2006_%28square_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Eliezer_Yudkowsky,_Stanford_2006_(square_crop).jpg",
+      "artist": "\"null0\"",
+      "credit": "https://www.flickr.com/photos/null0/272008489/",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": ""
+    }
+  }
+}

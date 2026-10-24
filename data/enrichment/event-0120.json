@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0120",
+  "source": "https://en.wikipedia.org/wiki/Assyria",
+  "revisionId": 1381088511,
+  "fetchedAt": "2026-10-24T10:40:50.856Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ashur_symbol_Nimrud.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ashur_symbol_Nimrud.png/960px-Ashur_symbol_Nimrud.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ashur_symbol_Nimrud.png/330px-Ashur_symbol_Nimrud.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ashur_symbol_Nimrud.png",
+      "artist": "Austen Henry Layard (1817–1894)",
+      "credit": "Austen Henry Layard (1867) Nineveh and its Remains",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

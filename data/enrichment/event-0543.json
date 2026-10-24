@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0543",
+  "source": "https://en.wikipedia.org/wiki/Galactic_year",
+  "revisionId": 1374681327,
+  "fetchedAt": "2026-10-24T10:44:31.698Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Milky_Way_Arms_ssc2008-10.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Milky_Way_Arms_ssc2008-10.svg/960px-Milky_Way_Arms_ssc2008-10.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Milky_Way_Arms_ssc2008-10.svg/330px-Milky_Way_Arms_ssc2008-10.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Milky_Way_Arms_ssc2008-10.svg",
+      "artist": "File:Artist’s impression of the Milky Way.jpg: NASA/JPL-Caltech/ESO/R. Hurt\nderivative work: Cmglee",
+      "credit": "File:Artist’s impression of the Milky Way.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0554",
+  "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+  "revisionId": 1376908001,
+  "fetchedAt": "2026-10-24T10:24:47.455Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nordic_Bronze_Age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nordic_Bronze_Age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nordic_Bronze_Age.png/330px-Nordic_Bronze_Age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Nordic_Bronze_Age.png",
+      "artist": "Wiglaf",
+      "credit": "Own work based on: Europe plain rivers.png and the Harper Atlas of World History (ed. Vidal-Naquet) in Swedish translation: Atlas över mänsklighetens historia.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

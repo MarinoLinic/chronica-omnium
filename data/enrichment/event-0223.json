@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0223",
+  "source": "https://en.wikipedia.org/wiki/Song_dynasty",
+  "revisionId": 1380774041,
+  "fetchedAt": "2026-10-24T10:41:37.882Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/China_-_Song_Dynasty-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/960px-China_-_Song_Dynasty-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/330px-China_-_Song_Dynasty-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-en.svg",
+      "artist": "China - Song Dynasty - cs.svg: User:Mozzan\n\nderivative work: Kanguole",
+      "credit": "China 11a.jpg: User:LiDaobing based on Tan Qixiang (ed.), Zhongguo lishi ditu (中国历史地图集; 1982)\nChina - Song Dynasty - cs.svg: User:Mozzan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

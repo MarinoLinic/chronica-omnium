@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0036",
-  "text": "Lomekwi 3 is the name of an archaeological site in Kenya where ancient stone tools have been discovered  dating to 3.3 million years ago, which make them the oldest ever found.\n\n",
   "source": "https://en.wikipedia.org/wiki/Lomekwi",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Lomekwi",
+  "revisionId": 1378607817,
+  "revisionTimestamp": "2026-10-05T05:03:33Z",
+  "fetchedAt": "2026-10-24T10:36:37.481Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Lomekwi is an archaeological site located on the west bank of Lake Turkana in Kenya. It is an important milestone in the history of human archaeology. An archaeological team from Stony Brook University in the United States discovered traces of Lomekwi by chance in July 2011, and made substantial progress with four years of in-depth excavations.\nArtifacts excavated from Lomekwi date back to 3.3 million years ago, extending the history of human ancestral use and tool making about 500,000 years further than previously known. The most conspicuous among these cultural relics is a large stone tool with obvious traces of processing by human forebears. It looks like a cutting board, but its exact purpose is not clear.\nThe artifacts from Lomekwi have a unique production method and are of independent production style. The archaeological team calls it Lomekwian. The Lomekwi 3 tools suggest that early hominins possessed basic perceptual, motor and problem-solving abilities involved in selecting and manipulating stone materials. Some Lomekwian techniques may have required greater cognitive control than simple stone-pounding behaviours observed in non-human primates. However, early stone-tool production does not necessarily imply modern human-like cognition or high-fidelity cultural transmission, as simple knapping techniques may also be individually rediscovered."
 }

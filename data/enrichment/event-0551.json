@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0551",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+  "revisionId": 1377862448,
+  "fetchedAt": "2026-10-24T10:24:45.494Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Servian_Wall-Termini_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Servian_Wall-Termini_Station.jpg/960px-Servian_Wall-Termini_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Servian_Wall-Termini_Station.jpg/330px-Servian_Wall-Termini_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Servian_Wall-Termini_Station.jpg",
+      "artist": "",
+      "credit": "",
+      "license": "CC SA 1.0",
+      "licenseUrl": "http://creativecommons.org/licenses/sa/1.0/",
+      "attribution": ""
+    }
+  }
+}

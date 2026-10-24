@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0266",
+  "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+  "revisionId": 1380449785,
+  "fetchedAt": "2026-10-24T10:42:11.415Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Siegeofvienna1529.jpg/330px-Siegeofvienna1529.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Siegeofvienna1529.jpg",
+      "artist": "Bartel Beham",
+      "credit": "Wien Museum, MMW 097022",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

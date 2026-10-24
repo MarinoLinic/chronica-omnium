@@ -8,6 +8,19 @@ export function localEditor() {
   return {
     name: 'chronica-local-editor',
     configureServer(server) {
+      // Buffer small generated JSON responses instead of leaving a static-file
+      // stream open after aborted navigation on Windows. This permits atomic
+      // editor rebuilds while reader tabs are open.
+      server.middlewares.use(async (req,res,next)=>{
+        const pathname=new URL(req.url,'http://localhost').pathname;
+        if(!['GET','HEAD'].includes(req.method)||!/^\/data\/(?:events\/event-\d{4,}|catalog|time-scales|countries|places)\.json$/.test(pathname))return next();
+        try {
+          const bytes=await readFile(at('public',pathname.slice(1)));
+          res.setHeader('Content-Type','application/json; charset=utf-8');
+          res.setHeader('Cache-Control','no-store');
+          res.end(req.method==='HEAD'?undefined:bytes);
+        }catch(error){if(error.code==='ENOENT')return next();res.statusCode=500;res.end('Generated data could not be read. Rebuild the catalog.');}
+      });
       server.middlewares.use('/_local/catalog', async (req, res) => {
         res.setHeader('Content-Type', 'application/json; charset=utf-8')
         res.setHeader('Cache-Control', 'no-store')

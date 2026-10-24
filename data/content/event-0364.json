@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0364",
-  "text": "The Mensheviks (Russian: меньшевики́, romanized: mensheviki, from меньшинство, menshynstvo, 'minority') were a left-wing socialist faction of the Russian Social Democratic Labour Party (RSDLP) within the Russian socialist movement. The other significant faction were the Bolsheviks.\n\nThe factions emerged in 1903 following a dispute within the Russian Social Democratic Labour Party (RSDLP) between Julius Martov and Vladimir Lenin. The dispute originated at the 2nd Congress of the RSDLP, ostensibly over minor issues of party organization. Martov's supporters, who were in the minority in a crucial vote on the question of party membership, came to be called Mensheviks, derived from the Russian меньшинство ('minority'), while Lenin's adherents were known as Bolsheviks, from большинство ('majority').\n\nDespite the naming, neither side held a consistent majority over the course of the entire 2nd Congress, and indeed the numerical advantage fluctuated between both sides throughout the rest of the RSDLP's existence until the Russian Revolution. The split proved to be long-standing and had to do both with pragmatic issues based in history, such as the failed Revolution of 1905 and theoretical issues of class leadership, class alliances and interpretations of historical materialism. While both factions believed that a proletarian revolution was necessary, the Mensheviks generally tended to be more moderate, and more positive towards the liberal opposition and the peasant-based Socialist Revolutionary Party.\n\n",
   "source": "https://en.wikipedia.org/wiki/Mensheviks",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Mensheviks",
+  "revisionId": 1369405106,
+  "revisionTimestamp": "2026-08-14T19:43:58Z",
+  "fetchedAt": "2026-10-24T10:43:21.096Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Mensheviks were a faction of the Marxist Russian Social Democratic Labour Party (RSDLP) which split with Vladimir Lenin's Bolshevik faction at the Second Party Congress in 1903. Mensheviks held more moderate and reformist views as compared to the Bolsheviks, and were led by figures including Julius Martov and Pavel Axelrod.\nThe initial point of disagreement was the Mensheviks' support for a broad party membership, as opposed to Lenin's support for a smaller party of professional revolutionaries. The Bolsheviks gained a majority on the Central Committee in 1903, although the power of the two factions fluctuated in the following years. Mensheviks were associated with Georgi Plekhanov's position that a bourgeois-democratic revolution and period of capitalism would need to occur before the conditions for a socialist revolution emerged. Some Mensheviks, notably Alexander Potresov, called for the party to suspend illegal revolutionary work to focus more on trade union work (legal since 1906) and elections to the Duma; this was condemned by Lenin.\nIn 1912, the RSDLP formally split into Bolshevik and Menshevik parties."
 }

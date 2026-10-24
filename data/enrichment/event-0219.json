@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0219",
+  "source": "https://en.wikipedia.org/wiki/Kievan_Rus'",
+  "revisionId": 1379211684,
+  "fetchedAt": "2026-10-24T10:41:35.439Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Location_of_Kyivan_Rus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Location_of_Kyivan_Rus.png/960px-Location_of_Kyivan_Rus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Location_of_Kyivan_Rus.png/330px-Location_of_Kyivan_Rus.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Location_of_Kyivan_Rus.png",
+      "artist": "Vitaliyf261",
+      "credit": "Own work.\n\nCompare: Plokhy, Serhii (2006)       The Origins of the Slavic Nations: Premodern Identities in Russia, Ukraine, and Belarus, Category:New York:  Cambridge University Press, p. xiv  ISBN:  978-0-521-86403-9.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

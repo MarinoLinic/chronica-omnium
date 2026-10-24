@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0379",
+  "source": "https://en.wikipedia.org/wiki/League_of_Nations",
+  "revisionId": 1380525328,
+  "fetchedAt": "2026-10-24T10:43:32.512Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/960px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_League_of_Nations_(1939).svg",
+      "artist": "Martin Grandjean\n\n This W3C-unspecified vector image was created with Inkscape .",
+      "credit": "Strictly based on a flag kept by the League of Nations Archives (United Nations Geneva).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

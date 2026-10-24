@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0435",
+  "source": "https://en.wikipedia.org/wiki/Euromaidan",
+  "revisionId": 1372581234,
+  "fetchedAt": "2026-10-24T10:44:12.424Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Euromaidan_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/960px-Euromaidan_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/330px-Euromaidan_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Euromaidan_collage.jpg",
+      "artist": "Lystopad",
+      "credit": "Composed by Lystopad. The photos made:File:Euroaidan 2013 Mstyslav Chernov-11.jpg by Mstyslav ChernovFile:Ruslana reading out an official resolution of Euromaidan.jpg by Ivan BanduraFile:Euromaidan 03.JPG by Feldsparta4File:Euromaidan Kyiv 1-12-13 by Gnatoush 009.jpg by Nessa GnatoushFile:Євромайдан, Київ (72).JPG by SergentoFile:Cityhallhose.JPG by Smerus]File:Euromaidan in Kyiv early evening 2013-12-10 (020).JPG by BaseSat",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

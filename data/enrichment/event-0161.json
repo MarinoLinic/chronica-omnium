@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0161",
+  "source": "https://en.wikipedia.org/wiki/Parthian_Empire",
+  "revisionId": 1380314542,
+  "fetchedAt": "2026-10-24T10:41:13.918Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/960px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/330px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Parthian_Empire_under_Mithridates_II.svg",
+      "artist": "Original file by Ro4444, edited by me",
+      "credit": "Own work using:\n\nSources I listed at en:w:Talk:Parthian_Empire/Archive_1#Boundaries_on_the_map, too lazy to write them down here at the moment.\nThe Iranian Expanse by Canepa\nOlbrycht, Marek Jan 2009. \"Mithridates VI Eupator and Iran, pp. 164–166, 170–171\nOlbrycht, Marek Jan (2010). \"The early reign of Mithradates II the Great in Parthia\". pp. 151–153\nShayegan, M. Rahim (2011). Arsacids and Sasanians: Political Ideology in Post-Hellenistic and Late Antique Persia. pp. 116–118, 168\nKia, Mehrdad (2016). The Persian Empire: A Historical Encyclopedia [2 volumes]: A Historical Encyclopedia. pp. 55, 186 (need to find a better source to replace this in the future though).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

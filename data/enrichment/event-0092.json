@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0092",
+  "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
+  "revisionId": 1380716132,
+  "fetchedAt": "2026-10-24T10:40:36.442Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/93/T%C3%B6pferscheibe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/T%C3%B6pferscheibe.jpg/960px-T%C3%B6pferscheibe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/T%C3%B6pferscheibe.jpg/330px-T%C3%B6pferscheibe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:T%C3%B6pferscheibe.jpg",
+      "artist": "Oliver Kurmis",
+      "credit": "Self-photographed",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

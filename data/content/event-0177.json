@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0177",
-  "text": "Julius Caesar, was  assassinated by a group of senators on the Ides of March (15 March) of 44 BC during a meeting of the Senate at the Curia of Pompey of the Theatre of Pompey in Rome where the senators stabbed Caesar 23 times. They claimed to be acting over fears that Caesar's unprecedented concentration of power during his dictatorship was undermining the Roman Republic. At least 60 to 70 senators were party to the conspiracy, led by Marcus Junius Brutus, Gaius Cassius Longinus, and Decimus Junius Brutus Albinus. Despite the death of Caesar, the conspirators were unable to restore the institutions of the Republic. The ramifications of the assassination led to the Liberators' civil war and ultimately to the Principate period of the Roman Empire.\n\n",
   "source": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Assassination of Julius Caesar",
+  "revisionId": 1379005208,
+  "revisionTimestamp": "2026-10-07T09:26:23Z",
+  "fetchedAt": "2026-10-24T10:41:21.038Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Julius Caesar, the Roman dictator, was assassinated on the Ides of March (15 March), 44 BC, by a group of senators during a Senate session at the Curia of Pompey, located within the Theatre of Pompey in Rome. The conspirators, numbering 60 individuals and led by Marcus Junius Brutus, Gaius Cassius Longinus, and Decimus Junius Brutus Albinus, stabbed Caesar approximately 23 times. They justified the act as a defense of the Roman Republic, asserting that Caesar's accumulation of lifelong political authority—including his perpetual dictatorship and other honors—threatened republican traditions. The assassination failed to achieve its immediate objective of restoring the Republic's institutions. Instead, it precipitated Caesar's posthumous deification and was followed by the Liberators' civil war (43–42 BC) between his supporters and the conspirators, which became a stage in the collapse of the Republic. These events ultimately culminated in the rise of the Roman Empire under Augustus, marking the beginning of the Principate era.\n\n"
 }

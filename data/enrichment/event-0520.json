@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0520",
+  "source": "https://en.wikipedia.org/wiki/Kuomintang",
+  "revisionId": 1381547874,
+  "fetchedAt": "2026-10-24T10:24:33.324Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Emblem_of_the_Kuomintang.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/960px-Emblem_of_the_Kuomintang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/330px-Emblem_of_the_Kuomintang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Kuomintang.svg",
+      "artist": "see above",
+      "credit": "Drawn and originally uploaded onto English Wikipedia by Zscout370, then modified by Laurent1979 based on the official KMT website logo.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

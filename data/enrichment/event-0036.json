@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0036",
+  "source": "https://en.wikipedia.org/wiki/Lomekwi",
+  "revisionId": 1378607817,
+  "fetchedAt": "2026-10-24T10:36:37.481Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lake_turkana_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lake_turkana_satellite.jpg/960px-Lake_turkana_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Lake_turkana_satellite.jpg/330px-Lake_turkana_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_turkana_satellite.jpg",
+      "artist": "Photograph:  NASA",
+      "credit": "NASA World Wind",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

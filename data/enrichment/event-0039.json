@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0039",
+  "source": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans",
+  "revisionId": 1381245375,
+  "fetchedAt": "2026-10-24T10:36:38.464Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Font-de-Gaume.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/960px-Font-de-Gaume.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/330px-Font-de-Gaume.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Font-de-Gaume.jpg",
+      "artist": "Charles Robert Knight",
+      "credit": "http://birdbookerreport.blogspot.com/2012/01/new-title_30.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

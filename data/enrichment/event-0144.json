@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0144",
+  "source": "https://en.wikipedia.org/wiki/Yahwism",
+  "revisionId": 1381188837,
+  "fetchedAt": "2026-10-24T10:41:04.357Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Ajrud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ajrud.jpg/960px-Ajrud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ajrud.jpg/330px-Ajrud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ajrud.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Kuntilat Ajrud",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

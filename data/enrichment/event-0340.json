@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0340",
+  "source": "https://en.wikipedia.org/wiki/Ku_Klux_Klan",
+  "revisionId": 1381153639,
+  "fetchedAt": "2026-10-24T10:43:06.198Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Emblem_of_the_Ku_Klux_Klan.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Emblem_of_the_Ku_Klux_Klan.svg/960px-Emblem_of_the_Ku_Klux_Klan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Emblem_of_the_Ku_Klux_Klan.svg/330px-Emblem_of_the_Ku_Klux_Klan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Ku_Klux_Klan.svg",
+      "artist": "Original: KAMiKAZOW Vector:  Estoves",
+      "credit": "KKK-symbol.jpg vectorized using Inkscape",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

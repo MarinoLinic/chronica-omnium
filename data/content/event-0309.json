@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0309",
-  "text": "The Rothschild family (/ˈrɒθ(s)tʃaɪld/ ROTH(S)-chylde, German: ) is a wealthy Ashkenazi Jewish family originally from Frankfurt that rose to prominence with Mayer Amschel Rothschild (1744–1812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Unlike most previous court factors, Rothschild managed to bequeath his wealth and established an international banking family through his five sons, who established businesses in London, Paris, Frankfurt, Vienna, and Naples. The family was elevated to noble rank in the Holy Roman Empire and the United Kingdom. The family's documented history starts in 16th century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567.\n\nDuring the 19th century, the Rothschild family possessed the largest private fortune in the world, as well as in modern world history. The family's wealth declined over the 20th century, and was divided among many descendants. Today, their interests cover a diverse range of fields, including financial services, real estate, mining, energy, agriculture, winemaking, and nonprofits. Many examples of the family's rural architecture exist across northwestern Europe. The Rothschild family has frequently been the subject of conspiracy theories, many of which have antisemitic origins.\n\n",
   "source": "https://en.wikipedia.org/wiki/Rothschild_family",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Rothschild family",
+  "revisionId": 1379015371,
+  "revisionTimestamp": "2026-10-07T11:23:41Z",
+  "fetchedAt": "2026-10-24T10:42:38.238Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Rothschild family (Hebrew: משפחת רוטשילד) is a wealthy Ashkenazi Jewish noble banking family originally from Frankfurt, Germany. The family's documented history starts in 16th-century Frankfurt; its name is derived from the family house, Rothschild, built by Isaak Elchanan Bacharach in Frankfurt in 1567. The family rose to prominence with Mayer Amschel Rothschild (1744–1812), a court factor to the German Landgraves of Hesse-Kassel in the Free City of Frankfurt, Holy Roman Empire, who established his banking business in the 1760s. Unlike most previous court factors, Rothschild managed to bequeath his wealth and establish an international banking family through his five sons, who established businesses in Paris, Frankfurt, London, Vienna, and Naples. The family was elevated to noble rank in the Holy Roman Empire and the United Kingdom. The only subsisting branches of the family are the French and British ones.\nDuring the 19th century, the Rothschild family possessed the largest private fortune in the world, as well as in modern world history. The Rothschild family dominated international finance in Europe between the 1820s and the 1870s, when their hegemony over European finance was broken by joint-stock banks. The family's wealth declined over the 20th century and was divided among many descendants. Today, their assets cover a diverse range of sectors, including financial services, real estate, mining, energy, agriculture, and winemaking. The family is additionally involved in philanthropic endeavours and funds nonprofits. Many examples of the family's rural architecture exist across northwestern Europe. The Rothschild family has frequently been the subject of antisemitic conspiracy theories.\n\n"
 }

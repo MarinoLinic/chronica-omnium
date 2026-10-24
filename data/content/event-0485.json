@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0485",
+  "source": "https://en.wikipedia.org/wiki/Microscope",
+  "title": "Microscope",
+  "revisionId": 1377490635,
+  "revisionTimestamp": "2026-09-29T17:35:54Z",
+  "fetchedAt": "2026-10-24T10:24:08.732Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "A microscope is a laboratory instrument used to examine objects that are too small to be seen by the naked eye. Microscopy is the science of investigating small objects and structures using a microscope. Microscopic means being invisible to the eye unless aided by a microscope.\nThere are many types of microscopes, and they may be grouped in different ways. One way is to describe the method an instrument uses to interact with a sample and produce images, either by sending a beam of light or electrons through or onto a sample in its optical path, by detecting photon emissions from a sample, or by scanning across and a short distance from the surface of a sample using a probe. The most common microscope (and the first to be invented) is the optical microscope, which uses lenses to refract visible light that passed through a thinly sectioned sample or to refract light reflected from the surface of an object to produce an observable image. Other major types of microscopes are the fluorescence microscope, electron microscope (both the transmission electron microscope and the scanning electron microscope) and various types of scanning probe microscopes.\n\n"
+}

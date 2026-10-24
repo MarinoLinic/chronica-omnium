@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0502",
+  "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+  "revisionId": 1380587160,
+  "fetchedAt": "2026-10-24T10:24:19.578Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/IBM_Simon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f8/IBM_Simon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/IBM_Simon.png/330px-IBM_Simon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:IBM_Simon.png",
+      "artist": "IBM",
+      "credit": "IBM",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

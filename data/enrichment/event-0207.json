@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0207",
+  "source": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+  "revisionId": 1377446266,
+  "fetchedAt": "2026-10-24T10:41:28.035Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Charlemagne_autograph.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/960px-Charlemagne_autograph.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/330px-Charlemagne_autograph.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Charlemagne_autograph.svg",
+      "artist": "Charlemagne",
+      "credit": "Image:Karldergrossesignatur.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

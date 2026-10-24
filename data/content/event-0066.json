@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0066",
+  "source": "https://en.wikipedia.org/wiki/White_Sands_footprints",
+  "title": "White Sands footprints",
+  "revisionId": 1371757009,
+  "revisionTimestamp": "2026-08-28T07:20:43Z",
+  "fetchedAt": "2026-10-24T10:36:45.767Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The White Sands footprints are a set of ancient human footprints discovered in 2009 at White Sands National Park in New Mexico, United States. In 2021 they were radiocarbon dated, based on seeds found in the sediment layers, to between 21,000 and 23,000 years ago. That date range is currently the subject of scientific debate, but if it is correct, the footprints would be possibly the oldest evidence of humans in the Americas. The earlier theory held that human settlement of the Americas began at the end of the last glacial period, about 13,000–16,000 years ago."
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0418",
+  "source": "https://en.wikipedia.org/wiki/Curtis_Yarvin",
+  "revisionId": 1381419952,
+  "fetchedAt": "2026-10-24T10:32:30.427Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Curtis_Yarvin_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Curtis_Yarvin_%284%29.jpg/960px-Curtis_Yarvin_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Curtis_Yarvin_%284%29.jpg/330px-Curtis_Yarvin_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Curtis_Yarvin_(4).jpg",
+      "artist": "Elekes Andor",
+      "credit": "Own work",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

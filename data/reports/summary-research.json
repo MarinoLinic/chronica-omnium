@@ -1,0 +1,3342 @@
+{
+  "reviewedAt": "2026-10-24",
+  "note": "Attributed introductory summaries and general article matches; does not approve existing historical dates.",
+  "results": [
+    {
+      "id": "event-0008",
+      "title": "Late Heavy Bombardment",
+      "source": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
+      "revisionId": 1377677077,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0010",
+      "title": "Virus",
+      "source": "https://en.wikipedia.org/wiki/Virus",
+      "revisionId": 1379186090,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0012",
+      "title": "Eukaryote",
+      "source": "https://en.wikipedia.org/wiki/Eukaryote",
+      "revisionId": 1377320053,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0016",
+      "title": "Cambrian explosion",
+      "source": "https://en.wikipedia.org/wiki/Cambrian_explosion",
+      "revisionId": 1378672162,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0017",
+      "title": "Sarcopterygii",
+      "source": "https://en.wikipedia.org/wiki/Sarcopterygii",
+      "revisionId": 1369315573,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0019",
+      "title": "Pangaea",
+      "source": "https://en.wikipedia.org/wiki/Pangaea",
+      "revisionId": 1376395143,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0022",
+      "title": "Permian–Triassic extinction event",
+      "source": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+      "revisionId": 1381432928,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0033",
+      "title": "Ardipithecus kadabba",
+      "source": "https://en.wikipedia.org/wiki/Ardipithecus_kadabba",
+      "revisionId": 1352558886,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0034",
+      "title": "Ardipithecus ramidus",
+      "source": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
+      "revisionId": 1374935316,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0042",
+      "title": "Homo heidelbergensis",
+      "source": "https://en.wikipedia.org/wiki/Homo_heidelbergensis",
+      "revisionId": 1381530332,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0043",
+      "title": "Denisovan",
+      "source": "https://en.wikipedia.org/wiki/Denisovan",
+      "revisionId": 1381535987,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0058",
+      "title": "Cro-Magnon",
+      "source": "https://en.wikipedia.org/wiki/Cro-Magnon",
+      "revisionId": 1381362746,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0070",
+      "title": "Mal'ta–Buret' culture",
+      "source": "https://en.wikipedia.org/wiki/Mal'ta%E2%80%93Buret'_culture",
+      "revisionId": 1369641323,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0079",
+      "title": "Swastika",
+      "source": "https://en.wikipedia.org/wiki/Swastika",
+      "revisionId": 1381597661,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0087",
+      "title": "History of the Maya civilization",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization",
+      "revisionId": 1302017849,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0090",
+      "title": "Prehistoric Egypt",
+      "source": "https://en.wikipedia.org/wiki/Prehistoric_Egypt",
+      "revisionId": 1380564548,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0092",
+      "title": "Potter's wheel",
+      "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
+      "revisionId": 1380716132,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0093",
+      "title": "Wagon",
+      "source": "https://en.wikipedia.org/wiki/Wagon",
+      "revisionId": 1381375733,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0094",
+      "title": "Early European Farmers",
+      "source": "https://en.wikipedia.org/wiki/Early_European_Farmers",
+      "revisionId": 1378334165,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0097",
+      "title": "Potter's wheel",
+      "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
+      "revisionId": 1380716132,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0098",
+      "title": "Comb Ceramic culture",
+      "source": "https://en.wikipedia.org/wiki/Comb_Ceramic_culture",
+      "revisionId": 1368837873,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0101",
+      "title": "Wagon",
+      "source": "https://en.wikipedia.org/wiki/Wagon",
+      "revisionId": 1381375733,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0106",
+      "title": "Ancient Egypt",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+      "revisionId": 1380651931,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0107",
+      "title": "Lute",
+      "source": "https://en.wikipedia.org/wiki/Lute",
+      "revisionId": 1379021403,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0108",
+      "title": "Camel",
+      "source": "https://en.wikipedia.org/wiki/Camel",
+      "revisionId": 1379374454,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0109",
+      "title": "Corded Ware culture",
+      "source": "https://en.wikipedia.org/wiki/Corded_Ware_culture",
+      "revisionId": 1381228762,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0110",
+      "title": "Stonehenge",
+      "source": "https://en.wikipedia.org/wiki/Stonehenge",
+      "revisionId": 1377824638,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0111",
+      "title": "Bell Beaker culture",
+      "source": "https://en.wikipedia.org/wiki/Bell_Beaker_culture",
+      "revisionId": 1379876104,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0112",
+      "title": "Minoan civilization",
+      "source": "https://en.wikipedia.org/wiki/Minoan_civilization",
+      "revisionId": 1381616567,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0113",
+      "title": "Old Kingdom of Egypt",
+      "source": "https://en.wikipedia.org/wiki/Old_Kingdom_of_Egypt",
+      "revisionId": 1377446505,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0114",
+      "title": "Abacus",
+      "source": "https://en.wikipedia.org/wiki/Abacus",
+      "revisionId": 1380168627,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0115",
+      "title": "Great Pyramid of Giza",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "revisionId": 1378503482,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0116",
+      "title": "Phoenicia",
+      "source": "https://en.wikipedia.org/wiki/Phoenicia",
+      "revisionId": 1380733179,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0117",
+      "title": "Sargon of Akkad",
+      "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+      "revisionId": 1380099834,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0118",
+      "title": "Akkadian Empire",
+      "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+      "revisionId": 1381712079,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0119",
+      "title": "Epic of Gilgamesh",
+      "source": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "revisionId": 1377304124,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0120",
+      "title": "Assyria",
+      "source": "https://en.wikipedia.org/wiki/Assyria",
+      "revisionId": 1381088511,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0121",
+      "title": "Indo-Iranians",
+      "source": "https://en.wikipedia.org/wiki/Indo-Iranians",
+      "revisionId": 1377411448,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0122",
+      "title": "Preclassic Maya",
+      "source": "https://en.wikipedia.org/wiki/Preclassic_Maya",
+      "revisionId": 1378467030,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0123",
+      "title": "Babylonia",
+      "source": "https://en.wikipedia.org/wiki/Babylonia",
+      "revisionId": 1374896813,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0124",
+      "title": "Code of Hammurabi",
+      "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+      "revisionId": 1381233449,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0125",
+      "title": "Wrangel Island",
+      "source": "https://en.wikipedia.org/wiki/Wrangel_Island",
+      "revisionId": 1380827930,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0126",
+      "title": "Mycenaean Greece",
+      "source": "https://en.wikipedia.org/wiki/Mycenaean_Greece",
+      "revisionId": 1379714897,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0127",
+      "title": "Indo-Aryan migrations",
+      "source": "https://en.wikipedia.org/wiki/Indo-Aryan_migrations",
+      "revisionId": 1376537654,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0128",
+      "title": "Musical notation",
+      "source": "https://en.wikipedia.org/wiki/Musical_notation",
+      "revisionId": 1381352253,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0129",
+      "title": "Troy",
+      "source": "https://en.wikipedia.org/wiki/Troy",
+      "revisionId": 1379991372,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0130",
+      "title": "Merneptah Stele",
+      "source": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+      "revisionId": 1378082708,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0131",
+      "title": "Hallstatt culture",
+      "source": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+      "revisionId": 1379919190,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0132",
+      "title": "Late Bronze Age collapse",
+      "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "revisionId": 1381215020,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0133",
+      "title": "Greek Dark Ages",
+      "source": "https://en.wikipedia.org/wiki/Greek_Dark_Ages",
+      "revisionId": 1379302958,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0134",
+      "title": "Kingdom of Judah",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+      "revisionId": 1380597115,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0135",
+      "title": "Neo-Assyrian Empire",
+      "source": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+      "revisionId": 1381556878,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0136",
+      "title": "Homer",
+      "source": "https://en.wikipedia.org/wiki/Homer",
+      "revisionId": 1381696164,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0137",
+      "title": "Kingdom of Israel (Samaria)",
+      "source": "https://en.wikipedia.org/wiki/Kingdom_of_Israel_(Samaria)",
+      "revisionId": 1351791549,
+      "summaryAdded": true,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0139",
+      "title": "Archaic Greece",
+      "source": "https://en.wikipedia.org/wiki/Archaic_Greece",
+      "revisionId": 1379302071,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0140",
+      "title": "Ancient Olympic Games",
+      "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+      "revisionId": 1381347616,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0144",
+      "title": "Yahwism",
+      "source": "https://en.wikipedia.org/wiki/Yahwism",
+      "revisionId": 1381188837,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0145",
+      "title": "Pythagoras",
+      "source": "https://en.wikipedia.org/wiki/Pythagoras",
+      "revisionId": 1379710816,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0146",
+      "title": "The Buddha",
+      "source": "https://en.wikipedia.org/wiki/The_Buddha",
+      "revisionId": 1381286756,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0147",
+      "title": "Sun Tzu",
+      "source": "https://en.wikipedia.org/wiki/Sun_Tzu",
+      "revisionId": 1376671848,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0148",
+      "title": "Confucius",
+      "source": "https://en.wikipedia.org/wiki/Confucius",
+      "revisionId": 1380175775,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0151",
+      "title": "Greco-Persian Wars",
+      "source": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+      "revisionId": 1380112224,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0152",
+      "title": "Classical Greece",
+      "source": "https://en.wikipedia.org/wiki/Classical_Greece",
+      "revisionId": 1381309756,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0153",
+      "title": "Socrates",
+      "source": "https://en.wikipedia.org/wiki/Socrates",
+      "revisionId": 1381188957,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0154",
+      "title": "Peloponnesian War",
+      "source": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+      "revisionId": 1370703840,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0155",
+      "title": "Plato",
+      "source": "https://en.wikipedia.org/wiki/Plato",
+      "revisionId": 1380641527,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0156",
+      "title": "Aristotle",
+      "source": "https://en.wikipedia.org/wiki/Aristotle",
+      "revisionId": 1379112110,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0158",
+      "title": "Wars of Alexander the Great",
+      "source": "https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great",
+      "revisionId": 1380856572,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0159",
+      "title": "Hellenistic Greece",
+      "source": "https://en.wikipedia.org/wiki/Hellenistic_Greece",
+      "revisionId": 1378068578,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0161",
+      "title": "Parthian Empire",
+      "source": "https://en.wikipedia.org/wiki/Parthian_Empire",
+      "revisionId": 1380314542,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0162",
+      "title": "Qin dynasty",
+      "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
+      "revisionId": 1381693970,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0164",
+      "title": "Han dynasty",
+      "source": "https://en.wikipedia.org/wiki/Han_dynasty",
+      "revisionId": 1381694120,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0165",
+      "title": "Silk Road",
+      "source": "https://en.wikipedia.org/wiki/Silk_Road",
+      "revisionId": 1379074984,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0170",
+      "title": "First Triumvirate",
+      "source": "https://en.wikipedia.org/wiki/First_Triumvirate",
+      "revisionId": 1377605834,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0173",
+      "title": "Cleopatra",
+      "source": "https://en.wikipedia.org/wiki/Cleopatra",
+      "revisionId": 1381553273,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0174",
+      "title": "Crossing the Rubicon",
+      "source": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+      "revisionId": 1370206882,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0175",
+      "title": "Caesar's civil war",
+      "source": "https://en.wikipedia.org/wiki/Caesar's_civil_war",
+      "revisionId": 1379359052,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0176",
+      "title": "Julian calendar",
+      "source": "https://en.wikipedia.org/wiki/Julian_calendar",
+      "revisionId": 1380116312,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0177",
+      "title": "Assassination of Julius Caesar",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+      "revisionId": 1379005208,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0188",
+      "title": "History of the Maya civilization",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization",
+      "revisionId": 1302017849,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0192",
+      "title": "Theodosius I",
+      "source": "https://en.wikipedia.org/wiki/Theodosius_I",
+      "revisionId": 1377840833,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0193",
+      "title": "Byzantine Empire",
+      "source": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+      "revisionId": 1381596478,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0196",
+      "title": "Anglo-Saxon settlement of Britain",
+      "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
+      "revisionId": 1379911752,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0198",
+      "title": "Julius Nepos",
+      "source": "https://en.wikipedia.org/wiki/Julius_Nepos",
+      "revisionId": 1380311125,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0199",
+      "title": "Francia",
+      "source": "https://en.wikipedia.org/wiki/Francia",
+      "revisionId": 1380790876,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0200",
+      "title": "Medieval music",
+      "source": "https://en.wikipedia.org/wiki/Medieval_music",
+      "revisionId": 1381608032,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0204",
+      "title": "Western Roman Empire",
+      "source": "https://en.wikipedia.org/wiki/Western_Roman_Empire",
+      "revisionId": 1380364273,
+      "summaryAdded": false,
+      "backgroundSourceAdded": true
+    },
+    {
+      "id": "event-0205",
+      "title": "Muhammad",
+      "source": "https://en.wikipedia.org/wiki/Muhammad",
+      "revisionId": 1380560812,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0206",
+      "title": "History of Islam",
+      "source": "https://en.wikipedia.org/wiki/History_of_Islam",
+      "revisionId": 1381385005,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0207",
+      "title": "Carolingian dynasty",
+      "source": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+      "revisionId": 1377446266,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0208",
+      "title": "Origin of Shia Islam",
+      "source": "https://en.wikipedia.org/wiki/Origin_of_Shia_Islam",
+      "revisionId": 1378552929,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0209",
+      "title": "Umayyad Caliphate",
+      "source": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+      "revisionId": 1381544341,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0210",
+      "title": "Charles Martel",
+      "source": "https://en.wikipedia.org/wiki/Charles_Martel",
+      "revisionId": 1373993236,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0212",
+      "title": "Muslim conquest of the Iberian Peninsula",
+      "source": "https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Iberian_Peninsula",
+      "revisionId": 1380358503,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0213",
+      "title": "Al-Andalus",
+      "source": "https://en.wikipedia.org/wiki/Al-Andalus",
+      "revisionId": 1380661285,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0214",
+      "title": "Reconquista",
+      "source": "https://en.wikipedia.org/wiki/Reconquista",
+      "revisionId": 1381471406,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0215",
+      "title": "Charlemagne",
+      "source": "https://en.wikipedia.org/wiki/Charlemagne",
+      "revisionId": 1381600015,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0216",
+      "title": "Islamic Golden Age",
+      "source": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+      "revisionId": 1381250901,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0217",
+      "title": "Khmer Empire",
+      "source": "https://en.wikipedia.org/wiki/Khmer_Empire",
+      "revisionId": 1378169231,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0219",
+      "title": "Kievan Rus'",
+      "source": "https://en.wikipedia.org/wiki/Kievan_Rus'",
+      "revisionId": 1379211684,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0220",
+      "title": "Oleg the Wise",
+      "source": "https://en.wikipedia.org/wiki/Oleg_the_Wise",
+      "revisionId": 1378837717,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0221",
+      "title": "Maya civilization",
+      "source": "https://en.wikipedia.org/wiki/Maya_civilization",
+      "revisionId": 1378100525,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0223",
+      "title": "Song dynasty",
+      "source": "https://en.wikipedia.org/wiki/Song_dynasty",
+      "revisionId": 1380774041,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0224",
+      "title": "Holy Roman Empire",
+      "source": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+      "revisionId": 1380195473,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0225",
+      "title": "History of Greenland",
+      "source": "https://en.wikipedia.org/wiki/History_of_Greenland",
+      "revisionId": 1365057865,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0227",
+      "title": "Eastern Orthodox Church",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Orthodox_Church",
+      "revisionId": 1380941268,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0228",
+      "title": "Crusades",
+      "source": "https://en.wikipedia.org/wiki/Crusades",
+      "revisionId": 1381209140,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0229",
+      "title": "Genghis Khan",
+      "source": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "revisionId": 1380845473,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0230",
+      "title": "Mongol Empire",
+      "source": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "revisionId": 1379969987,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0231",
+      "title": "Golden Horde",
+      "source": "https://en.wikipedia.org/wiki/Golden_Horde",
+      "revisionId": 1381558248,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0234",
+      "title": "Habsburg monarchy",
+      "source": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
+      "revisionId": 1381710844,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0235",
+      "title": "Ottoman Empire",
+      "source": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+      "revisionId": 1380557792,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0236",
+      "title": "Renaissance",
+      "source": "https://en.wikipedia.org/wiki/Renaissance",
+      "revisionId": 1381289358,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0238",
+      "title": "Black Death",
+      "source": "https://en.wikipedia.org/wiki/Black_Death",
+      "revisionId": 1377102371,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0240",
+      "title": "Ming dynasty",
+      "source": "https://en.wikipedia.org/wiki/Ming_dynasty",
+      "revisionId": 1381579650,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0241",
+      "title": "Renaissance music",
+      "source": "https://en.wikipedia.org/wiki/Renaissance_music",
+      "revisionId": 1370830792,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0242",
+      "title": "Joan of Arc",
+      "source": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+      "revisionId": 1380726695,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0243",
+      "title": "Vlad the Impaler",
+      "source": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+      "revisionId": 1381361506,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0244",
+      "title": "Inca Empire",
+      "source": "https://en.wikipedia.org/wiki/Inca_Empire",
+      "revisionId": 1378979879,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0246",
+      "title": "Christopher Columbus",
+      "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "revisionId": 1380783666,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0247",
+      "title": "Leonardo da Vinci",
+      "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+      "revisionId": 1377616629,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0248",
+      "title": "Fall of Constantinople",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+      "revisionId": 1381601898,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0251",
+      "title": "Niccolò Machiavelli",
+      "source": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "revisionId": 1381312253,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0252",
+      "title": "Nicolaus Copernicus",
+      "source": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "revisionId": 1375851478,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0253",
+      "title": "Michelangelo",
+      "source": "https://en.wikipedia.org/wiki/Michelangelo",
+      "revisionId": 1381504112,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0254",
+      "title": "Martin Luther",
+      "source": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "revisionId": 1381497371,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0255",
+      "title": "European colonization of the Americas",
+      "source": "https://en.wikipedia.org/wiki/European_colonization_of_the_Americas",
+      "revisionId": 1381267096,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0256",
+      "title": "John Calvin",
+      "source": "https://en.wikipedia.org/wiki/John_Calvin",
+      "revisionId": 1371799693,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0257",
+      "title": "Reformation",
+      "source": "https://en.wikipedia.org/wiki/Reformation",
+      "revisionId": 1381545839,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0258",
+      "title": "Ninety-five Theses",
+      "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "revisionId": 1381677968,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0259",
+      "title": "Protestantism",
+      "source": "https://en.wikipedia.org/wiki/Protestantism",
+      "revisionId": 1381177953,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0261",
+      "title": "History of Reformed Christianity",
+      "source": "https://en.wikipedia.org/wiki/History_of_Reformed_Christianity",
+      "revisionId": 1368214330,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0262",
+      "title": "Suleiman the Magnificent",
+      "source": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent",
+      "revisionId": 1379574711,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0263",
+      "title": "Prussia",
+      "source": "https://en.wikipedia.org/wiki/Prussia",
+      "revisionId": 1381267916,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0264",
+      "title": "Atlantic slave trade",
+      "source": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "revisionId": 1381649509,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0265",
+      "title": "Mughal Empire",
+      "source": "https://en.wikipedia.org/wiki/Mughal_Empire",
+      "revisionId": 1381588444,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0266",
+      "title": "Siege of Vienna (1529)",
+      "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+      "revisionId": 1380449785,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0267",
+      "title": "Anglicanism",
+      "source": "https://en.wikipedia.org/wiki/Anglicanism",
+      "revisionId": 1381059734,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0268",
+      "title": "Scientific Revolution",
+      "source": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+      "revisionId": 1381306053,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0269",
+      "title": "Puritans",
+      "source": "https://en.wikipedia.org/wiki/Puritans",
+      "revisionId": 1379183697,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0270",
+      "title": "Galileo Galilei",
+      "source": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "revisionId": 1380533313,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0271",
+      "title": "Polish–Lithuanian Commonwealth",
+      "source": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+      "revisionId": 1381457142,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0272",
+      "title": "Baroque music",
+      "source": "https://en.wikipedia.org/wiki/Baroque_music",
+      "revisionId": 1375381637,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0273",
+      "title": "Common practice period",
+      "source": "https://en.wikipedia.org/wiki/Common_practice_period",
+      "revisionId": 1344124906,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0274",
+      "title": "Gregorian calendar",
+      "source": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+      "revisionId": 1380886632,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0275",
+      "title": "René Descartes",
+      "source": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "revisionId": 1381471270,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0276",
+      "title": "Baroque guitar",
+      "source": "https://en.wikipedia.org/wiki/Baroque_guitar",
+      "revisionId": 1377312666,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0277",
+      "title": "East India Company",
+      "source": "https://en.wikipedia.org/wiki/East_India_Company",
+      "revisionId": 1381706530,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0279",
+      "title": "European maritime exploration of Australia",
+      "source": "https://en.wikipedia.org/wiki/European_maritime_exploration_of_Australia",
+      "revisionId": 1372927814,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0280",
+      "title": "Thirteen Colonies",
+      "source": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+      "revisionId": 1380458739,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0282",
+      "title": "American frontier",
+      "source": "https://en.wikipedia.org/wiki/American_frontier",
+      "revisionId": 1381294458,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0285",
+      "title": "History of the Puritans in North America",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Puritans_in_North_America",
+      "revisionId": 1376022308,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0286",
+      "title": "John Locke",
+      "source": "https://en.wikipedia.org/wiki/John_Locke",
+      "revisionId": 1380017511,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0287",
+      "title": "Qing dynasty",
+      "source": "https://en.wikipedia.org/wiki/Qing_dynasty",
+      "revisionId": 1378236005,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0289",
+      "title": "Isaac Newton",
+      "source": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "revisionId": 1381550835,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0290",
+      "title": "Quakers",
+      "source": "https://en.wikipedia.org/wiki/Quakers",
+      "revisionId": 1381346373,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0291",
+      "title": "Peter the Great",
+      "source": "https://en.wikipedia.org/wiki/Peter_the_Great",
+      "revisionId": 1381494839,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0292",
+      "title": "Age of Enlightenment",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+      "revisionId": 1381126323,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0293",
+      "title": "Johann Sebastian Bach",
+      "source": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "revisionId": 1380548329,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0294",
+      "title": "George Frideric Handel",
+      "source": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "revisionId": 1380723447,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0295",
+      "title": "Voltaire",
+      "source": "https://en.wikipedia.org/wiki/Voltaire",
+      "revisionId": 1381101695,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0297",
+      "title": "Saint Petersburg",
+      "source": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+      "revisionId": 1381567619,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0298",
+      "title": "Benjamin Franklin",
+      "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+      "revisionId": 1380655380,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0299",
+      "title": "Leonhard Euler",
+      "source": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "revisionId": 1380746090,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0300",
+      "title": "David Hume",
+      "source": "https://en.wikipedia.org/wiki/David_Hume",
+      "revisionId": 1374426645,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0301",
+      "title": "Jean-Jacques Rousseau",
+      "source": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+      "revisionId": 1381146264,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0302",
+      "title": "History of Freemasonry",
+      "source": "https://en.wikipedia.org/wiki/History_of_Freemasonry",
+      "revisionId": 1369990588,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0303",
+      "title": "Adam Smith",
+      "source": "https://en.wikipedia.org/wiki/Adam_Smith",
+      "revisionId": 1381596484,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0304",
+      "title": "Immanuel Kant",
+      "source": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+      "revisionId": 1381555353,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0306",
+      "title": "James Watt",
+      "source": "https://en.wikipedia.org/wiki/James_Watt",
+      "revisionId": 1370759179,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0307",
+      "title": "Classical period (music)",
+      "source": "https://en.wikipedia.org/wiki/Classical_period_(music)",
+      "revisionId": 1377199812,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0308",
+      "title": "Wolfgang Amadeus Mozart",
+      "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+      "revisionId": 1381721651,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0309",
+      "title": "Rothschild family",
+      "source": "https://en.wikipedia.org/wiki/Rothschild_family",
+      "revisionId": 1379015371,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0310",
+      "title": "Industrial Revolution",
+      "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "revisionId": 1381202308,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0311",
+      "title": "Catherine the Great",
+      "source": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+      "revisionId": 1380820251,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0312",
+      "title": "American Revolution",
+      "source": "https://en.wikipedia.org/wiki/American_Revolution",
+      "revisionId": 1381711465,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0313",
+      "title": "Napoleon",
+      "source": "https://en.wikipedia.org/wiki/Napoleon",
+      "revisionId": 1381713087,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0314",
+      "title": "Ludwig van Beethoven",
+      "source": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "revisionId": 1380829252,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0315",
+      "title": "David Ricardo",
+      "source": "https://en.wikipedia.org/wiki/David_Ricardo",
+      "revisionId": 1380299819,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0316",
+      "title": "American Revolutionary War",
+      "source": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "revisionId": 1381639537,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0317",
+      "title": "United States Declaration of Independence",
+      "source": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "revisionId": 1379685614,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0318",
+      "title": "French Revolution",
+      "source": "https://en.wikipedia.org/wiki/French_Revolution",
+      "revisionId": 1381684777,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0319",
+      "title": "George Washington",
+      "source": "https://en.wikipedia.org/wiki/George_Washington",
+      "revisionId": 1381509245,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0321",
+      "status": "pinned source retained"
+    },
+    {
+      "id": "event-0322",
+      "title": "Romantic music",
+      "source": "https://en.wikipedia.org/wiki/Romantic_music",
+      "revisionId": 1378843319,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0323",
+      "title": "Thomas Jefferson",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+      "revisionId": 1380834472,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0324",
+      "title": "First French Empire",
+      "source": "https://en.wikipedia.org/wiki/First_French_Empire",
+      "revisionId": 1380791769,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0325",
+      "title": "Abraham Lincoln",
+      "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+      "revisionId": 1381516586,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0326",
+      "title": "Charles Darwin",
+      "source": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "revisionId": 1381513908,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0327",
+      "title": "French invasion of Russia",
+      "source": "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+      "revisionId": 1380366951,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0328",
+      "title": "Karl Marx",
+      "source": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "revisionId": 1381382519,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0329",
+      "title": "Fyodor Dostoevsky",
+      "source": "https://en.wikipedia.org/wiki/Fyodor_Dostoevsky",
+      "revisionId": 1381457521,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0330",
+      "title": "Louis Pasteur",
+      "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "revisionId": 1378036531,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0332",
+      "title": "Victorian era",
+      "source": "https://en.wikipedia.org/wiki/Victorian_era",
+      "revisionId": 1380479289,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0333",
+      "title": "Pyotr Ilyich Tchaikovsky",
+      "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+      "revisionId": 1380456822,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0334",
+      "title": "Friedrich Nietzsche",
+      "source": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "revisionId": 1380915180,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0335",
+      "title": "Thomas Edison",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "revisionId": 1381361637,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0336",
+      "title": "First-wave feminism",
+      "source": "https://en.wikipedia.org/wiki/First-wave_feminism",
+      "revisionId": 1379349544,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0337",
+      "title": "Nikola Tesla",
+      "source": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "revisionId": 1381267010,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0338",
+      "title": "Sigmund Freud",
+      "source": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+      "revisionId": 1381561733,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0339",
+      "title": "American Civil War",
+      "source": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "revisionId": 1381268683,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0340",
+      "title": "Ku Klux Klan",
+      "source": "https://en.wikipedia.org/wiki/Ku_Klux_Klan",
+      "revisionId": 1381153639,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0342",
+      "title": "Austria-Hungary",
+      "source": "https://en.wikipedia.org/wiki/Austria-Hungary",
+      "revisionId": 1381605580,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0343",
+      "title": "Marie Curie",
+      "source": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "revisionId": 1381292352,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0346",
+      "title": "Grigori Rasputin",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+      "revisionId": 1380537613,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0347",
+      "title": "Vladimir Lenin",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "revisionId": 1381384931,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0348",
+      "title": "Gilded Age",
+      "source": "https://en.wikipedia.org/wiki/Gilded_Age",
+      "revisionId": 1378879052,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0349",
+      "title": "German Empire",
+      "source": "https://en.wikipedia.org/wiki/German_Empire",
+      "revisionId": 1381617642,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0350",
+      "title": "Joseph Stalin",
+      "source": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+      "revisionId": 1381217103,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0351",
+      "title": "Albert Einstein",
+      "source": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "revisionId": 1381710448,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0352",
+      "title": "Ludwig von Mises",
+      "source": "https://en.wikipedia.org/wiki/Ludwig_von_Mises",
+      "revisionId": 1380592896,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0353",
+      "title": "John Maynard Keynes",
+      "source": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+      "revisionId": 1381641240,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0355",
+      "title": "Adolf Hitler",
+      "source": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+      "revisionId": 1381545355,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0356",
+      "title": "Modernism (music)",
+      "source": "https://en.wikipedia.org/wiki/Modernism_(music)",
+      "revisionId": 1330237102,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0357",
+      "title": "Impressionism in music",
+      "source": "https://en.wikipedia.org/wiki/Impressionism_in_music",
+      "revisionId": 1377259874,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0358",
+      "title": "Summer Olympic Games",
+      "source": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+      "revisionId": 1381414388,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0359",
+      "title": "Friedrich Hayek",
+      "source": "https://en.wikipedia.org/wiki/Friedrich_Hayek",
+      "revisionId": 1379642031,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0360",
+      "title": "Expressionist music",
+      "source": "https://en.wikipedia.org/wiki/Expressionist_music",
+      "revisionId": 1373058024,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0361",
+      "title": "Theodore Roosevelt",
+      "source": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+      "revisionId": 1381513712,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0362",
+      "title": "Karl Popper",
+      "source": "https://en.wikipedia.org/wiki/Karl_Popper",
+      "revisionId": 1376668372,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0363",
+      "title": "Bolsheviks",
+      "source": "https://en.wikipedia.org/wiki/Bolsheviks",
+      "revisionId": 1375709025,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0364",
+      "title": "Mensheviks",
+      "source": "https://en.wikipedia.org/wiki/Mensheviks",
+      "revisionId": 1369405106,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0365",
+      "title": "Ayn Rand",
+      "source": "https://en.wikipedia.org/wiki/Ayn_Rand",
+      "revisionId": 1381138406,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0366",
+      "title": "Alan Turing",
+      "source": "https://en.wikipedia.org/wiki/Alan_Turing",
+      "revisionId": 1381462563,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0367",
+      "title": "Milton Friedman",
+      "source": "https://en.wikipedia.org/wiki/Milton_Friedman",
+      "revisionId": 1378703899,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0368",
+      "title": "Titanic",
+      "source": "https://en.wikipedia.org/wiki/Titanic",
+      "revisionId": 1381723269,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0369",
+      "title": "Woodrow Wilson",
+      "source": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+      "revisionId": 1380508227,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0370",
+      "title": "World War I",
+      "source": "https://en.wikipedia.org/wiki/World_War_I",
+      "revisionId": 1381271532,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0371",
+      "title": "Christmas truce",
+      "source": "https://en.wikipedia.org/wiki/Christmas_truce",
+      "revisionId": 1375592240,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0372",
+      "title": "October Revolution",
+      "source": "https://en.wikipedia.org/wiki/October_Revolution",
+      "revisionId": 1379228275,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0373",
+      "title": "Weimar Republic",
+      "source": "https://en.wikipedia.org/wiki/Weimar_Republic",
+      "revisionId": 1381369089,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0374",
+      "title": "Spanish flu",
+      "source": "https://en.wikipedia.org/wiki/Spanish_flu",
+      "revisionId": 1379623881,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0375",
+      "title": "Yugoslavia",
+      "source": "https://en.wikipedia.org/wiki/Yugoslavia",
+      "revisionId": 1379500647,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0376",
+      "title": "Czechoslovakia",
+      "source": "https://en.wikipedia.org/wiki/Czechoslovakia",
+      "revisionId": 1381039632,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0377",
+      "title": "Treaty of Versailles",
+      "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+      "revisionId": 1381290030,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0378",
+      "title": "Neoclassicism (music)",
+      "source": "https://en.wikipedia.org/wiki/Neoclassicism_(music)",
+      "revisionId": 1365674609,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0379",
+      "title": "League of Nations",
+      "source": "https://en.wikipedia.org/wiki/League_of_Nations",
+      "revisionId": 1380525328,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0380",
+      "title": "Nazi Party",
+      "source": "https://en.wikipedia.org/wiki/Nazi_Party",
+      "revisionId": 1377006650,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0381",
+      "title": "Roaring Twenties",
+      "source": "https://en.wikipedia.org/wiki/Roaring_Twenties",
+      "revisionId": 1379977182,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0382",
+      "title": "Prohibition in the United States",
+      "source": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States",
+      "revisionId": 1381451026,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0383",
+      "title": "Soviet Union",
+      "source": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "revisionId": 1381264162,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0384",
+      "title": "Benito Mussolini",
+      "source": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+      "revisionId": 1381507190,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0385",
+      "title": "Mustafa Kemal Atatürk",
+      "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+      "revisionId": 1380447306,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0386",
+      "title": "Fidel Castro",
+      "source": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "revisionId": 1381705816,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0387",
+      "title": "Che Guevara",
+      "source": "https://en.wikipedia.org/wiki/Che_Guevara",
+      "revisionId": 1381702587,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0388",
+      "title": "Great Depression",
+      "source": "https://en.wikipedia.org/wiki/Great_Depression",
+      "revisionId": 1381181407,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0389",
+      "title": "Wall Street crash of 1929",
+      "source": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+      "revisionId": 1381306344,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0390",
+      "title": "Martin Luther King Jr.",
+      "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+      "revisionId": 1381425555,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0391",
+      "title": "FIFA World Cup",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "revisionId": 1381627832,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0392",
+      "title": "Thomas Sowell",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Sowell",
+      "revisionId": 1381463721,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0393",
+      "title": "Franklin D. Roosevelt",
+      "source": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "revisionId": 1381717882,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0394",
+      "title": "New Deal",
+      "source": "https://en.wikipedia.org/wiki/New_Deal",
+      "revisionId": 1381193279,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0395",
+      "title": "Nazi Germany",
+      "source": "https://en.wikipedia.org/wiki/Nazi_Germany",
+      "revisionId": 1377301809,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0396",
+      "title": "World War II",
+      "source": "https://en.wikipedia.org/wiki/World_War_II",
+      "revisionId": 1381604228,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0398",
+      "title": "Manhattan Project",
+      "source": "https://en.wikipedia.org/wiki/Manhattan_Project",
+      "revisionId": 1381600349,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0399",
+      "title": "The Fountainhead",
+      "source": "https://en.wikipedia.org/wiki/The_Fountainhead",
+      "revisionId": 1377724291,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0400",
+      "title": "Atomic bombings of Hiroshima and Nagasaki",
+      "source": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
+      "revisionId": 1380059296,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0402",
+      "title": "Apartheid",
+      "source": "https://en.wikipedia.org/wiki/Apartheid",
+      "revisionId": 1381702322,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0403",
+      "title": "Hans-Hermann Hoppe",
+      "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+      "revisionId": 1381045945,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0404",
+      "title": "West Germany",
+      "source": "https://en.wikipedia.org/wiki/West_Germany",
+      "revisionId": 1381620865,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0405",
+      "title": "Vladimir Putin",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "revisionId": 1381631146,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0406",
+      "title": "Civil rights movement",
+      "source": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+      "revisionId": 1380247207,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0407",
+      "title": "Vietnam War",
+      "source": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "revisionId": 1381555102,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0408",
+      "title": "Atlas Shrugged",
+      "source": "https://en.wikipedia.org/wiki/Atlas_Shrugged",
+      "revisionId": 1376931328,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0410",
+      "title": "John F. Kennedy",
+      "source": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+      "revisionId": 1381012986,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0411",
+      "title": "Tsar Bomba",
+      "source": "https://en.wikipedia.org/wiki/Tsar_Bomba",
+      "revisionId": 1381348256,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0412",
+      "title": "Cuban Missile Crisis",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+      "revisionId": 1373637342,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0413",
+      "title": "Second-wave feminism",
+      "source": "https://en.wikipedia.org/wiki/Second-wave_feminism",
+      "revisionId": 1381521211,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0414",
+      "title": "Rhodesian Bush War",
+      "source": "https://en.wikipedia.org/wiki/Rhodesian_Bush_War",
+      "revisionId": 1380807336,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0415",
+      "title": "Gold standard",
+      "source": "https://en.wikipedia.org/wiki/Gold_standard",
+      "revisionId": 1381221405,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0416",
+      "title": "Elon Musk",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "revisionId": 1381719443,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0417",
+      "title": "Watergate scandal",
+      "source": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "revisionId": 1380589234,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0418",
+      "title": "Curtis Yarvin",
+      "source": "https://en.wikipedia.org/wiki/Curtis_Yarvin",
+      "revisionId": 1381419952,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0419",
+      "title": "Microsoft",
+      "source": "https://en.wikipedia.org/wiki/Microsoft",
+      "revisionId": 1381175104,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0420",
+      "title": "Apple Inc.",
+      "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "revisionId": 1381372514,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0421",
+      "title": "Margaret Thatcher",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "revisionId": 1380806786,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0422",
+      "title": "Eliezer Yudkowsky",
+      "source": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
+      "revisionId": 1379434989,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0423",
+      "title": "Ronald Reagan",
+      "source": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "revisionId": 1381255016,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0424",
+      "title": "Super Mario Bros.",
+      "source": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
+      "revisionId": 1381623086,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0425",
+      "title": "Chernobyl disaster",
+      "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+      "revisionId": 1380805589,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0426",
+      "title": "Fall of the Berlin Wall",
+      "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+      "revisionId": 1381545949,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0427",
+      "title": "Third-wave feminism",
+      "source": "https://en.wikipedia.org/wiki/Third-wave_feminism",
+      "revisionId": 1380708203,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0429",
+      "title": "Google",
+      "source": "https://en.wikipedia.org/wiki/Google",
+      "revisionId": 1381647376,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0430",
+      "title": "September 11 attacks",
+      "source": "https://en.wikipedia.org/wiki/September_11_attacks",
+      "revisionId": 1381189488,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0431",
+      "title": "War in Afghanistan (2001–2021)",
+      "source": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+      "revisionId": 1379094332,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0432",
+      "title": "History of Wikipedia",
+      "source": "https://en.wikipedia.org/wiki/History_of_Wikipedia",
+      "revisionId": 1380552911,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0433",
+      "title": "Arab Spring",
+      "source": "https://en.wikipedia.org/wiki/Arab_Spring",
+      "revisionId": 1381609646,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0434",
+      "title": "Fukushima nuclear accident",
+      "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_accident",
+      "revisionId": 1381701325,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0435",
+      "title": "Euromaidan",
+      "source": "https://en.wikipedia.org/wiki/Euromaidan",
+      "revisionId": 1372581234,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0436",
+      "title": "Gamergate",
+      "source": "https://en.wikipedia.org/wiki/Gamergate",
+      "revisionId": 1375374967,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0437",
+      "title": "2014 Russian annexation of Crimea",
+      "source": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea",
+      "revisionId": 1372071475,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0438",
+      "title": "Donald Trump",
+      "source": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "revisionId": 1381590935,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0440",
+      "title": "January 6 United States Capitol attack",
+      "source": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack",
+      "revisionId": 1381703947,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0441",
+      "title": "2022 Russian invasion of Ukraine",
+      "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+      "revisionId": 1380024784,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0442",
+      "title": "Woodstock",
+      "source": "https://en.wikipedia.org/wiki/Woodstock",
+      "revisionId": 1373772520,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0444",
+      "title": "Unite the Right rally",
+      "source": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+      "revisionId": 1381310760,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0445",
+      "title": "Subprime mortgage crisis",
+      "source": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+      "revisionId": 1379519083,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0446",
+      "title": "Iraq War",
+      "source": "https://en.wikipedia.org/wiki/Iraq_War",
+      "revisionId": 1381703431,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0448",
+      "title": "Rwandan genocide",
+      "source": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+      "revisionId": 1381494196,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0449",
+      "title": "Armenian genocide",
+      "source": "https://en.wikipedia.org/wiki/Armenian_genocide",
+      "revisionId": 1379445785,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0450",
+      "title": "HIV/AIDS",
+      "source": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+      "revisionId": 1381619041,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0451",
+      "title": "Aleksandr Solzhenitsyn",
+      "source": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn",
+      "revisionId": 1381566778,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0452",
+      "title": "Stanley Kubrick",
+      "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+      "revisionId": 1380140233,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0456",
+      "title": "Assassination of John F. Kennedy",
+      "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+      "revisionId": 1379966359,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0457",
+      "title": "Great Leap Forward",
+      "source": "https://en.wikipedia.org/wiki/Great_Leap_Forward",
+      "revisionId": 1381213826,
+      "summaryAdded": true,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0458",
+      "title": "Hungarian Revolution of 1956",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "revisionId": 1381655553,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0459",
+      "title": "Korean War",
+      "source": "https://en.wikipedia.org/wiki/Korean_War",
+      "revisionId": 1381005552,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0460",
+      "title": "George Orwell",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell",
+      "revisionId": 1381183541,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0461",
+      "title": "Nineteen Eighty-Four",
+      "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "revisionId": 1380656702,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0462",
+      "title": "Cuban Revolution",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+      "revisionId": 1381679976,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0463",
+      "title": "Israeli Declaration of Independence",
+      "source": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "revisionId": 1381291994,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0464",
+      "title": "Normandy landings",
+      "source": "https://en.wikipedia.org/wiki/Normandy_landings",
+      "revisionId": 1381721870,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0465",
+      "title": "Attack on Pearl Harbor",
+      "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "revisionId": 1380997506,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0466",
+      "title": "Operation Barbarossa",
+      "source": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "revisionId": 1379351309,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0467",
+      "title": "Battle of France",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_France",
+      "revisionId": 1381720666,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0468",
+      "title": "Affordable Care Act",
+      "source": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+      "revisionId": 1378481809,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0470",
+      "title": "Gunpowder",
+      "source": "https://en.wikipedia.org/wiki/Gunpowder",
+      "revisionId": 1380375377,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0471",
+      "title": "Gupta Empire",
+      "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
+      "revisionId": 1373465688,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0472",
+      "title": "Compass",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "revisionId": 1376670463,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0473",
+      "title": "Chronology of the universe",
+      "source": "https://en.wikipedia.org/wiki/Chronology_of_the_universe",
+      "revisionId": 1381719244,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0474",
+      "title": "Angkor Wat",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "revisionId": 1381020125,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0475",
+      "title": "Banknote",
+      "source": "https://en.wikipedia.org/wiki/Banknote",
+      "revisionId": 1379350283,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0476",
+      "title": "Aztec Empire",
+      "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "revisionId": 1380802080,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0477",
+      "title": "Pollution",
+      "source": "https://en.wikipedia.org/wiki/Pollution",
+      "revisionId": 1361721618,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0478",
+      "title": "Thirty Years' War",
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+      "revisionId": 1381038389,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0479",
+      "title": "Peace of Westphalia",
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "revisionId": 1381614707,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0480",
+      "title": "The Wealth of Nations",
+      "source": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "revisionId": 1376077003,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0481",
+      "title": "Mercantilism",
+      "source": "https://en.wikipedia.org/wiki/Mercantilism",
+      "revisionId": 1380696374,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0482",
+      "title": "Declaration of Sentiments",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+      "revisionId": 1377525007,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0483",
+      "title": "Great Famine of 1876–1878",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
+      "revisionId": 1380736812,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0484",
+      "title": "Columbian exchange",
+      "source": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "revisionId": 1381681084,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0485",
+      "title": "Microscope",
+      "source": "https://en.wikipedia.org/wiki/Microscope",
+      "revisionId": 1377490635,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0486",
+      "title": "History of the telescope",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+      "revisionId": 1381008920,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0487",
+      "title": "John Harington (writer)",
+      "source": "https://en.wikipedia.org/wiki/John_Harington_(writer)",
+      "revisionId": 1379304050,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0488",
+      "title": "Smallpox vaccine",
+      "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+      "revisionId": 1381372461,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0489",
+      "title": "Condom",
+      "source": "https://en.wikipedia.org/wiki/Condom",
+      "revisionId": 1373801297,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0490",
+      "title": "Appian Way",
+      "source": "https://en.wikipedia.org/wiki/Appian_Way",
+      "revisionId": 1378039336,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0491",
+      "title": "Watermill",
+      "source": "https://en.wikipedia.org/wiki/Watermill",
+      "revisionId": 1376990395,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0492",
+      "title": "Windmill",
+      "source": "https://en.wikipedia.org/wiki/Windmill",
+      "revisionId": 1381332220,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0493",
+      "title": "Compass",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "revisionId": 1376670463,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0494",
+      "title": "Printing press",
+      "source": "https://en.wikipedia.org/wiki/Printing_press",
+      "revisionId": 1379445153,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0495",
+      "title": "Thomas Savery",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+      "revisionId": 1379405742,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0496",
+      "title": "History of radio",
+      "source": "https://en.wikipedia.org/wiki/History_of_radio",
+      "revisionId": 1380374098,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0497",
+      "title": "Wright brothers",
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "revisionId": 1380109954,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0498",
+      "title": "John Logie Baird",
+      "source": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+      "revisionId": 1375520986,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0499",
+      "title": "Space Race",
+      "source": "https://en.wikipedia.org/wiki/Space_Race",
+      "revisionId": 1381617449,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0500",
+      "title": "World Wide Web",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "revisionId": 1379635447,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0501",
+      "title": "WorldWideWeb",
+      "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+      "revisionId": 1375089839,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0502",
+      "title": "IBM Simon",
+      "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+      "revisionId": 1380587160,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0503",
+      "title": "The Simpsons",
+      "source": "https://en.wikipedia.org/wiki/The_Simpsons",
+      "revisionId": 1380946114,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0504",
+      "title": "Drake Well",
+      "source": "https://en.wikipedia.org/wiki/Drake_Well",
+      "revisionId": 1373110844,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0505",
+      "title": "Medieval Warm Period",
+      "source": "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+      "revisionId": 1378597988,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0506",
+      "title": "Little Ice Age",
+      "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+      "revisionId": 1379821900,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0507",
+      "title": "Great Famine of 1315–1317",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+      "revisionId": 1375763552,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0508",
+      "title": "Thomas Robert Malthus",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+      "revisionId": 1381434205,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0509",
+      "title": "Sputnik 1",
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "revisionId": 1378867201,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0510",
+      "title": "Human Genome Project",
+      "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "revisionId": 1376331013,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0511",
+      "title": "Combined oral contraceptive pill",
+      "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+      "revisionId": 1372884360,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0512",
+      "title": "Green Revolution",
+      "source": "https://en.wikipedia.org/wiki/Green_Revolution",
+      "revisionId": 1381183766,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0514",
+      "title": "The Holocaust",
+      "source": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "revisionId": 1381299502,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0515",
+      "title": "Great Famine (Ireland)",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+      "revisionId": 1381278881,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0516",
+      "title": "Pasteurization",
+      "source": "https://en.wikipedia.org/wiki/Pasteurization",
+      "revisionId": 1366228867,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0517",
+      "title": "Iron metallurgy in Africa",
+      "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+      "revisionId": 1378816054,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0518",
+      "title": "Seven Years' War",
+      "source": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+      "revisionId": 1381439670,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0519",
+      "title": "Mahatma Gandhi",
+      "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "revisionId": 1379963542,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0520",
+      "title": "Kuomintang",
+      "source": "https://en.wikipedia.org/wiki/Kuomintang",
+      "revisionId": 1381547874,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0521",
+      "title": "Nuclear arms race",
+      "source": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
+      "revisionId": 1376069039,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0522",
+      "title": "Disco",
+      "source": "https://en.wikipedia.org/wiki/Disco",
+      "revisionId": 1381574884,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0523",
+      "title": "Rock music",
+      "source": "https://en.wikipedia.org/wiki/Rock_music",
+      "revisionId": 1381365424,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0524",
+      "title": "The Beatles",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles",
+      "revisionId": 1381691168,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0525",
+      "title": "Geology of the Himalayas",
+      "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
+      "revisionId": 1375287199,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0526",
+      "title": "Myllokunmingia",
+      "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
+      "revisionId": 1381141059,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0527",
+      "title": "Evolutionary history of plants",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "revisionId": 1380266639,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0528",
+      "title": "Evolutionary history of plants",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "revisionId": 1380266639,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0529",
+      "title": "Cryogenian",
+      "source": "https://en.wikipedia.org/wiki/Cryogenian",
+      "revisionId": 1381040452,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0530",
+      "title": "Maximilien Robespierre",
+      "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+      "revisionId": 1381585797,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0531",
+      "title": "Chechen–Russian conflict",
+      "source": "https://en.wikipedia.org/wiki/Chechen%E2%80%93Russian_conflict",
+      "revisionId": 1377769596,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0532",
+      "title": "Drake equation",
+      "source": "https://en.wikipedia.org/wiki/Drake_equation",
+      "revisionId": 1381214813,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0533",
+      "title": "Panmixia",
+      "source": "https://en.wikipedia.org/wiki/Panmixia",
+      "revisionId": 1375553466,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0534",
+      "title": "Doomsday argument",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "revisionId": 1374892467,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0535",
+      "title": "Terraforming of Mars",
+      "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+      "revisionId": 1377426313,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0536",
+      "title": "Great Pyramid of Giza",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "revisionId": 1378503482,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0537",
+      "title": "Space weathering",
+      "source": "https://en.wikipedia.org/wiki/Space_weathering",
+      "revisionId": 1270878911,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0538",
+      "title": "Mount Rushmore",
+      "source": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "revisionId": 1379207183,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0539",
+      "title": "Doomsday argument",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "revisionId": 1374892467,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0541",
+      "title": "African humid period",
+      "source": "https://en.wikipedia.org/wiki/African_humid_period",
+      "revisionId": 1374759239,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0542",
+      "title": "Mediterranean Sea",
+      "source": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+      "revisionId": 1381683842,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0543",
+      "title": "Galactic year",
+      "source": "https://en.wikipedia.org/wiki/Galactic_year",
+      "revisionId": 1374681327,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0544",
+      "title": "Supercontinent",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent",
+      "revisionId": 1381301287,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0545",
+      "title": "Supercontinent cycle",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent_cycle",
+      "revisionId": 1294507054,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0546",
+      "title": "Future of Earth",
+      "source": "https://en.wikipedia.org/wiki/Future_of_Earth",
+      "revisionId": 1380629720,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0547",
+      "title": "First Red Scare",
+      "source": "https://en.wikipedia.org/wiki/First_Red_Scare",
+      "revisionId": 1378303103,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0548",
+      "title": "McCarthyism",
+      "source": "https://en.wikipedia.org/wiki/McCarthyism",
+      "revisionId": 1380714898,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0549",
+      "title": "Hannibal",
+      "source": "https://en.wikipedia.org/wiki/Hannibal",
+      "revisionId": 1381683505,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0550",
+      "title": "Pyrrhic War",
+      "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+      "revisionId": 1378759618,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0551",
+      "title": "Battle of the Allia",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+      "revisionId": 1377862448,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0552",
+      "title": "SPQR",
+      "source": "https://en.wikipedia.org/wiki/SPQR",
+      "revisionId": 1381434073,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0553",
+      "title": "Great Oxidation Event",
+      "source": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "revisionId": 1381612901,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0554",
+      "title": "Nordic Bronze Age",
+      "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+      "revisionId": 1376908001,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0555",
+      "title": "Etruscan civilization",
+      "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+      "revisionId": 1381267016,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0557",
+      "title": "Age of Discovery",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+      "revisionId": 1381599925,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0558",
+      "title": "Epipalaeolithic Near East",
+      "source": "https://en.wikipedia.org/wiki/Epipalaeolithic_Near_East",
+      "revisionId": 1369638586,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0559",
+      "title": "Francisco Pizarro",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+      "revisionId": 1380237277,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0560",
+      "title": "Hernán Cortés",
+      "source": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "revisionId": 1380614816,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0561",
+      "title": "Minecraft",
+      "source": "https://en.wikipedia.org/wiki/Minecraft",
+      "revisionId": 1381496312,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0562",
+      "title": "Carl Menger",
+      "source": "https://en.wikipedia.org/wiki/Carl_Menger",
+      "revisionId": 1379800318,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0563",
+      "title": "Jordan Peterson",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+      "revisionId": 1381688391,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0564",
+      "title": "Slavoj Žižek",
+      "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+      "revisionId": 1379872855,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0565",
+      "title": "Muammar Gaddafi",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "revisionId": 1381325725,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0566",
+      "title": "WikiLeaks",
+      "source": "https://en.wikipedia.org/wiki/WikiLeaks",
+      "revisionId": 1381720531,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0567",
+      "title": "Saddam Hussein",
+      "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
+      "revisionId": 1379966146,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0568",
+      "title": "Julian Assange",
+      "source": "https://en.wikipedia.org/wiki/Julian_Assange",
+      "revisionId": 1381618760,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0569",
+      "title": "Edward Snowden",
+      "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+      "revisionId": 1381314665,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0570",
+      "title": "Nicolae Ceaușescu",
+      "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+      "revisionId": 1381640003,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0571",
+      "title": "Josip Broz Tito",
+      "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+      "revisionId": 1381385825,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0572",
+      "title": "Colour revolution",
+      "source": "https://en.wikipedia.org/wiki/Colour_revolution",
+      "revisionId": 1381318582,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0573",
+      "title": "Eugen von Böhm-Bawerk",
+      "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+      "revisionId": 1379800448,
+      "summaryAdded": false,
+      "backgroundSourceAdded": false
+    },
+    {
+      "id": "event-0574",
+      "status": "pinned source retained"
+    }
+  ]
+}

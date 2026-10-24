@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0238",
+  "source": "https://en.wikipedia.org/wiki/Black_Death",
+  "revisionId": 1377102371,
+  "fetchedAt": "2026-10-24T10:41:46.845Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/960px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg/330px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:1346-1353_spread_of_the_Black_Death_in_Europe_map.svg",
+      "artist": "Flappiefh",
+      "credit": "Own work from:\n\nNatural Earth ;\nCesana, D.; Benedictow O.J., Bianucci R. (2017). \"The origin and early spread of the Black Death in Italy: first evidence of plague victims from 14th-century Liguria (northern Italy)\". Anthropological Science 125 (1): 15–24. DOI:10.1537/ase.161011. ISSN 0918-7960. (page 17)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

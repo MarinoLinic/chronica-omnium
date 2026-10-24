@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0566",
+  "source": "https://en.wikipedia.org/wiki/WikiLeaks",
+  "revisionId": 1381720531,
+  "fetchedAt": "2026-10-24T10:25:10.987Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/en/c/c6/Wikileaks_homepage_screenshot_March_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Wikileaks_homepage_screenshot_March_2025.png/960px-Wikileaks_homepage_screenshot_March_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c6/Wikileaks_homepage_screenshot_March_2025.png/330px-Wikileaks_homepage_screenshot_March_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": null
+  }
+}

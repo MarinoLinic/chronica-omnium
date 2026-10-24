@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0557",
+  "source": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+  "revisionId": 1381599925,
+  "fetchedAt": "2026-10-24T10:25:02.349Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vasco_Da_Gama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/57/Vasco_Da_Gama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Vasco_Da_Gama.jpg/330px-Vasco_Da_Gama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Vasco_Da_Gama.jpg",
+      "artist": "Anonymous",
+      "credit": "A descoberta e conquista da India pelos portuguezes; romance histórico\nby Lobo d'Avila, Arthur, 1855-1945\nPublication date 1898 \n\nhttps://archive.org/details/descobertaeconqu00lobo/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

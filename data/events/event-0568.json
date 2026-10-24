@@ -3,23 +3,23 @@
   "id": "event-0568",
   "id_num": 568,
   "slug": "julian-assange",
-  "status": "stub",
+  "status": "review",
   "name": "Julian Assange",
-  "short_desc": null,
+  "short_desc": "Julian Paul Assange (  ə-SAHNZH; né Hawkins; born 3 July 1971) is an Australian programmer, editor, and publisher who founded WikiLeaks in 2006.",
   "long_desc": null,
-  "start": null,
+  "start": 1971,
   "end": null,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Julian_Assange",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

@@ -4,11 +4,11 @@
   "id_num": 181,
   "slug": "catholicism",
   "status": "review",
-  "name": "Catholicism",
-  "short_desc": "The Roman Catholic Churchtracing back from St Linus",
+  "name": "Early roots of Catholic Christianity",
+  "short_desc": "The Catholic Church traces its origins to Jesus and the apostles in first-century Judaea. Its later institutional identity developed over centuries.",
   "long_desc": "Catholicism",
-  "start": 54,
-  "end": 2023,
+  "start": 1,
+  "end": 100,
   "location": null,
   "type": "Religion",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "uncertain",
+  "date_note": "First-century roots are a tradition and historical origin context, not a precise founding in 54 or a duration ending in 2023. See Christianity (179) for the broader origins.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Origins"
 }

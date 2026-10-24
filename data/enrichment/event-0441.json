@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0441",
+  "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+  "revisionId": 1380024784,
+  "fetchedAt": "2026-10-24T10:32:34.896Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/960px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg/330px-Bucha_after_Russian_invasion_of_Ukraine%2C_President_Zelensky_2_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bucha_after_Russian_invasion_of_Ukraine,_President_Zelensky_2_crop.jpg",
+      "artist": "Oleksandr Ratushniak",
+      "credit": "https://en.wikipedia.org/wiki/File:Bucha_after_Russian_invasion_of_Ukraine,_President_Zelensky_2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

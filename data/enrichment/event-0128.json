@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0128",
+  "source": "https://en.wikipedia.org/wiki/Musical_notation",
+  "revisionId": 1381352253,
+  "fetchedAt": "2026-10-24T10:40:56.224Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bachlut1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bachlut1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bachlut1.png/330px-Bachlut1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bachlut1.png",
+      "artist": "",
+      "credit": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

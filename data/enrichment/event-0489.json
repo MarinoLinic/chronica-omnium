@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0489",
+  "source": "https://en.wikipedia.org/wiki/Condom",
+  "revisionId": 1373801297,
+  "fetchedAt": "2026-10-24T10:24:11.316Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kondom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kondom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/0/04/Kondom.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kondom.jpg",
+      "artist": "User Flegmus on pl.wikipedia",
+      "credit": "Flegmus",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

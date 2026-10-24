@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0444",
+  "source": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+  "revisionId": 1381310760,
+  "fetchedAt": "2026-10-24T10:44:18.754Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg/960px-Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg/330px-Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Charlottesville_%27Unite_the_Right%27_Rally_(35780274914)_crop.jpg",
+      "artist": "Anthony Crider; cropped by Beyond My Ken (talk) 20:37, 9 April 2018 (UTC)",
+      "credit": "Charlottesville \"Unite the Right\" Rally",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

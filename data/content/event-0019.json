@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0019",
-  "text": "Pangaea or Pangea (/pænˈdʒiː.ə/) was a supercontinent that existed during the late Paleozoic and early Mesozoic eras. It assembled from the earlier continental units of Gondwana, Euramerica and Siberia during the Carboniferous approximately 335 million years ago, and began to break apart about 200 million years ago, at the end of the Triassic and beginning of the Jurassic. In contrast to the present Earth and its distribution of continental mass, Pangaea was centred on the equator and surrounded by the superocean Panthalassa and the Paleo-Tethys and subsequent Tethys Oceans. Pangaea is the most recent supercontinent to have existed and the first to be reconstructed by geologists.\n\n",
   "source": "https://en.wikipedia.org/wiki/Pangaea",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Pangaea",
+  "revisionId": 1376395143,
+  "revisionTimestamp": "2026-09-23T23:09:22Z",
+  "fetchedAt": "2026-10-24T10:40:29.654Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Pangaea or Pangea ( pan-JEE-ə) was a supercontinent that existed during the late Paleozoic and early Mesozoic eras. It assembled from the earlier continental units of Gondwana, Euramerica and Siberia during the Carboniferous period approximately 335 million years ago, and began to break apart about 175 million years ago, at the beginning of the Jurassic. Pangaea was C-shaped, with the bulk of its mass stretching between Earth's northern and southern polar regions and surrounded by the superocean Panthalassa and the Paleo-Tethys and subsequent Tethys Oceans. Pangaea is the most recent supercontinent to have existed and was the first to be reconstructed by geologists.\n\n"
 }

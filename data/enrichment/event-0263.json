@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0263",
+  "source": "https://en.wikipedia.org/wiki/Prussia",
+  "revisionId": 1381267916,
+  "fetchedAt": "2026-10-24T10:42:09.113Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_the_Kingdom_of_Prussia_%281803-1892%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Kingdom_of_Prussia_%281803-1892%29.svg/960px-Flag_of_the_Kingdom_of_Prussia_%281803-1892%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Kingdom_of_Prussia_%281803-1892%29.svg/330px-Flag_of_the_Kingdom_of_Prussia_%281803-1892%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Prussia_(1803-1892).svg",
+      "artist": "Drawing created by David Liuzzo",
+      "credit": "Own Work, Custom Creation according design specifications of the previous file",
+      "license": "Attribution",
+      "licenseUrl": "",
+      "attribution": "David Liuzzo"
+    }
+  }
+}

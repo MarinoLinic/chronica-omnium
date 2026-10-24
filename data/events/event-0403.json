@@ -5,10 +5,10 @@
   "slug": "hans-hermann-hoppe",
   "status": "review",
   "name": "Hans-Hermann Hoppe",
-  "short_desc": null,
+  "short_desc": "Hans-Hermann Hoppe (; German: [ˈhɔpə]; born 2 September 1949) is a German-American academic associated with Austrian School economics, anarcho-capitalism, right-wing libertarianism, paleolibertarianism, and opposition to democracy.",
   "long_desc": null,
   "start": 1949,
-  "end": 2023,
+  "end": null,
   "location": "Peine",
   "type": "Person",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
   "places": [
     "place-e1ca8f3039c1"
   ],
@@ -67,5 +67,6 @@
         10.2519040136
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

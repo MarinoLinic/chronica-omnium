@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0081",
+  "source": "https://en.wikipedia.org/wiki/Founder_crops",
+  "revisionId": 1374251703,
+  "fetchedAt": "2026-10-24T10:36:49.780Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Triticum_turgidum_illustration_%2802c%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Triticum_turgidum_illustration_%2802c%29.png/960px-Triticum_turgidum_illustration_%2802c%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Triticum_turgidum_illustration_%2802c%29.png/330px-Triticum_turgidum_illustration_%2802c%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Triticum_turgidum_illustration_(02c).png",
+      "artist": "https://www.biodiversitylibrary.org/item/9921#page/128/mode/1up    Icones et descriptiones Graminum austriacorum\nAuthor:\tHost, Nikolaus Thomas\n\nPublisher:\tVindobonae : A. Schmidt, 1801-1809.",
+      "credit": "File:Triticum turgidum illustration (02).jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

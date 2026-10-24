@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0162",
+  "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
+  "revisionId": 1381693970,
+  "fetchedAt": "2026-10-24T10:41:14.594Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Qin_dynasty_territory.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Qin_dynasty_territory.svg/960px-Qin_dynasty_territory.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Qin_dynasty_territory.svg/330px-Qin_dynasty_territory.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Qin_dynasty_territory.svg",
+      "artist": "Ian Remsen",
+      "credit": "Modern natural borders from Natural Earth\nAlbers used for the map projection, via svgis\nλ0=110\nφ0=30\nφ1=25\nφ2=37\nPolitical borders, location of the Great Wall, and adjustments to reflect ancient borders from Li, Feng (2013)       Early China: A Social and Cultural History, New Approaches to Asian History, 12, Cambridge University Press, p. 247  DOI:  10.1017/CBO9781139034395. ISBN:  978-0-521-89552-1. \nSquare represents the Qin capital at Xianyang\nDotted open circles represent population centers whose precise locations are unclear",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

@@ -4,22 +4,22 @@
   "id_num": 439,
   "slug": "covid-19-pandemic",
   "status": "review",
-  "name": "COVID-19 pandemic",
-  "short_desc": null,
+  "name": "COVID-19 global health emergency",
+  "short_desc": "WHO’s COVID-19 public health emergency of international concern ran from 30 January 2020 to 5 May 2023.",
   "long_desc": null,
-  "start": 2019,
+  "start": 2020,
   "end": 2023,
   "location": "World",
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": "https://en.wikipedia.org/wiki/COVID-19",
+  "source": "https://www.who.int/europe/emergencies/situations/covid-19",
   "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png",
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "The end of the emergency designation did not mean COVID-19 or the pandemic itself had ended. The first detected outbreak was in December 2019.",
   "places": [
     "place-78ae647dc554"
   ],
@@ -67,5 +67,18 @@
         174.7456809
       ]
     }
-  }
+  },
+  "date_label": "WHO emergency phase",
+  "periods": [
+    {
+      "id": "outbreak",
+      "label": "First detected outbreak",
+      "kind": "other",
+      "start": 2019,
+      "end": null,
+      "date_kind": "point",
+      "date_note": "December 2019, Wuhan.",
+      "source": "https://www.who.int/europe/emergencies/situations/covid-19"
+    }
+  ]
 }

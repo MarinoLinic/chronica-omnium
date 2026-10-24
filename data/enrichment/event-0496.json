@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0496",
+  "source": "https://en.wikipedia.org/wiki/History_of_radio",
+  "revisionId": 1380374098,
+  "fetchedAt": "2026-10-24T10:24:15.418Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg/960px-Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg/330px-Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_with_engineers_and_scientists_-_RCA_radio_station_-_Hagley_Archives_-_restoration1.jpg",
+      "artist": "Radio Corporation of America (RCA)  Restored by: Bammesk",
+      "credit": "Hagley Museum and Library, https://digital.hagley.org/AVD246455_040_001",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

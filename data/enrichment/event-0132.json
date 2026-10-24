@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0132",
+  "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+  "revisionId": 1381215020,
+  "fetchedAt": "2026-10-24T10:40:59.089Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Bronze_Age_End.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bronze_Age_End.svg/960px-Bronze_Age_End.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Bronze_Age_End.svg/330px-Bronze_Age_End.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bronze_Age_End.svg",
+      "artist": "Alexikoua",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

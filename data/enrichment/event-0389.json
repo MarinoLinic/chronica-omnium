@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0389",
+  "source": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+  "revisionId": 1381306344,
+  "fetchedAt": "2026-10-24T10:43:40.357Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Crowd_outside_nyse.jpg/330px-Crowd_outside_nyse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Crowd_outside_nyse.jpg",
+      "artist": "US-gov",
+      "credit": "From an SSA poster: http://www.ssa.gov/history/wallst.html (dead link)\nArchive: https://web.archive.org/web/20001214081300/http://www.ssa.gov/history/wallst.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

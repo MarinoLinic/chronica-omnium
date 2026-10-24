@@ -11,7 +11,7 @@
   "end": null,
   "location": "Solar System",
   "type": "Event",
-  "field": null,
+  "field": "Astronomy",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
   "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Solar_System_annotated.jpg",

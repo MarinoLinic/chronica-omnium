@@ -4,8 +4,8 @@
   "id_num": 421,
   "slug": "margaret-thatcher-in-office",
   "status": "review",
-  "name": "Margaret Thatcher (in office)",
-  "short_desc": null,
+  "name": "Margaret Thatcher",
+  "short_desc": "Margaret Hilda Thatcher, Baroness Thatcher (née Roberts; 13 October 1925 – 8 April 2013) was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990.",
   "long_desc": null,
   "start": 1979,
   "end": 1990,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
   "places": [
     "place-e7d529decf2e"
   ],
@@ -67,5 +67,18 @@
         -3.2765753
       ]
     }
-  }
+  },
+  "date_label": "Prime minister of the United Kingdom",
+  "periods": [
+    {
+      "id": "life",
+      "kind": "life",
+      "label": "Lifespan",
+      "start": 1925,
+      "end": 2013,
+      "date_kind": "span",
+      "date_note": "Birth and death years checked against the article and infobox.",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+    }
+  ]
 }

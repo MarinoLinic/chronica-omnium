@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0537",
+  "source": "https://en.wikipedia.org/wiki/Space_weathering",
+  "revisionId": 1270878911,
+  "fetchedAt": "2026-10-24T10:44:28.465Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Weatheringcartoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Weatheringcartoon.jpg/330px-Weatheringcartoon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Weatheringcartoon.jpg",
+      "artist": "IntrplnetSarah",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

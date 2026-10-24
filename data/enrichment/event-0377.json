@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0377",
+  "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+  "revisionId": 1381290030,
+  "fetchedAt": "2026-10-24T10:43:31.261Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Treaty_of_Versailles%2C_English_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/960px-Treaty_of_Versailles%2C_English_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/330px-Treaty_of_Versailles%2C_English_version.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Treaty_of_Versailles,_English_version.jpg",
+      "artist": "David Lloyd George, Woodrow Wilson and Georges Clemenceau",
+      "credit": "Auckland War Memorial Museum Tāmaki Paenga Hira",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

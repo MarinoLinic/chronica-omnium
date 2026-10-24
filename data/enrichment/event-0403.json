@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0403",
+  "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+  "revisionId": 1381045945,
+  "fetchedAt": "2026-10-24T10:32:28.108Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hans-Hermann_Hoppe_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hans-Hermann_Hoppe_2024_%28cropped%29.jpg/960px-Hans-Hermann_Hoppe_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hans-Hermann_Hoppe_2024_%28cropped%29.jpg/330px-Hans-Hermann_Hoppe_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hans-Hermann_Hoppe_2024_(cropped).jpg",
+      "artist": "Mises Institute",
+      "credit": "YouTube: https://www.youtube.com/watch?v=sWx9kt3Kzk0 – View/save archived versions on archive.org",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

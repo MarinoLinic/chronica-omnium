@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0070",
-  "text": "Coordinates: 52°54′N 103°30′E﻿ / ﻿52.9°N 103.5°E﻿ / 52.9; 103.5\n\nEurope:\n\nAfrica:\n\nSiberia:\n\nThe Mal'ta–Buret' culture is an archaeological culture of c. 24,000 to 15,000 BP in the Upper Paleolithic on the upper Angara River in the area west of Lake Baikal in the Irkutsk Oblast, Siberia, Russian Federation. The type sites are named for the villages of Mal'ta (Мальта́), Usolsky District and Buret'  (Буре́ть), Bokhansky District (both in Irkutsk Oblast).\n\nA boy whose remains were found near Mal'ta is usually known by the abbreviation MA-1 (or MA1). Discovered in the 1920s, the remains have been dated to 24,000 BP. According to research published since 2013, MA-1 belonged to a population related to the genetic ancestors of Siberians, American Indians, and Bronze Age Yamnaya and Botai people of the Eurasian steppe. In particular, modern-day Native Americans, Kets, Mansi, and Selkup have been found to harbour a significant amount of ancestry related to MA-1.\n\nMuch of what is known about Mal'ta comes from the Russian archaeologist Mikhail Gerasimov. Better known later for his contribution to the branch of anthropology known as forensic facial reconstruction, Gerasimov made revolutionary discoveries when he excavated Mal'ta in 1927. Until his findings, the Upper Paleolithic societies of Northern Asia were virtually unknown. Over the remainder of his career, Gerasimov twice more visited Mal'ta to excavate and research the site.\n\n",
-  "source": "https://en.wikipedia.org/wiki/Mal%27ta%E2%80%93Buret%27_culture",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "source": "https://en.wikipedia.org/wiki/Mal'ta%E2%80%93Buret'_culture",
+  "title": "Mal'ta–Buret' culture",
+  "revisionId": 1369641323,
+  "revisionTimestamp": "2026-08-16T05:58:34Z",
+  "fetchedAt": "2026-10-24T10:40:34.078Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Mal'ta–Buret' culture (also Maltinsko-buretskaya culture) is an archaeological culture of the Upper Paleolithic (generally dated to 24,000-23,000 BP but also sometimes to 15,000 BP). It is located roughly northwest of Lake Baikal, about 90 km to the northwest of Irkutsk, on the banks of the upper Angara River.\nThe type sites are named for the villages of Mal'ta (Мальта́), Usolsky District and Buret'  (Буре́ть), Bokhansky District (both in Irkutsk Oblast).\nA boy whose remains were found near Mal'ta is usually known by the abbreviation MA-1 (or MA1). Discovered in the 1920s, the remains have been dated to 24,000 BP. According to research published since 2013, MA-1 belonged to the population of Ancient North Eurasians, who were genetically \"intermediate between modern western Eurasians and Native Americans, but distant from east Asians\", and partial genetic ancestors of Siberians, Native Americans, and Bronze Age Yamnaya and Botai people of the Eurasian steppe. In particular, modern-day Native Americans, Kets, Mansi, and Selkup have been found to harbour a significant amount of ancestry related to MA-1.\nMuch of what is known about Mal'ta comes from the Russian archaeologist Mikhail Gerasimov. Better known later for his contribution to the branch of anthropology known as forensic facial reconstruction, Gerasimov made revolutionary discoveries when he excavated Mal'ta in 1927. Until his findings, the Upper Paleolithic societies of Northern Asia were virtually unknown. Over the remainder of his career, Gerasimov twice more visited Mal'ta to excavate and research the site."
 }

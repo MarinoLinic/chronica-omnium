@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0256",
+  "source": "https://en.wikipedia.org/wiki/John_Calvin",
+  "revisionId": 1371799693,
+  "fetchedAt": "2026-10-24T10:42:05.850Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png/960px-John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png/330px-John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:John_Calvin_Museum_Catharijneconvent_RMCC_s84_cropped.png",
+      "artist": "Anonymous (France)Unknown author",
+      "credit": "www.catharijneconvent.nl : Home : Info",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0446",
+  "source": "https://en.wikipedia.org/wiki/Iraq_War",
+  "revisionId": 1381703431,
+  "fetchedAt": "2026-10-24T10:44:20.438Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/960px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:UStanks_baghdad_2003.JPEG",
+      "artist": "Technical Sergeant John L. Houghton, Jr., United States Air Force",
+      "credit": "https://arcweb.archives.gov/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

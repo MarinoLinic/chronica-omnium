@@ -13,7 +13,7 @@
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Theodosius_I",
   "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Theodosius_I%27s_empire.png",
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-3acefcfa65fa"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "roman-empire-no-longer-unified",
     "Unnamed: 30": null,

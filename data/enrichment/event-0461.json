@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0461",
+  "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+  "revisionId": 1380656702,
+  "fetchedAt": "2026-10-24T10:23:50.135Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:1984_first_edition_cover.jpg",
+      "artist": "Michael Kennard",
+      "credit": "https://interminablerambling.com/2020/10/21/george-orwell-1984/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

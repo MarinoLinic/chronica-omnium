@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0555",
+  "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+  "revisionId": 1381267016,
+  "fetchedAt": "2026-10-24T10:25:01.434Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Etruscan_civilization_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Etruscan_civilization_map.png/960px-Etruscan_civilization_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Etruscan_civilization_map.png/330px-Etruscan_civilization_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Etruscan_civilization_map.png",
+      "artist": "NormanEinstein",
+      "credit": "Based on a map from The National Geographic Magazine Vol.173 No.6 June 1988.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

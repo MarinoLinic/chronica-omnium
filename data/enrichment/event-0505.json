@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0505",
+  "source": "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+  "revisionId": 1378597988,
+  "fetchedAt": "2026-10-24T10:24:21.739Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg/960px-2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg/330px-2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:2000%2B_year_global_temperature_including_Medieval_Warm_Period_and_Little_Ice_Age_-_Ed_Hawkins.svg",
+      "artist": "RCraig09",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

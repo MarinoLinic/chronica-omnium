@@ -1,0 +1,4276 @@
+{
+  "reviewedAt": "2026-10-24",
+  "scope": "Identifiable unfinished records; source and date scope review, not blanket approval of every claim in cached articles.",
+  "changes": [
+    {
+      "id": "event-0179",
+      "name": "Origins of Christianity",
+      "start": 1,
+      "end": 100,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Christianity",
+      "date_note": "First-century Jewish origins, conventionally associated with the ministry and death of Jesus. The first century is an approximate origin window, not a religion’s duration. No year zero.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0450",
+      "name": "HIV/AIDS epidemic",
+      "start": 1981,
+      "end": null,
+      "date_kind": "ongoing",
+      "source": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+      "date_note": "1981 marks the first published recognition of AIDS, not the first HIV infection. The epidemic remains ongoing.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0458",
+      "name": "Hungarian Revolution of 1956",
+      "start": 1956,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0459",
+      "name": "Korean War",
+      "start": 1950,
+      "end": 1953,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Korean_War",
+      "date_note": "Active war, 25 June 1950 to the 27 July 1953 armistice; no final peace treaty is implied.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0460",
+      "name": "George Orwell",
+      "start": 1903,
+      "end": 1950,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0461",
+      "name": "Nineteen Eighty-Four",
+      "start": 1949,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0462",
+      "name": "Cuban Revolution",
+      "start": 1953,
+      "end": 1959,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0463",
+      "name": "Israeli Declaration of Independence",
+      "start": 1948,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0464",
+      "name": "D-Day: Normandy landings",
+      "start": 1944,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Normandy_landings",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0465",
+      "name": "Attack on Pearl Harbor",
+      "start": 1941,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0466",
+      "name": "Launch of Operation Barbarossa",
+      "start": 1941,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0467",
+      "name": "Battle of France",
+      "start": 1940,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_France",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0468",
+      "name": "Affordable Care Act",
+      "start": 2010,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0469",
+      "name": "Pat Buchanan’s culture war speech",
+      "start": 1992,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://buchanan.org/blog/1992-republican-national-convention-speech-148",
+      "date_note": "Buchanan addressed the Republican National Convention on 17 August 1992. This dates that speech, not the general concept of a culture war.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0470",
+      "name": "Invention of gunpowder",
+      "start": 800,
+      "end": 900,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Gunpowder",
+      "date_note": "Ninth-century Chinese development; an approximate origin window, not a precise invention year.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0471",
+      "name": "Gupta Empire",
+      "start": 320,
+      "end": 550,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
+      "date_note": "Conventional imperial phase beginning with Chandragupta I around 320. Earlier Gupta rulers are known; the end around 550 is approximate.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0472",
+      "name": "Early Chinese magnetic compass",
+      "start": -200,
+      "end": 200,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "date_note": "Early Chinese lodestone devices are assigned broadly to the Han period. These bounds do not date the later use of a needle at sea; see record 493.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0473",
+      "name": "Cosmic Dark Ages",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Chronology_of_the_universe",
+      "date_note": "A cosmological interval after recombination and before the first stars. Its boundaries are model-dependent times after the Big Bang; no absolute calendar dates have been assigned.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0474",
+      "name": "Construction of Angkor Wat",
+      "start": 1113,
+      "end": 1150,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "date_note": "Construction under Suryavarman II, approximately 1113–1150. These are approximate construction dates, not the temple’s lifetime.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0475",
+      "name": "Government-issued Jiaozi banknotes",
+      "start": 1023,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Banknote",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0476",
+      "name": "Aztec Empire",
+      "start": 1428,
+      "end": 1521,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0477",
+      "name": "Pollution control",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Pollution",
+      "date_note": "A broad set of practices with ancient precedents, not a single invention. A particular law, technology, or jurisdiction must be specified before assigning a date.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0478",
+      "name": "Thirty Years’ War",
+      "start": 1618,
+      "end": 1648,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0479",
+      "name": "Peace of Westphalia",
+      "start": 1648,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0480",
+      "name": "The Wealth of Nations",
+      "start": 1776,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0481",
+      "name": "Mercantilism",
+      "start": 1500,
+      "end": 1800,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Mercantilism",
+      "date_note": "Approximate European period of prominence; practices and later uses of the term extend beyond these boundaries.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0482",
+      "name": "Declaration of Sentiments",
+      "start": 1848,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0483",
+      "name": "Droughts and famines of 1876–1878",
+      "start": 1876,
+      "end": 1878,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
+      "date_note": "The original broad placeholder is scoped to the 1876–1878 droughts and famines; regional mortality and causes require separate evidence.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0484",
+      "name": "Beginning of the Columbian exchange",
+      "start": 1492,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0485",
+      "name": "Early compound microscopes",
+      "start": 1590,
+      "end": 1620,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Microscope",
+      "date_note": "Early compound microscopes appeared around the late sixteenth and early seventeenth centuries. Attribution to the Janssens is disputed.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0486",
+      "name": "First documented telescope patent application",
+      "start": 1608,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+      "date_note": "1608 is Hans Lipperhey’s documented patent application, not proof of sole invention.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0487",
+      "name": "John Harington’s flush toilet",
+      "start": 1596,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/John_Harington_(writer)",
+      "date_note": "1596 dates Harington’s published design, not the first use of flushing sanitation in world history.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0488",
+      "name": "Jenner’s smallpox vaccination experiment",
+      "start": 1796,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0489",
+      "name": "Early rubber condoms",
+      "start": 1855,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Condom",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0490",
+      "name": "Construction begins on the Appian Way",
+      "start": -312,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Appian_Way",
+      "date_note": "The original “Roman roads completed” had no defensible single completion date. This record now dates the start of the Appian Way; the empire’s roads developed over many centuries.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0491",
+      "name": "Early watermills",
+      "start": -300,
+      "end": -100,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Watermill",
+      "date_note": "Approximate Hellenistic origin window; individual early examples and mechanisms have different dates.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0492",
+      "name": "Early Persian windmills",
+      "start": 800,
+      "end": 900,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Windmill",
+      "date_note": "Ninth-century Persian horizontal windmills; this window concerns early attestation, not continuous operation of one mill.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0493",
+      "name": "Shen Kuo describes the magnetic compass",
+      "start": 1088,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "date_note": "Shen Kuo’s Dream Pool Essays (1088) describe a magnetized needle. This is a textual milestone distinct from the early lodestone devices in record 472.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0494",
+      "name": "Gutenberg’s printing press",
+      "start": 1440,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Printing_press",
+      "date_note": "Around 1440: Gutenberg’s European movable metal type press. Printing and movable type had earlier East Asian histories.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0495",
+      "name": "Savery’s steam-powered pump patent",
+      "start": 1698,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0496",
+      "name": "Marconi’s early wireless experiments",
+      "start": 1895,
+      "end": 1896,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/History_of_radio",
+      "date_note": "This dates early Marconi experiments and patenting, not a sole invention of radio. Hertz, Tesla, Lodge, Popov and others made different contributions.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0497",
+      "name": "Wright brothers’ first powered flight",
+      "start": 1903,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0498",
+      "name": "Baird demonstrates television",
+      "start": 1926,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0499",
+      "name": "Space Race",
+      "start": 1955,
+      "end": 1975,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Space_Race",
+      "date_note": "A conventional US–Soviet competition interval, from satellite announcements to Apollo–Soyuz. Other endpoints are possible.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0500",
+      "name": "Proposal for the World Wide Web",
+      "start": 1989,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0501",
+      "name": "WorldWideWeb browser",
+      "start": 1990,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0502",
+      "name": "IBM Simon goes on sale",
+      "start": 1994,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+      "date_note": "The IBM Simon was announced in 1992 and sold in 1994. “First smartphone” is a retrospective, definition-dependent label.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0503",
+      "name": "The Simpsons premieres",
+      "start": 1989,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/The_Simpsons",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0504",
+      "name": "Drake Well",
+      "start": 1859,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Drake_Well",
+      "date_note": "Drake’s Pennsylvania well was drilled in 1859. It was not the world’s first extraction or drilling of oil; Azerbaijan and other regions have earlier claims.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0505",
+      "name": "Medieval Climate Anomaly",
+      "start": 950,
+      "end": 1250,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+      "date_note": "Approximate regional climate interval, not a globally synchronous warm period.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0506",
+      "name": "Little Ice Age",
+      "start": 1300,
+      "end": 1850,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+      "date_note": "Approximate conventional climate interval, with regional and scholarly differences over its boundaries.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0507",
+      "name": "Great Famine of 1315–1317",
+      "start": 1315,
+      "end": 1317,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0508",
+      "name": "Thomas Robert Malthus",
+      "start": 1766,
+      "end": 1834,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0509",
+      "name": "Launch of Sputnik 1",
+      "start": 1957,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "date_note": "Same launch as record 454, retained as a separate original entry rather than deleting or reusing its ID.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0510",
+      "name": "Human Genome Project completion announcement",
+      "start": 2003,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "date_note": "2003 dates the Human Genome Project’s completion announcement. The draft was published in 2001; gapless reference assemblies came later.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0511",
+      "name": "US approval of the contraceptive pill",
+      "start": 1960,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+      "date_note": "1960 dates US FDA approval of Enovid for contraception, not worldwide availability or the beginning of hormonal research.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0512",
+      "name": "Green Revolution: Borlaug’s Nobel Prize",
+      "start": 1970,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Green_Revolution",
+      "date_note": "Dates Borlaug’s 1970 Nobel Peace Prize as a clear milestone. The Green Revolution was a much broader, regionally staggered agricultural transformation.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0513",
+      "name": "World population becomes majority urban",
+      "start": 2007,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://www.un.org/en/desa/2018-revision-world-urbanization-prospects",
+      "date_note": "2007 is the UN Population Division’s estimated global rural–urban crossover, using national urban definitions. This is an estimated milestone, not a census on one day.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0514",
+      "name": "The Holocaust",
+      "start": 1941,
+      "end": 1945,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "date_note": "1941–1945 dates the systematic genocide phase. Nazi persecution and exclusion began earlier, in 1933.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0515",
+      "name": "Great Famine in Ireland",
+      "start": 1845,
+      "end": 1852,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0516",
+      "name": "Pasteur and Bernard test heat preservation",
+      "start": 1860,
+      "end": 1869,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Pasteurization",
+      "date_note": "Pasteur’s wine-preservation research in the 1860s. No unsupported exact first test day is assigned.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0517",
+      "name": "Early iron metallurgy in West Africa",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+      "date_note": "Early West African iron-working dates and interpretations remain debated, including claims before the first millennium BCE. The vague original label is not assigned a fabricated regional starting year.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0518",
+      "name": "Seven Years’ War",
+      "start": 1756,
+      "end": 1763,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0519",
+      "name": "Mahatma Gandhi",
+      "start": 1869,
+      "end": 1948,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0520",
+      "name": "Founding of the Kuomintang",
+      "start": 1912,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Kuomintang",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0521",
+      "name": "Cold War nuclear arms race",
+      "start": 1945,
+      "end": 1991,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
+      "date_note": "Cold War nuclear competition, 1945–1991. Nuclear arsenals and competition did not disappear when the Soviet Union ended.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0522",
+      "name": "Rise of disco",
+      "start": 1970,
+      "end": 1979,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Disco",
+      "date_note": "The 1970s rise of disco as a cultural phenomenon, with roots in late-1960s clubs. These are approximate cultural dates.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0523",
+      "name": "Emergence of rock music",
+      "start": 1950,
+      "end": 1959,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Rock_music",
+      "date_note": "1950s emergence, with earlier rhythm-and-blues and rock-and-roll antecedents. This window is not the genre’s duration.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0524",
+      "name": "The Beatles",
+      "start": 1960,
+      "end": 1970,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/The_Beatles",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0525",
+      "name": "Collision of India and Eurasia",
+      "start": -60000000,
+      "end": -50000000,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
+      "date_note": "Approximate 60–50 million years ago collision window; the definition and chronology of initial India–Asia collision remain debated.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0526",
+      "name": "Myllokunmingia: an early vertebrate",
+      "start": -518000000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
+      "date_note": "Approximately 518 million years ago. One of the earliest known vertebrates, not a proven single first fish.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0527",
+      "name": "Origins of plants",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "date_note": "“Plants” can mean green plants, land plants, or a broader photosynthetic grouping. No single origin date is assigned without a definition; record 528 concerns early land-plant evidence.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0528",
+      "name": "Early evidence of land plants",
+      "start": -470000000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "date_note": "Around 470 million years ago: early cryptospore evidence, not the invention of all plants or a precise date of first colonization.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0529",
+      "name": "Cryogenian Period",
+      "start": -720000000,
+      "end": -635000000,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Cryogenian",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0530",
+      "name": "Maximilien Robespierre",
+      "start": 1758,
+      "end": 1794,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0531",
+      "name": "First Chechen War",
+      "start": 1994,
+      "end": 1996,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/First_Chechen_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0538",
+      "name": "Carving Mount Rushmore",
+      "start": 1927,
+      "end": 1941,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0540",
+      "name": "Fermented drink at Jiahu",
+      "start": -7000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Jiahu",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0547",
+      "name": "First Red Scare",
+      "start": 1917,
+      "end": 1920,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/First_Red_Scare",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0548",
+      "name": "Second Red Scare",
+      "start": 1947,
+      "end": 1957,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/McCarthyism",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0549",
+      "name": "Hannibal",
+      "start": -247,
+      "end": -183,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Hannibal",
+      "date_note": "Birth around 247 BCE; death traditionally 183 BCE, with dates down to 181 BCE also proposed.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0550",
+      "name": "Pyrrhic War",
+      "start": -281,
+      "end": -275,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0551",
+      "name": "Gallic sack of Rome",
+      "start": -390,
+      "end": -387,
+      "date_kind": "uncertain",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+      "date_note": "390 BCE is traditional Roman chronology; about 387 BCE is another widely used date. These are alternative date estimates, not a three-year sack.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0552",
+      "name": "SPQR",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/SPQR",
+      "date_note": "An emblematic political formula, not an institution founded on one known day. Retained as an undated concept rather than assigning Rome’s foundation date.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0553",
+      "name": "Great Oxidation Event",
+      "start": -2460000000,
+      "end": -2060000000,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "date_note": "Approximate geological interval, around 2.46 to 2.06 billion years ago; oxygenation was a process with several proxies and phases.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0554",
+      "name": "Nordic Bronze Age",
+      "start": -1700,
+      "end": -500,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+      "date_note": "A conventional regional archaeological period, commonly around 1700–500 BCE; some chronologies start earlier.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0555",
+      "name": "Etruscan civilization",
+      "start": -900,
+      "end": -27,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0557",
+      "name": "Age of Exploration",
+      "start": 1400,
+      "end": 1700,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+      "date_note": "Broad conventional European exploration period, approximately the fifteenth to seventeenth centuries. It does not imply those lands were previously unknown to their inhabitants.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0558",
+      "name": "Epipalaeolithic Near East",
+      "start": -23000,
+      "end": -9500,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Epipalaeolithic_Near_East",
+      "date_note": "Regional archaeological interval, approximately 25,000–11,500 BP (BP reference 1950), shown as roughly 23,000–9500 BCE. Boundaries vary regionally.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0559",
+      "name": "Francisco Pizarro",
+      "start": 1478,
+      "end": 1541,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+      "date_note": "Birth year is approximate (circa 1478).",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0560",
+      "name": "Hernán Cortés",
+      "start": 1485,
+      "end": 1547,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "date_note": "Birth year is approximate (circa 1485).",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0561",
+      "name": "Minecraft full release",
+      "start": 2011,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Minecraft",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0562",
+      "name": "Carl Menger",
+      "start": 1840,
+      "end": 1921,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Carl_Menger",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0563",
+      "name": "Jordan Peterson",
+      "start": 1962,
+      "end": null,
+      "date_kind": "ongoing",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0564",
+      "name": "Slavoj Žižek",
+      "start": 1949,
+      "end": null,
+      "date_kind": "ongoing",
+      "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0565",
+      "name": "Muammar Gaddafi",
+      "start": 1942,
+      "end": 2011,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "date_note": "Birth year is approximate (circa 1942).",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0566",
+      "name": "Launch of WikiLeaks",
+      "start": 2006,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/WikiLeaks",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0567",
+      "name": "Saddam Hussein",
+      "start": 1937,
+      "end": 2006,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
+      "date_note": "1937 is the officially used birth year; sources also discuss uncertainty in his actual birth date.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0568",
+      "name": "Julian Assange",
+      "start": 1971,
+      "end": null,
+      "date_kind": "ongoing",
+      "source": "https://en.wikipedia.org/wiki/Julian_Assange",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0569",
+      "name": "Edward Snowden",
+      "start": 1983,
+      "end": null,
+      "date_kind": "ongoing",
+      "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0570",
+      "name": "Nicolae Ceaușescu",
+      "start": 1918,
+      "end": 1989,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0571",
+      "name": "Josip Broz Tito",
+      "start": 1892,
+      "end": 1980,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0572",
+      "name": "Colour revolutions",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Colour_revolution",
+      "date_note": "A series of protests and political transitions, not one event with a single duration. The general concept is undated; individual revolutions need their own dated entries.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0573",
+      "name": "Eugen von Böhm-Bawerk",
+      "start": 1851,
+      "end": 1914,
+      "date_kind": "span",
+      "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "reason": "Wikipedia introduction/infobox reviewed; scope and precision noted."
+    },
+    {
+      "id": "event-0532",
+      "name": "Technological civilizations and the Drake equation",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Drake_equation",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0533",
+      "name": "Human genetic mixing: a hypothetical scenario",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Panmixia",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0534",
+      "name": "Doomsday argument: a disputed inference",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0535",
+      "name": "Terraforming Mars: a hypothetical project",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0536",
+      "name": "Future erosion of the Great Pyramid",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0537",
+      "name": "Future erosion of lunar footprints",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Space_weathering",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0539",
+      "name": "Long-term human survival and the Doomsday argument",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0541",
+      "name": "A future green Sahara",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/African_humid_period",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0542",
+      "name": "Future closure of the Mediterranean",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0543",
+      "name": "The Solar System’s galactic orbit",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Galactic_year",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0544",
+      "name": "A future supercontinent",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0545",
+      "name": "Breakup of a future supercontinent",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Supercontinent_cycle",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0546",
+      "name": "The Sun’s red-giant future and Earth",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://en.wikipedia.org/wiki/Future_of_Earth",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "reason": "Removed unsupported certainty, preserved the original record and claims in the archive."
+    },
+    {
+      "id": "event-0574",
+      "start": 1804,
+      "end": null,
+      "date_kind": "point",
+      "date_note": "February to April 1804. The original pinned Wikipedia revision is retained.",
+      "reason": "Dates explicitly present in the preserved pinned article; source and cached revision retained."
+    }
+  ],
+  "targetedChanges": [
+    {
+      "id": "event-0251",
+      "name": "Niccolò Machiavelli",
+      "source": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli"
+    },
+    {
+      "id": "event-0028",
+      "name": "Hominini: humans and chimpanzees",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "A taxonomic tribe that includes humans and chimpanzees. “Hominin” is also often used for members of the human lineage after the split from Pan.",
+      "date_note": "Taxonomic definitions differ. The imported 9–8 million BCE interval conflated a taxon with an evolutionary divergence; no single founding date is assigned."
+    },
+    {
+      "id": "event-0030",
+      "name": "Origins of the human lineage",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "The earliest members of the human lineage are identified from fragmentary fossil evidence and competing phylogenetic interpretations.",
+      "date_note": "A distinct, exactly dated “emergence of Hominini” at 7 million BCE is not established. See Sahelanthropus (31), Graecopithecus (29), and the Pan–Homo divergence (32). The original row is retained."
+    },
+    {
+      "id": "event-0029",
+      "name": "Graecopithecus freybergi",
+      "source": "https://doi.org/10.1371/journal.pone.0177127",
+      "short_desc": "Late Miocene ape remains from Greece and Bulgaria, proposed as possible early members of the human lineage on dental evidence.",
+      "date_note": "Approximately 7.2 million years old. The proposed hominin affinity is disputed; this does not establish a European origin of humans."
+    },
+    {
+      "id": "event-0031",
+      "source": "https://doi.org/10.1126/sciadv.adv0130",
+      "short_desc": "Sahelanthropus, from Chad around 7 million years ago, is a candidate early hominin. Cranial and limb evidence has been interpreted as supporting bipedalism.",
+      "date_note": "Around 7 million years ago; rounded deep-time placement. Bipedalism and phylogenetic placement have been debated, including new limb analyses published in 2026."
+    },
+    {
+      "id": "event-0032",
+      "start": -8000000,
+      "end": -6000000,
+      "date_kind": "uncertain",
+      "short_desc": "The human and chimpanzee lineages separated through an evolutionary process whose timing depends on fossil interpretation and molecular models.",
+      "date_note": "A broad approximately 8–6 million-year divergence window, not a dated individual ancestor or a two-million-year lifespan."
+    },
+    {
+      "id": "event-0036",
+      "source": "https://www.nature.com/articles/nature14464",
+      "short_desc": "Stone artefacts at Lomekwi 3 in Kenya were reported from deposits around 3.3 million years old, predating the known fossil record of Homo.",
+      "date_note": "Age of an archaeological assemblage, not proof of the first stone use anywhere; the toolmakers are not securely identified."
+    },
+    {
+      "id": "event-0038",
+      "name": "Early Homo at Ledi-Geraru",
+      "start": -2798000,
+      "end": -2748000,
+      "date_kind": "uncertain",
+      "source": "https://doi.org/10.1126/science.aaa1343",
+      "short_desc": "The LD 350-1 mandible from Ethiopia documents early Homo around 2.80–2.75 million years ago.",
+      "date_note": "Fossil age bounds, not the duration of the genus. Approximate BCE conversion from geological ages, rounded to millennia; additional Ledi-Geraru finds were reported in 2025."
+    },
+    {
+      "id": "event-0039",
+      "name": "Early fire-use claims",
+      "start": -2000000,
+      "end": -1700000,
+      "date_kind": "uncertain",
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "short_desc": "Some early African sites have been proposed as evidence for hominin fire use, but natural burning and archaeological context complicate interpretation.",
+      "date_note": "The imported 2.0–1.7 million-year window represents disputed early claims, not established controlled fire. Stronger in-cave evidence is recorded separately at Wonderwerk (41)."
+    },
+    {
+      "id": "event-0041",
+      "name": "Fire at Wonderwerk Cave",
+      "start": -998000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "short_desc": "Burned bone and plant ash inside Wonderwerk Cave provide evidence of fire in an Early Acheulean archaeological context around one million years ago.",
+      "date_note": "Approximate BCE placement of a 1.0-million-year-old context. This does not prove that hominins could ignite fire, or securely identify the fire users as Homo erectus."
+    },
+    {
+      "id": "event-0045",
+      "name": "Early Homo sapiens at Jebel Irhoud",
+      "start": -347000,
+      "end": -279000,
+      "date_kind": "uncertain",
+      "source": "https://www.nature.com/articles/nature22335",
+      "short_desc": "Moroccan fossils combine a modern-looking face with a more archaic braincase and document an early stage in the Homo sapiens lineage.",
+      "date_note": "Thermoluminescence age 315 ± 34 thousand years. BCE bounds are approximate, rounded to millennia; this is an age estimate, not a species lifespan or a single moment of origin."
+    },
+    {
+      "id": "event-0046",
+      "name": "Apidima 1: proposed early Homo sapiens in Europe",
+      "source": "https://www.nature.com/articles/s41586-019-1376-z",
+      "short_desc": "A partial Greek cranium was interpreted in 2019 as Homo sapiens older than 210,000 years, suggesting an early Eurasian dispersal.",
+      "date_note": "A minimum age and a debated taxonomic interpretation. The rounded timeline placement is not proof of a precisely dated migration or its failure."
+    },
+    {
+      "id": "event-0047",
+      "name": "Late Homo erectus at Ngandong",
+      "start": -115000,
+      "end": -106000,
+      "date_kind": "uncertain",
+      "source": "https://www.nature.com/articles/s41586-019-1863-2",
+      "short_desc": "The Ngandong bone bed in Java records a late known occurrence of Homo erectus, modelled at 117,000–108,000 years ago.",
+      "date_note": "Approximate BCE bounds rounded to millennia. A last known fossil occurrence does not establish the actual extinction date."
+    },
+    {
+      "id": "event-0048",
+      "name": "Clothing inferred from lice evolution",
+      "start": -168000,
+      "end": -81000,
+      "date_kind": "uncertain",
+      "source": "https://doi.org/10.1093/molbev/msq234",
+      "short_desc": "Genetic modelling of clothing lice suggests that clothing was in use at least 83,000 years ago and possibly as early as 170,000 years ago.",
+      "date_note": "Indirect, model-dependent inference rather than surviving clothing. Approximate BCE bounds rounded to millennia."
+    },
+    {
+      "id": "event-0049",
+      "short_desc": "The Youngest Toba Tuff eruption occurred around 74,000 years ago in Sumatra. Its proposed role in a severe human population bottleneck remains debated.",
+      "date_note": "The eruption is well attested; the original assertion that humanity was reduced to 3,000–10,000 individuals is not treated as established fact."
+    },
+    {
+      "id": "event-0052",
+      "name": "Early cave marks at Maltravieso",
+      "start": -62800,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://doi.org/10.1126/science.aap7778",
+      "short_desc": "Uranium-series dating of carbonate over a hand stencil was interpreted as indicating art older than 64,800 years and possible Neanderthal authorship.",
+      "date_note": "A minimum-age claim, with debates over carbonate–pigment relationships and authorship. Approximate BCE placement; this is not an exact painting date."
+    },
+    {
+      "id": "event-0054",
+      "name": "Early occupation at Madjedbebe",
+      "start": -63000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://www.nature.com/articles/nature22968",
+      "short_desc": "Excavations at Madjedbebe in northern Australia were interpreted as evidence of human occupation around 65,000 years ago.",
+      "date_note": "Approximate BCE placement rounded to millennia. This is a site-based age estimate; the earliest peopling of Sahul and the interpretation of older deposits remain debated."
+    },
+    {
+      "id": "event-0056",
+      "name": "Narrative cave art in Sulawesi",
+      "start": -49200,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://www.nature.com/articles/s41586-024-07541-7",
+      "short_desc": "A scene at Leang Karampuang showing human-like figures with a pig was dated to a minimum age of 51,200 years.",
+      "date_note": "Minimum age, not an exact painting date. Approximately 49,200 BCE. A 2026 study reports a still older Sulawesi hand stencil of at least 67,800 years (not a narrative scene): https://www.nature.com/articles/s41586-025-09968-y"
+    },
+    {
+      "id": "event-0057",
+      "name": "Late Neanderthal disappearance in Europe",
+      "start": -39080,
+      "end": -37310,
+      "date_kind": "uncertain",
+      "source": "https://www.nature.com/articles/nature13621",
+      "short_desc": "Improved radiocarbon models place the end of the European Mousterian around 41,030–39,260 calibrated years BP, with regional variation.",
+      "date_note": "The 2014 model gives 95.4% bounds for archaeological disappearance. BP uses the fixed 1950 reference, unlike the viewer-relative “years ago” tooltip. Rounded BCE conversion; not a globally synchronous extinction."
+    },
+    {
+      "id": "event-0063",
+      "name": "Late Denisovan evidence at Baishiya",
+      "start": -46000,
+      "end": -30000,
+      "date_kind": "uncertain",
+      "source": "https://www.nature.com/articles/s41586-024-07612-9",
+      "short_desc": "A Denisovan rib from Baishiya Karst Cave was identified in a layer dated approximately 48,000–32,000 years ago.",
+      "date_note": "Approximate BCE conversion rounded to millennia. This dates fossil-bearing sediment, not Denisovan extinction; the imported 28,000–13,000 BCE extinction claim was unsupported."
+    },
+    {
+      "id": "event-0064",
+      "name": "Neanderthal cord at Abri du Maras",
+      "start": -50000,
+      "end": -39000,
+      "date_kind": "uncertain",
+      "source": "https://www.nature.com/articles/s41598-020-61839-w",
+      "short_desc": "A three-ply cord fragment attached to a stone tool provides direct evidence of Neanderthal fibre technology.",
+      "date_note": "Context dated about 52,000–41,000 years ago, placed approximately in BCE. Older than the imported 28,000-year rope claim; an archaeological occurrence does not date the invention of cordage."
+    },
+    {
+      "id": "event-0066",
+      "name": "Human footprints at White Sands",
+      "start": -21050,
+      "end": -19050,
+      "date_kind": "uncertain",
+      "source": "https://www.usgs.gov/news/national-news-release/study-confirms-age-oldest-fossil-human-footprints-north-america",
+      "short_desc": "Footprints in New Mexico indicate people were present during the Last Glacial Maximum. Independent pollen radiocarbon and sediment luminescence dating supported the original chronology.",
+      "date_note": "Approximately 23,000–21,000 calibrated years BP (fixed BP reference 1950), shown as roughly 21,050–19,050 BCE. This dates use of the site, not the first arrival anywhere in the Americas."
+    },
+    {
+      "id": "event-0067",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Caucasus Hunter-Gatherers (CHG) is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0068",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Eastern Hunter-Gatherers (EHG) is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0069",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Ancient north Eurasians is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0071",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Western Hunter-Gatherers (WHG) is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0074",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Scandinavian Hunter-Gatherers (SHG) is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0094",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Early European Farmers is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0100",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "type": "Concept",
+      "short_desc": "Western Steppe Herders (WSH) is a population-genetic ancestry grouping inferred from particular ancient DNA samples, rather than a single civilization with known founding and ending dates.",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages."
+    },
+    {
+      "id": "event-0072",
+      "short_desc": "Dogs descend from ancient wolf populations. The timing, geography and number of domestication processes remain debated.",
+      "date_note": "The imported circa 21,000 BCE placement is a hypothesis-level estimate, not a confirmed single domestication in Siberia or attribution to one ancestry group."
+    },
+    {
+      "id": "event-0073",
+      "short_desc": "The peopling of the Americas involved multiple movements and long regional histories. Earlier occupation is demonstrated at sites such as White Sands (record 66).",
+      "date_note": "The imported 18,000–12,000 BCE window is not the earliest possible arrival. It is retained as a broad late-glacial dispersal interval, not a continent-wide first settlement date."
+    },
+    {
+      "id": "event-0099",
+      "name": "Spread of modern domestic horses",
+      "start": -2200,
+      "end": -2000,
+      "date_kind": "span",
+      "source": "https://www.nature.com/articles/s41586-021-04018-9",
+      "short_desc": "The DOM2 lineage ancestral to modern domestic horses expanded widely from the western Eurasian steppes around 2200–2000 BCE.",
+      "date_note": "This spread is distinct from earlier Botai horse management around 3500 BCE. It does not establish that Yamnaya expansion or all Indo-European dispersals relied on riding DOM2 horses."
+    },
+    {
+      "id": "event-0556",
+      "name": "Mesolithic genome from La Braña-Arintero",
+      "start": -5000,
+      "end": null,
+      "date_kind": "point",
+      "source": "https://www.nature.com/articles/nature12960",
+      "short_desc": "A roughly 7,000-year-old individual from León, Spain, provided an early complete genome of a European Mesolithic hunter-gatherer.",
+      "date_note": "Approximate archaeological age, rounded to circa 5000 BCE. A village article redirect was rejected; this record cites the genomic study."
+    },
+    {
+      "id": "event-0540",
+      "source": "https://doi.org/10.1073/pnas.0407921102",
+      "short_desc": "Chemical residues in pottery from Jiahu indicate a fermented mixture of rice, honey and fruit by the seventh millennium BCE.",
+      "date_note": "This dates evidence at Jiahu, not the first alcoholic drink ever produced. Older proposed evidence from other regions has different methods and interpretations."
+    },
+    {
+      "id": "event-0392",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0403",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0405",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0416",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0418",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0422",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year."
+    },
+    {
+      "id": "event-0288",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff."
+    },
+    {
+      "id": "event-0391",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "First tournament",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff."
+    },
+    {
+      "id": "event-0428",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff."
+    },
+    {
+      "id": "event-0429",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff."
+    },
+    {
+      "id": "event-0432",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff."
+    },
+    {
+      "id": "event-0296",
+      "end": null,
+      "date_kind": "point",
+      "type": "Invention",
+      "name": "Invention of the piano",
+      "date_note": "Bartolomeo Cristofori developed the piano around 1700. This approximate invention date does not describe the instrument’s duration."
+    },
+    {
+      "id": "event-0181",
+      "start": 1,
+      "end": 100,
+      "date_kind": "uncertain",
+      "name": "Early roots of Catholic Christianity",
+      "date_label": "Origins",
+      "short_desc": "The Catholic Church traces its origins to Jesus and the apostles in first-century Judaea. Its later institutional identity developed over centuries.",
+      "date_note": "First-century roots are a tradition and historical origin context, not a precise founding in 54 or a duration ending in 2023. See Christianity (179) for the broader origins."
+    },
+    {
+      "id": "event-0259",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Reformation milestone",
+      "date_note": "1517 conventionally marks Luther’s Ninety-five Theses. It is an origin milestone for the Reformation, not the full duration of Protestant traditions."
+    },
+    {
+      "id": "event-0267",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "English Reformation milestone",
+      "date_note": "The 1534 Act of Supremacy marks a legal break with papal authority. Anglican identity developed over time and has earlier roots."
+    },
+    {
+      "id": "event-0427",
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Emergence milestone",
+      "date_note": "1992 is associated with Rebecca Walker’s articulation of a third wave. The movement has no universally agreed closing year."
+    },
+    {
+      "id": "event-0439",
+      "name": "COVID-19 global health emergency",
+      "start": 2020,
+      "end": 2023,
+      "date_kind": "span",
+      "date_label": "WHO emergency phase",
+      "source": "https://www.who.int/europe/emergencies/situations/covid-19",
+      "short_desc": "WHO’s COVID-19 public health emergency of international concern ran from 30 January 2020 to 5 May 2023.",
+      "date_note": "The end of the emergency designation did not mean COVID-19 or the pandemic itself had ended. The first detected outbreak was in December 2019.",
+      "periods": [
+        {
+          "id": "outbreak",
+          "label": "First detected outbreak",
+          "kind": "other",
+          "start": 2019,
+          "end": null,
+          "date_kind": "point",
+          "date_note": "December 2019, Wuhan.",
+          "source": "https://www.who.int/europe/emergencies/situations/covid-19"
+        }
+      ]
+    },
+    {
+      "id": "event-0441",
+      "name": "Russian full-scale invasion of Ukraine",
+      "end": null,
+      "date_kind": "ongoing",
+      "date_note": "Full-scale invasion began on 24 February 2022 within the wider Russo-Ukrainian war that began in 2014. The conflict remains ongoing in the checked source on 24 October 2026."
+    },
+    {
+      "id": "event-0531",
+      "name": "Chechen Wars",
+      "date_label": "First Chechen War",
+      "periods": [
+        {
+          "id": "second-war",
+          "label": "Second Chechen War",
+          "kind": "other",
+          "start": 1999,
+          "end": 2009,
+          "date_kind": "span",
+          "date_note": "Conventionally through the end of the Russian counterterrorism operation in April 2009; insurgency continued afterwards.",
+          "source": "https://en.wikipedia.org/wiki/Second_Chechen_War"
+        }
+      ],
+      "date_note": "Two distinct wars, not a continuous 1994–2009 bar. Primary dates: First Chechen War (1994–1996). Use all periods to compare the second war (1999–2009)."
+    },
+    {
+      "id": "event-0570",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "Romanian Communist Party leadership",
+          "kind": "office",
+          "start": 1965,
+          "end": 1989,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu"
+        }
+      ],
+      "timeline_period": "leadership"
+    },
+    {
+      "id": "event-0571",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "President of Yugoslavia",
+          "kind": "office",
+          "start": 1953,
+          "end": 1980,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito"
+        }
+      ],
+      "timeline_period": "leadership"
+    },
+    {
+      "id": "event-0567",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "President of Iraq",
+          "kind": "office",
+          "start": 1979,
+          "end": 2003,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+        }
+      ],
+      "timeline_period": "leadership"
+    },
+    {
+      "id": "event-0565",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "Leadership of Libya",
+          "kind": "office",
+          "start": 1969,
+          "end": 2011,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+        }
+      ],
+      "timeline_period": "leadership"
+    },
+    {
+      "id": "event-0077",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/History_of_rice_cultivation",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0078",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Siam_lilacpoint.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Cat",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0081",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Triticum_turgidum_illustration_%2802c%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Founder_crops",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0082",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/S%C3%A3o_Paulo_Marginal_Pinheiros.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Economy_of_South_America",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0083",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Sheep",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0084",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cow_%28Fleckvieh_breed%29_Oeschinensee_Slaunger_2009-07-07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Cattle",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0085",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pig_farm_Vampula_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Pig",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0086",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Llama",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0088",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0089",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Beekeeping",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    },
+    {
+      "id": "event-0095",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Funnelbeaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "source": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image."
+    }
+  ],
+  "finalReviewedScope": [
+    {
+      "id": "event-0028",
+      "name": "Hominini: humans and chimpanzees",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Hominini",
+      "date_note": "Taxonomic definitions differ. The imported 9–8 million BCE interval conflated a taxon with an evolutionary divergence; no single founding date is assigned.",
+      "periods": []
+    },
+    {
+      "id": "event-0029",
+      "name": "Graecopithecus freybergi",
+      "start": -7200000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1371/journal.pone.0177127",
+      "date_note": "Approximately 7.2 million years old. The proposed hominin affinity is disputed; this does not establish a European origin of humans.",
+      "periods": []
+    },
+    {
+      "id": "event-0030",
+      "name": "Origins of the human lineage",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Hominini",
+      "date_note": "A distinct, exactly dated “emergence of Hominini” at 7 million BCE is not established. See Sahelanthropus (31), Graecopithecus (29), and the Pan–Homo divergence (32). The original row is retained.",
+      "periods": []
+    },
+    {
+      "id": "event-0031",
+      "name": "Sahelanthropus tchadensis",
+      "start": -7000000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1126/sciadv.adv0130",
+      "date_note": "Around 7 million years ago; rounded deep-time placement. Bipedalism and phylogenetic placement have been debated, including new limb analyses published in 2026.",
+      "periods": []
+    },
+    {
+      "id": "event-0032",
+      "name": "Last common ancestor of Pan and Homo",
+      "start": -8000000,
+      "end": -6000000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor",
+      "date_note": "A broad approximately 8–6 million-year divergence window, not a dated individual ancestor or a two-million-year lifespan.",
+      "periods": []
+    },
+    {
+      "id": "event-0036",
+      "name": "Oldest stone tools",
+      "start": -3300000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/nature14464",
+      "date_note": "Age of an archaeological assemblage, not proof of the first stone use anywhere; the toolmakers are not securely identified.",
+      "periods": []
+    },
+    {
+      "id": "event-0038",
+      "name": "Early Homo at Ledi-Geraru",
+      "start": -2798000,
+      "end": -2748000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://doi.org/10.1126/science.aaa1343",
+      "date_note": "Fossil age bounds, not the duration of the genus. Approximate BCE conversion from geological ages, rounded to millennia; additional Ledi-Geraru finds were reported in 2025.",
+      "periods": []
+    },
+    {
+      "id": "event-0039",
+      "name": "Early fire-use claims",
+      "start": -2000000,
+      "end": -1700000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "date_note": "The imported 2.0–1.7 million-year window represents disputed early claims, not established controlled fire. Stronger in-cave evidence is recorded separately at Wonderwerk (41).",
+      "periods": []
+    },
+    {
+      "id": "event-0041",
+      "name": "Fire at Wonderwerk Cave",
+      "start": -998000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1073/pnas.1117620109",
+      "date_note": "Approximate BCE placement of a 1.0-million-year-old context. This does not prove that hominins could ignite fire, or securely identify the fire users as Homo erectus.",
+      "periods": []
+    },
+    {
+      "id": "event-0045",
+      "name": "Early Homo sapiens at Jebel Irhoud",
+      "start": -347000,
+      "end": -279000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/nature22335",
+      "date_note": "Thermoluminescence age 315 ± 34 thousand years. BCE bounds are approximate, rounded to millennia; this is an age estimate, not a species lifespan or a single moment of origin.",
+      "periods": []
+    },
+    {
+      "id": "event-0046",
+      "name": "Apidima 1: proposed early Homo sapiens in Europe",
+      "start": -208000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41586-019-1376-z",
+      "date_note": "A minimum age and a debated taxonomic interpretation. The rounded timeline placement is not proof of a precisely dated migration or its failure.",
+      "periods": []
+    },
+    {
+      "id": "event-0047",
+      "name": "Late Homo erectus at Ngandong",
+      "start": -115000,
+      "end": -106000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41586-019-1863-2",
+      "date_note": "Approximate BCE bounds rounded to millennia. A last known fossil occurrence does not establish the actual extinction date.",
+      "periods": []
+    },
+    {
+      "id": "event-0048",
+      "name": "Clothing inferred from lice evolution",
+      "start": -168000,
+      "end": -81000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://doi.org/10.1093/molbev/msq234",
+      "date_note": "Indirect, model-dependent inference rather than surviving clothing. Approximate BCE bounds rounded to millennia.",
+      "periods": []
+    },
+    {
+      "id": "event-0049",
+      "name": "Toba supereruption",
+      "start": -72000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Toba_catastrophe_theory",
+      "date_note": "The eruption is well attested; the original assertion that humanity was reduced to 3,000–10,000 individuals is not treated as established fact.",
+      "periods": []
+    },
+    {
+      "id": "event-0052",
+      "name": "Early cave marks at Maltravieso",
+      "start": -62800,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1126/science.aap7778",
+      "date_note": "A minimum-age claim, with debates over carbonate–pigment relationships and authorship. Approximate BCE placement; this is not an exact painting date.",
+      "periods": []
+    },
+    {
+      "id": "event-0054",
+      "name": "Early occupation at Madjedbebe",
+      "start": -63000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/nature22968",
+      "date_note": "Approximate BCE placement rounded to millennia. This is a site-based age estimate; the earliest peopling of Sahul and the interpretation of older deposits remain debated.",
+      "periods": []
+    },
+    {
+      "id": "event-0056",
+      "name": "Narrative cave art in Sulawesi",
+      "start": -49200,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41586-024-07541-7",
+      "date_note": "Minimum age, not an exact painting date. Approximately 49,200 BCE. A 2026 study reports a still older Sulawesi hand stencil of at least 67,800 years (not a narrative scene): https://www.nature.com/articles/s41586-025-09968-y",
+      "periods": []
+    },
+    {
+      "id": "event-0057",
+      "name": "Late Neanderthal disappearance in Europe",
+      "start": -39080,
+      "end": -37310,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/nature13621",
+      "date_note": "The 2014 model gives 95.4% bounds for archaeological disappearance. BP uses the fixed 1950 reference, unlike the viewer-relative “years ago” tooltip. Rounded BCE conversion; not a globally synchronous extinction.",
+      "periods": []
+    },
+    {
+      "id": "event-0063",
+      "name": "Late Denisovan evidence at Baishiya",
+      "start": -46000,
+      "end": -30000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41586-024-07612-9",
+      "date_note": "Approximate BCE conversion rounded to millennia. This dates fossil-bearing sediment, not Denisovan extinction; the imported 28,000–13,000 BCE extinction claim was unsupported.",
+      "periods": []
+    },
+    {
+      "id": "event-0064",
+      "name": "Neanderthal cord at Abri du Maras",
+      "start": -50000,
+      "end": -39000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41598-020-61839-w",
+      "date_note": "Context dated about 52,000–41,000 years ago, placed approximately in BCE. Older than the imported 28,000-year rope claim; an archaeological occurrence does not date the invention of cordage.",
+      "periods": []
+    },
+    {
+      "id": "event-0066",
+      "name": "Human footprints at White Sands",
+      "start": -21050,
+      "end": -19050,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://www.usgs.gov/news/national-news-release/study-confirms-age-oldest-fossil-human-footprints-north-america",
+      "date_note": "Approximately 23,000–21,000 calibrated years BP (fixed BP reference 1950), shown as roughly 21,050–19,050 BCE. This dates use of the site, not the first arrival anywhere in the Americas.",
+      "periods": []
+    },
+    {
+      "id": "event-0067",
+      "name": "Caucasus Hunter-Gatherers (CHG)",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0068",
+      "name": "Eastern Hunter-Gatherers (EHG) ",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Eastern_Hunter-Gatherer",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0069",
+      "name": "Ancient north Eurasians",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Ancient_North_Eurasian",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0071",
+      "name": "Western Hunter-Gatherers (WHG)",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Western_Hunter-Gatherer",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0072",
+      "name": "Domestication of wolves",
+      "start": -21000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+      "date_note": "The imported circa 21,000 BCE placement is a hypothesis-level estimate, not a confirmed single domestication in Siberia or attribution to one ancestry group.",
+      "periods": []
+    },
+    {
+      "id": "event-0073",
+      "name": "Settlement of the Americas",
+      "start": -18000,
+      "end": -12000,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Early_human_migrations",
+      "date_note": "The imported 18,000–12,000 BCE window is not the earliest possible arrival. It is retained as a broad late-glacial dispersal interval, not a continent-wide first settlement date.",
+      "periods": []
+    },
+    {
+      "id": "event-0074",
+      "name": "Scandinavian Hunter-Gatherers (SHG)",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Scandinavian_Hunter-Gatherer",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0077",
+      "name": "Domestication of rice",
+      "start": -11500,
+      "end": -6200,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/History_of_rice_cultivation",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0078",
+      "name": "Domestication of cats",
+      "start": -10000,
+      "end": -8000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Cat",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0081",
+      "name": "Domestication of founder crops",
+      "start": -9500,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Founder_crops",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0082",
+      "name": "South American agriculture starts",
+      "start": -9000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Economy_of_South_America",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0083",
+      "name": "Domestication of sheep",
+      "start": -9000,
+      "end": -7000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Sheep",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0084",
+      "name": "Domestication of cattle",
+      "start": -8500,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Cattle",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0085",
+      "name": "Domestication of wild boar",
+      "start": -8500,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Pig",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0086",
+      "name": "Domestication in the Andes",
+      "start": -8000,
+      "end": -5000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Llama",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0088",
+      "name": "South European agriculture begins",
+      "start": -7000,
+      "end": -3000,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0089",
+      "name": "Beekeeping",
+      "start": -7000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Beekeeping",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0094",
+      "name": "Early European Farmers",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Early_European_Farmers",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0095",
+      "name": "Northern European agriculture begins",
+      "start": -4500,
+      "end": -1700,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+      "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
+      "periods": []
+    },
+    {
+      "id": "event-0099",
+      "name": "Spread of modern domestic horses",
+      "start": -2200,
+      "end": -2000,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/s41586-021-04018-9",
+      "date_note": "This spread is distinct from earlier Botai horse management around 3500 BCE. It does not establish that Yamnaya expansion or all Indo-European dispersals relied on riding DOM2 horses.",
+      "periods": []
+    },
+    {
+      "id": "event-0100",
+      "name": "Western Steppe Herders (WSH)",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Western_Steppe_Herders",
+      "date_note": "The imported bounds are not retained as a continuous population lifespan. Samples, models, and regional archaeological contexts need separate dates; ancestry components do not have fixed universal mixture percentages.",
+      "periods": []
+    },
+    {
+      "id": "event-0125",
+      "name": "Last mammoths on Wrangel Island",
+      "start": -2000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1016/j.cell.2024.05.033",
+      "date_note": "Approximately 2000 BCE, about 4,000 years ago. A last known population does not identify the death year of an individual last mammoth.",
+      "periods": []
+    },
+    {
+      "id": "event-0130",
+      "name": "Israel (people)",
+      "start": -1208,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+      "date_note": "The Merneptah Stele, conventionally dated about 1208 BCE, is an early Egyptian reference to a people called Israel. It is not a founding date for a state.",
+      "periods": []
+    },
+    {
+      "id": "event-0131",
+      "name": "Hallstatt culture",
+      "start": -1200,
+      "end": -450,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+      "date_note": "Conventional broad dates circa 1200–450 BCE. The culture cannot simply be equated with all Celts or one expansion event.",
+      "periods": []
+    },
+    {
+      "id": "event-0154",
+      "name": "Peloponnesian Wars",
+      "start": -460,
+      "end": -445,
+      "date_kind": "span",
+      "date_label": "First Peloponnesian War",
+      "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
+      "date_note": "The first war (460–445 BCE) and the later war (431–404 BCE) are separate periods. The intervening peace is not drawn as continuous warfare.",
+      "periods": [
+        {
+          "id": "later-war",
+          "kind": "other",
+          "label": "Peloponnesian War",
+          "start": -431,
+          "end": -404,
+          "date_kind": "span",
+          "date_note": "The later war between Athens, Sparta and their allies.",
+          "source": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+        }
+      ]
+    },
+    {
+      "id": "event-0163",
+      "name": "Construction of the Great Wall of China",
+      "start": -220,
+      "end": 1644,
+      "date_kind": "span",
+      "date_label": "Imperial building phases",
+      "source": "https://whc.unesco.org/en/list/438",
+      "date_note": "Broad imperial building phases from Qin unification around 220 BCE through the Ming dynasty (1368–1644), following UNESCO’s account. This is not one uninterrupted building project; earlier walls and later repairs also exist.",
+      "periods": []
+    },
+    {
+      "id": "event-0179",
+      "name": "Origins of Christianity",
+      "start": 1,
+      "end": 100,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Christianity",
+      "date_note": "First-century Jewish origins, conventionally associated with the ministry and death of Jesus. The first century is an approximate origin window, not a religion’s duration. No year zero.",
+      "periods": []
+    },
+    {
+      "id": "event-0181",
+      "name": "Early roots of Catholic Christianity",
+      "start": 1,
+      "end": 100,
+      "date_kind": "uncertain",
+      "date_label": "Origins",
+      "source": "https://en.wikipedia.org/wiki/History_of_the_Catholic_Church",
+      "date_note": "First-century roots are a tradition and historical origin context, not a precise founding in 54 or a duration ending in 2023. See Christianity (179) for the broader origins.",
+      "periods": []
+    },
+    {
+      "id": "event-0198",
+      "name": "Assassination of Julius Nepos",
+      "start": 480,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Julius_Nepos",
+      "date_note": "Julius Nepos was killed in 480 after losing control of Italy in 475. Romulus Augustulus was deposed in 476; “last western emperor” depends on de facto rule versus recognition.",
+      "periods": []
+    },
+    {
+      "id": "event-0204",
+      "name": "Western imperial court: a legacy claim",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Western_Roman_Empire",
+      "date_note": "The assertion of a formal dissolution in 554 needs a specific primary or scholarly citation. Justinian’s Pragmatic Sanction and the end of the western court are distinct questions; the unsourced claim is preserved without a firm timeline date.",
+      "periods": []
+    },
+    {
+      "id": "event-0251",
+      "name": "Niccolò Machiavelli",
+      "start": 1469,
+      "end": 1527,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "date_note": "",
+      "periods": []
+    },
+    {
+      "id": "event-0259",
+      "name": "Protestantism",
+      "start": 1517,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Reformation milestone",
+      "source": "https://en.wikipedia.org/wiki/Protestantism",
+      "date_note": "1517 conventionally marks Luther’s Ninety-five Theses. It is an origin milestone for the Reformation, not the full duration of Protestant traditions.",
+      "periods": []
+    },
+    {
+      "id": "event-0267",
+      "name": "Anglicanism",
+      "start": 1534,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "English Reformation milestone",
+      "source": "https://en.wikipedia.org/wiki/Anglicanism",
+      "date_note": "The 1534 Act of Supremacy marks a legal break with papal authority. Anglican identity developed over time and has earlier roots.",
+      "periods": []
+    },
+    {
+      "id": "event-0288",
+      "name": "Harvard University",
+      "start": 1636,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "source": "https://en.wikipedia.org/wiki/Harvard_University",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
+      "periods": []
+    },
+    {
+      "id": "event-0296",
+      "name": "Invention of the piano",
+      "start": 1700,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Piano",
+      "date_note": "Bartolomeo Cristofori developed the piano around 1700. This approximate invention date does not describe the instrument’s duration.",
+      "periods": []
+    },
+    {
+      "id": "event-0319",
+      "name": "George Washington",
+      "start": 1789,
+      "end": 1797,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/George_Washington",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1732,
+          "end": 1799,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/George_Washington"
+        }
+      ]
+    },
+    {
+      "id": "event-0321",
+      "name": "Haitian Revolution",
+      "start": 1791,
+      "end": 1804,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/w/index.php?title=Haitian_Revolution&oldid=689232983",
+      "date_note": "Revolutionary conflict from 1791 to independence in 1804. The original pinned 2015 Wikipedia revision and its cached text are retained.",
+      "periods": []
+    },
+    {
+      "id": "event-0323",
+      "name": "Thomas Jefferson",
+      "start": 1801,
+      "end": 1809,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1743,
+          "end": 1826,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+        }
+      ]
+    },
+    {
+      "id": "event-0361",
+      "name": "Theodore Roosevelt",
+      "start": 1901,
+      "end": 1909,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1858,
+          "end": 1919,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+        }
+      ]
+    },
+    {
+      "id": "event-0369",
+      "name": "Woodrow Wilson",
+      "start": 1913,
+      "end": 1921,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1856,
+          "end": 1924,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+        }
+      ]
+    },
+    {
+      "id": "event-0384",
+      "name": "Benito Mussolini",
+      "start": 1922,
+      "end": 1943,
+      "date_kind": "span",
+      "date_label": "Prime minister of Italy",
+      "source": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1883,
+          "end": 1945,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Benito_Mussolini"
+        }
+      ]
+    },
+    {
+      "id": "event-0385",
+      "name": "Mustafa Kemal Atatürk",
+      "start": 1923,
+      "end": 1938,
+      "date_kind": "span",
+      "date_label": "President of Turkey",
+      "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1881,
+          "end": 1938,
+          "date_kind": "span",
+          "date_note": "Birth around 1881.",
+          "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+        }
+      ]
+    },
+    {
+      "id": "event-0391",
+      "name": "FIFA World Cup",
+      "start": 1930,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "First tournament",
+      "source": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
+      "periods": []
+    },
+    {
+      "id": "event-0392",
+      "name": "Thomas Sowell",
+      "start": 1930,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Sowell",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0393",
+      "name": "Franklin D. Roosevelt",
+      "start": 1933,
+      "end": 1945,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1882,
+          "end": 1945,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+        }
+      ]
+    },
+    {
+      "id": "event-0403",
+      "name": "Hans-Hermann Hoppe",
+      "start": 1949,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0405",
+      "name": "Vladimir Putin",
+      "start": 1952,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0416",
+      "name": "Elon Musk",
+      "start": 1971,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0418",
+      "name": "Curtis Yarvin",
+      "start": 1973,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Curtis_Yarvin",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0421",
+      "name": "Margaret Thatcher",
+      "start": 1979,
+      "end": 1990,
+      "date_kind": "span",
+      "date_label": "Prime minister of the United Kingdom",
+      "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1925,
+          "end": 2013,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+        }
+      ]
+    },
+    {
+      "id": "event-0422",
+      "name": "Eliezer Yudkowsky",
+      "start": 1979,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
+      "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
+      "periods": []
+    },
+    {
+      "id": "event-0423",
+      "name": "Ronald Reagan",
+      "start": 1981,
+      "end": 1989,
+      "date_kind": "span",
+      "date_label": "U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1911,
+          "end": 2004,
+          "date_kind": "span",
+          "date_note": "Birth and death years checked against the article and infobox.",
+          "source": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+        }
+      ]
+    },
+    {
+      "id": "event-0427",
+      "name": "Third-wave feminism",
+      "start": 1992,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Emergence milestone",
+      "source": "https://en.wikipedia.org/wiki/Third-wave_feminism",
+      "date_note": "1992 is associated with Rebecca Walker’s articulation of a third wave. The movement has no universally agreed closing year.",
+      "periods": []
+    },
+    {
+      "id": "event-0428",
+      "name": "European Union",
+      "start": 1993,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "source": "https://en.wikipedia.org/wiki/European_Union#Treaties_of_Maastricht,_Amsterdam_and_Nice_(1993%E2%80%8D%E2%80%93%E2%80%8D2004):~:text=on%201%20November-,1993,-.%5B21%5D",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
+      "periods": []
+    },
+    {
+      "id": "event-0429",
+      "name": "Google",
+      "start": 1998,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "source": "https://en.wikipedia.org/wiki/Google",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
+      "periods": []
+    },
+    {
+      "id": "event-0432",
+      "name": "Wikipedia",
+      "start": 2001,
+      "end": null,
+      "date_kind": "point",
+      "date_label": "Founding",
+      "source": "https://en.wikipedia.org/wiki/History_of_Wikipedia",
+      "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
+      "periods": []
+    },
+    {
+      "id": "event-0434",
+      "name": "Fukushima nuclear disaster",
+      "start": 2011,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_disaster",
+      "date_note": "",
+      "periods": []
+    },
+    {
+      "id": "event-0438",
+      "name": "Donald Trump",
+      "start": 2017,
+      "end": 2021,
+      "date_kind": "span",
+      "date_label": "First U.S. presidency",
+      "source": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
+      "periods": [
+        {
+          "id": "life",
+          "kind": "life",
+          "label": "Lifespan",
+          "start": 1946,
+          "end": null,
+          "date_kind": "ongoing",
+          "date_note": "No death recorded in the source checked 24 October 2026.",
+          "source": "https://en.wikipedia.org/wiki/Donald_Trump"
+        },
+        {
+          "id": "second-presidency",
+          "kind": "office",
+          "label": "Second U.S. presidency",
+          "start": 2025,
+          "end": null,
+          "date_kind": "ongoing",
+          "date_note": "Began 20 January 2025. This term is distinct from 2017–2021.",
+          "source": "https://en.wikipedia.org/wiki/Donald_Trump"
+        }
+      ]
+    },
+    {
+      "id": "event-0439",
+      "name": "COVID-19 global health emergency",
+      "start": 2020,
+      "end": 2023,
+      "date_kind": "span",
+      "date_label": "WHO emergency phase",
+      "source": "https://www.who.int/europe/emergencies/situations/covid-19",
+      "date_note": "The end of the emergency designation did not mean COVID-19 or the pandemic itself had ended. The first detected outbreak was in December 2019.",
+      "periods": [
+        {
+          "id": "outbreak",
+          "label": "First detected outbreak",
+          "kind": "other",
+          "start": 2019,
+          "end": null,
+          "date_kind": "point",
+          "date_note": "December 2019, Wuhan.",
+          "source": "https://www.who.int/europe/emergencies/situations/covid-19"
+        }
+      ]
+    },
+    {
+      "id": "event-0441",
+      "name": "Russian full-scale invasion of Ukraine",
+      "start": 2022,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+      "date_note": "Full-scale invasion began on 24 February 2022 within the wider Russo-Ukrainian war that began in 2014. The conflict remains ongoing in the checked source on 24 October 2026.",
+      "periods": []
+    },
+    {
+      "id": "event-0450",
+      "name": "HIV/AIDS epidemic",
+      "start": 1981,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+      "date_note": "1981 marks the first published recognition of AIDS, not the first HIV infection. The epidemic remains ongoing.",
+      "periods": []
+    },
+    {
+      "id": "event-0458",
+      "name": "Hungarian Revolution of 1956",
+      "start": 1956,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0459",
+      "name": "Korean War",
+      "start": 1950,
+      "end": 1953,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Korean_War",
+      "date_note": "Active war, 25 June 1950 to the 27 July 1953 armistice; no final peace treaty is implied.",
+      "periods": []
+    },
+    {
+      "id": "event-0460",
+      "name": "George Orwell",
+      "start": 1903,
+      "end": 1950,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/George_Orwell",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0461",
+      "name": "Nineteen Eighty-Four",
+      "start": 1949,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0462",
+      "name": "Cuban Revolution",
+      "start": 1953,
+      "end": 1959,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0463",
+      "name": "Israeli Declaration of Independence",
+      "start": 1948,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0464",
+      "name": "D-Day: Normandy landings",
+      "start": 1944,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Normandy_landings",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0465",
+      "name": "Attack on Pearl Harbor",
+      "start": 1941,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0466",
+      "name": "Launch of Operation Barbarossa",
+      "start": 1941,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0467",
+      "name": "Battle of France",
+      "start": 1940,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_France",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0468",
+      "name": "Affordable Care Act",
+      "start": 2010,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0469",
+      "name": "Pat Buchanan’s culture war speech",
+      "start": 1992,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/",
+      "date_note": "Buchanan addressed the Republican National Convention on 17 August 1992. This dates that speech, not the general concept of a culture war.",
+      "periods": []
+    },
+    {
+      "id": "event-0470",
+      "name": "Invention of gunpowder",
+      "start": 800,
+      "end": 900,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Gunpowder",
+      "date_note": "Ninth-century Chinese development; an approximate origin window, not a precise invention year.",
+      "periods": []
+    },
+    {
+      "id": "event-0471",
+      "name": "Gupta Empire",
+      "start": 320,
+      "end": 550,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Gupta_Empire",
+      "date_note": "Conventional imperial phase beginning with Chandragupta I around 320. Earlier Gupta rulers are known; the end around 550 is approximate.",
+      "periods": []
+    },
+    {
+      "id": "event-0472",
+      "name": "Early Chinese magnetic compass",
+      "start": -200,
+      "end": 200,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "date_note": "Early Chinese lodestone devices are assigned broadly to the Han period. These bounds do not date the later use of a needle at sea; see record 493.",
+      "periods": []
+    },
+    {
+      "id": "event-0473",
+      "name": "Cosmic Dark Ages",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Chronology_of_the_universe",
+      "date_note": "A cosmological interval after recombination and before the first stars. Its boundaries are model-dependent times after the Big Bang; no absolute calendar dates have been assigned.",
+      "periods": []
+    },
+    {
+      "id": "event-0474",
+      "name": "Construction of Angkor Wat",
+      "start": 1113,
+      "end": 1150,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "date_note": "Construction under Suryavarman II, approximately 1113–1150. These are approximate construction dates, not the temple’s lifetime.",
+      "periods": []
+    },
+    {
+      "id": "event-0475",
+      "name": "Government-issued Jiaozi banknotes",
+      "start": 1023,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Banknote",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0476",
+      "name": "Aztec Empire",
+      "start": 1428,
+      "end": 1521,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0477",
+      "name": "Pollution control",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Pollution",
+      "date_note": "A broad set of practices with ancient precedents, not a single invention. A particular law, technology, or jurisdiction must be specified before assigning a date.",
+      "periods": []
+    },
+    {
+      "id": "event-0478",
+      "name": "Thirty Years’ War",
+      "start": 1618,
+      "end": 1648,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0479",
+      "name": "Peace of Westphalia",
+      "start": 1648,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0480",
+      "name": "The Wealth of Nations",
+      "start": 1776,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0481",
+      "name": "Mercantilism",
+      "start": 1500,
+      "end": 1800,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Mercantilism",
+      "date_note": "Approximate European period of prominence; practices and later uses of the term extend beyond these boundaries.",
+      "periods": []
+    },
+    {
+      "id": "event-0482",
+      "name": "Declaration of Sentiments",
+      "start": 1848,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0483",
+      "name": "Droughts and famines of 1876–1878",
+      "start": 1876,
+      "end": 1878,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
+      "date_note": "The original broad placeholder is scoped to the 1876–1878 droughts and famines; regional mortality and causes require separate evidence.",
+      "periods": []
+    },
+    {
+      "id": "event-0484",
+      "name": "Beginning of the Columbian exchange",
+      "start": 1492,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0485",
+      "name": "Early compound microscopes",
+      "start": 1590,
+      "end": 1620,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Microscope",
+      "date_note": "Early compound microscopes appeared around the late sixteenth and early seventeenth centuries. Attribution to the Janssens is disputed.",
+      "periods": []
+    },
+    {
+      "id": "event-0486",
+      "name": "First documented telescope patent application",
+      "start": 1608,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+      "date_note": "1608 is Hans Lipperhey’s documented patent application, not proof of sole invention.",
+      "periods": []
+    },
+    {
+      "id": "event-0487",
+      "name": "John Harington’s flush toilet",
+      "start": 1596,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/John_Harington_(writer)",
+      "date_note": "1596 dates Harington’s published design, not the first use of flushing sanitation in world history.",
+      "periods": []
+    },
+    {
+      "id": "event-0488",
+      "name": "Jenner’s smallpox vaccination experiment",
+      "start": 1796,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0489",
+      "name": "Early rubber condoms",
+      "start": 1855,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Condom",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0490",
+      "name": "Construction begins on the Appian Way",
+      "start": -312,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Appian_Way",
+      "date_note": "The original “Roman roads completed” had no defensible single completion date. This record now dates the start of the Appian Way; the empire’s roads developed over many centuries.",
+      "periods": []
+    },
+    {
+      "id": "event-0491",
+      "name": "Early watermills",
+      "start": -300,
+      "end": -100,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Watermill",
+      "date_note": "Approximate Hellenistic origin window; individual early examples and mechanisms have different dates.",
+      "periods": []
+    },
+    {
+      "id": "event-0492",
+      "name": "Early Persian windmills",
+      "start": 800,
+      "end": 900,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Windmill",
+      "date_note": "Ninth-century Persian horizontal windmills; this window concerns early attestation, not continuous operation of one mill.",
+      "periods": []
+    },
+    {
+      "id": "event-0493",
+      "name": "Shen Kuo describes the magnetic compass",
+      "start": 1088,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Compass",
+      "date_note": "Shen Kuo’s Dream Pool Essays (1088) describe a magnetized needle. This is a textual milestone distinct from the early lodestone devices in record 472.",
+      "periods": []
+    },
+    {
+      "id": "event-0494",
+      "name": "Gutenberg’s printing press",
+      "start": 1440,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Printing_press",
+      "date_note": "Around 1440: Gutenberg’s European movable metal type press. Printing and movable type had earlier East Asian histories.",
+      "periods": []
+    },
+    {
+      "id": "event-0495",
+      "name": "Savery’s steam-powered pump patent",
+      "start": 1698,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0496",
+      "name": "Marconi’s early wireless experiments",
+      "start": 1895,
+      "end": 1896,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/History_of_radio",
+      "date_note": "This dates early Marconi experiments and patenting, not a sole invention of radio. Hertz, Tesla, Lodge, Popov and others made different contributions.",
+      "periods": []
+    },
+    {
+      "id": "event-0497",
+      "name": "Wright brothers’ first powered flight",
+      "start": 1903,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0498",
+      "name": "Baird demonstrates television",
+      "start": 1926,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0499",
+      "name": "Space Race",
+      "start": 1955,
+      "end": 1975,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Space_Race",
+      "date_note": "A conventional US–Soviet competition interval, from satellite announcements to Apollo–Soyuz. Other endpoints are possible.",
+      "periods": []
+    },
+    {
+      "id": "event-0500",
+      "name": "Proposal for the World Wide Web",
+      "start": 1989,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/World_Wide_Web",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0501",
+      "name": "WorldWideWeb browser",
+      "start": 1990,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0502",
+      "name": "IBM Simon goes on sale",
+      "start": 1994,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+      "date_note": "The IBM Simon was announced in 1992 and sold in 1994. “First smartphone” is a retrospective, definition-dependent label.",
+      "periods": []
+    },
+    {
+      "id": "event-0503",
+      "name": "The Simpsons premieres",
+      "start": 1989,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/The_Simpsons",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0504",
+      "name": "Drake Well",
+      "start": 1859,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Drake_Well",
+      "date_note": "Drake’s Pennsylvania well was drilled in 1859. It was not the world’s first extraction or drilling of oil; Azerbaijan and other regions have earlier claims.",
+      "periods": []
+    },
+    {
+      "id": "event-0505",
+      "name": "Medieval Climate Anomaly",
+      "start": 950,
+      "end": 1250,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Medieval_Warm_Period",
+      "date_note": "Approximate regional climate interval, not a globally synchronous warm period.",
+      "periods": []
+    },
+    {
+      "id": "event-0506",
+      "name": "Little Ice Age",
+      "start": 1300,
+      "end": 1850,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+      "date_note": "Approximate conventional climate interval, with regional and scholarly differences over its boundaries.",
+      "periods": []
+    },
+    {
+      "id": "event-0507",
+      "name": "Great Famine of 1315–1317",
+      "start": 1315,
+      "end": 1317,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0508",
+      "name": "Thomas Robert Malthus",
+      "start": 1766,
+      "end": 1834,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0509",
+      "name": "Launch of Sputnik 1",
+      "start": 1957,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "date_note": "Same launch as record 454, retained as a separate original entry rather than deleting or reusing its ID.",
+      "periods": []
+    },
+    {
+      "id": "event-0510",
+      "name": "Human Genome Project completion announcement",
+      "start": 2003,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "date_note": "2003 dates the Human Genome Project’s completion announcement. The draft was published in 2001; gapless reference assemblies came later.",
+      "periods": []
+    },
+    {
+      "id": "event-0511",
+      "name": "US approval of the contraceptive pill",
+      "start": 1960,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+      "date_note": "1960 dates US FDA approval of Enovid for contraception, not worldwide availability or the beginning of hormonal research.",
+      "periods": []
+    },
+    {
+      "id": "event-0512",
+      "name": "Green Revolution: Borlaug’s Nobel Prize",
+      "start": 1970,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Green_Revolution",
+      "date_note": "Dates Borlaug’s 1970 Nobel Peace Prize as a clear milestone. The Green Revolution was a much broader, regionally staggered agricultural transformation.",
+      "periods": []
+    },
+    {
+      "id": "event-0513",
+      "name": "World population becomes majority urban",
+      "start": 2007,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.un.org/development/desa/pd/content/world-urbanization-prospects-2018-revision",
+      "date_note": "2007 is the UN Population Division’s estimated global rural–urban crossover, using national urban definitions. This is an estimated milestone, not a census on one day.",
+      "periods": []
+    },
+    {
+      "id": "event-0514",
+      "name": "The Holocaust",
+      "start": 1941,
+      "end": 1945,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "date_note": "1941–1945 dates the systematic genocide phase. Nazi persecution and exclusion began earlier, in 1933.",
+      "periods": []
+    },
+    {
+      "id": "event-0515",
+      "name": "Great Famine in Ireland",
+      "start": 1845,
+      "end": 1852,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Great_Famine_(Ireland)",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0516",
+      "name": "Pasteur and Bernard test heat preservation",
+      "start": 1860,
+      "end": 1869,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Pasteurization",
+      "date_note": "Pasteur’s wine-preservation research in the 1860s. No unsupported exact first test day is assigned.",
+      "periods": []
+    },
+    {
+      "id": "event-0517",
+      "name": "Early iron metallurgy in West Africa",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+      "date_note": "Early West African iron-working dates and interpretations remain debated, including claims before the first millennium BCE. The vague original label is not assigned a fabricated regional starting year.",
+      "periods": []
+    },
+    {
+      "id": "event-0518",
+      "name": "Seven Years’ War",
+      "start": 1756,
+      "end": 1763,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0519",
+      "name": "Mahatma Gandhi",
+      "start": 1869,
+      "end": 1948,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0520",
+      "name": "Founding of the Kuomintang",
+      "start": 1912,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Kuomintang",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0521",
+      "name": "Cold War nuclear arms race",
+      "start": 1945,
+      "end": 1991,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Nuclear_arms_race",
+      "date_note": "Cold War nuclear competition, 1945–1991. Nuclear arsenals and competition did not disappear when the Soviet Union ended.",
+      "periods": []
+    },
+    {
+      "id": "event-0522",
+      "name": "Rise of disco",
+      "start": 1970,
+      "end": 1979,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Disco",
+      "date_note": "The 1970s rise of disco as a cultural phenomenon, with roots in late-1960s clubs. These are approximate cultural dates.",
+      "periods": []
+    },
+    {
+      "id": "event-0523",
+      "name": "Emergence of rock music",
+      "start": 1950,
+      "end": 1959,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Rock_music",
+      "date_note": "1950s emergence, with earlier rhythm-and-blues and rock-and-roll antecedents. This window is not the genre’s duration.",
+      "periods": []
+    },
+    {
+      "id": "event-0524",
+      "name": "The Beatles",
+      "start": 1960,
+      "end": 1970,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/The_Beatles",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0525",
+      "name": "Collision of India and Eurasia",
+      "start": -60000000,
+      "end": -50000000,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Geology_of_the_Himalayas",
+      "date_note": "Approximate 60–50 million years ago collision window; the definition and chronology of initial India–Asia collision remain debated.",
+      "periods": []
+    },
+    {
+      "id": "event-0526",
+      "name": "Myllokunmingia: an early vertebrate",
+      "start": -518000000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
+      "date_note": "Approximately 518 million years ago. One of the earliest known vertebrates, not a proven single first fish.",
+      "periods": []
+    },
+    {
+      "id": "event-0527",
+      "name": "Origins of plants",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "date_note": "“Plants” can mean green plants, land plants, or a broader photosynthetic grouping. No single origin date is assigned without a definition; record 528 concerns early land-plant evidence.",
+      "periods": []
+    },
+    {
+      "id": "event-0528",
+      "name": "Early evidence of land plants",
+      "start": -470000000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+      "date_note": "Around 470 million years ago: early cryptospore evidence, not the invention of all plants or a precise date of first colonization.",
+      "periods": []
+    },
+    {
+      "id": "event-0529",
+      "name": "Cryogenian Period",
+      "start": -720000000,
+      "end": -635000000,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Cryogenian",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0530",
+      "name": "Maximilien Robespierre",
+      "start": 1758,
+      "end": 1794,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0531",
+      "name": "Chechen Wars",
+      "start": 1994,
+      "end": 1996,
+      "date_kind": "span",
+      "date_label": "First Chechen War",
+      "source": "https://en.wikipedia.org/wiki/First_Chechen_War",
+      "date_note": "Two distinct wars, not a continuous 1994–2009 bar. Primary dates: First Chechen War (1994–1996). Use all periods to compare the second war (1999–2009).",
+      "periods": [
+        {
+          "id": "second-war",
+          "label": "Second Chechen War",
+          "kind": "other",
+          "start": 1999,
+          "end": 2009,
+          "date_kind": "span",
+          "date_note": "Conventionally through the end of the Russian counterterrorism operation in April 2009; insurgency continued afterwards.",
+          "source": "https://en.wikipedia.org/wiki/Second_Chechen_War"
+        }
+      ]
+    },
+    {
+      "id": "event-0532",
+      "name": "Technological civilizations and the Drake equation",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Drake_equation",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0533",
+      "name": "Human genetic mixing: a hypothetical scenario",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Panmixia",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0534",
+      "name": "Doomsday argument: a disputed inference",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0535",
+      "name": "Terraforming Mars: a hypothetical project",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0536",
+      "name": "Future erosion of the Great Pyramid",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0537",
+      "name": "Future erosion of lunar footprints",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Space_weathering",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0538",
+      "name": "Carving Mount Rushmore",
+      "start": 1927,
+      "end": 1941,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0539",
+      "name": "Long-term human survival and the Doomsday argument",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0540",
+      "name": "Fermented drink at Jiahu",
+      "start": -7000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://doi.org/10.1073/pnas.0407921102",
+      "date_note": "This dates evidence at Jiahu, not the first alcoholic drink ever produced. Older proposed evidence from other regions has different methods and interpretations.",
+      "periods": []
+    },
+    {
+      "id": "event-0541",
+      "name": "A future green Sahara",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/African_humid_period",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0542",
+      "name": "Future closure of the Mediterranean",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0543",
+      "name": "The Solar System’s galactic orbit",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Galactic_year",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0544",
+      "name": "A future supercontinent",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Supercontinent",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0545",
+      "name": "Breakup of a future supercontinent",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Supercontinent_cycle",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0546",
+      "name": "The Sun’s red-giant future and Earth",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Future_of_Earth",
+      "date_note": "An undated future scenario or conceptual timescale, not a historical event. Original numerical claims remain in the preserved archive.",
+      "periods": []
+    },
+    {
+      "id": "event-0547",
+      "name": "First Red Scare",
+      "start": 1917,
+      "end": 1920,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/First_Red_Scare",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0548",
+      "name": "Second Red Scare",
+      "start": 1947,
+      "end": 1957,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/McCarthyism",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0549",
+      "name": "Hannibal",
+      "start": -247,
+      "end": -183,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Hannibal",
+      "date_note": "Birth around 247 BCE; death traditionally 183 BCE, with dates down to 181 BCE also proposed.",
+      "periods": []
+    },
+    {
+      "id": "event-0550",
+      "name": "Pyrrhic War",
+      "start": -281,
+      "end": -275,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0551",
+      "name": "Gallic sack of Rome",
+      "start": -390,
+      "end": -387,
+      "date_kind": "uncertain",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Allia",
+      "date_note": "390 BCE is traditional Roman chronology; about 387 BCE is another widely used date. These are alternative date estimates, not a three-year sack.",
+      "periods": []
+    },
+    {
+      "id": "event-0552",
+      "name": "SPQR",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/SPQR",
+      "date_note": "An emblematic political formula, not an institution founded on one known day. Retained as an undated concept rather than assigning Rome’s foundation date.",
+      "periods": []
+    },
+    {
+      "id": "event-0553",
+      "name": "Great Oxidation Event",
+      "start": -2460000000,
+      "end": -2060000000,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "date_note": "Approximate geological interval, around 2.46 to 2.06 billion years ago; oxygenation was a process with several proxies and phases.",
+      "periods": []
+    },
+    {
+      "id": "event-0554",
+      "name": "Nordic Bronze Age",
+      "start": -1700,
+      "end": -500,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age",
+      "date_note": "A conventional regional archaeological period, commonly around 1700–500 BCE; some chronologies start earlier.",
+      "periods": []
+    },
+    {
+      "id": "event-0555",
+      "name": "Etruscan civilization",
+      "start": -900,
+      "end": -27,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Etruscan_civilization",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0556",
+      "name": "Mesolithic genome from La Braña-Arintero",
+      "start": -5000,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://www.nature.com/articles/nature12960",
+      "date_note": "Approximate archaeological age, rounded to circa 5000 BCE. A village article redirect was rejected; this record cites the genomic study.",
+      "periods": []
+    },
+    {
+      "id": "event-0557",
+      "name": "Age of Exploration",
+      "start": 1400,
+      "end": 1700,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+      "date_note": "Broad conventional European exploration period, approximately the fifteenth to seventeenth centuries. It does not imply those lands were previously unknown to their inhabitants.",
+      "periods": []
+    },
+    {
+      "id": "event-0558",
+      "name": "Epipalaeolithic Near East",
+      "start": -23000,
+      "end": -9500,
+      "date_kind": "span",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Epipalaeolithic_Near_East",
+      "date_note": "Regional archaeological interval, approximately 25,000–11,500 BP (BP reference 1950), shown as roughly 23,000–9500 BCE. Boundaries vary regionally.",
+      "periods": []
+    },
+    {
+      "id": "event-0559",
+      "name": "Francisco Pizarro",
+      "start": 1478,
+      "end": 1541,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+      "date_note": "Birth year is approximate (circa 1478).",
+      "periods": []
+    },
+    {
+      "id": "event-0560",
+      "name": "Hernán Cortés",
+      "start": 1485,
+      "end": 1547,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "date_note": "Birth year is approximate (circa 1485).",
+      "periods": []
+    },
+    {
+      "id": "event-0561",
+      "name": "Minecraft full release",
+      "start": 2011,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Minecraft",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0562",
+      "name": "Carl Menger",
+      "start": 1840,
+      "end": 1921,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Carl_Menger",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0563",
+      "name": "Jordan Peterson",
+      "start": 1962,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0564",
+      "name": "Slavoj Žižek",
+      "start": 1949,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0565",
+      "name": "Muammar Gaddafi",
+      "start": 1942,
+      "end": 2011,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "date_note": "Birth year is approximate (circa 1942).",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "Leadership of Libya",
+          "kind": "office",
+          "start": 1969,
+          "end": 2011,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Muammar_Gaddafi"
+        }
+      ]
+    },
+    {
+      "id": "event-0566",
+      "name": "Launch of WikiLeaks",
+      "start": 2006,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/WikiLeaks",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0567",
+      "name": "Saddam Hussein",
+      "start": 1937,
+      "end": 2006,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
+      "date_note": "1937 is the officially used birth year; sources also discuss uncertainty in his actual birth date.",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "President of Iraq",
+          "kind": "office",
+          "start": 1979,
+          "end": 2003,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+        }
+      ]
+    },
+    {
+      "id": "event-0568",
+      "name": "Julian Assange",
+      "start": 1971,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Julian_Assange",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0569",
+      "name": "Edward Snowden",
+      "start": 1983,
+      "end": null,
+      "date_kind": "ongoing",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0570",
+      "name": "Nicolae Ceaușescu",
+      "start": 1918,
+      "end": 1989,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "Romanian Communist Party leadership",
+          "kind": "office",
+          "start": 1965,
+          "end": 1989,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu"
+        }
+      ]
+    },
+    {
+      "id": "event-0571",
+      "name": "Josip Broz Tito",
+      "start": 1892,
+      "end": 1980,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": [
+        {
+          "id": "leadership",
+          "label": "President of Yugoslavia",
+          "kind": "office",
+          "start": 1953,
+          "end": 1980,
+          "date_kind": "span",
+          "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+          "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito"
+        }
+      ]
+    },
+    {
+      "id": "event-0572",
+      "name": "Colour revolutions",
+      "start": null,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/wiki/Colour_revolution",
+      "date_note": "A series of protests and political transitions, not one event with a single duration. The general concept is undated; individual revolutions need their own dated entries.",
+      "periods": []
+    },
+    {
+      "id": "event-0573",
+      "name": "Eugen von Böhm-Bawerk",
+      "start": 1851,
+      "end": 1914,
+      "date_kind": "span",
+      "date_label": "Lifespan",
+      "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+      "date_note": "Dates shown to year precision; see the source for exact dates and context.",
+      "periods": []
+    },
+    {
+      "id": "event-0574",
+      "name": "Haitian Massacre",
+      "start": 1804,
+      "end": null,
+      "date_kind": "point",
+      "date_label": null,
+      "source": "https://en.wikipedia.org/w/index.php?title=1804_Haitian_massacre&oldid=688360926",
+      "date_note": "February to April 1804. The original pinned Wikipedia revision is retained.",
+      "periods": []
+    }
+  ],
+  "finalScopeNote": "Snapshot of the reviewed scoped edits after final source refinements. Authored event files remain the source of truth. General background links and imported claims outside this scope are not blanket-approved.",
+  "subjectClassificationReview": {
+    "date": "2026-10-24",
+    "ids": [
+      {
+        "id": "event-0001",
+        "field": "Astronomy"
+      },
+      {
+        "id": "event-0002",
+        "field": "Astronomy"
+      },
+      {
+        "id": "event-0003",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0004",
+        "field": "Astronomy"
+      },
+      {
+        "id": "event-0005",
+        "field": "Astronomy"
+      },
+      {
+        "id": "event-0006",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0007",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0008",
+        "field": "Astronomy"
+      },
+      {
+        "id": "event-0009",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0010",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0011",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0012",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0013",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0014",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0015",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0016",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0017",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0018",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0019",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0020",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0021",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0022",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0023",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0024",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0025",
+        "field": "Geology"
+      },
+      {
+        "id": "event-0026",
+        "field": "Biology"
+      },
+      {
+        "id": "event-0027",
+        "field": "Biology"
+      }
+    ],
+    "note": "Basic subject classification corrected without altering historical dates or approving unreviewed claims."
+  }
+}

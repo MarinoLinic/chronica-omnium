@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0199",
+  "source": "https://en.wikipedia.org/wiki/Francia",
+  "revisionId": 1380790876,
+  "fetchedAt": "2026-10-24T10:41:24.755Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/Franks_expansion.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/2/23/Franks_expansion.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Franks_expansion.gif/330px-Franks_expansion.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Franks_expansion.gif",
+      "artist": "No machine-readable author provided. Roke~commonswiki assumed (based on copyright claims).",
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0152",
+  "source": "https://en.wikipedia.org/wiki/Classical_Greece",
+  "revisionId": 1381309756,
+  "fetchedAt": "2026-10-24T10:41:08.656Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg/960px-The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg/330px-The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Acropolis_of_Athens_as_seen_from_the_Pnyx_in_October_2025.jpg",
+      "artist": "Nikos Kitsakis",
+      "credit": "Own work",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

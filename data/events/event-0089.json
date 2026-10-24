@@ -13,13 +13,13 @@
   "type": "Event",
   "field": null,
   "relevance": 1,
-  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "source": "https://en.wikipedia.org/wiki/Beekeeping",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
   "date_kind": "point",
-  "date_note": "",
+  "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
   "places": [
     "place-379440120637"
   ],

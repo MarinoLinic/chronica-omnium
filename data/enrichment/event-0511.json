@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0511",
+  "source": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+  "revisionId": 1372884360,
+  "fetchedAt": "2026-10-24T10:24:26.225Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pilule_contraceptive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Pilule_contraceptive.jpg/960px-Pilule_contraceptive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Pilule_contraceptive.jpg/330px-Pilule_contraceptive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pilule_contraceptive.jpg",
+      "artist": "",
+      "credit": "",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "attribution": ""
+    }
+  }
+}

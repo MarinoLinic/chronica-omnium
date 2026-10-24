@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0130",
+  "source": "https://en.wikipedia.org/wiki/Merneptah_Stele",
+  "revisionId": 1378082708,
+  "fetchedAt": "2026-10-24T10:40:57.664Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Merneptah_Steli_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Merneptah_Steli_%28cropped%29.jpg/960px-Merneptah_Steli_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Merneptah_Steli_%28cropped%29.jpg/330px-Merneptah_Steli_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Merneptah_Steli_(cropped).jpg",
+      "artist": "𐰇𐱅𐰚𐰤",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

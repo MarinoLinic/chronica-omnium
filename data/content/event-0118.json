@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0118",
-  "text": "\nCoordinates: 33°6′N 44°6′E﻿ / ﻿33.100°N 44.100°E﻿ / 33.100; 44.100\n\nThe Akkadian Empire (/əˈkeɪdiən/) was the first ancient empire of Mesopotamia after the long-lived civilization of Sumer. It was centered in the city of Akkad (/ˈækæd/) and its surrounding region. The empire united Akkadian and Sumerian speakers under one rule. The Akkadian Empire exercised influence across Mesopotamia, the Levant, and Anatolia, sending military expeditions as far south as Dilmun and Magan (modern Saudi Arabia, Bahrain, and Oman) in the Arabian Peninsula.\n\nThe Akkadian Empire reached its political peak between the 24th and 22nd centuries BC, following the conquests by its founder Sargon of Akkad. Under Sargon and his successors, the Akkadian language was briefly imposed on neighboring conquered states such as Elam and Gutium. Akkad is sometimes regarded as the first empire in history, though the meaning of this term is not precise, and there are earlier Sumerian claimants.\n\n",
   "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Akkadian Empire",
+  "revisionId": 1381712079,
+  "revisionTimestamp": "2026-10-24T08:25:15Z",
+  "fetchedAt": "2026-10-24T10:40:49.529Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Akkadian Empire () or the Kingdom of Akkad/Agade was an ancient kingdom established around 2300 BCE, often seen as the first empire in world history, succeeding and unifying the long-lived city-states of the Early Dynastic period. \nCentered on the city of Akkad ( or ) and its surrounding region in modern-day Iraq, the empire united the Semitic Akkadian and Sumerian speakers under one rule and exercised significant influence across Mesopotamia, Syria and modern-day western Iran, sending expeditions as far south as Dilmun and Magan in the Arabian Peninsula.\nEstablished by Sargon of Akkad after defeating the king Lugal-zage-si, it replaced the system of independent Sumero-Akkadian city-states and unified southern Mesopotamia, under a centralized government, its influence stretching from the Mediterranean to Iran and from Anatolia to the Persian Gulf. Sargon and his successors, especially his grandson Naram-Sin, consolidated the empire through military conquest, administrative reforms, and cultural integration. Naram-Sin took the unprecedented step of declaring himself a living god and adopted the title \"King of the Four Quarters.\" The Semitic Akkadian language became the empire's lingua franca, although Sumerian (a language isolate) remained important in religion and literature. The empire is documented through official inscriptions, found on carved monuments or late copies, administrative tablets, seals and other artefacts. An innovative royal art redefined the image of kingship, emphasizing its heroic and martial aspects. Enheduanna, Sargon's daughter, served as high priestess and is often recognized as the first known named author in history.\nDespite its strength, the empire faced internal revolts and external threats. Sargon's sons, Rimush and Manishtushu, struggled to maintain control; both may have died violently. Naram-Sin's successors were weaker, leading to fragmentation and vulnerability. The empire eventually collapsed, probably due to a combination of internal unrest and severe environmental and economic stress caused by a major drought associated with the 4.2-kiloyear climate event, and also external threats from the Gutians, Amorites, and Elamites. It nonetheless remained a point of reference throughout the rest of Mesopotamian history. It was notably commemorated in legends featuring Sargon and Naram-Sin, figures viewed by their royal successors as either models or counter-models."
 }

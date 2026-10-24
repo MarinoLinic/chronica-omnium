@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0098",
+  "source": "https://en.wikipedia.org/wiki/Comb_Ceramic_culture",
+  "revisionId": 1368837873,
+  "fetchedAt": "2026-10-24T10:40:38.595Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Comb_ceramic_pottery_from_Taipalsaari%2C_Finland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/33/Comb_ceramic_pottery_from_Taipalsaari%2C_Finland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Comb_ceramic_pottery_from_Taipalsaari%2C_Finland.jpg/330px-Comb_ceramic_pottery_from_Taipalsaari%2C_Finland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Comb_ceramic_pottery_from_Taipalsaari,_Finland.jpg",
+      "artist": "The National Board of Antiquities of Finland",
+      "credit": "The National Board of Antiquities of Finlandhttps://www.finna.fi/Record/musketti.M012:KM30887:995",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

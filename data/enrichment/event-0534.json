@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0534",
+  "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+  "revisionId": 1374892467,
+  "fetchedAt": "2026-10-24T10:44:26.760Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Population_curve.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/960px-Population_curve.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/330px-Population_curve.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Population_curve.svg",
+      "artist": "El T",
+      "credit": "Originally uploaded to en.wikipedia as Population curve.svg. The data is from the \"lower\" estimates at census.gov (archive.org mirror).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0121",
+  "source": "https://en.wikipedia.org/wiki/Indo-Iranians",
+  "revisionId": 1377411448,
+  "fetchedAt": "2026-10-24T10:40:51.515Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/From_Corded_Ware_to_Sintashta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/6/60/From_Corded_Ware_to_Sintashta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/From_Corded_Ware_to_Sintashta.jpg/330px-From_Corded_Ware_to_Sintashta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:From_Corded_Ware_to_Sintashta.jpg",
+      "artist": "Joshua Jonathan",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

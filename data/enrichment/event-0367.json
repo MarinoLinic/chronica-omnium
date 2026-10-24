@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0367",
+  "source": "https://en.wikipedia.org/wiki/Milton_Friedman",
+  "revisionId": 1378703899,
+  "fetchedAt": "2026-10-24T10:43:23.023Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg/960px-Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg/330px-Portrait_of_Milton_Friedman_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Milton_Friedman_(4x5_cropped).jpg",
+      "artist": "Bachrach Studios",
+      "credit": "https://www.gettyimages.com/detail/news-photo/portrait-of-the-noted-american-economist-milton-friedman-news-photo/82645388",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

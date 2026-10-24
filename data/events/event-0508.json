@@ -3,23 +3,23 @@
   "id": "event-0508",
   "id_num": 508,
   "slug": "thomas-maltus",
-  "status": "stub",
-  "name": "Thomas Maltus",
-  "short_desc": null,
+  "status": "review",
+  "name": "Thomas Robert Malthus",
+  "short_desc": "Thomas Robert Malthus (; 13/14 February 1766 – 29 December 1834) was an English economist, Christian priest, and scholar influential in the fields of political economy and demography.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1766,
+  "end": 1834,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

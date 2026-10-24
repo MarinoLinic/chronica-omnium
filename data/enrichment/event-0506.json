@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0506",
+  "source": "https://en.wikipedia.org/wiki/Little_Ice_Age",
+  "revisionId": 1379821900,
+  "fetchedAt": "2026-10-24T10:24:22.810Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/2000_Year_Temperature_Comparison.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2000_Year_Temperature_Comparison.png/960px-2000_Year_Temperature_Comparison.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/2000_Year_Temperature_Comparison.png/330px-2000_Year_Temperature_Comparison.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:2000_Year_Temperature_Comparison.png",
+      "artist": "",
+      "credit": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

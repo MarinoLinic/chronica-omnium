@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0046",
-  "text": "Early human migrations are the earliest migrations and expansions of archaic and modern humans across continents. They are believed to have begun approximately 2 million years ago with the early expansions out of Africa by Homo erectus. This initial migration was followed by other archaic humans including H. heidelbergensis, which lived around 500,000 years ago and was the likely ancestor of Denisovans and Neanderthals as well as modern humans. Early hominids had likely crossed land bridges that have now sunk.\n\nWithin Africa, Homo sapiens dispersed around the time of its speciation, roughly 300,000 years ago. The recent African origin paradigm suggests that the anatomically modern humans outside of Africa descend from a population of Homo sapiens migrating from East Africa roughly 70–50,000 years ago and spreading along the southern coast of Asia and to Oceania by about 50,000 years ago. Modern humans spread across Europe about 40,000 years ago.\n\nEarly Eurasian Homo sapiens fossils have been found in Israel and Greece, dated to 194,000–177,000 and 210,000 years old respectively. These fossils seem to represent failed dispersal attempts by early Homo sapiens, who were likely replaced by local Neanderthal populations.\n\nThe migrating modern human populations are known to have interbred with earlier local populations, so that contemporary human populations are descended in small part (below 10% contribution) from regional varieties of archaic humans.\n\nAfter the Last Glacial Maximum, North Eurasian populations migrated to the Americas about 20,000 years ago. Northern Eurasia was peopled after 12,000 years ago, at the beginning of the Holocene period. Arctic Canada and Greenland were reached by the Paleo-Eskimo expansion around 4,000 years ago. Finally, Polynesia was populated within the past 2,000 years in the last wave of the Austronesian expansion.\n\n",
-  "source": "https://en.wikipedia.org/wiki/Early_human_migrations#:~:text=Early%20Eurasian%20Homo%20sapiens%20fossils%20have%20been%20found%20in%20Israel%20and%20Greece%2C%20dated%20to%20194%2C000%E2%80%93177%2C000%20and%20210%2C000%20years%20old%20respectively.%20These%20fossils%20seem%20to%20represent%20failed%20dispersal%20attempts%20by%20early%20Homo%20sapiens%2C%20who%20were%20likely%20replaced%20by%20local%20Neanderthal%20populations.",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "source": "https://en.wikipedia.org/wiki/Apidima_Cave",
+  "title": "Apidima Cave",
+  "revisionId": 1377075377,
+  "revisionTimestamp": "2026-09-27T19:47:30Z",
+  "fetchedAt": "2026-10-24T10:36:40.000Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Apidima Cave (Greek: Σπήλαιο Απήδημα, Spilaio Apidima) is a complex of five caves located on the western shore of Mani Peninsula in southern Greece. The partial crania of two hominins are attributed by one research group to early Homo, before the full separation of Neanderthals and the anatomically-modern humans. Other researchers identify the older specimen, some 210,000 years old, as Homo sapiens and therefore the oldest anatomically-modern human discovered in Europe."
 }

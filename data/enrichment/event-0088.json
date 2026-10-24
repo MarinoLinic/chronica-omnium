@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0088",
+  "source": "https://en.wikipedia.org/wiki/Neolithic_Europe",
+  "revisionId": 1378383755,
+  "fetchedAt": "2026-10-24T10:36:53.780Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png/960px-Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png/330px-Expansion_of_farming_in_western_Eurasia%2C_9600%E2%80%934000_BCE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Expansion_of_farming_in_western_Eurasia,_9600%E2%80%934000_BCE.png",
+      "artist": "Detlef Gronenborn, Barbara Horejs, Börner, Ober",
+      "credit": "https://www.academia.edu/9424525/Map_Expansion_of_farming_in_western_Eurasia_9600_4000_cal_BC_update_vers_2021_1_",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0569",
+  "source": "https://en.wikipedia.org/wiki/Edward_Snowden",
+  "revisionId": 1381314665,
+  "fetchedAt": "2026-10-24T10:25:13.508Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg/330px-Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Edward_Snowden_2013-10-9_(1)_(cropped).jpg",
+      "artist": "https://www.youtube.com/user/TheWikiLeaksChannel",
+      "credit": "Derived from: File:Edward Snowden speaks about government transparency at Sam Adams award presentation in Moscow.webm @20s",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

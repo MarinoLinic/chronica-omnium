@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0170",
+  "source": "https://en.wikipedia.org/wiki/First_Triumvirate",
+  "revisionId": 1377605834,
+  "fetchedAt": "2026-10-24T10:41:17.681Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/C%C3%A9sar_%2813667960455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/960px-C%C3%A9sar_%2813667960455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/C%C3%A9sar_%2813667960455%29.jpg/330px-C%C3%A9sar_%2813667960455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:C%C3%A9sar_(13667960455).jpg",
+      "artist": "Gautier Poupeau from Paris, France",
+      "credit": "César",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

@@ -11,7 +11,7 @@
   "end": null,
   "location": "World",
   "type": "Event",
-  "field": null,
+  "field": "Biology",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Synapsid",
   "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Synapsid_diversity_3.jpg",

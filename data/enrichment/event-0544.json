@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0544",
+  "source": "https://en.wikipedia.org/wiki/Supercontinent",
+  "revisionId": 1381301287,
+  "fetchedAt": "2026-10-24T10:44:32.257Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pangea_assembly_250.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pangea_assembly_250.png/960px-Pangea_assembly_250.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pangea_assembly_250.png/330px-Pangea_assembly_250.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pangea_assembly_250.png",
+      "artist": "Kent G. Budge",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

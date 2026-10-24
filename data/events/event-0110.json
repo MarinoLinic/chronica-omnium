@@ -13,7 +13,7 @@
   "type": "Event",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Stonehenge",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-b5cbec1a064d"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "stonehenge",
     "Unnamed: 30": null,

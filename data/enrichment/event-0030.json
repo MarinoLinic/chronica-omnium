@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0030",
+  "source": "https://en.wikipedia.org/wiki/Human_evolution",
+  "revisionId": 1381339287,
+  "fetchedAt": "2026-10-24T10:36:36.639Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Homo-Stammbaum%2C_Version_Stringer-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Homo-Stammbaum%2C_Version_Stringer-en.svg/960px-Homo-Stammbaum%2C_Version_Stringer-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Homo-Stammbaum%2C_Version_Stringer-en.svg/330px-Homo-Stammbaum%2C_Version_Stringer-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Homo-Stammbaum,_Version_Stringer-en.svg",
+      "artist": "Homo-Stammbaum, Version Stringer.jpg: Chris Stringer\nderivative work: Conquistador",
+      "credit": "This file was derived from:  Homo-Stammbaum, Version Stringer.jpg:",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": ""
+    }
+  }
+}

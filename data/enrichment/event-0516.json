@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0516",
+  "source": "https://en.wikipedia.org/wiki/Pasteurization",
+  "revisionId": 1366228867,
+  "fetchedAt": "2026-10-24T10:24:30.428Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg/330px-Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Give_The_Bottle-Fed_Baby_a_Chance_For_It%27s_Life_poster.jpg",
+      "artist": "Chicago Department of Health artist",
+      "credit": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448139/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

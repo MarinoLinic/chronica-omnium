@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0064",
-  "text": "A rope is a group of yarns, plies, fibres, or strands that are twisted or braided together into a larger and stronger form. Ropes have tensile strength and so can be used for dragging and lifting. Rope is thicker and stronger than similarly constructed cord, string, and twine.\n\n",
-  "source": "https://en.wikipedia.org/wiki/Rope#:~:text=Europe%20dating%20back%2028%2C000%20years",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "source": "https://en.wikipedia.org/wiki/Rope",
+  "title": "Rope",
+  "revisionId": 1378647080,
+  "revisionTimestamp": "2026-10-05T12:36:38Z",
+  "fetchedAt": "2026-10-24T10:36:45.010Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "A rope is a group of yarns, plies, fibres, or strands that are twisted or braided together into a larger and stronger form. Ropes have high tensile strength and can be used for dragging and lifting. Rope is thicker and stronger than similarly constructed cord, string, and twine."
 }

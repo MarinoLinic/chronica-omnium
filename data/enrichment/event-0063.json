@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0063",
+  "source": "https://en.wikipedia.org/wiki/Denisovan",
+  "revisionId": 1381535987,
+  "fetchedAt": "2026-10-24T10:36:44.567Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homo_longi_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/9/95/Homo_longi_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Homo_longi_holotype.jpg/330px-Homo_longi_holotype.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Homo_longi_holotype.jpg",
+      "artist": "Fu et al. (2025)",
+      "credit": "https://doi.org/10.1016/j.cell.2025.05.040",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0432",
+  "source": "https://en.wikipedia.org/wiki/History_of_Wikipedia",
+  "revisionId": 1380552911,
+  "fetchedAt": "2026-10-24T10:32:34.097Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/First_preserved_Main_Page_of_Wikipedia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/First_preserved_Main_Page_of_Wikipedia.jpeg/960px-First_preserved_Main_Page_of_Wikipedia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/First_preserved_Main_Page_of_Wikipedia.jpeg/330px-First_preserved_Main_Page_of_Wikipedia.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:First_preserved_Main_Page_of_Wikipedia.jpeg",
+      "artist": "Wikipedia contributors",
+      "credit": "https://nostalgia.wikipedia.org/w/index.php?title=HomePage&direction=prev&oldid=19809",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

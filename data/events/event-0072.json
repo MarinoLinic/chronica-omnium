@@ -5,7 +5,7 @@
   "slug": "domestication-of-wolves",
   "status": "review",
   "name": "Domestication of wolves",
-  "short_desc": "Domestication of dog from gray wolf (Canis lupus) in Siberia (by ANE)",
+  "short_desc": "Dogs descend from ancient wolf populations. The timing, geography and number of domestication processes remain debated.",
   "long_desc": "Domestication of wolves",
   "start": -21000,
   "end": null,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "point",
-  "date_note": "",
+  "date_note": "The imported circa 21,000 BCE placement is a hypothesis-level estimate, not a confirmed single domestication in Siberia or attribution to one ancestry group.",
   "places": [
     "place-a5503f12a7ac"
   ],

@@ -13,13 +13,13 @@
   "type": "Event",
   "field": "Archaeogenetics",
   "relevance": 1,
-  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
-  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "source": "https://en.wikipedia.org/wiki/History_of_rice_cultivation",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/KITLV_40091_-_Kassian_C%C3%A9phas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
   "date_kind": "uncertain",
-  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "date_note": "A regional, gradual process with chronology still requiring crop- or animal-specific source review. The generic modern irrigation image has been replaced with the topic’s Wikipedia lead image.",
   "places": [
     "place-10436829032f"
   ],

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0530",
+  "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+  "revisionId": 1381585797,
+  "fetchedAt": "2026-10-24T10:24:40.130Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Robespierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/960px-Robespierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Robespierre.jpg/330px-Robespierre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Robespierre.jpg",
+      "artist": "Unidentified painter",
+      "credit": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/portrait-de-maximilien-de-robespierre-1758-1794-homme-politique#infos-principales",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

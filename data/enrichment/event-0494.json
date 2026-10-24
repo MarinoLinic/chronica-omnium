@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0494",
+  "source": "https://en.wikipedia.org/wiki/Printing_press",
+  "revisionId": 1379445153,
+  "fetchedAt": "2026-10-24T10:24:14.233Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Gutenberg_press.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gutenberg_press.png/960px-Gutenberg_press.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Gutenberg_press.png/330px-Gutenberg_press.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Gutenberg_press.png",
+      "artist": "International Printing Museum",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

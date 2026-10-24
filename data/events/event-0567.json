@@ -3,23 +3,23 @@
   "id": "event-0567",
   "id_num": 567,
   "slug": "sadam-hussein",
-  "status": "stub",
-  "name": "Sadam Hussein",
-  "short_desc": null,
+  "status": "review",
+  "name": "Saddam Hussein",
+  "short_desc": "Saddam Hussein Abd al-Majid al-Tikriti (28 April 1937 – 30 December 2006) was an Iraqi politician and revolutionary who served as the fifth president of Iraq from 1979 until his overthrow in 2003.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1937,
+  "end": 2006,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "1937 is the officially used birth year; sources also discuss uncertainty in his actual birth date.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,19 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "leadership",
+      "label": "President of Iraq",
+      "kind": "office",
+      "start": 1979,
+      "end": 2003,
+      "date_kind": "span",
+      "date_note": "Role interval is separate from the lifespan; see the source for office titles and transitions.",
+      "source": "https://en.wikipedia.org/wiki/Saddam_Hussein"
+    }
+  ],
+  "timeline_period": "leadership"
 }

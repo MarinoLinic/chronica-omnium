@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0164",
+  "source": "https://en.wikipedia.org/wiki/Han_dynasty",
+  "revisionId": 1381694120,
+  "fetchedAt": "2026-10-24T10:41:16.005Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Han_Dynasty_2_BC_%28cropped%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Han_Dynasty_2_BC_%28cropped%29.svg/960px-Han_Dynasty_2_BC_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Han_Dynasty_2_BC_%28cropped%29.svg/330px-Han_Dynasty_2_BC_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Han_Dynasty_2_BC_(cropped).svg",
+      "artist": "DannamEmpire",
+      "credit": "Own work using:  \n\nBased on:\nMap, p. 63, Mapping History: World History (London: Cartographica, 2007), by Dr. Ian Barnes. ISBN 978-1-84573-323-0",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

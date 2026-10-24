@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0559",
+  "source": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+  "revisionId": 1380237277,
+  "fetchedAt": "2026-10-24T10:25:03.607Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Portrait_of_Francisco_Pizarro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Portrait_of_Francisco_Pizarro.jpg/960px-Portrait_of_Francisco_Pizarro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Portrait_of_Francisco_Pizarro.jpg/330px-Portrait_of_Francisco_Pizarro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Francisco_Pizarro.jpg",
+      "artist": "Amable-Paul Coutan",
+      "credit": "artsy.net",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

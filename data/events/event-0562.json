@@ -3,23 +3,23 @@
   "id": "event-0562",
   "id_num": 562,
   "slug": "carl-menger",
-  "status": "stub",
+  "status": "review",
   "name": "Carl Menger",
-  "short_desc": null,
+  "short_desc": "Carl Menger von Wolfensgrün ( MENG-ghər; German: [ˈmɛŋɐ]; 28 February 1840 – 26 February 1921) was an Austrian economist who contributed to the marginal theory of value.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1840,
+  "end": 1921,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Carl_Menger",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

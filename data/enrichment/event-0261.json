@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0261",
+  "source": "https://en.wikipedia.org/wiki/History_of_Reformed_Christianity",
+  "revisionId": 1368214330,
+  "fetchedAt": "2026-10-24T10:42:07.658Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Leading_Theologians_of_the_Middle_Ages.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/03/Leading_Theologians_of_the_Middle_Ages.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Leading_Theologians_of_the_Middle_Ages.jpg/330px-Leading_Theologians_of_the_Middle_Ages.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Leading_Theologians_of_the_Middle_Ages.jpg",
+      "artist": "unknown, published by John Garrett",
+      "credit": "http://www.npg.org.uk/collections/search/portraitLarge/mw124183/Leading-Theologians-of-the-Middle-Ages?LinkID=mp04619&search=sas&sText=vermigli&role=sit&rNo=3",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

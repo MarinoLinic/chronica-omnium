@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0054",
-  "text": "In paleoanthropology, the recent African origin of modern humans is the dominant model of the geographic origin and early migration of anatomically modern humans (Homo sapiens). It follows the early expansions of hominins out of Africa, accomplished by Homo erectus and then Homo neanderthalensis.\n\nThe model proposes a \"single origin\" of Homo sapiens in the taxonomic sense, precluding parallel evolution in other regions of traits considered anatomically modern, but not precluding multiple admixture between H. sapiens and archaic humans in Europe and Asia. H. sapiens most likely developed in the Horn of Africa between 300,000 and 200,000 years ago, although an alternative hypothesis argues that diverse morphological features of H. sapiens appeared locally in different parts of Africa and converged due to gene flow between different populations within the same period. The \"recent African origin\" model proposes that all modern non-African populations are substantially descended from populations of H. sapiens that left Africa after that time.\n\nThere were at least several \"out-of-Africa\" dispersals of modern humans, possibly beginning as early as 270,000 years ago, including 215,000 years ago to at least Greece, and certainly via northern Africa and the Arabian Peninsula about 130,000 to 115,000 years ago. There is evidence that modern humans had reached China around 80,000 years ago. Practically all of these early waves seem to have gone extinct or retreated back, and present-day humans outside Africa descend mainly from a single expansion out 70,000–50,000 years ago.\n\nThe most significant \"recent\" wave out of Africa took place about 70,000–50,000 years ago, via the so-called \"Southern Route\", spreading rapidly along the coast of Asia and reaching Australia by around 65,000–50,000 years ago, (though some researchers question the earlier Australian dates and place the arrival of humans there at 50,000 years ago at earliest, while others have suggested that these first settlers of Australia may represent an older wave before the more significant out of Africa migration and thus not necessarily be ancestral to the region's later inhabitants) while Europe was populated by an early offshoot which settled the Near East and Europe less than 55,000 years ago.\n\nIn the 2010s, studies in population genetics uncovered evidence of interbreeding that occurred between H. sapiens and archaic humans in Eurasia, Oceania and Africa, indicating that modern population groups, while mostly derived from early H. sapiens, are to a lesser extent also descended from regional variants of archaic humans.\n\n",
-  "source": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans#:~:text=humans%20there%20at-,50%2C000%20years%20ago,-at%20earliest%2C",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "source": "https://en.wikipedia.org/wiki/Madjedbebe",
+  "title": "Madjedbebe",
+  "revisionId": 1381567298,
+  "revisionTimestamp": "2026-10-23T10:55:28Z",
+  "fetchedAt": "2026-10-24T10:36:42.702Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Madjedbebe (formerly known as Malakunanja II) is a sandstone rock shelter in Arnhem Land, in the Northern Territory of Australia, possibly the oldest site of human habitation in Australia. It is located about 50 kilometres (31 mi) from the coast. It is part of the lands traditionally inhabited by the Mirarr, an Aboriginal Australian clan of the Gaagudju people, of the Gunwinyguan language group. \nMadjedbebe is located within the former Jabiluka Mineral Leasehold, surrounded by the World Heritage-listed Kakadu National Park. The mineral lease expired in August 2024, after the Australian federal government refused a renewal application from the mine's operators. The government plans to formally absorb the site into Kakadu National Park."
 }

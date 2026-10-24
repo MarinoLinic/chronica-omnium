@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0422",
-  "text": "Eliezer Shlomo Yudkowsky (born September 11, 1979) is an American decision theory and artificial intelligence (AI) researcher and writer, best known for popularizing the idea of friendly artificial intelligence. He is a co-founder and research fellow at the Machine Intelligence Research Institute (MIRI), a private research nonprofit based in Berkeley, California. His work on the prospect of a runaway intelligence explosion was an influence on Nick Bostrom's Superintelligence: Paths, Dangers, Strategies.\n\n",
   "source": "https://en.wikipedia.org/wiki/Eliezer_Yudkowsky",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Eliezer Yudkowsky",
+  "revisionId": 1379434989,
+  "revisionTimestamp": "2026-10-10T00:09:24Z",
+  "fetchedAt": "2026-10-24T10:32:30.894Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Eliezer Shlomo Yudkowsky ( EL-ee-EH-zər yuud-KOW-skee; born September 11, 1979) is an American artificial intelligence researcher and writer on decision theory and ethics, known for popularizing ideas related to friendly artificial intelligence. He is the founder of and a research fellow at the Machine Intelligence Research Institute (MIRI), a private research nonprofit based in Berkeley, California. \nHis work on the prospect of a runaway intelligence explosion influenced philosopher Nick Bostrom's 2014 book Superintelligence: Paths, Dangers, Strategies. His books include If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All, a New York Times bestseller he co-authored with Nate Soares, as well as the Harry Potter fanfiction Harry Potter and the Methods of Rationality."
 }

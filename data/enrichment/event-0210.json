@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0210",
+  "source": "https://en.wikipedia.org/wiki/Charles_Martel",
+  "revisionId": 1373993236,
+  "fetchedAt": "2026-10-24T10:41:30.323Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg/960px-Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg/330px-Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Martel_divise_le_royaume_entre_P%C3%A9pin_et_Carloman.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "This file comes from Gallica Digital Library and is available under the digital ID btv1b55013869k/f149",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

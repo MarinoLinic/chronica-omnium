@@ -5,21 +5,21 @@
   "slug": "construction-of-the-great-wall-of-china",
   "status": "review",
   "name": "Construction of the Great Wall of China",
-  "short_desc": null,
+  "short_desc": "Chinese dynasties built, linked and rebuilt many northern fortifications. Qin unification around 220 BCE and Ming construction were major phases in this long history.",
   "long_desc": "Construction of the Great Wall of China",
   "start": -220,
-  "end": 1878,
+  "end": 1644,
   "location": "China",
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": "https://www.travelchinaguide.com/china_great_wall/facts/when-built.htm",
+  "source": "https://whc.unesco.org/en/list/438",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1920px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Broad imperial building phases from Qin unification around 220 BCE through the Ming dynasty (1368–1644), following UNESCO’s account. This is not one uninterrupted building project; earlier walls and later repairs also exist.",
   "places": [
     "place-10436829032f"
   ],
@@ -67,5 +67,6 @@
         104.999927
       ]
     }
-  }
+  },
+  "date_label": "Imperial building phases"
 }

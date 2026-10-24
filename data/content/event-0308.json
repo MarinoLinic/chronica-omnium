@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0308",
-  "text": "Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791), baptised as Joannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical period. Despite his short life, his rapid pace of composition resulted in more than 800 works of virtually every genre of his time. Many of these compositions are acknowledged as pinnacles of the symphonic, concertante, chamber, operatic, and choral repertoire. Mozart is widely regarded as among the greatest composers in the history of Western music, with his music admired for its \"melodic beauty, its formal elegance and its richness of harmony and texture\".\n\nBorn in Salzburg, then in the Holy Roman Empire, Mozart showed prodigious ability from his earliest childhood. Already competent on keyboard and violin, he composed from the age of five and performed before European royalty. His father took him on a grand tour of Europe and then three trips to Italy. At 17, he was a musician at the Salzburg court but grew restless and travelled in search of a better position.\n\nWhile visiting Vienna in 1781, Mozart was dismissed from his Salzburg position. He stayed in Vienna, where he achieved fame but little financial security. During his final years there, he composed many of his best-known symphonies, concertos, and operas. His Requiem was largely unfinished by the time of his death at the age of 35, the circumstances of which are uncertain and much mythologized.\n\n",
   "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Wolfgang Amadeus Mozart",
+  "revisionId": 1381721651,
+  "revisionTimestamp": "2026-10-24T10:18:36Z",
+  "fetchedAt": "2026-10-24T10:42:37.449Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Wolfgang Amadeus Mozart (27 January 1756 – 5 December 1791) was a Classical composer and musician. He completed more than 800 works in his life—including outstanding examples of most of the genres of his time: symphonies, concertos, chamber music, opera and choral music. He is regarded as one of the greatest composers in the history of Western music.\nBorn in Salzburg, Mozart quickly emerged as a child prodigy under the training of his father Leopold, a skilled pedagogue. At the age of five he was already competent on keyboard and violin, had begun to compose, and had performed before European royalty. His father took him on a grand tour of Europe and then three trips to Italy. At 17 he was a musician at the Salzburg court but grew restless and travelled in search of a better position. A fruitless journey in search of employment (1777–1779) led him to Paris, Mannheim, Munich and eventually back to Salzburg. During this time he wrote his five violin concertos, the Sinfonia Concertante, various masses and the opera Idomeneo.\nWhile he was visiting Vienna in 1781, Mozart's quarrels with his Salzburg employers came to a head and he was dismissed. He chose to remain in Vienna, where he stayed for the rest of his life, achieving fame and some financial success, but no long-term security. During Mozart's early years in Vienna he produced several notable works, such as the opera Die Entführung aus dem Serail, the Great Mass in C minor, the \"Haydn\" Quartets and a number of symphonies. Throughout his Vienna years Mozart composed more than a dozen piano concertos, many considered masterpieces.\nIn the final years of his life, he wrote many of his best-known works, including his last three symphonies, culminating in the Jupiter, the serenade Eine kleine Nachtmusik, his Clarinet Concerto, the operas Le nozze di Figaro, Don Giovanni, Così fan tutte and Die Zauberflöte, the Piano Concerto No. 27 and his Requiem. The Requiem was largely unfinished at the time of his death at the age of 35."
 }

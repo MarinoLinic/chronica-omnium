@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0264",
+  "source": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+  "revisionId": 1381649509,
+  "fetchedAt": "2026-10-24T10:42:10.014Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Slave_Auction_Ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/1/16/Slave_Auction_Ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Slave_Auction_Ad.jpg/330px-Slave_Auction_Ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Slave_Auction_Ad.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://i.pinimg.com/originals/bf/aa/66/bfaa660a3b297993ea7bf5e3ade3cca4.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -13,7 +13,7 @@
   "type": "Event",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Abacus",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-84363cef0b48"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "abacus",
     "Unnamed: 30": null,

@@ -8,7 +8,7 @@
   "short_desc": "The EU is formally established",
   "long_desc": null,
   "start": 1993,
-  "end": 2023,
+  "end": null,
   "location": "Maastricht",
   "type": "Event",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
   "places": [
     "place-8e3478315386"
   ],
@@ -67,5 +67,6 @@
         5.6969881818
       ]
     }
-  }
+  },
+  "date_label": "Founding"
 }

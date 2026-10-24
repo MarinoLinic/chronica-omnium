@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0134",
+  "source": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+  "revisionId": 1380597115,
+  "fetchedAt": "2026-10-24T10:41:00.438Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kingdoms_of_Israel_and_Judah_%288th_century_BCE%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kingdoms_of_Israel_and_Judah_%288th_century_BCE%29.svg/960px-Kingdoms_of_Israel_and_Judah_%288th_century_BCE%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Kingdoms_of_Israel_and_Judah_%288th_century_BCE%29.svg/330px-Kingdoms_of_Israel_and_Judah_%288th_century_BCE%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kingdoms_of_Israel_and_Judah_(8th_century_BCE).svg",
+      "artist": "Tobias Schäfer 87",
+      "credit": "Own work. This file was derived from:  Southern Levant blank topographic map.svg: \nSources of data:\n\nTopography and bathymetry: GEBCO 2023.\nCoastline, rivers and water bodies: GSHHG.\nHillshade: NASA SRTM GL3.\nBorders and cities:\nFinkelstein, Israel (2013)       The Forgotten Kingdom: The Archaeology and History of Northern Israel, Society of Biblical Literature, p. 2  ISBN:  978-1-58983-910-6.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

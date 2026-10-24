@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0106",
+  "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+  "revisionId": 1380651931,
+  "fetchedAt": "2026-10-24T10:40:39.690Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ancient_Egypt_map-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ancient_Egypt_map-en.svg/960px-Ancient_Egypt_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ancient_Egypt_map-en.svg/330px-Ancient_Egypt_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ancient_Egypt_map-en.svg",
+      "artist": "Jeff Dahl",
+      "credit": "Own work using:\n\nShaw, Ian, ed.  (2003)  The Oxford History of Ancient Egypt, Oxford University Press  ISBN:  0-19-280293-3. \nDr. Peter Der Manuelian, ed.  (1998)  Egypt: The World of the Pharaohs, Bonner Straße, Köln (Deutschland):  Könemann Verlagsgesellschaft mbH  ISBN:  3-89508-913-3. \nDigital Egypt - maps. Retrieved on 2007-11-25.\nNASA PIA04957. Retrieved on 2007-11-25.\nNASA PIA02647. Retrieved on 2007-11-25.\nNASA PIA04965. Retrieved on 2007-11-25.\nCoordinates:\n\nSais 30°57′53″N, 30°46′6″E\nButo 31°11′47″N, 30°44′41″E\nAlexandria 31°11′53″N 29°55′09″E\nNaukratis 30°54' N 30°35'E coordinates here\nTanis 30°58′37″N, 31°52′48″E\nAvaris 30°47′N, 31°50′E\nBusiris 30°54′40″N, 31°14′40″E\nImage renamed from File:Ancient Egypt map.svg (see #Original upload log).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

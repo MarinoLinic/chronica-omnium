@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0550",
+  "source": "https://en.wikipedia.org/wiki/Pyrrhic_War",
+  "revisionId": 1378759618,
+  "fetchedAt": "2026-10-24T10:24:44.828Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg/960px-Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg/330px-Map_of_the_Pyrrhic_War_%28280%E2%80%93275_BC%29_%28English%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Pyrrhic_War_(280%E2%80%93275_BC)_(English).jpg",
+      "artist": "Megistias",
+      "credit": "Own work data from \n\nHistory of Rome, from its earliest period to the death of Vespasian by William Charles MacDermott - 1853,\nHammond, N. G. L. A History of Greece to 322 B.C., 1986, ISBN-10: 0198730950\nEpirus, 4000 years of Greek history and civilization by M. B. Hatzopoulos,M. V. Sakellariou,L. D. Loukopoulou,M. B. Sakellariou\nBlank map,nasa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

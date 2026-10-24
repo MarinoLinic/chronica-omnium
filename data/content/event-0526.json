@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0526",
+  "source": "https://en.wikipedia.org/wiki/Myllokunmingia",
+  "title": "Myllokunmingia",
+  "revisionId": 1381141059,
+  "revisionTimestamp": "2026-10-20T07:04:20Z",
+  "fetchedAt": "2026-10-24T10:24:37.438Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Myllokunmingia is an extinct genus of primitive jawless fish that lived during the Cambrian period, approximately 518 million years ago, in what is now the Yunnan Province of China. It was discovered alongside Haikouichthys, another genus of primitive jawless fish, in 1999 and is considered to be among the earliest known vertebrate animals in the fossil record. The holotype of the type species, Myllokunmingia fengjiaoa — and the only uncontroversial specimen thereof — was found in the Yuanshan member of the Qiongzhusi Formation in the Eoredlichia Zone near Haikou at Ercaicun, Kunming City, Yunnan, China."
+}

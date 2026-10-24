@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0491",
+  "source": "https://en.wikipedia.org/wiki/Watermill",
+  "revisionId": 1376990395,
+  "fetchedAt": "2026-10-24T10:24:12.547Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg/960px-Braine-le-Ch%C3%A2teau_JPG02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Braine-le-Ch%C3%A2teau_JPG02.jpg/330px-Braine-le-Ch%C3%A2teau_JPG02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Braine-le-Ch%C3%A2teau_JPG02.jpg",
+      "artist": "Jean-Pol GRANDMONT",
+      "credit": "travail personnel (own work)",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

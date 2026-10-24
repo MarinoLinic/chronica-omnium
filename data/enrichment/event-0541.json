@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0541",
+  "source": "https://en.wikipedia.org/wiki/African_humid_period",
+  "revisionId": 1374759239,
+  "fetchedAt": "2026-10-24T10:44:30.402Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sahara_satellite_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/960px-Sahara_satellite_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sahara_satellite_hires.jpg/330px-Sahara_satellite_hires.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sahara_satellite_hires.jpg",
+      "artist": "NASA",
+      "credit": "Cropped from Image:Africa satellite plane.jpg.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0217",
+  "source": "https://en.wikipedia.org/wiki/Khmer_Empire",
+  "revisionId": 1378169231,
+  "fetchedAt": "2026-10-24T10:41:34.653Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Map-of-southeast-asia_900_CE.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Map-of-southeast-asia_900_CE.svg/960px-Map-of-southeast-asia_900_CE.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Map-of-southeast-asia_900_CE.svg/330px-Map-of-southeast-asia_900_CE.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map-of-southeast-asia_900_CE.svg",
+      "artist": "Jembezmamy",
+      "credit": "Own work based on: Map-of-southeast-asia 900 CE.png",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

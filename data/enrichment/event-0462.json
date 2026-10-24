@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0462",
+  "source": "https://en.wikipedia.org/wiki/Cuban_Revolution",
+  "revisionId": 1381679976,
+  "fetchedAt": "2026-10-24T10:23:50.851Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/960px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg/330px-Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_and_his_men_in_the_Sierra_Maestra.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://time.com/4305653/fidel-castro-life-in-pictures/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

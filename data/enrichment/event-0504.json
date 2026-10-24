@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0504",
+  "source": "https://en.wikipedia.org/wiki/Drake_Well",
+  "revisionId": 1373110844,
+  "fetchedAt": "2026-10-24T10:24:21.091Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Drake_Well%2C_June_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Drake_Well%2C_June_2012.jpg/960px-Drake_Well%2C_June_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Drake_Well%2C_June_2012.jpg/330px-Drake_Well%2C_June_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Drake_Well,_June_2012.jpg",
+      "artist": "Niagara",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0292",
+  "source": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+  "revisionId": 1381126323,
+  "fetchedAt": "2026-10-24T10:42:26.348Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg/960px-Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg/330px-Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg",
+      "artist": "Anicet Charles Gabriel Lemonnier",
+      "credit": "histoire-image.org",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

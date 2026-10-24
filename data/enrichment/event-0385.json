@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0385",
+  "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+  "revisionId": 1380447306,
+  "fetchedAt": "2026-10-24T10:43:37.569Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/330px-Ataturk1930s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://mustafakemalim.com/wp-content/uploads/2020/05/Mustafa-Kemal-Atat%C3%BCrk-portresi-1932.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

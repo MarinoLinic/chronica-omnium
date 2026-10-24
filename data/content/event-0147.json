@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0147",
-  "text": "Sun Tzu (/suːn ˈdzuː, suːn ˈsuː/ soon DZOO, soon SOO; traditional Chinese: 孫子; simplified Chinese: 孙子; pinyin: Sūnzǐ) was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period of 771 to 256 BCE. Sun Tzu is traditionally credited as the author of The Art of War, an influential work of military strategy that has affected both Western and East Asian philosophy and military thinking. Sun Tzu is revered in  Chinese and East Asian culture as a legendary historical and military figure. His birth name was Sun Wu (traditional Chinese: 孫武; simplified Chinese: 孙武) and he was known outside of his family by his courtesy name Changqing (Chinese: 長卿). The name Sun Tzu by which he is more popularly known is an honorific which means \"Master Sun\".\n\nSun Tzu's historicity is uncertain. The Han dynasty historian Sima Qian and other traditional Chinese historians placed him as a minister to King Helü of Wu and dated his lifetime to 544–496 BCE. Modern scholars accepting his historicity place the extant text of The Art of War in the later Warring States period of 475 to 221 BCE – based on its style of composition and its descriptions of warfare. Traditional accounts state that the general's descendant Sun Bin wrote a treatise on military tactics, also titled  The Art of War. Since both Sun Wu and Sun Bin were referred to as \"Sun Tzu\" in classical Chinese texts, some historians believed them identical, prior to the rediscovery of Sun Bin's treatise in 1972.\n\nSun Tzu's work has been praised and employed throughout the arc of East Asian military history since its composition. During the twentieth century, The Art of War grew in popularity and saw practical use in the Western world as well. It remains influential in many contemporary competitive endeavors across the modern world beyond military strategy and warfare, including espionage,\nculture, politics, business, and sports.\n\n",
   "source": "https://en.wikipedia.org/wiki/Sun_Tzu",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Sun Tzu",
+  "revisionId": 1376671848,
+  "revisionTimestamp": "2026-09-25T15:50:37Z",
+  "fetchedAt": "2026-10-24T10:41:06.410Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sun Tzu (; traditional Chinese: 孫子; simplified Chinese: 孙子; pinyin: Sūnzǐ) was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period (771–256 BC). Sun Tzu is traditionally credited as the author of The Art of War, a Classical Chinese text on military strategy from the Warring States period, though the earliest parts of the work probably date to at least a century after him.\nThe Han dynasty historian Sima Qian and other traditional Chinese historians placed him as a minister to King Helü of Wu and dated his lifetime to 544–496 BC. The name Sun Tzu—by which he is more popularly known—is an honorific which means \"Master Sun\". His birth name was said to be Sun Wu (traditional Chinese: 孫武; simplified Chinese: 孙武) and he is posthumously known by his courtesy name Changqing (Chinese: 長卿). Traditional accounts state that the general's descendant Sun Bin wrote a treatise on military tactics, also titled The Art of War. Since both Sun Wu and Sun Bin were referred to as \"Sun Tzu\" in classical Chinese texts, some historians thought them identical, prior to the rediscovery of Sun Bin's treatise in 1972."
 }

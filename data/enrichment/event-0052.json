@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0052",
+  "source": "https://en.wikipedia.org/wiki/Cave_of_Maltravieso",
+  "revisionId": 1370968784,
+  "fetchedAt": "2026-10-24T10:36:42.266Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/EntradaMaltravieso.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EntradaMaltravieso.JPG/960px-EntradaMaltravieso.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/EntradaMaltravieso.JPG/330px-EntradaMaltravieso.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:EntradaMaltravieso.JPG",
+      "artist": "Mario modesto",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

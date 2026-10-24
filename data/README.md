@@ -42,7 +42,7 @@ The editor exists only in Vite's local development server. A published site has 
 | `type`, `field` | Optional classification. Null is displayed as Uncategorized, never filtered out automatically. |
 | `status` | `stub`, `review`, or `ready`. Ready requires a title, date, and source; factual review is still a person's responsibility. |
 | `source` | Authored HTTPS evidence URL. It may differ from the original URL of a cached snapshot; the snapshot carries its own attribution. |
-| `image` | Original HTTPS image URL. The build prefers an attributed local cache when available and retains this as fallback. |
+| `image` | Original HTTPS image URL. An authored URL is treated as a deliberate image choice. The reader hotlinks it (or its matching sized thumbnail) first and retains the local cache as fallback. Without an authored image, stored Wikipedia lead-image metadata supplies the choice. |
 | `location` | Literal reader-facing place wording. Keep compound and historical labels intact. |
 | `places` | List of IDs from `reference/places.json`. Several references can describe one event. |
 | `casualties_low`, `casualties_high`, `dubious`, `relevance` | Retained research fields. A legacy dubious flag is a review warning, not a verdict. Casualty figures still require source review. |
@@ -51,9 +51,9 @@ The editor exists only in Vite's local development server. A published site has 
 
 The validator is `scripts/lib/catalog.mjs`. `schema/event.schema.json` is an editor aid with the same required fields; runtime validation also checks coupled IDs, date order, ready-record requirements, references, and unique IDs. Unknown fields, duplicate place IDs, non-text dubious flags, negative or reversed casualty bounds, and malformed reference containers are errors. `relevance` is a nonnegative number or null; casualty counts are nonnegative integers or null. Do not use zero years, empty numeric strings, NaN, or fabricated facts to satisfy required fields. Imported source snapshots permit unknown title/revision/retrieval metadata; fresh MediaWiki snapshots require those provenance fields.
 
-`config.json` fixes the reference year for ongoing spans. It does not silently use the visitor's clock. The old spreadsheet's 2023 "years ago" and generation columns are preserved in `legacy` but no longer shown as current facts. No scientific BP calculation is inferred from those columns.
+`config.json.referenceYear` is a deterministic build reference, not a live end date. Authored and published ongoing spans retain `end: null`; the reader resolves only `date_kind: "ongoing"` against the viewer’s current year. A missing end on a point stays a point. No annual rebuild is needed to display “present”. Dates are still recorded at year precision.
 
-The retained `generationYears` setting is currently unused; changing it does not produce generation estimates.
+Date tooltips use the viewer’s year and an explicit 25-year generation equivalent. This is a comparison of elapsed time, not inferred ancestry or a scientific BP conversion. Scientific ages must state their original reference (for example, calibrated BP relative to 1950) in `date_note`; do not reinterpret BP as the visitor’s present. The legacy generations columns and retained `generationYears` configuration do not override this disclosed reader convention.
 
 ## Lifespan, office, and active work
 
@@ -82,7 +82,7 @@ This is a partial illustrative record, with no invented dates. Period kinds are 
 
 The local editor has **Add period**, per-period sources/notes, and **Preferred timeline period**. Event pages show all periods. The main timeline and context charts can show the preferred period (falling back to primary dates), primary recorded dates, a recorded lifespan (falling back to primary dates), or all periods together. All-period mode counts periods and distinct records separately; every bar still links to the original event. An undated preferred period falls back to primary dates. Unlabeled imported dates are never inferred to be lifespans. Home and catalog continue to display the primary chronology.
 
-`event-0410` is a sourced example: its original 1961–1963 primary interval is labeled U.S. presidency, its canonical name is John F. Kennedy, and a separate lifespan period records 1917–1963 from the [Library of Congress resource guide](https://guides.loc.gov/john-f-kennedy/introduction). The record remains `review`; its original name and all imported information remain in the untouched archive and the pre-edit backup. No other biographical periods were inferred in bulk.
+`event-0410` is a sourced example: its original 1961–1963 primary interval is labeled U.S. presidency, its canonical name is John F. Kennedy, and a separate lifespan period records 1917–1963 from the [Library of Congress resource guide](https://guides.loc.gov/john-f-kennedy/introduction). The record remains `review`; its original name and all imported information remain in the untouched archive and the pre-edit backup. Several additional office-holders now have separately sourced lifespans. Trump’s second presidency is a separate ongoing period; the intervening gap is retained. Undefined active-work periods are never inferred from age.
 
 ## Separate reference datasets
 
@@ -116,7 +116,7 @@ Use `CHRONICA_USER_AGENT` to supply a project identifier and real contact URL/em
 
 Pinned `oldid` article sources are left for explicit revision review. External article sources and non-Commons image hosts are not scraped automatically. The tool uses Commons image metadata for fresh thumbnail URLs rather than inventing thumbnail paths. Only recognized CC BY, CC BY-SA, CC0, and public-domain licenses are accepted automatically. Other or missing licenses remain remote and need review.
 
-Images live at content-hashed paths in `public/media/`; `media/manifest.json` stores checksum, size, original URL, thumbnail URL, retrieval time, and full plain-text credit fields. The importer checks supported MIME types against byte signatures; offline builds verify signatures, size, hash, and attribution fields. The site tries the local file, remote thumbnail, and original in that order. A changed authored URL cannot retain a stale cached mapping. `data/reports/media-audit.json` reconciles every authored image URL and counts unique mapped files/bytes without double-counting shared assets. Old unused cache assets are retained; cleanup needs a deliberate review, not an automatic deletion pass.
+Images live at content-hashed paths in `public/media/`; `media/manifest.json` stores checksum, size, original URL, thumbnail URL, retrieval time, and full plain-text credit fields. The importer checks supported MIME types against byte signatures; offline builds verify signatures, size, hash, and attribution fields. The site tries a sized remote image first, then the original and local fallback. Existing authored image choices take precedence over fetched Wikipedia lead images. A changed authored URL cannot retain a stale cached mapping. `data/reports/media-audit.json` reconciles every authored image URL and counts unique mapped files/bytes without double-counting shared assets. Old unused cache assets are retained; cleanup needs a deliberate review, not an automatic deletion pass.
 
 To export a cached article offline:
 
@@ -131,7 +131,7 @@ Exports go to ignored `.local/exports/`. The HTML copy has **Print / Save as PDF
 
 `data/reports/validation.json` separates errors that block a build from editorial warnings. Missing information remains a warning. Invalid IDs, malformed years, reversed dates, unknown references, unsupported statuses, invalid URLs, or invalid reviewed coordinates block publishing.
 
-`migration.json` identifies all 574 original rows and records checksums of the untouched original JSON and each row. Original CSV/XLSX/JSON, old scripts, images, and the previous JSON backup remain in `src/resources/`. New authored records retain the original ancillary fields under `legacy`; article text was separated into `content/`. The year-zero record keeps `legacy.originalStart: 0` and an explicit review note rather than inventing a BCE/CE date.
+`migration.json` identifies all 574 original rows and records checksums of the untouched original JSON and each row. Original CSV/XLSX/JSON, old scripts, images, and the previous JSON backup remain in `src/resources/`. New authored records retain the original ancillary fields under `legacy`; article text was separated into `content/`. The original year-zero value remains in `legacy.originalStart`. Christianity now has a sourced, explicitly approximate first-century origins window, without inventing a year zero or a lifespan for the religion.
 
 Do not run the archival Python conversion or image-fixer against the new catalog. They target the old JSON and can renumber IDs or repeat outdated enrichment.
 
@@ -142,3 +142,15 @@ The supplied CLI add, editor, source sync, data build, and full production build
 Atomic writes use unique temporary filenames and bounded retries for short OneDrive/Windows file holds. On persistent failure, retain the old destination and the temporary file for inspection. A source save followed by a build failure is reported explicitly; repair the error, reload/review the record, and run `npm run data:build` before publishing.
 
 `npm test` prepares generated data automatically. One regression check disables network access and compares successive generated outputs byte for byte. Against the running local server, `npm run editor:check` tests invalid writes and a real temporary author-note edit, checks stale conflict handling and public-note exclusion, and restores the original record in a finally block. Backups remain in `.local/history/`. Do not edit that record concurrently with this check.
+
+## Research cards and Wikipedia lead images
+
+`npm run research -- --id N` stages a source card in `.local/research/<run>/`. `--title "Article"` selects a specific background article independently of the record’s evidence URL. The card records the introduction, complete nested infobox wikitext, Wikidata entity ID when available, revision, retrieval time, and 320/960-pixel lead-image choices. Disambiguation pages fail; a successful redirect still needs semantic review. The La Braña village redirect was rejected during this pass.
+
+`--id N --title "Article" --cache` backs up previous content, writes the attributed snapshot, and stores image choices under `data/enrichment/event-NNNN.json`. It never changes authored dates, source URLs, names, statuses, or custom images. It refuses pinned `oldid` sources. The enrichment schema is validated for identity, source/revision/retrieval provenance, image URLs, and available credit fields. Only this compact publishing metadata is canonical; the staged infobox is research evidence, not a second authoring database.
+
+The image-only source sync also caches eligible lead images for records with no authored image. Manifest matching uses the selected original URL, so a changed choice cannot retain an unrelated local file. Existing original image choices were preserved, except for the user-identified repeated modern-irrigation images on domestication records. Their original URLs remain in the legacy archive and backups.
+
+Research evidence is in `reports/research-review.json` (scoped dates, interpretations and targeted corrections) and `reports/summary-research.json` (attributed article matches and introductory summaries). A general background link does not independently verify an imported date. All records remain open to source review; speculative future claims and concepts without defensible absolute dates remain undated. No original record was deleted to reduce warning counts.
+
+Public JSON writes stage temporary bytes under ignored `.local/staging/` and then atomically rename into place. Persistent failures retain that evidence outside publishing directories. The dev server buffers generated JSON responses so cancelled reader requests do not keep a file stream open during editor rebuilds. The editor integration check includes cancelled reads and an exact-restored real public-data replacement.

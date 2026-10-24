@@ -5,7 +5,7 @@
   "slug": "toba-supereruption",
   "status": "review",
   "name": "Toba supereruption",
-  "short_desc": "Toba supereruption in Indonesia (humans bottlenecked down to 3k-10k individuals)",
+  "short_desc": "The Youngest Toba Tuff eruption occurred around 74,000 years ago in Sumatra. Its proposed role in a severe human population bottleneck remains debated.",
   "long_desc": "Toba supereruption",
   "start": -72000,
   "end": null,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "point",
-  "date_note": "",
+  "date_note": "The eruption is well attested; the original assertion that humanity was reduced to 3,000–10,000 individuals is not treated as established fact.",
   "places": [
     "place-dbc74a36d8e7"
   ],

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0508",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Robert_Malthus",
+  "revisionId": 1381434205,
+  "fetchedAt": "2026-10-24T10:24:24.099Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/960px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg/330px-Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Robert_Malthus_Wellcome_L0069037_-crop.jpg",
+      "artist": "John Linnell",
+      "credit": "https://wellcomeimages.org/indexplus/obf_images/fa/25/d2c7707f809bd259eb86d61d1cc5.jpg\n\nGallery: https://wellcomeimages.org/indexplus/image/L0069037.html\nWellcome Collection gallery (2018-04-05): https://wellcomecollection.org/works/f4ep87xc CC-BY-4.0",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

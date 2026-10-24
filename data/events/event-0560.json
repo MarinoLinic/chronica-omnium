@@ -3,23 +3,23 @@
   "id": "event-0560",
   "id_num": 560,
   "slug": "hernn-corts",
-  "status": "stub",
+  "status": "review",
   "name": "Hernán Cortés",
-  "short_desc": null,
+  "short_desc": "Hernán Cortés, 1st Marquis of the Valley of Oaxaca (c. 1485 – 2 December 1547) was a Spanish conquistador, military commander, explorer, captain general, and writer, best known for his expedition that led to the Spanish conquest of the Aztec Empire and brought large portions of what is now mainland Mexico under the rule of the King of Castile in the early 16th century.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1485,
+  "end": 1547,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Birth year is approximate (circa 1485).",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

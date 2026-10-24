@@ -5,10 +5,10 @@
   "slug": "wikipedia",
   "status": "review",
   "name": "Wikipedia",
-  "short_desc": null,
+  "short_desc": "Wikipedia, a free-content online encyclopedia written and maintained by a community of volunteers known as Wikipedians, began with its first edit on 15 January 2001, two days after the domain was registered.",
   "long_desc": null,
   "start": 2001,
-  "end": 2023,
+  "end": null,
   "location": "United States",
   "type": "Event",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "This dates the founding or first occurrence, rather than drawing an existence bar through the old spreadsheet’s 2023 cutoff.",
   "places": [
     "place-49dca65f362f"
   ],
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "date_label": "Founding"
 }

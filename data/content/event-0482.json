@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0482",
+  "source": "https://en.wikipedia.org/wiki/Declaration_of_Sentiments",
+  "title": "Declaration of Sentiments",
+  "revisionId": 1377525007,
+  "revisionTimestamp": "2026-09-29T21:20:41Z",
+  "fetchedAt": "2026-10-24T10:24:06.986Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Declaration of Sentiments, also known as the Declaration of Rights and Sentiments, is a document signed in 1848 by 68 women and 32 men—100 out of some 300 attendees at the first women's rights convention to be organized by women. Held in Seneca Falls, New York, the convention is now known as the Seneca Falls Convention. The principal author of the Declaration was Elizabeth Cady Stanton, who modeled it upon the United States Declaration of Independence. She was a key organizer of the convention along with Lucretia Coffin Mott, and Martha Coffin Wright.\nAccording to the North Star, published by Frederick Douglass, whose attendance at the convention and support of the Declaration helped pass the resolutions put forward, the document was the \"grand movement for attaining the civil, social, political, and religious rights of women.\""
+}

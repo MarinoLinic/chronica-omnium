@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0111",
+  "source": "https://en.wikipedia.org/wiki/Bell_Beaker_culture",
+  "revisionId": 1379876104,
+  "fetchedAt": "2026-10-24T10:40:44.083Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Bell_Beaker_Culture.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bell_Beaker_Culture.png/960px-Bell_Beaker_Culture.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Bell_Beaker_Culture.png/330px-Bell_Beaker_Culture.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bell_Beaker_Culture.png",
+      "artist": "Maptist",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

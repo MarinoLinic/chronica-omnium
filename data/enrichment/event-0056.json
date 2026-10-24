@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0056",
+  "source": "https://en.wikipedia.org/wiki/Prehistoric_art",
+  "revisionId": 1376836043,
+  "fetchedAt": "2026-10-24T10:36:43.232Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/VenusHohlefels2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/VenusHohlefels2.jpg/960px-VenusHohlefels2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/VenusHohlefels2.jpg/330px-VenusHohlefels2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:VenusHohlefels2.jpg",
+      "artist": "Ramessos",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

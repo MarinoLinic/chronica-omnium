@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0332",
+  "source": "https://en.wikipedia.org/wiki/Victorian_era",
+  "revisionId": 1380479289,
+  "fetchedAt": "2026-10-24T10:42:54.012Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Queen_Victoria_-_Winterhalter_1859.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Queen_Victoria_-_Winterhalter_1859.jpg/960px-Queen_Victoria_-_Winterhalter_1859.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Queen_Victoria_-_Winterhalter_1859.jpg/330px-Queen_Victoria_-_Winterhalter_1859.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_-_Winterhalter_1859.jpg",
+      "artist": "Franz Xaver Winterhalter",
+      "credit": "Royal Collection RCIN 405131",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

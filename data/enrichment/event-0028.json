@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0028",
+  "source": "https://en.wikipedia.org/wiki/Hominini",
+  "revisionId": 1376310149,
+  "fetchedAt": "2026-10-24T10:36:35.069Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ham-and-handler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ham-and-handler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Ham-and-handler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ham-and-handler.jpg",
+      "artist": "NASA",
+      "credit": "http://history.msfc.nasa.gov/mercury/gallery/images/ham.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

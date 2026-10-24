@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0213",
+  "source": "https://en.wikipedia.org/wiki/Al-Andalus",
+  "revisionId": 1380661285,
+  "fetchedAt": "2026-10-24T10:41:31.607Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Al-Andalus732.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Al-Andalus732.svg/960px-Al-Andalus732.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Al-Andalus732.svg/330px-Al-Andalus732.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Andalus732.svg",
+      "artist": "Al-Andalus732.jpg:Q4767211492~commonswiki (talk · contribs)\nEmiratoDeCórdoba910.svg:rowanwindwhistler (talk · contribs)\nderivative work: rowanwindwhistler (talk)",
+      "credit": "Al-Andalus732.jpg\n\nEmiratoDeCórdoba910.svg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0016",
-  "text": "The Cambrian explosion,  Cambrian radiation, Cambrian diversification, or the Biological Big Bang refers to an interval of time approximately 538.8 million years ago in the Cambrian Period when practically all major animal phyla started appearing in the fossil record. It lasted for about 13 – 25 million years and resulted in the divergence of most modern metazoan phyla. The event was accompanied by major diversification in other groups of organisms as well.\n\nBefore early Cambrian diversification, most organisms were relatively simple, composed of individual cells, or small multicellular organisms, occasionally organized into colonies. As the rate of diversification subsequently accelerated, the variety of life became much more complex, and began to resemble that of today. Almost all present-day animal phyla appeared during this period, including the earliest chordates.\n\nA 2019 paper suggests that the timing should be expanded back to include the late Ediacaran, rather than just the narrower timeframe of the \"Cambrian Explosion\" event visible in the fossil record, based on analysis of chemicals that would have laid the building blocks for a progression of transitional radiations starting with the Ediacaran period and continuing at a similar rate into the Cambrian.\n\n",
   "source": "https://en.wikipedia.org/wiki/Cambrian_explosion",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Cambrian explosion",
+  "revisionId": 1378672162,
+  "revisionTimestamp": "2026-10-05T16:17:34Z",
+  "fetchedAt": "2026-10-24T10:40:28.489Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Cambrian explosion (also known as the Cambrian radiation or Cambrian diversification) is an interval of time beginning approximately 538.8 million years ago in the Cambrian period of the early Paleozoic, during which a sudden radiation of complex life occurred. The fossil record of this period contains the first appearances of practically every animal phyla, implying that nearly all animal life has its origin during this radiation. It lasted between 13 and 25 million years and resulted in the divergence of most modern metazoan phyla. The event was accompanied by major diversification in other groups of organisms as well.\nBefore early Cambrian diversification, most organisms were relatively simple, composed of individual cells or small multicellular organisms, occasionally organized into colonies. As the rate of diversification subsequently accelerated, the variety of life became much more complex and began to resemble that seen today. Almost all present-day animal phyla appeared during this period, including the earliest chordates."
 }

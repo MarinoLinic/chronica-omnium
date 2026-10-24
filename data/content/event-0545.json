@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0545",
+  "source": "https://en.wikipedia.org/wiki/Supercontinent_cycle",
+  "title": "Supercontinent cycle",
+  "revisionId": 1294507054,
+  "revisionTimestamp": "2025-06-08T03:49:38Z",
+  "fetchedAt": "2026-10-24T10:44:32.844Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The supercontinent cycle is the quasi-periodic aggregation and dispersal of Earth's continental crust. There are varying opinions as to whether the amount of continental crust is increasing, decreasing, or staying about the same, but it is agreed that the Earth's crust is constantly being reconfigured. One complete supercontinent cycle is said to take 300 to 500 million years. Continental collision makes fewer and larger continents while rifting makes more and smaller continents."
+}

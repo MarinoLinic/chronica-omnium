@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0099",
+  "source": "https://en.wikipedia.org/wiki/Domestication_of_the_horse",
+  "title": "Domestication of the horse",
+  "revisionId": 1378644603,
+  "revisionTimestamp": "2026-10-05T12:11:21Z",
+  "fetchedAt": "2026-10-24T10:36:46.158Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The exact timeline and mechanisms of the domestication of the horse have been subject to significant academic debate. Although horses appeared in Paleolithic cave art as early as 30,000 BCE, these were wild horses and were probably hunted for meat. Early discoveries in the context of the Botai culture in the Akmola Province of Kazakhstan had strongly suggested that Botai settlements (dated to 3700–3500 BCE) were the location of the earliest domestication, citing evidence such as bit-related tooth wear and horse milking. \nHowever, more recent archaeological and genetic evaluations have challenged this timeline. Taylor and Barrón-Ortiz (2021) argue that Botai findings only reflect intensive exploitation of wild horses, possibly involving some level of management, herding, or seasonal capture, but not full domestication in the way we see in later horse-using societies. While earlier studies by Warmuth et al. (2012) pointed to horses having been domesticated around 3000 BCE in what is now Ukraine, Russia, and Western Kazakhstan, archaeozoologist William T. Taylor argues that true domestication did not take place until around 2000 BCE.\nThough previously thought to have been domesticated in Central Asia, recent genetic studies have shown that all modern domestic horses were exclusively domesticated in the Pontic–Caspian steppe of Eastern Europe. Genomic evidence indicates that the source of this domestication occurred around 2200 BCE in the Volga–Don region of modern-day southwestern Russia, rather than earlier, broader suggestions. From this core area, the domestic lineage rapidly expanded across Eurasia for transportation, agricultural work, and warfare, completely replacing other local horse populations. Scientists have linked the successful spread of domesticated horses to observed genetic mutations. They speculate that stronger backs (the GSDMC gene) and increased docility (the ZFPM1 gene) made these horses uniquely suitable for riding, providing the clearest evidence for their widespread use as a means of transport in chariot burials dated c. 2000 BCE."
+}

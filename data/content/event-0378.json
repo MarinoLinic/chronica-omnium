@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0378",
-  "text": "Neoclassicism in music was a twentieth-century trend, particularly current in the interwar period, in which composers sought to return to aesthetic precepts associated with the broadly defined concept of \"classicism\", namely order, balance, clarity, economy, and emotional restraint. As such, neoclassicism was a reaction against the unrestrained emotionalism and perceived formlessness of late Romanticism, as well as a \"call to order\" after the experimental ferment of the first two decades of the twentieth century. The neoclassical impulse found its expression in such features as the use of pared-down performing forces, an emphasis on rhythm and on contrapuntal texture, an updated or expanded tonal harmony, and a concentration on absolute music as opposed to Romantic program music.\n\nIn form and thematic technique, neoclassical music often drew inspiration from music of the 18th century, though the inspiring canon belonged as frequently to the Baroque and even earlier periods as to the Classical period—for this reason, music which draws inspiration specifically from the Baroque is sometimes termed neo-Baroque music. Neoclassicism had two distinct national lines of development, French (proceeding partly from the influence of Erik Satie and represented by Igor Stravinsky, who was in fact Russian-born) and German (proceeding from the \"New Objectivity\" of Ferruccio Busoni, who was actually Italian, and represented by Paul Hindemith). Neoclassicism was an aesthetic trend rather than an organized movement; even many composers not usually thought of as \"neoclassicists\" absorbed elements of the style.\n\n",
   "source": "https://en.wikipedia.org/wiki/Neoclassicism_(music)",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Neoclassicism (music)",
+  "revisionId": 1365674609,
+  "revisionTimestamp": "2026-07-23T20:13:05Z",
+  "fetchedAt": "2026-10-24T10:43:31.809Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Neoclassicism in music was a twentieth-century trend, particularly current in the interwar period, in which composers sought to return to aesthetic precepts associated with the broadly defined concept of \"classicism\", namely order, balance, clarity, economy, and emotional restraint. As such, neoclassicism was a reaction against the unrestrained emotionalism and perceived formlessness of late Romanticism, as well as a \"call to order\" after the experimental ferment of the first two decades of the twentieth century. The neoclassical impulse found its expression in such features as the use of pared-down performing forces, an emphasis on rhythm and on contrapuntal texture, an updated or expanded tonal harmony, and a concentration on absolute music as opposed to Romantic program music.\nIn form and thematic technique, neoclassical music often drew inspiration from music of the eighteenth century, though the inspiring canon belonged as frequently to the Baroque (and even earlier periods) as to the Classical period—for this reason, music which draws inspiration specifically from the Baroque is sometimes termed neo-Baroque music. Neoclassicism had two distinct national lines of development, French (proceeding partly from the influence of Erik Satie and represented by Igor Stravinsky, who was in fact Russian-born) and German (proceeding from the \"New Objectivity\" of Ferruccio Busoni, who was actually Italian, and represented by Paul Hindemith). Neoclassicism was an aesthetic trend rather than an organized movement; even many composers not usually thought of as \"neoclassicists\" absorbed elements of the style."
 }

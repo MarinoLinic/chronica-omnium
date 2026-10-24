@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0528",
+  "source": "https://en.wikipedia.org/wiki/Evolutionary_history_of_plants",
+  "revisionId": 1380266639,
+  "fetchedAt": "2026-10-24T10:24:38.757Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Trilete_spores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Trilete_spores.png/330px-Trilete_spores.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Trilete_spores.png",
+      "artist": "Smith609",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

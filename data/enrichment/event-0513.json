@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0513",
+  "source": "https://en.wikipedia.org/wiki/Urbanization",
+  "revisionId": 1377203628,
+  "fetchedAt": "2026-10-24T10:24:27.679Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canton_Tower_20220626.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Canton_Tower_20220626.jpg/960px-Canton_Tower_20220626.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Canton_Tower_20220626.jpg/330px-Canton_Tower_20220626.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Canton_Tower_20220626.jpg",
+      "artist": "Tim Wu",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0501",
+  "source": "https://en.wikipedia.org/wiki/WorldWideWeb",
+  "title": "WorldWideWeb",
+  "revisionId": 1375089839,
+  "revisionTimestamp": "2026-09-15T20:31:39Z",
+  "fetchedAt": "2026-10-24T10:24:19.043Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "WorldWideWeb (later renamed Nexus to avoid confusion between the software and the World Wide Web) is the first web browser and web page editor. It was discontinued in 1994. It was the first WYSIWYG HTML editor.\nThe source code was released into the public domain on 30 April 1993."
+}

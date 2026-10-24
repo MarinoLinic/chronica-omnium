@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0322",
+  "source": "https://en.wikipedia.org/wiki/Romantic_music",
+  "revisionId": 1378843319,
+  "fetchedAt": "2026-10-24T10:42:46.788Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Danhauser%2C_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Danhauser%2C_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg/960px-Danhauser%2C_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Danhauser%2C_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg/330px-Danhauser%2C_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Danhauser,_Josef_-_Franz_Liszt_am_Fl%C3%BCgel_phantasierend.jpg",
+      "artist": "Josef Danhauser",
+      "credit": "https://recherche.smb.museum/detail/968187",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

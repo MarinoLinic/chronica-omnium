@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0466",
+  "source": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+  "revisionId": 1379351309,
+  "fetchedAt": "2026-10-24T10:23:54.910Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Operation_Barbarossa_collage.jpg/960px-Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Operation_Barbarossa_collage.jpg/330px-Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Operation_Barbarossa_collage.jpg",
+      "artist": "Bundesarchiv, Bild 146-1974-099-19 / Kempe / CC-BY-SA 3.0\nSamaryi Guraryi / Самарий Гурарий\nUstinov / Александр Устинов \n\nBundesarchiv, Bild 101I-209-0090-28 / Zoll / CC-BY-SA 3.0",
+      "credit": "This file was derived from: \n\n Bundesarchiv Bild 146-1974-099-19, Russland, Angriff auf ein Dorf.jpg: \nBundesarchiv Bild 101I-215-0354-14, Russland, Panzer IV im Schnee.jpg: \nRIAN archive 2564 Soviet planes flying over Nazi positions near Moscow.jpg: \nRussian POW (1941).jpg: \nRIAN archive 607025 Soldiers of the Great Patriotic War.jpg: \nBundesarchiv Bild 101I-209-0090-28, Russland-Nord, Infanterie und Panzer 35t.jpg:",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

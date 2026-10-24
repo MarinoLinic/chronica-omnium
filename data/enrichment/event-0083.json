@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0083",
+  "source": "https://en.wikipedia.org/wiki/Sheep",
+  "revisionId": 1380704867,
+  "fetchedAt": "2026-10-24T10:36:51.149Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/960px-Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Flock_of_sheep.jpg/330px-Flock_of_sheep.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flock_of_sheep.jpg",
+      "artist": "Keith Weller",
+      "credit": "http://www.ars.usda.gov/is/graphics/photos/apr12/k4166-5.htm (Image Number K4166-5)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

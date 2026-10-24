@@ -5,10 +5,10 @@
   "slug": "vladimir-putin",
   "status": "review",
   "name": "Vladimir Putin",
-  "short_desc": null,
+  "short_desc": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008.",
   "long_desc": null,
   "start": 1952,
-  "end": 2023,
+  "end": null,
   "location": "Saint Petersburg",
   "type": "Person",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
   "places": [
     "place-8019b77606f9"
   ],
@@ -67,5 +67,6 @@
         -82.6695085
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

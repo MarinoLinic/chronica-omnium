@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0107",
+  "source": "https://en.wikipedia.org/wiki/Lute",
+  "revisionId": 1379021403,
+  "fetchedAt": "2026-10-24T10:40:40.355Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Lute_%28by_Princess_Ruto%2C_2013-02-11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lute_%28by_Princess_Ruto%2C_2013-02-11%29.jpg/960px-Lute_%28by_Princess_Ruto%2C_2013-02-11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Lute_%28by_Princess_Ruto%2C_2013-02-11%29.jpg/330px-Lute_%28by_Princess_Ruto%2C_2013-02-11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Lute_(by_Princess_Ruto,_2013-02-11).jpg",
+      "artist": "Ching",
+      "credit": "Flickr: Lute",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

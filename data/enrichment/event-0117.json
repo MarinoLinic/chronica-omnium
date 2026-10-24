@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0117",
+  "source": "https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+  "revisionId": 1380099834,
+  "fetchedAt": "2026-10-24T10:40:48.750Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sargon_of_Akkad_on_his_victory_stele.jpg/330px-Sargon_of_Akkad_on_his_victory_stele.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sargon_of_Akkad_on_his_victory_stele.jpg",
+      "artist": "ALFGRN",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": ""
+    }
+  }
+}

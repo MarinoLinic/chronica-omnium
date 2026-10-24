@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0403",
-  "text": "Hans-Hermann Hoppe (/ˈhɒpə/; German: ; born 2 September 1949) is a German-American economist of the Austrian School, philosopher and political theorist. He is Professor Emeritus of Economics at the University of Nevada, Las Vegas (UNLV), Senior Fellow of the Ludwig von Mises Institute, and the founder and president of the Property and Freedom Society.\n\nHoppe identifies as an austro-libertarian and anarcho-capitalist, and has written extensively in opposition to democracy and in support of voluntary association and disassociation in his book Democracy: The God That Failed.\n\n",
   "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Hans-Hermann Hoppe",
+  "revisionId": 1381045945,
+  "revisionTimestamp": "2026-10-19T17:38:27Z",
+  "fetchedAt": "2026-10-24T10:32:28.108Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Hans-Hermann Hoppe (; German: [ˈhɔpə]; born 2 September 1949) is a German-American academic associated with Austrian School economics, anarcho-capitalism, right-wing libertarianism, paleolibertarianism, and opposition to democracy. From 1986 until 2008 he was professor of economics at the University of Nevada, Las Vegas (UNLV). He was a senior fellow of the Mises Institute think tank until 2026. In 2006 he emigrated to Turkey and founded the Property and Freedom Society.\nHoppe has written extensive criticisms of democracy, notably in his 2001 book Democracy: The God That Failed. The book favors exclusionary covenant communities that are \"founded for the purpose of protecting family and kin\". A section of the book favoring exclusion of democrats and homosexuals from society helped popularize Hoppe on the far-right. Some of the speakers invited at his Property and Freedom Society conferences in Turkey have been white nationalists.\nHoppe was a protégé of Murray Rothbard, who established him at UNLV, where Hoppe taught from 1986 to 2008. In 2004, a student's complaint about Hoppe's lecture comments regarding homosexuals and time preference led to an investigation and non-disciplinary letter to Hoppe by UNLV, which was subsequently withdrawn after a controversy over academic freedom."
 }

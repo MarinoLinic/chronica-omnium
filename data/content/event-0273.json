@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0273",
-  "text": "In European art music, the common-practice period is the era of the tonal system. Most of its features persisted from the mid-Baroque period through the Classical and Romantic periods, roughly from 1650 to 1900. There was much stylistic evolution during these centuries, with patterns and conventions flourishing and then declining, such as the sonata form. The most prominent, unifying feature throughout the period is a harmonic language to which music theorists can today apply Roman numeral chord analysis.\n\n",
   "source": "https://en.wikipedia.org/wiki/Common_practice_period",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Common practice period",
+  "revisionId": 1344124906,
+  "revisionTimestamp": "2026-03-18T13:42:30Z",
+  "fetchedAt": "2026-10-24T10:42:16.509Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "In Western classical music, the common practice period was the period of about 250 years during which the tonal system was regarded as the only basis for composition. It began when composers' use of the tonal system had clearly superseded earlier systems and ended when some composers began using significantly modified versions of the tonal system and developing other systems as well. Most features of the common practice (the accepted concepts of composition during this time) persisted from the mid-Baroque period through the Classical and Romantic periods, roughly from 1650 to 1900. \nThere was much stylistic evolution during these centuries, with patterns and conventions flourishing and then declining, such as the sonata form. The most prominent unifying feature throughout the period is a harmonic language to which music theorists can today apply Roman numeral chord analysis; however, the \"common\" in common practice period does not directly refer to any type of harmony, rather it refers to the fact that for over two hundred years only one system was used.\n\n"
 }

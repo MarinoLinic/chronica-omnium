@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0534",
+  "source": "https://en.wikipedia.org/wiki/Doomsday_argument",
+  "title": "Doomsday argument",
+  "revisionId": 1374892467,
+  "revisionTimestamp": "2026-09-14T17:53:15Z",
+  "fetchedAt": "2026-10-24T10:44:26.760Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The doomsday argument (DA), or Carter catastrophe, is a probabilistic argument that aims to predict the total number of humans who will ever live. It argues that if a human's birth rank is randomly sampled from the set of all humans who will ever live, it is improbable that one would be at the extreme beginning. This implies that the total number of humans is unlikely to be much larger than the number of humans born so far.\nThe doomsday argument was originally proposed by the astrophysicist Brandon Carter in 1983, leading to the initial name of the Carter catastrophe. The argument was subsequently championed by the philosopher John A. Leslie and has since been independently conceived by J. Richard Gott and Holger Bech Nielsen."
+}

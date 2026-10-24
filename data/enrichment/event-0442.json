@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0442",
+  "source": "https://en.wikipedia.org/wiki/Woodstock",
+  "revisionId": 1373772520,
+  "fetchedAt": "2026-10-24T10:44:17.863Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/960px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodstock_poster.jpg/330px-Woodstock_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Woodstock_poster.jpg",
+      "artist": "Arnold Skolnick",
+      "credit": "http://fromwoodstocktoeternity.com/some-left-woodstock-some-are-still-there",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

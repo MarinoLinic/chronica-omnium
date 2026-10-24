@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0236",
+  "source": "https://en.wikipedia.org/wiki/Renaissance",
+  "revisionId": 1381289358,
+  "fetchedAt": "2026-10-24T10:41:45.889Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/960px-Da_Vinci_Vitruve_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/330px-Da_Vinci_Vitruve_Luc_Viatour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
+      "artist": "Leonardo da Vinci",
+      "credit": "Leonardo Da Vinci - Photo from www.lucnix.be. 2007-09-08 (photograph). Photograpy: \n\n\n\n\n\n\n\nThis image is the work of Luc Viatour\nPlease credit it with: Luc Viatour / https://Lucnix.be in the immediate vicinity of the image. A link to my website https://lucnix.be is much appreciated but not mandatory.\nAn email to\n\nViatour Luc would be appreciated too.\nDo not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain.\nIf you would like special permission to use, license, or purchase the image please contact me Viatour Luc to negotiate terms.\nMore free pictures in my personal gallery\n\n [Note: this is in the public domain, despite the photographer's contradictory claim. Any use is permissible, and no credit to the photographer is necessary.]\nNikon case D80 optical Sigma 17-70mm F2,8/4,5 Macro",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

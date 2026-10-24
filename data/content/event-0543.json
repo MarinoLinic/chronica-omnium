@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0543",
+  "source": "https://en.wikipedia.org/wiki/Galactic_year",
+  "title": "Galactic year",
+  "revisionId": 1374681327,
+  "revisionTimestamp": "2026-09-13T14:00:33Z",
+  "fetchedAt": "2026-10-24T10:44:31.698Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The galactic year, also known as a cosmic year, is the duration of time required for the Sun to orbit once around the center of the Milky Way Galaxy. One galactic year is approximately 225 million Earth years. The Solar System is traveling at an average speed of 230 km/s (828,000 km/h) or 143 mi/s (514,000 mph) within its trajectory around the Galactic Center, a speed at which an object could circumnavigate the Earth's equator in 2 minutes and 54 seconds; that speed corresponds to approximately 1/1300 of the speed of light.\nThe galactic year provides a convenient medial unit for depicting cosmic and geological time periods together. By contrast, a \"billion-year\" scale does not allow for useful discrimination between geologic events, and a \"million-year\" scale requires some rather large numbers.\n\n"
+}

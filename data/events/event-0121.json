@@ -13,7 +13,7 @@
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Indo-Iranians",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -21,7 +21,7 @@
   "date_kind": "point",
   "date_note": "",
   "places": [],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "indo-iranians",
     "Unnamed: 30": null,

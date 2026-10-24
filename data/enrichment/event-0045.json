@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0045",
+  "source": "https://en.wikipedia.org/wiki/Jebel_Irhoud",
+  "revisionId": 1379241346,
+  "fetchedAt": "2026-10-24T10:36:39.528Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg/960px-Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg/330px-Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Jacques_Hublin_at_Jebel_Irhoud.jpg",
+      "artist": "Shannon McPherron, Max Planck Institute for Evolutionary Anthropology. Leipzig, Germany",
+      "credit": "https://www.eva.mpg.de/fileadmin/_processed_/7/9/csm_Figure_8_faa7ef6bc4.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": ""
+    }
+  }
+}

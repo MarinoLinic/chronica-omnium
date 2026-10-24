@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0499",
+  "source": "https://en.wikipedia.org/wiki/Space_Race",
+  "revisionId": 1381617449,
+  "fetchedAt": "2026-10-24T10:24:17.782Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/960px-Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/330px-Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Sputnik_asm.jpg",
+      "artist": "NSSDC, NASA[1]",
+      "credit": "http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1957-001B",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

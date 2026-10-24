@@ -11,7 +11,7 @@
   "end": -4280000000,
   "location": "World",
   "type": "Event",
-  "field": null,
+  "field": "Geology",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Origin_of_water_on_Earth",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/BlueMarble-2001-2002.jpg/1920px-BlueMarble-2001-2002.jpg",

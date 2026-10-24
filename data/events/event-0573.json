@@ -3,23 +3,23 @@
   "id": "event-0573",
   "id_num": 573,
   "slug": "eugen-vonbhm-bawerk",
-  "status": "stub",
-  "name": "Eugen von Böhm-Bawerk",
-  "short_desc": null,
+  "status": "review",
+  "name": "Eugen von Böhm-Bawerk",
+  "short_desc": "Eugen Böhm Ritter von Bawerk (short form: Eugen von Böhm-Bawerk, Austrian German: [fɔn bøːm ˈbaːvɛrk]; born Eugen Böhm, 12 February 1851 – 27 August 1914) was an Austrian-school intellectual and political economist who served intermittently as the Minister of Finance of Austria between 1895 and 1904.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1851,
+  "end": 1914,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

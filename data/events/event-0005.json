@@ -11,7 +11,7 @@
   "end": null,
   "location": "Moon",
   "type": "Event",
-  "field": null,
+  "field": "Astronomy",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Theia_(planet)",
   "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Big_Splash_Theia.gif",

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0216",
+  "source": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+  "revisionId": 1381250901,
+  "fetchedAt": "2026-10-24T10:41:33.903Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Al-Idrisi%27s_world_map.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Al-Idrisi%27s_world_map.JPG/960px-Al-Idrisi%27s_world_map.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Al-Idrisi%27s_world_map.JPG/330px-Al-Idrisi%27s_world_map.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Idrisi%27s_world_map.JPG",
+      "artist": "",
+      "credit": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

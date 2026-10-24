@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0571",
+  "source": "https://en.wikipedia.org/wiki/Josip_Broz_Tito",
+  "revisionId": 1381385825,
+  "fetchedAt": "2026-10-24T10:25:14.942Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Josip_Broz_Tito_uniform_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/960px-Josip_Broz_Tito_uniform_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/330px-Josip_Broz_Tito_uniform_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Josip_Broz_Tito_uniform_portrait.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "This image is available from the Digital Library of Slovenia under the reference number MJVNDGTF \nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing for more information.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

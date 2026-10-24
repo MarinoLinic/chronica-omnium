@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0529",
+  "source": "https://en.wikipedia.org/wiki/Cryogenian",
+  "revisionId": 1381040452,
+  "fetchedAt": "2026-10-24T10:24:39.206Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png/960px-Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png/330px-Mollweide_Paleographic_Map_of_Earth%2C_690_Ma_%28Cryogenian_Period%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mollweide_Paleographic_Map_of_Earth,_690_Ma_(Cryogenian_Period).png",
+      "artist": "Scotese, Christopher R.; Vérard, Christian; Burgener, Landon; Elling, Reece P.; Kocsis, Ádám T.",
+      "credit": "\"Phanerozoic-scope supplementary material to \"The Cretaceous World: Plate Tectonics, Paleogeography, and Paleoclimate (doi:10.1144/sp544-2024-28)\" from the PALEOMAP project\". doi:10.5281/zenodo.10659112 https://zenodo.org/records/10659112",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

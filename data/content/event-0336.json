@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0336",
-  "text": "First-wave feminism was a period of feminist activity and thought that occurred during the 19th and early 20th century throughout the Western world. It focused on legal issues, primarily on securing women's right to vote. The term is often used synonymously with the kind of feminism espoused by the liberal women's rights movement with roots in the first wave, with organizations such as the International Alliance of Women and its affiliates. This feminist movement still focuses on equality from a mainly legal perspective.\n\nThe term first-wave feminism itself was coined by journalist Martha Lear in a New York Times Magazine article in March 1968 entitled \"The Second Feminist Wave: What do these women want?\" First wave feminism is characterized as focusing on the fight for women's political power, as opposed to de facto unofficial inequalities. While the wave metaphor is well established, including in academic literature, it has been criticized for creating a narrow view of women's liberation that erases the lineage of activism and focuses on specific visible actors.\n\n",
   "source": "https://en.wikipedia.org/wiki/First-wave_feminism",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "First-wave feminism",
+  "revisionId": 1379349544,
+  "revisionTimestamp": "2026-10-09T12:10:47Z",
+  "fetchedAt": "2026-10-24T10:43:03.398Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "First-wave feminism was a period of feminist activity and thought that occurred during the 19th and early 20th century throughout the Western world. It focused on legal issues, primarily on securing women's right to vote. The term is often used synonymously with the kind of feminism espoused by the liberal women's rights movement with roots in the first wave, with organizations such as the International Alliance of Women and its affiliates. This feminist movement still focuses on equality from a mainly legal perspective.\nThe term first-wave feminism itself was coined by journalist Martha Lear in a New York Times Magazine article in March 1968, \"The Second Feminist Wave: What do these women want?\" First-wave feminism is characterized as focusing on the fight for women's political power, as opposed to de facto unofficial inequalities. The first wave of feminism generally advocated for formal equality, while later waves typically advocated for substantive equality. The wave metaphor is well established, including in academic literature, but has been criticized for creating a narrow view of women's liberation that erases the lineage of activism and focuses on specific visible actors. The term \"first-wave\" and, more broadly, the wave model have been questioned when referencing women's movements in non-Western contexts because the periodization and the development of the terminology were entirely based on the happenings of Western feminism and this cannot be applied to non-Western events in an exact manner. However, women participating in political activism for gender equity modeled their plans on western feminists demands for legal rights. This is connected to the Western first-wave and occurred in the late 19th century and continued into the 1930s in connection to the anti-colonial nationalist movement."
 }

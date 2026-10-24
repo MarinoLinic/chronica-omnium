@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0567",
+  "source": "https://en.wikipedia.org/wiki/Saddam_Hussein",
+  "revisionId": 1379966146,
+  "fetchedAt": "2026-10-24T10:25:11.838Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saddam_Hussein_in_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Saddam_Hussein_in_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Saddam_Hussein_in_1998.jpg/330px-Saddam_Hussein_in_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Saddam_Hussein_in_1998.jpg",
+      "artist": "Iraqi News Agency",
+      "credit": "Getty Images",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

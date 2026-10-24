@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0214",
+  "source": "https://en.wikipedia.org/wiki/Reconquista",
+  "revisionId": 1381471406,
+  "fetchedAt": "2026-10-24T10:41:32.354Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cantigas_battle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Cantigas_battle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cantigas_battle.jpg/330px-Cantigas_battle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Cantigas_battle.jpg",
+      "artist": "Creator:Abdula",
+      "credit": "http://www.hist.umn.edu/courses/hist3613/calendar/art/images/Las%20Cantigas%20de%20Santa%20Maria.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

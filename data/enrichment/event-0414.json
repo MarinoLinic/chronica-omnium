@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0414",
+  "source": "https://en.wikipedia.org/wiki/Rhodesian_Bush_War",
+  "revisionId": 1380807336,
+  "fetchedAt": "2026-10-24T10:43:54.057Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/RhodesiaAllies1975-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/RhodesiaAllies1975-en.svg/960px-RhodesiaAllies1975-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/RhodesiaAllies1975-en.svg/330px-RhodesiaAllies1975-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:RhodesiaAllies1975-en.svg",
+      "artist": "Kelly The Angel",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

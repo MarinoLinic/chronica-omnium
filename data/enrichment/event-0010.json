@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0010",
+  "source": "https://en.wikipedia.org/wiki/Virus",
+  "revisionId": 1379186090,
+  "fetchedAt": "2026-10-24T10:40:26.919Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/960px-Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/330px-Coronavirus._SARS-CoV-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Coronavirus._SARS-CoV-2.png",
+      "artist": "Alexey Solodovnikov (Idea, Producer, CG, Editor), Valeria Arkhipova (Scientific Сonsultant)",
+      "credit": "Own work. Scientific consultants:\n\nNikitin N.A., Doctor of Biological Sciences, Department of Virology, Faculty of Biology,  Lomonosov Moscow State University.\nBorisevich S.S. Candidate of Chemical Sciences, Specialist in Molecular Modeling of Viral Surface Proteins, Senior Researcher, Head of the \"Quantum & Dynamics»,Laboratory of Chemical Physics, Ufa Institute of Chemistry  RAS\nArkhipova V.I., specialization in Fundamental and Applied chemistry, senior engineer, RNA Chemistry Laboratory, Institute of chemical biology and fundamental medicine SB RAS",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

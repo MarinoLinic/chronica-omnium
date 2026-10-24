@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0535",
+  "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+  "revisionId": 1377426313,
+  "fetchedAt": "2026-10-24T10:44:27.425Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Terraforming_of_Mars.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Terraforming_of_Mars.gif/960px-Terraforming_of_Mars.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Terraforming_of_Mars.gif/330px-Terraforming_of_Mars.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Terraforming_of_Mars.gif",
+      "artist": "Daein Ballard",
+      "credit": "The original image was uploaded on en.wikipedia as en:File:MarsTransitionV.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

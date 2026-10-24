@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0353",
+  "source": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+  "revisionId": 1381641240,
+  "fetchedAt": "2026-10-24T10:43:14.510Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/John_Maynard_Keynes_%281929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/5f/John_Maynard_Keynes_%281929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Maynard_Keynes_%281929%29.jpg/330px-John_Maynard_Keynes_%281929%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:John_Maynard_Keynes_(1929).jpg",
+      "artist": "Unknown, dedicated to Bettmann Archive",
+      "credit": "https://www.gettyimages.fr/detail/photo-d%27actualit%C3%A9/famous-economist-predicts-liberal-win-in-election-mr-photo-dactualit%C3%A9/514962842",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

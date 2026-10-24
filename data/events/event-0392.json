@@ -5,10 +5,10 @@
   "slug": "thomas-sowell",
   "status": "review",
   "name": "Thomas Sowell",
-  "short_desc": null,
+  "short_desc": "Thomas Sowell ( SOHL; born June 30, 1930) is an American economist, economic historian, and social theorist.",
   "long_desc": null,
   "start": 1930,
-  "end": 2023,
+  "end": null,
   "location": "Gastonia",
   "type": "Person",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
   "places": [
     "place-d26855d0baae"
   ],
@@ -67,5 +67,6 @@
         -81.1838186
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

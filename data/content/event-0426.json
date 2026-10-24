@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0426",
-  "text": "The fall of the Berlin Wall (German: Mauerfall) on 9 November 1989, during the Peaceful Revolution, was a pivotal event in world history which marked the destruction of the Berlin Wall and the figurative Iron Curtain and one of the series of events that started the fall of communism in Central and Eastern Europe, preceded by the Solidarity Movement in Poland. The fall of the inner German border took place shortly afterwards. An end to the Cold War was declared at the Malta Summit three weeks later and the German reunification took place in October the following year.\n\n",
   "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Fall of the Berlin Wall",
+  "revisionId": 1381545949,
+  "revisionTimestamp": "2026-10-23T06:18:45Z",
+  "fetchedAt": "2026-10-24T10:44:08.240Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Fall of the Berlin Wall and the fortified inner German border occurred immediately... without delay after a Politburo press conference on 9 November 1989 prematurely announced that East Germans could travel without restrictions after, in the decades before, hundreds had been killed by Border Troops of the German Democratic Republic when trying to sneak through the Iron Curtain. \nSoon, people gathered at Berlin border crossings, citing the news that were broadcast in East and West, and puzzled border guards eventually let them pass in the late evening hours, with live television broadcasting worldwide. The next days, thousands travelled across the border, also in other places less covered by press. After this symbolic fall, obstacles were removed, former crossings were opened again, and following demolition, L-shaped concrete segments of the Berlin wall were actually falling and spread around the world.\nIn the early stages of the Revolutions of 1989, Hungary removed the fence in May and opened its border in August, and after many East German families had fled into the West German embassy in Prague, the CSSR followed in late September. Despite holiday season being over, East Germans continued to defect via neighbouring Communist Bloc countries, putting pressure on the East German leaders to either shut down these borders, too, or \"letting steam off\" by allowing disgruntled citizens to directly emigrate to West Germany. Long-term leader Erich Honecker was ousted in October, and while new communist leaders discussed a travel law, the premature publication led to a total loss of control over the formerly fortified, lethal border, and due to the ensuing Peaceful Revolution, over the country itself. After the first free elections in spring 1990 showed preference for a German reunification and for the Western Deutsche Mark. The DM already came in July, unification took place on 3 October 1990 when 5 new states joined the 10 old states of the Federal Republic of Germany, with reunited Berlin being a 16th state. Soviet occupation forces left until 1994."
 }

@@ -4,8 +4,8 @@
   "id_num": 323,
   "slug": "thomas-jefferson-in-office",
   "status": "review",
-  "name": "Thomas Jefferson (in office)",
-  "short_desc": null,
+  "name": "Thomas Jefferson",
+  "short_desc": "Thomas Jefferson (April 13 [O.S. April 2], 1743 – July 4, 1826) was a Founding Father and the third president of the United States, serving from 1801 to 1809.",
   "long_desc": null,
   "start": 1801,
   "end": 1809,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
   "places": [
     "place-49dca65f362f"
   ],
@@ -67,5 +67,18 @@
         -100.445882
       ]
     }
-  }
+  },
+  "date_label": "U.S. presidency",
+  "periods": [
+    {
+      "id": "life",
+      "kind": "life",
+      "label": "Lifespan",
+      "start": 1743,
+      "end": 1826,
+      "date_kind": "span",
+      "date_note": "Birth and death years checked against the article and infobox.",
+      "source": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    }
+  ]
 }

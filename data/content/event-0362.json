@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0362",
-  "text": "Sir Karl Raimund Popper CH FRS FBA (28 July 1902 – 17 September 1994) was an Austrian-British philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification. According to Popper, a theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can (and should) be scrutinised with decisive experiments. Popper was opposed to the classical justificationist account of knowledge, which he replaced with critical rationalism, namely \"the first non-justificational philosophy of criticism in the history of philosophy\".\n\nIn political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he believed made a flourishing open society possible. His political philosophy embraced ideas from major democratic political ideologies, including libertarianism/classical liberalism, socialism/social democracy and conservatism, and attempted to reconcile them.\n\n",
   "source": "https://en.wikipedia.org/wiki/Karl_Popper",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Karl Popper",
+  "revisionId": 1376668372,
+  "revisionTimestamp": "2026-09-25T15:25:24Z",
+  "fetchedAt": "2026-10-24T10:43:19.887Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sir Karl Raimund Popper (28 July 1902 – 17 September 1994) was an Austrian–British philosopher, academic and social commentator. One of the 20th century's most influential philosophers of science, Popper is known for his rejection of the classical inductivist views on the scientific method in favour of empirical falsification made possible by his falsifiability criterion, and for founding the Department of Philosophy at the London School of Economics and Political Science. According to Popper, a theory in the empirical sciences can never be proven, but it can be falsified, meaning that it can (and should) be scrutinised with decisive experiments. Popper was opposed to the classical justificationist account of knowledge, which he replaced with \"the first non-justificational philosophy of criticism in the history of philosophy\", namely critical rationalism.\nIn political discourse, he is known for his vigorous defence of liberal democracy and the principles of social criticism that he believed made a flourishing open society possible. His political thought resides within the camp of Enlightenment rationalism and humanism. He was a dogged opponent of totalitarianism, communism, nationalism, fascism, historicism, and other kinds of (in Popper's view) reactionary and irrational ideas, and identified modern liberal democracies as the best-to-date embodiment of an open society."
 }

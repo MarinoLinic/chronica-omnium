@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0483",
+  "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878",
+  "revisionId": 1380736812,
+  "fetchedAt": "2026-10-24T10:24:07.550Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/FaminesMapOfIndia1800-1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/FaminesMapOfIndia1800-1885.jpg/960px-FaminesMapOfIndia1800-1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/FaminesMapOfIndia1800-1885.jpg/330px-FaminesMapOfIndia1800-1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:FaminesMapOfIndia1800-1885.jpg",
+      "artist": "Stanford's Geog. Etab. London",
+      "credit": "India: Famines map 1800-1878. Scanned from personal copy by Fowler&fowler (talk) 19:45, 15 April 2017 (UTC)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

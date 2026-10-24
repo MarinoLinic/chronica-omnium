@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0158",
+  "source": "https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great",
+  "revisionId": 1380856572,
+  "fetchedAt": "2026-10-24T10:41:12.387Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Alexander_the_Great_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexander_the_Great_mosaic.jpg/960px-Alexander_the_Great_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Alexander_the_Great_mosaic.jpg/330px-Alexander_the_Great_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Alexander_the_Great_mosaic.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "The Guardian (DEA/G Nimatallah/De Agostini/Getty Images)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

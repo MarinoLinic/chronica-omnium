@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0570",
+  "source": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+  "revisionId": 1381640003,
+  "fetchedAt": "2026-10-24T10:25:14.331Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/960px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/330px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolae_Ceau%C8%99escu_(3x4_cropped).jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Fototeca online a comunismului românesc, Photo no. #E594,",
+      "license": "Attribution",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

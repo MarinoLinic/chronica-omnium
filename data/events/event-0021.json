@@ -11,7 +11,7 @@
   "end": -201000000,
   "location": "World",
   "type": "Event",
-  "field": null,
+  "field": "Biology",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Mammal",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OrthoMaM_v10b_2019_116genera_circular_tree.svg/1920px-OrthoMaM_v10b_2019_116genera_circular_tree.svg.png",

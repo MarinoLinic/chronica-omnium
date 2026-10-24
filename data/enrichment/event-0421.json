@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0421",
+  "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+  "revisionId": 1380806786,
+  "fetchedAt": "2026-10-24T10:44:05.164Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg",
+      "artist": "derivative work by Begoon",
+      "credit": "This file was derived from:  Margaret Thatcher stock portrait.tif",
+      "license": "Copyrighted free use",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

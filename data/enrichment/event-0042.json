@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0042",
+  "source": "https://en.wikipedia.org/wiki/Homo_heidelbergensis",
+  "revisionId": 1381530332,
+  "fetchedAt": "2026-10-24T10:40:32.086Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mandibel_from_Mauer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mandibel_from_Mauer.JPG/960px-Mandibel_from_Mauer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Mandibel_from_Mauer.JPG/330px-Mandibel_from_Mauer.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mandibel_from_Mauer.JPG",
+      "artist": "Gerbil",
+      "credit": "Own work",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

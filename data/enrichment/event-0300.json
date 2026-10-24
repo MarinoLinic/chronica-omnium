@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0300",
+  "source": "https://en.wikipedia.org/wiki/David_Hume",
+  "revisionId": 1374426645,
+  "fetchedAt": "2026-10-24T10:42:32.324Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/David_Hume_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/960px-David_Hume_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/David_Hume_Ramsay.jpg/330px-David_Hume_Ramsay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg",
+      "artist": "Allan Ramsay",
+      "credit": "National Galleries Scotland",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

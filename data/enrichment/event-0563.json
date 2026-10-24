@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0563",
+  "source": "https://en.wikipedia.org/wiki/Jordan_Peterson",
+  "revisionId": 1381688391,
+  "fetchedAt": "2026-10-24T10:25:06.084Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg/960px-Jordan_Peterson_in_2018_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Jordan_Peterson_in_2018_%283x4_cropped%29.jpg/330px-Jordan_Peterson_in_2018_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jordan_Peterson_in_2018_(3x4_cropped).jpg",
+      "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+      "credit": "Jordan Peterson",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": ""
+    }
+  }
+}

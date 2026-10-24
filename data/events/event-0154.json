@@ -8,22 +8,22 @@
   "short_desc": "First and Second Peloponnesian Wars (incl. peaceful interperiod)",
   "long_desc": "Peloponnesian Wars",
   "start": -460,
-  "end": -404,
+  "end": -445,
   "location": "Greece",
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/First_Peloponnesian_War",
   "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Peloponnesian_war_alliances_431_BC.png",
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "The first war (460–445 BCE) and the later war (431–404 BCE) are separate periods. The intervening peace is not drawn as continuous warfare.",
   "places": [
     "place-9c93ad439373"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "peloponnesian-wars",
     "Unnamed: 30": null,
@@ -67,5 +67,18 @@
         21.9877132
       ]
     }
-  }
+  },
+  "date_label": "First Peloponnesian War",
+  "periods": [
+    {
+      "id": "later-war",
+      "kind": "other",
+      "label": "Peloponnesian War",
+      "start": -431,
+      "end": -404,
+      "date_kind": "span",
+      "date_note": "The later war between Athens, Sparta and their allies.",
+      "source": "https://en.wikipedia.org/wiki/Peloponnesian_War"
+    }
+  ]
 }

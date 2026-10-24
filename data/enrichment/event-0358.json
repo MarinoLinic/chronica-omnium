@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0358",
+  "source": "https://en.wikipedia.org/wiki/Summer_Olympic_Games",
+  "revisionId": 1381414388,
+  "fetchedAt": "2026-10-24T10:43:16.722Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Vasque_Olympique_Jardin_Tuileries_-_Paris_I_%28FR75%29_-_2024-07-27_-_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Vasque_Olympique_Jardin_Tuileries_-_Paris_I_%28FR75%29_-_2024-07-27_-_25.jpg/960px-Vasque_Olympique_Jardin_Tuileries_-_Paris_I_%28FR75%29_-_2024-07-27_-_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Vasque_Olympique_Jardin_Tuileries_-_Paris_I_%28FR75%29_-_2024-07-27_-_25.jpg/330px-Vasque_Olympique_Jardin_Tuileries_-_Paris_I_%28FR75%29_-_2024-07-27_-_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Vasque_Olympique_Jardin_Tuileries_-_Paris_I_(FR75)_-_2024-07-27_-_25.jpg",
+      "artist": "Chabe01",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

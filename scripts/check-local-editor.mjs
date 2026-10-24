@@ -18,15 +18,21 @@ assert.equal((await put({version:after.version,record:{unknown:'field'}})).statu
 assert.equal((await put({version:after.version,record:{id_num:9999}})).status,422)
 assert.equal((await put({version:after.version,record:{dubious:true}})).status,422)
 assert.equal((await fetch(`${origin}/_local/catalog`,{method:'POST',headers:{'Content-Type':'application/json',Origin:origin},body:'{"name":42}'})).status,400)
+// Exercise interrupted reader requests and a visible-data rebuild. The trailing
+// space changes public bytes without changing the rendered historical wording.
+const publicUrl=`${origin}/data/events/event-0001.json`
+assert.equal((await fetch(publicUrl)).headers.get('cache-control'),'no-store')
+await Promise.all(Array.from({length:12},async()=>{const controller=new AbortController();const pending=fetch(publicUrl,{signal:controller.signal}).catch(()=>null);controller.abort();await pending}))
 // Exercise a real edit, then restore the original author notes even if a later
 // assertion fails. Both versions are retained in editor history.
 try {
-  const changed=await put({version:after.version,record:{notes:`${original.record.notes || ''}\nLocal editor integration check (temporary).`}})
+  const changed=await put({version:after.version,record:{short_desc:`${original.record.short_desc || ''} `,notes:`${original.record.notes || ''}\nLocal editor integration check (temporary).`}})
   assert.equal(changed.status,200,JSON.stringify(await changed.json()))
   const current=await (await fetch(url)).json()
   assert.notEqual(current.version,original.version)
   assert.equal((await put({version:original.version,record:original.record})).status,409)
   assert.equal((await (await fetch(`${origin}/data/events/event-0001.json`,{cache:'no-store'})).json()).notes,undefined,'private notes must not be published')
+  assert.equal((await (await fetch(publicUrl)).json()).short_desc,`${original.record.short_desc || ''} `,'a real public-data replacement must succeed after cancelled reads')
 } finally {
   const current=await (await fetch(url)).json()
   const restored=await put({version:current.version,record:original.record})

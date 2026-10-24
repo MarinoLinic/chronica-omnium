@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0225",
+  "source": "https://en.wikipedia.org/wiki/History_of_Greenland",
+  "revisionId": 1365057865,
+  "fetchedAt": "2026-10-24T10:41:39.289Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/KayakBearHunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/5b/KayakBearHunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/KayakBearHunter.jpg/330px-KayakBearHunter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:KayakBearHunter.jpg",
+      "artist": "",
+      "credit": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

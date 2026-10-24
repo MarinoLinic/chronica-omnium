@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0509",
+  "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+  "title": "Sputnik 1",
+  "revisionId": 1378867201,
+  "revisionTimestamp": "2026-10-06T16:28:50Z",
+  "fetchedAt": "2026-10-24T10:24:24.756Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sputnik 1  (, Russian: Спутник-1, Satellite 1), often referred to as simply Sputnik, was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957 as part of the Soviet space program. It sent a radio signal back to Earth for three weeks before its three silver-zinc batteries became depleted. Aerodynamic drag caused it to fall back into the atmosphere on 4 January 1958.\nIt was a polished metal sphere 58 cm (23 in) in diameter with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable by amateur radio operators, and the 65° orbital inclination made its flight path cover virtually the entire inhabited Earth.\nThe satellite's success was unanticipated by the United States. This precipitated the American Sputnik crisis and triggered the start of the Space Race. The launch was the beginning of a new era of political, military, technological, and scientific developments. The word sputnik is Russian for satellite when interpreted in an astronomical context; its other meanings are spouse or travelling companion.\nTracking and studying Sputnik 1 from Earth provided scientists with valuable information. The density of the upper atmosphere could be deduced from its drag on the orbit, and the propagation of its radio signals gave data about the ionosphere.\nSputnik 1 was launched during the International Geophysical Year from Site No.1/5, at the 5th Tyuratam range, in Kazakh SSR (now known as the Baikonur Cosmodrome). The satellite travelled at a peak speed of about 8 km/s (18,000 mph), taking 96.20 minutes to complete each orbit. It transmitted on 20.005 and 40.002 MHz, which were monitored by radio operators throughout the world. The signals continued for 22 days until the transmitter batteries depleted on 26 October 1957. On 4 January 1958, after three months in orbit, Sputnik 1 burned up while reentering Earth's atmosphere, having completed 1,440 orbits of the Earth, and travelling a distance of approximately 70,000,000 km (43,000,000 mi)."
+}

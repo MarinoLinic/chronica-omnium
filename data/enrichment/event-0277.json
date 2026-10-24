@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0277",
+  "source": "https://en.wikipedia.org/wiki/East_India_Company",
+  "revisionId": 1381706530,
+  "fetchedAt": "2026-10-24T10:42:18.828Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg/960px-Flag_of_the_British_East_India_Company_%281801%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg/330px-Flag_of_the_British_East_India_Company_%281801%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_British_East_India_Company_(1801).svg",
+      "artist": "No machine-readable author provided. Yaddah assumed (based on copyright claims).",
+      "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

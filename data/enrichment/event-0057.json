@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0057",
+  "source": "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+  "revisionId": 1379895101,
+  "fetchedAt": "2026-10-24T10:36:43.945Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Neanderthal_distribution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Neanderthal_distribution.jpg/960px-Neanderthal_distribution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Neanderthal_distribution.jpg/330px-Neanderthal_distribution.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Neanderthal_distribution.jpg",
+      "artist": "Berria",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

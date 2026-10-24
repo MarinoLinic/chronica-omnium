@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0467",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_France",
+  "revisionId": 1381720666,
+  "fetchedAt": "2026-10-24T10:23:55.681Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg/960px-The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg/330px-The_Withdrawal_from_Dunkirk%2C_June_1940_Art.IWMARTLD305.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Withdrawal_from_Dunkirk,_June_1940_Art.IWMARTLD305.jpg",
+      "artist": "Charles Cundall",
+      "credit": "http://media.iwm.org.uk/iwm/mediaLib//141/media-141192/large.jpg\n\n\n\n\n\nThis photograph Art.IWM ART LD 305 comes from the collections of the Imperial War Museums.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

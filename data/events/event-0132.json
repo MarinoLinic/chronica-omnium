@@ -5,7 +5,7 @@
   "slug": "late-bronze-age-collapse",
   "status": "review",
   "name": "Late Bronze Age collapse",
-  "short_desc": null,
+  "short_desc": "The Late Bronze Age collapse was a period of societal collapse in the Mediterranean basin during the late 13th to early 12th century BC.",
   "long_desc": "Late Bronze Age collapse",
   "start": -1200,
   "end": -1150,
@@ -13,7 +13,7 @@
   "type": "Event",
   "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-b01c72c717ff"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "late-bronze-age-collapse",
     "Unnamed: 30": null,

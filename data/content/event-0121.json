@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0121",
+  "source": "https://en.wikipedia.org/wiki/Indo-Iranians",
+  "title": "Indo-Iranians",
+  "revisionId": 1377411448,
+  "revisionTimestamp": "2026-09-29T06:59:50Z",
+  "fetchedAt": "2026-10-24T10:40:51.515Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Proto-Indo-Iranian peoples (or Indo-Iranian peoples, or Indo-Iranic peoples), also known as Ā́rya or Aryans from their self-designation, were a group of speakers of Proto-Indo-European languages who brought the offshoot Proto-Indo-Iranian languages to parts of Eurasia in waves from the first part of the 2nd millennium BC onwards. The original location of Indo-Iranians were thought to be north of modern-day Afghanistan, east of the Caspian Sea, in the area that is now Turkmenistan, Uzbekistan, and Tajikistan. They eventually branched out into the Iranian peoples who migrated south and west, while the Indo-Aryan peoples migrated south and east."
+}

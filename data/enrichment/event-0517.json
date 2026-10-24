@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0517",
+  "source": "https://en.wikipedia.org/wiki/Iron_metallurgy_in_Africa",
+  "revisionId": 1378816054,
+  "fetchedAt": "2026-10-24T10:24:31.104Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Iron-working%2C_Angola%2C_ca._1650s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/6/67/Iron-working%2C_Angola%2C_ca._1650s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Iron-working%2C_Angola%2C_ca._1650s.jpg/330px-Iron-working%2C_Angola%2C_ca._1650s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Iron-working,_Angola,_ca._1650s.jpg",
+      "artist": "Giovanni Cavazzi da Montecuccolo",
+      "credit": "http://www.slaveryimages.org/s/slaveryimages/item/2282\n\nEzio Bassani, ed., Un Cappuccino nell'Africa nera del seicento: I disegni dei Manoscritti Araldi del Padre Giovanni Antonio Cavazzi da Montecuccolo [A Capuchin in Black Africa in the Seventeenth Century: Drawings of the Araldi Manuscript of Father Giovanni Antonio Cavazzi da Montecuccolo] (Milan: Quaderni Poro, no. 4, 1987), plate 20.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

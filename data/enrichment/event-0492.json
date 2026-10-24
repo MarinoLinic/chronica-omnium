@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0492",
+  "source": "https://en.wikipedia.org/wiki/Windmill",
+  "revisionId": 1381332220,
+  "fetchedAt": "2026-10-24T10:24:13.048Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/DK_Fanoe_Windmill01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/DK_Fanoe_Windmill01.JPG/960px-DK_Fanoe_Windmill01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/DK_Fanoe_Windmill01.JPG/330px-DK_Fanoe_Windmill01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:DK_Fanoe_Windmill01.JPG",
+      "artist": "Cnyborg",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

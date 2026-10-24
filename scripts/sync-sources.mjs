@@ -20,6 +20,7 @@ async function backup(file, id) {
 }
 for (const { record: r } of selected) {
   const result = { id: r.id, text: 'unchanged', image: 'unchanged' }
+  const selectedImage=r.image || refs.enrichment?.[r.id]?.image?.original
   try {
     const file = at('data/content', `${r.id}.json`)
     let old = null
@@ -38,8 +39,8 @@ for (const { record: r } of selected) {
     }
   } catch (error) { result.text = 'failed'; result.textError = error.message }
   try {
-    if (images && r.image && (!refs.media.items[r.id]?.path || refs.media.items[r.id]?.original !== r.image || refresh)) {
-      const filename = commonsFilename(r.image)
+    if (images && selectedImage && (!refs.media.items[r.id]?.path || refs.media.items[r.id]?.original !== selectedImage || refresh)) {
+      const filename = commonsFilename(selectedImage)
       if (!filename) result.image = 'external image retained; local import needs manual attribution'
       else {
         await pause()
@@ -57,7 +58,7 @@ for (const { record: r } of selected) {
         const sha256 = hash(asset.bytes), relative = `/media/${sha256}.${extension}`
         await mkdir(at('public/media'), { recursive: true })
         await writeFile(at('public', relative.slice(1)), asset.bytes)
-        refs.media.items[r.id] = { path: relative, sha256, bytes: asset.bytes.length, original: r.image, remoteThumbnail: remote, fetchedAt: new Date().toISOString(), credit }
+        refs.media.items[r.id] = { path: relative, sha256, bytes: asset.bytes.length, original: selectedImage, remoteThumbnail: remote, fetchedAt: new Date().toISOString(), credit }
         downloaded += asset.bytes.length
         await writeJson(at('data/media/manifest.json'), refs.media)
         result.image = 'cached'

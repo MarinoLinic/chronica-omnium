@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0573",
+  "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+  "revisionId": 1379800448,
+  "fetchedAt": "2026-10-24T10:25:15.909Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png/960px-Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png/330px-Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png",
+      "artist": "Josef Löwy",
+      "credit": "Austrian National Libarry (Österreichische Nationalbibliothek),  Pf 159549:C (4)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

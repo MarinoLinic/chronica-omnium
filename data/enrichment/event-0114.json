@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0114",
+  "source": "https://en.wikipedia.org/wiki/Abacus",
+  "revisionId": 1380168627,
+  "fetchedAt": "2026-10-24T10:40:46.270Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Abacus_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/960px-Abacus_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Abacus_%28PSF%29.png/330px-Abacus_%28PSF%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Abacus_(PSF).png",
+      "artist": "Pearson Scott Foresman",
+      "credit": "This image has been extracted from another file",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0392",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Sowell",
+  "revisionId": 1381463721,
+  "fetchedAt": "2026-10-24T10:32:27.454Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Thomas_Sowell_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Thomas_Sowell_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Thomas_Sowell_Portrait_%283x4_cropped%29.jpg/330px-Thomas_Sowell_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Sowell_Portrait_(3x4_cropped).jpg",
+      "artist": "Internet Archive Book Images",
+      "credit": "https://www.flickr.com/photos/internetarchivebookimages/14569447530/\n\nSource book page: https://archive.org/stream/belltelephonemag4344amerrich/belltelephonemag4344amerrich#page/n356/mode/1up",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0140",
+  "source": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+  "revisionId": 1381347616,
+  "fetchedAt": "2026-10-24T10:41:03.640Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/GR-olympia-palaestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/GR-olympia-palaestra.jpg/960px-GR-olympia-palaestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/GR-olympia-palaestra.jpg/330px-GR-olympia-palaestra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:GR-olympia-palaestra.jpg",
+      "artist": "Bgabel",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": "User: Bgabel at  wikivoyage shared"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0537",
+  "source": "https://en.wikipedia.org/wiki/Space_weathering",
+  "title": "Space weathering",
+  "revisionId": 1270878911,
+  "revisionTimestamp": "2025-01-21T17:55:23Z",
+  "fetchedAt": "2026-10-24T10:44:28.465Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Space weathering is the type of weathering that occurs to any object exposed to the harsh environment of outer space.  Bodies without atmospheres (including the Moon, Mercury, the asteroids, comets, and most of the moons of other planets) take on many weathering processes:\n\ncollisions of galactic cosmic rays and solar cosmic rays,\nirradiation, implantation, and sputtering from solar wind particles, and\nbombardment by different sizes of meteorites and micrometeorites.\nSpace weathering is important because these processes affect the physical and optical properties of the surface of many planetary bodies.  Therefore, it is critical to understand the effects of space weathering in order to properly interpret remotely sensed data."
+}

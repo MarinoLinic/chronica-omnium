@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0532",
+  "source": "https://en.wikipedia.org/wiki/Drake_equation",
+  "title": "Drake equation",
+  "revisionId": 1381214813,
+  "revisionTimestamp": "2026-10-20T18:59:22Z",
+  "fetchedAt": "2026-10-24T10:44:25.928Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Drake equation is a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way Galaxy.\nThe equation was formulated in 1961 by Frank Drake, not for purposes of quantifying the number of civilizations, but as a way to stimulate scientific dialogue at the first scientific meeting on the search for extraterrestrial intelligence (SETI). The equation summarizes the main concepts which scientists must contemplate when considering the question of other radio-communicative life. It is more properly thought of as an approximation than as a serious attempt to determine a precise number.\nCriticism related to the Drake equation focuses not on the equation itself, but on the fact that the estimated values for several of its factors are highly conjectural, the combined multiplicative effect being that the uncertainty associated with any derived value is so large that the equation cannot be used to draw firm conclusions."
+}

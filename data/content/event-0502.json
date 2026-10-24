@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0502",
+  "source": "https://en.wikipedia.org/wiki/IBM_Simon",
+  "title": "IBM Simon",
+  "revisionId": 1380587160,
+  "revisionTimestamp": "2026-10-16T17:34:57Z",
+  "fetchedAt": "2026-10-24T10:24:19.578Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The IBM Simon Personal Communicator (simply known as IBM Simon) is a cellular phone and personal digital assistant (PDA) designed by International Business Machines (IBM), released in 1992. Built on an x86 processor, the IBM Simon features a 4.5 inch resistive touchscreen display and runs an MS-DOS-compatible operating system with the ability to install additional software using its PCMCIA slot. The Simon also has a modem for faxing and email and was also the first PDA to make phone calls through a cellular network;  due to these features and capabilities, it has retrospectively been referred to as the first true smartphone.\nThe device was manufactured by Mitsubishi Electric. BellSouth Cellular Corp. distributed the IBM Simon in the United States between August 1994 and February 1995 for use on its analog AMPS network, selling 50,000 units. Sales were hampered by its high price (over $2,100 in 2021 adjusted for inflation) and a short battery life lasting only an hour. IBM worked on a smaller successor model, codenamed Neon, but it was abandoned during development and not released.\n\n"
+}

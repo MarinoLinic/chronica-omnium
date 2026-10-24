@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0049",
+  "source": "https://en.wikipedia.org/wiki/Youngest_Toba_eruption",
+  "revisionId": 1381547777,
+  "fetchedAt": "2026-10-24T10:36:41.789Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tobaeruption.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Tobaeruption.png/960px-Tobaeruption.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Tobaeruption.png/330px-Tobaeruption.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Tobaeruption.png",
+      "artist": "Anynobody",
+      "credit": "Own work  Info used to get an idea of how much was erupted, what fell where, and how thick it was:\n\nUSGS Hawaiian Volcano Observatory\nThe scale of the Toba eruption is difficult to comprehend. Pyroclastic flows (hot flows of ash and pumice) covered an area of at least 20,000 square kilometers (7,700 sq mi), with deposits as thick as 600 m (2,000 ft) near the vents. Ash fall was widespread over much of southeast Asia. An ash layer approximately 15 cm (6 in) thick was deposited over the entire Indian subcontinent. Our appreciation of the magnitude of this eruption continues to grow as Toba ash is recognized farther and farther from the source.\nSmithsonian's Global Volcanism Program\nThe YTT represents the world's largest known Quaternary eruption, ejecting about 2500-3000 cu km (dense rock equivalent) of ignimbrite and airfall ash from vents at the NW and SE ends of present-day Lake Toba.\nThe image depicts an eruption in its early stages, around day 1 - 2.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0363",
-  "text": "The Bolsheviks (Russian: Большевики́, IPA: , from большинство́ bol'shinstvó, 'majority'), also known in English as the Bolshevists, were a far-left, revolutionary Marxist faction founded by Vladimir Lenin that split with the Mensheviks from the Marxist Russian Social Democratic Labour Party (RSDLP), a revolutionary socialist political party formed in 1898, at its Second Party Congress in 1903.\n\nAfter forming their own party in 1912, the Bolsheviks took power during the October Revolution in the Russian Republic in November 1917, overthrowing the Provisional Government of Alexander Kerensky, and became the only ruling party in the subsequent Soviet Russia and later the Soviet Union. They considered themselves the leaders of the revolutionary proletariat of Russia. Their beliefs and practices were often referred to as Bolshevism.\n\n",
   "source": "https://en.wikipedia.org/wiki/Bolsheviks",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Bolsheviks",
+  "revisionId": 1375709025,
+  "revisionTimestamp": "2026-09-19T14:44:45Z",
+  "fetchedAt": "2026-10-24T10:43:20.557Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Bolsheviks, led by Vladimir Lenin, were a radical faction of the Marxist Russian Social Democratic Labour Party (RSDLP) which split with the Mensheviks at the Second Party Congress in 1903. The Bolshevik party, formally established in 1912, seized power in Russia in the October Revolution of 1917 and was later renamed the Russian Communist Party, All-Union Communist Party, and ultimately the Communist Party of the Soviet Union. Its ideology, based on Leninist and later Marxist–Leninist principles, became known as Bolshevism.\nThe origin of the RSDLP split was Lenin's support for a smaller party of professional revolutionaries, as opposed to the Menshevik desire for a broad party membership. The influence of the factions fluctuated in the years up to 1912, when the RSDLP formally split in two. The political philosophy of the Bolsheviks was based on the Leninist principles of vanguardism and democratic centralism. Lenin was also more willing to use illegal means such as robbery to fund the party's activities. By 1917, influenced by the experiences of World War I, he reached the conclusion that the chain of world capitalism could \"break at its weakest link\" in Russia before it assumed the level of the advanced countries, opposing theorists such as Georgi Plekhanov. Lenin had also come to view poorer peasants as potential allies of the relatively small Russian proletariat.\nAfter the February Revolution of 1917, Lenin returned to Russia and issued his April Theses, which called for \"no support for the Provisional Government\" and \"all power to the soviets.\" During the summer of 1917, which saw events including the July Days and Kornilov affair, large numbers of radicalized workers joined the Bolsheviks, which planned the October Revolution that overthrew the government. The Bolsheviks initially governed in coalition with the Left Socialist-Revolutionaries, but increasingly centralized power and suppressed opposition during the Russian Civil War. After 1921, it became the sole legal party in Soviet Russia and the Soviet Union. Under Joseph Stalin's leadership, Bolshevism became linked to his policies of \"socialism in one country,\" rapid industrialization, collectivized agriculture, and centralized state control."
 }

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0535",
+  "source": "https://en.wikipedia.org/wiki/Terraforming_of_Mars",
+  "title": "Terraforming of Mars",
+  "revisionId": 1377426313,
+  "revisionTimestamp": "2026-09-29T09:17:17Z",
+  "fetchedAt": "2026-10-24T10:44:27.425Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The terraforming of Mars is a hypothetical procedure that would consist of a planetary engineering project or concurrent projects aspiring to transform Mars from a planet hostile to life to one that could sustainably host humans and other lifeforms free of protection or mediation. The process would involve the modification of the planet's extant climate, atmosphere, and surface through a variety of resource-intensive initiatives, as well as the installation of a novel ecological system or systems.\nJustifications for choosing Mars over other potential terraforming targets include the presence of water and a geological history that suggests it once harbored a dense atmosphere similar to Earth's. Hazards and difficulties include low gravity, toxic soil, low light levels relative to Earth's, and the lack of a magnetic field.\nAlthough new techniques have emerged that could raise Mars's average global temperature by tens of degrees within a few decades, the terraforming of Mars is considered to be infeasible using present-day technology. Disagreement exists about whether future technology should render the planet habitable. Reasons for supporting terraforming the planet include allaying concerns about resource consumption and depletion on Earth and arguments that the alteration and settlement of other planets decreases the odds of humanity's extinction. Reasons for objecting to terraforming the planet include ethical concerns about terraforming, and the considerable energy and resource costs that such an undertaking would involve."
+}

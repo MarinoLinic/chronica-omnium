@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0507",
+  "source": "https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317",
+  "revisionId": 1375763552,
+  "fetchedAt": "2026-10-24T10:24:23.412Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Great_famine.jpg/960px-Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Great_famine.jpg/330px-Great_famine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Great_famine.jpg",
+      "artist": "Scanned (by me) from the cover of The Great Famine (1996) by William Chester Jordan. Original cover art from a photograph courtesy of Stiftung Weimarer Klassik, Herzogin Anna Amalia Bibliothek.",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0473",
+  "source": "https://en.wikipedia.org/wiki/Chronology_of_the_universe",
+  "revisionId": 1381719244,
+  "fetchedAt": "2026-10-24T10:24:00.412Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/960px-WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/WMAP_2012.png/330px-WMAP_2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:WMAP_2012.png",
+      "artist": "NASA / WMAP Science Team",
+      "credit": "http://map.gsfc.nasa.gov/media/121238/ilc_9yr_moll4096.png",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

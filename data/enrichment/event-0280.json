@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0280",
+  "source": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+  "revisionId": 1380458739,
+  "fetchedAt": "2026-10-24T10:42:20.203Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg/960px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg/330px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%2C_square_canton%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Red_ensign_of_Great_Britain_(1707%E2%80%931800,_square_canton).svg",
+      "artist": "AnonMoos, based on image by Zscout370, AnonMoos",
+      "credit": "This vector image includes elements that have been taken or adapted from this file:",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

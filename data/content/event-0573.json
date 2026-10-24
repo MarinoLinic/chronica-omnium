@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0573",
+  "source": "https://en.wikipedia.org/wiki/Eugen_von_B%C3%B6hm-Bawerk",
+  "title": "Eugen von Böhm-Bawerk",
+  "revisionId": 1379800448,
+  "revisionTimestamp": "2026-10-12T00:59:16Z",
+  "fetchedAt": "2026-10-24T10:25:15.909Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Eugen Böhm Ritter von Bawerk (short form: Eugen von Böhm-Bawerk, Austrian German: [fɔn bøːm ˈbaːvɛrk]; born Eugen Böhm, 12 February 1851 – 27 August 1914) was an Austrian-school intellectual and political economist who served intermittently as the Minister of Finance of Austria between 1895 and 1904. Böhm-Bawerk is noted for the theory of Roundaboutness, which emphasizes the time intensity, not only capital intensity, of investments in capital goods to increase productivity.  He advanced an interest rate theory centered on time preference. He also wrote an extensive critique of Marxism and Marx's labor theory of value."
+}

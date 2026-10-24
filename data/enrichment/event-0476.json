@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0476",
+  "source": "https://en.wikipedia.org/wiki/Aztec_Empire",
+  "revisionId": 1380802080,
+  "fetchedAt": "2026-10-24T10:24:02.444Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg/960px-Aztec_Empire_ME_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Aztec_Empire_ME_%28orthographic_projection%29.svg/330px-Aztec_Empire_ME_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Aztec_Empire_ME_(orthographic_projection).svg",
+      "artist": "File:Aztec Empire (orthographic projection).svg : Keepscases\nDerivative work : Giggette",
+      "credit": "Aztec Warfare: Imperial Expansion and Political Control by Ross Hassig, University of Oklahoma Press [1]\n[2] Department of History by Ian Mladjov, University of Michigan. [3]\n[4] Encyclopædia Britannica\nWeb's pages : [5], [6], [7], [8], [9], [10], [11], [12], [13]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

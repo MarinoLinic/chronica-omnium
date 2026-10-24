@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0154",
+  "source": "https://en.wikipedia.org/wiki/Peloponnesian_War",
+  "revisionId": 1370703840,
+  "fetchedAt": "2026-10-24T10:41:10.190Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pelop_war_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pelop_war_en.png/960px-Pelop_war_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pelop_war_en.png/330px-Pelop_war_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pelop_war_en.png",
+      "artist": "Translator was Kenmayer",
+      "credit": "File:Pelop_krieg1.png, originally uploaded to German wikipedia by user Captain Blood",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

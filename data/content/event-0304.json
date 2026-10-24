@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0304",
-  "text": "Immanuel Kant (UK: /kænt/, US: /kɑːnt/, German: ; 22 April 1724 – 12 February 1804) was a German philosopher (a native of the Kingdom of Prussia) and one of the central Enlightenment thinkers. Born in Königsberg, Kant's comprehensive and systematic works in epistemology, metaphysics, ethics, and aesthetics have made him one of the most influential figures in modern Western philosophy.\n\nIn his doctrine of transcendental idealism, Kant argued space and time are mere \"forms of intuition\" that structure all experience and that the objects of experience are mere \"appearances.\" The nature of things as they are in themselves is unknowable to us. In an attempt to counter the philosophical doctrine of skepticism, he wrote the Critique of Pure Reason (1781/1787), his most well-known work. Kant drew a parallel to the Copernican revolution in his proposal to think of the objects of experience as conforming to our spatial and temporal forms of intuition and the categories of our understanding, so that we have a priori cognition of those objects.\n\nKant believed that reason is the source of morality, and that aesthetics arises from a faculty of disinterested judgment. Kant's religious views were deeply connected to his moral theory. Their exact nature, however, remains in dispute. He hoped that perpetual peace could be secured through universal democracy and international cooperation. His cosmopolitan reputation, however, is stained by his promulgation of scientific racism for much of his career, even if he changed those views in the last decade of his life.\n\n",
   "source": "https://en.wikipedia.org/wiki/Immanuel_Kant",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Immanuel Kant",
+  "revisionId": 1381555353,
+  "revisionTimestamp": "2026-10-23T08:30:25Z",
+  "fetchedAt": "2026-10-24T10:42:35.130Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Immanuel Kant (born Emanuel Kant; 22 April 1724 – 12 February 1804) was a German philosopher. Born in Königsberg in the Kingdom of Prussia, he is considered one of the central thinkers of the Enlightenment. His comprehensive and systematic works in epistemology, metaphysics, logic, ethics, aesthetics, political theory, and philosophy of religion have made him one of the most influential and highly discussed figures in modern Western philosophy.\nKant's philosophy is centered on the human subject and motivated by the desire to secure the possibility of both knowledge and morality against the threats of scepticism and determinism. In the Critique of Pure Reason (1781/1787), Kant argues for transcendental idealism, the doctrine that space and time are mere \"forms of intuition\" (German: Anschauung) that structure all experience and that we have knowledge only of \"appearances\" and not of the nature of things in themselves. Kant drew a parallel to the Copernican Revolution in his proposal to think of the objects of experience as conforming to people's spatial and temporal forms of intuition and the categories of the understanding, instead of the traditional method of showing how the mind might conform to its objects.\nKant believed that reason is the source of morality and that the categorical imperative binds all rational agents. He believed that aesthetics arises from a faculty of disinterested judgment. Kant hoped that perpetual peace could be secured through an international federation of republican states and international cooperation. Kant believed that true religion is grounded on morality. The exact nature of his religious views is a matter of dispute."
 }

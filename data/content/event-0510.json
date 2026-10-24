@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0510",
+  "source": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+  "title": "Human Genome Project",
+  "revisionId": 1376331013,
+  "revisionTimestamp": "2026-09-23T14:07:47Z",
+  "fetchedAt": "2026-10-24T10:24:25.442Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Human Genome Project (HGP) was an international scientific research project with the goal of determining the base pairs that make up human DNA, and of identifying, mapping and sequencing all of the genes of the human genome from both a physical and a functional standpoint. It started in 1990 and was completed in 2003. It was the world's largest collaborative biological project. Planning for the project began in 1984 by the US government, and it officially launched in 1990. It was declared complete on 14 April 2003, and included about 92% of the genome. Level \"complete genome\" was achieved in May 2021, with only 0.3% of the bases covered by potential issues. The full gapless sequence containing 22 autosomes and the X chromosome was published in January 2022, making it the first fully sequenced human genome. The full sequence of the Y chromosome was only published in August 2023 due to challenges with sequencing and assembling, caused by its highly repetitive nature.\nFunding came from the US government through the National Institutes of Health (NIH) as well as numerous other groups from around the world. A parallel project was conducted outside the government by the Celera Corporation, or Celera Genomics, which was formally launched in 1998. Most of the government-sponsored sequencing was performed in twenty universities and research centres in the United States, the United Kingdom, Japan, France, Germany, and China, working in the International Human Genome Sequencing Consortium (IHGSC).\nThe Human Genome Project originally aimed to map the complete set of nucleotides contained in a human haploid reference genome, of which there are more than three billion. The genome of any given individual is unique; mapping the human genome involved sequencing samples collected from a small number of individuals and then assembling the sequenced fragments to get a complete sequence for each of the 23 human chromosome pairs (22 pairs of autosomes and a pair of sex chromosomes, known as allosomes). Therefore, the finished human genome is a mosaic, not representing any one individual. Much of the project's utility comes from the fact that the vast majority of the human genome is the same in all humans.\n\n"
+}

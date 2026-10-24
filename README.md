@@ -1,91 +1,97 @@
 # Chronica Omnium
 
-A local historical research catalog and a static React website, from deep time to recent history. The catalog keeps unfinished work alongside dated events. Imported information is preserved; its presence does not mean it has been fact-checked.
+A history of the world, from deep time to the present. A static React reader is built from ordinary local JSON records, attributed article snapshots, and an image cache. Research tools stay under **Tools → Local catalog** (`/catalog`).
 
-## Start locally
+## Run locally
 
-Use Node.js 22 or newer and npm. From this directory:
+Use **Node 24 LTS or newer** and npm. The project’s `.nvmrc` and Linux CI select Node 24; the installed global Node is not changed.
 
 ```powershell
 npm ci
 npm run dev
 ```
 
-Open the loopback URL printed by Vite, normally `http://127.0.0.1:5173`. Choose **Catalog & unfinished records** to create or edit records. The first install needs the package registry. Development, validation, tests, article exports, and production builds use local files and do not fetch Wikipedia.
+Open the printed loopback URL, normally `http://127.0.0.1:5173`. The first installation needs the package registry. Development, validation, tests, reading-copy exports, and production builds do not fetch historical sources.
 
-## Everyday authoring
+## Read and explore
 
-1. Find an existing record in `/catalog`, then choose **Edit locally**. The form includes dates, date meaning, editorial status, descriptions, sources, images, research fields, and place references.
-2. Save. Validation runs before the source changes. The editor retains a backup under `.local/history/`, checks for conflicting edits, and rebuilds public data. The catalog refreshes itself; Preview opens the rebuilt record in a new tab. Refresh other already-open pages after editing.
-3. To add a record, enter an optional title and choose **Create record**. It receives the next permanent ID and starts as an undated `stub`.
-4. Review the sources before changing a record to `ready`. Fetching an article or image never approves its historical claims.
+The chronicle has a compact period picker, previous/next period controls, search, and type/field filters. The list is virtualized and images load lazily in reserved spaces. Hover, focus, or tap a date for elapsed years and approximate **25-year generation equivalents**. These are time comparisons, not genealogical claims. Positive years omit CE; negative years retain BCE.
 
-Unsaved forms retain a draft in the current browser tab's session storage. Reload from disk discards that draft. A stale draft cannot overwrite a file changed by another editor. Reference datasets remain ordinary JSON files; their structure and review rules are explained in [data/README.md](data/README.md).
+Event pages show the article and selected image together after loading. Sources, image credits, revision/retrieval details, text download, and print controls are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 
-People can have several dated periods in one record. Label the primary dates, then use **Add period** for a lifespan, term in office, or active-work interval with its own source. Choose a preferred timeline period without replacing the original dates. Event pages show them together, and timelines can switch between preferred dates, primary dates, lifespan, or all periods. John F. Kennedy is the first sourced example. Other entries retain their existing meaning until reviewed.
+`/timeline` supports horizontal and vertical linear charts, subject grouping or chronological packing, filters, presets, pan/zoom, and full-chart PNG/SVG exports. Context charts use the same SVG/export approach and appear only for populated categories in a useful human-history window. Text lists remain available.
 
-Agents and text-editor users can work directly in `data/events/event-NNNN.json`:
+## Authoring
+
+1. Find an entry in `/catalog` and choose **Edit locally**, or edit `data/events/event-NNNN.json` directly.
+2. Save through the form to validate, retain a backup under `.local/history/`, check for conflicts, and rebuild. The catalog refreshes itself; refresh other open reader pages after edits.
+3. Use **Create record** or the CLI to allocate the next permanent ID. Never reuse or renumber an ID.
+4. Review the evidence before marking a record `ready`. Fetching a summary or image never approves its dates or claims.
 
 ```powershell
 npm run catalog -- find "Rome"
-npm run catalog -- show event-0001
+npm run catalog -- show event-0410
 npm run catalog -- add "A historical event"
 npm run data:build
 npm run check
 ```
 
-IDs are permanent. Existing numeric links such as `/1` remain supported, as do `/event-0001` links. Missing names, dates, and sources are retained as explicit unfinished work. Signed years use `-1` for 1 BCE and `1` for 1 CE, with no year zero. Uncertain date bounds are distinct from durations; an absent end date does not imply an ongoing event.
+Unsaved forms retain a tab-local draft. Reload from disk discards it; a stale draft cannot bypass the source hash check. Existing numeric links such as `/410` and stable links such as `/event-0410` keep working.
 
-## Sources, images, and reading copies
+People can have a lifespan, office terms, and other sourced activity periods. Label the primary interval with `date_label`, add named `periods`, and optionally select `timeline_period`. The timeline can show preferred dates, primary dates, lifespans, or every recorded period. Gaps between office terms remain gaps. Dates use signed integer years with no year zero. A null end means present **only** when `date_kind` is `ongoing`; the reader then resolves it using the viewer’s current year. Built data remains clock independent.
 
-Network enrichment is a separate, explicit command:
+## Explicit research and caching
 
 ```powershell
-npm run sources:sync -- --id 1 --images
+# Stage an attributed source card with intro, nested infobox text, Wikidata ID,
+# revision metadata, and lead-image choices. No dates or approval are assigned.
+npm run research -- --id 410
+npm run research -- --title "A specific Wikipedia article"
+
+# Cache a chosen background article while preserving the authored evidence URL.
+npm run research -- --id 410 --title "John F. Kennedy" --cache
+
+# Cache eligible image bytes; existing text is untouched in images-only mode.
 npm run sources:sync -- --all --images --images-only
 npm run data:build
 ```
 
-Article snapshots retain their own source and revision metadata. Pinned Wikipedia revisions are left for manual review. Automatic image caching accepts only the documented reusable-license subset, records attribution and checksums, and keeps remote fallbacks. Unsupported sources, licenses, and missing files remain visible in reports. A full article refresh is a research operation, not routine maintenance.
+Source cards go to ignored `.local/research/`. `--cache` writes attributed introductions to `data/content/` and lead-image metadata to `data/enrichment/`. Infobox values are proposals to inspect, not normalized historical facts. Check redirects, article scope, calendar, precision, qualifiers, and references. Pinned `oldid` sources are never replaced automatically.
+
+An authored `image` is a deliberate choice and takes precedence. Otherwise the reader uses the stored Wikipedia lead image. Clear the image field to return to that stored choice. It hotlinks a sized remote image first and retains the original and attributed local cache as fallbacks. The explicit cache command downloads only recognized reusable licenses; external hosts, unsupported licenses, and failures stay in reports. Builds never refresh images. The site’s system fonts work offline; maps load external OpenStreetMap tiles only when requested.
 
 ```powershell
-npm run content:export -- --id 1
-npm run content:export -- --id 1 --html
+npm run content:export -- --id 410
+npm run content:export -- --id 410 --html
 ```
 
-Reading copies go to `.local/exports/`. The HTML copy works offline and offers browser **Print / Save as PDF**. Event pages also provide text download and print. Cached images load locally first; remote fallbacks and explicitly requested OpenStreetMap tiles can use the network.
+Reading copies go to `.local/exports/`. HTML works offline and offers Print / Save as PDF. Cached source text and image bytes remain available independently of Wikipedia’s availability.
 
-## Timelines and checks
-
-`/timeline` has horizontal and vertical linear timelines, date presets, pan/zoom, filters, keyboard-scrollable chart regions, and text links. URLs retain the chosen window and filters. PNG and SVG exports include the full filtered chart. PNG dimensions are bounded to protect browser memory; SVG preserves full resolution for crowded windows. Event pages load context charts on demand and can export those charts as PNG.
+## Checks and repository guide
 
 ```powershell
-npm run check         # offline preparation, tests, then production build
-npm run dev -- --port 5173
-npm run editor:check  # against the running local server; restores its test edit
-npm run preview      # inspect the generated dist/ website
+npm run check          # offline data preparation, tests, production build
+npm run editor:check   # against a dev server on port 5173; restores its test edit
+npm run preview       # inspect dist/
 npm audit
 ```
 
-The compiler rejects structural errors and emits research warnings in `data/reports/validation.json`. The suite checks archive preservation, IDs, dates, references, snapshots, image signatures, timeline layout, writer locking, and repeated offline builds. CI uses Node 22 on Linux; see [.github/workflows/validate.yml](.github/workflows/validate.yml). Local verification and its limits are recorded in [docs/HANDOFF.md](docs/HANDOFF.md).
-
-All supplied writer commands share `.local/catalog.lock`, including the complete production build. A conflicting command fails clearly and can be retried. Do not start `vite build` directly or manually edit source files while another writer is running. Locks from exited processes are retained as abandoned-lock evidence and recovered automatically. Do not remove a live lock.
-
-## Repository guide
+All supplied writers share `.local/catalog.lock`, including the full production build. Conflicting commands fail clearly; wait and retry. Do not invoke `vite build` directly, remove a live lock, or edit source records while another writer is running. OneDrive file holds get bounded atomic-write retries.
 
 | Location | Purpose |
 | --- | --- |
-| `data/events/` | Authored records, one permanent ID per file |
-| `data/content/` | Cached article text and provenance |
-| `data/reference/` | Places, countries, and time scales |
+| `data/events/` | Authored records with permanent IDs |
+| `data/content/` | Cached article introductions and provenance |
+| `data/enrichment/` | Wikipedia lead-image metadata; authored choices override it |
+| `data/reference/` | Independent places, countries, and time scales |
 | `data/media/manifest.json`, `public/media/` | Attributed local image cache |
-| `data/reports/` | Validation, latest source run, and complete image reconciliation |
-| `scripts/` | Current offline compiler, authoring CLI, local editor, source sync, and reading exports |
-| `src/` | Static React reader, catalog, and charts |
-| `src/generated/`, `public/data/`, `dist/` | Generated output; do not hand-edit |
-| `src/resources/` | Preserved original spreadsheet-era files and scripts |
-| `.local/` | Ignored backups, exports, and QA evidence; never a publishing directory |
+| `data/reports/` | Validation, source runs, image reconciliation, research evidence |
+| `scripts/` | Offline compiler, editor, CLI, explicit research and exports |
+| `src/styles/reader.css` | Shared public-reader theme and responsive layout |
+| `src/generated/`, `public/data/`, `dist/` | Generated output; never edit manually |
+| `src/resources/` | Untouched original exports, scripts, images, and backups |
+| `.local/` | Ignored backups, source cards, exports, and QA evidence |
 
-The archived JSON and its per-row hashes are recorded in `data/migration.json`. Do not rerun migration, renumber records, or use the archival Python scripts against the new catalog. Keep all original files, including incomplete records and legacy geocoder output. Old geocodes are quarantined until references are independently reviewed.
+All 574 original IDs and archive contents are preserved. Archive checks account for Git’s LF/CRLF checkout conversion and still verify every original record hash. Read [AGENTS.md](AGENTS.md), [data/README.md](data/README.md), and [docs/HANDOFF.md](docs/HANDOFF.md) before changing the workflow. [Research notes](docs/RESEARCH.md) distinguish researched corrections from unresolved historical questions.
 
-Read [AGENTS.md](AGENTS.md) before changing the workflow. [Architecture decisions](docs/DECISIONS.md) explain the local/static approach. [Research queue](docs/RESEARCH.md) distinguishes unfinished source work from engineering. Deployment troubleshooting, visual redesign, and annual historical map layers remain separate future work.
+Deployment troubleshooting and annual historical map layers remain separate work. No account, deployment, or backend change is part of this overhaul.

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0335",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+  "revisionId": 1381361637,
+  "fetchedAt": "2026-10-24T10:43:02.622Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/960px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
+      "artist": "Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke",
+      "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID cph.3c05139.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

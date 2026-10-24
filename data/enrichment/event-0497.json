@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0497",
+  "source": "https://en.wikipedia.org/wiki/Wright_brothers",
+  "revisionId": 1380109954,
+  "fetchedAt": "2026-10-24T10:24:16.447Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/960px-Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/330px-Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Orville_Wright_1905-crop.jpg",
+      "artist": "Orville Wright and Wilbur Wright (credited as photographers) [1], [2]",
+      "credit": "Library of Congress",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

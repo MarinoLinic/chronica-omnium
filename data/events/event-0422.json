@@ -5,10 +5,10 @@
   "slug": "eliezer-yudkowsky",
   "status": "review",
   "name": "Eliezer Yudkowsky",
-  "short_desc": null,
+  "short_desc": "Eliezer Shlomo Yudkowsky ( EL-ee-EH-zər yuud-KOW-skee; born September 11, 1979) is an American artificial intelligence researcher and writer on decision theory and ethics, known for popularizing ideas related to friendly artificial intelligence.",
   "long_desc": null,
   "start": 1979,
-  "end": 2023,
+  "end": null,
   "location": "United States",
   "type": "Person",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "ongoing",
+  "date_note": "No death is recorded in the checked source on 24 October 2026. Present is resolved from the viewer’s current year.",
   "places": [
     "place-49dca65f362f"
   ],
@@ -67,5 +67,6 @@
         -100.445882
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

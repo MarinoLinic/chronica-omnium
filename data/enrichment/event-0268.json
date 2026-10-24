@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0268",
+  "source": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+  "revisionId": 1381306053,
+  "fetchedAt": "2026-10-24T10:42:13.022Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_Sir_Isaac_Newton%2C_1689_%28head_shot_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portrait_of_Sir_Isaac_Newton%2C_1689_%28head_shot_crop%29.jpg/960px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28head_shot_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portrait_of_Sir_Isaac_Newton%2C_1689_%28head_shot_crop%29.jpg/330px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28head_shot_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(head_shot_crop).jpg",
+      "artist": "Godfrey Kneller",
+      "credit": "This image has been extracted from another file",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

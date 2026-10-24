@@ -7,7 +7,11 @@ const entries = await loadCatalog(), refs = await loadReferences()
 const original = await json(at('src/resources/World_History.json'))
 test('original archive is unchanged and every migrated stable ID remains present', async () => {
   const migration = await json(at('data/migration.json'))
-  assert.equal(hash(await readFile(at(migration.source))), migration.sourceSha256)
+  // Git may check text out as CRLF on Windows and LF on Linux.
+  // Check both the complete normalized file and every archived record below.
+  const archive = await readFile(at(migration.source), 'utf8')
+  assert.equal(hash(archive.replaceAll('\r\n', '\n')), migration.sourceLfSha256)
+  assert.ok([migration.sourceSha256, migration.sourceLfSha256].includes(hash(archive)))
   assert.equal(migration.count, 574)
   for (const before of original) {
     const after = entries.find(e => e.record.id_num === before.id_num)?.record

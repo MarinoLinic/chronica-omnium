@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0496",
+  "source": "https://en.wikipedia.org/wiki/History_of_radio",
+  "title": "History of radio",
+  "revisionId": 1380374098,
+  "revisionTimestamp": "2026-10-15T10:31:56Z",
+  "fetchedAt": "2026-10-24T10:24:15.418Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The history of radio had many contributors, beginning with the scientific discovery of electromagnetic radiation (radio waves) in the late 1800s, followed by technological development of improved devices for producing and receiving transmissions.\nRadio was at first employed for \"wireless telegraphy\", using on-off signaling such as Morse code, initially for private point-to-point communication. The invention in the early 1900s of devices capable of audio transmissions greatly increased its utility, most prominently with the introduction of broadcasting to a widespread, non-technical, audience."
+}

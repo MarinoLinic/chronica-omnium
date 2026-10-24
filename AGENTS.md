@@ -5,7 +5,7 @@ Read `README.md`, `data/README.md`, and `docs/HANDOFF.md` before changing the wo
 ## Source of truth
 
 - Edit `data/events/event-NNNN.json`. IDs are permanent. Never derive them from row order, titles, sorting, or array positions. Existing numeric URLs must keep working.
-- `data/content/` holds cached Wikipedia text with its provenance. `data/reference/` holds independently reusable places, countries, and time scales. `data/media/manifest.json` connects attributed local assets in `public/media/` to events.
+- `data/content/` holds cached Wikipedia text with its provenance. `data/enrichment/` holds attributed lead-image choices and sizes; these never override an authored image. `data/reference/` holds independently reusable places, countries, and time scales. `data/media/manifest.json` connects attributed local assets in `public/media/` to events.
 - Never edit `src/generated/` or `public/data/`; `npm run data:build` regenerates them offline. Do not put original spreadsheet exports back into the publishing path.
 - Preserve all legacy files in `src/resources/`, including CSV, XLSX, JSON, backup, scripts, and images. `data/migration.json` records the original JSON checksum. Legacy Python scripts are archival and are not the current build pipeline.
 - `.local/` is ignored working storage: editor backups, source history, exports, and QA evidence. It must never become a public asset directory. Do not delete user material to tidy the repository.
@@ -14,14 +14,15 @@ Read `README.md`, `data/README.md`, and `docs/HANDOFF.md` before changing the wo
 
 - Missing information is `null` or an explicit empty list. Keep unnamed, undated, and unfinished records. Do not invent dates, descriptions, countries, or citations to satisfy validation.
 - `stub` means unfinished; `review` means imported or needing checks; `ready` means a human/agent has reviewed the sources. Importing or fetching content does not make a record ready.
-- Signed historical years: `-1` is 1 BCE, `1` is 1 CE, no year zero. Use shared date helpers. The original year-zero value in event 179 is retained in `legacy.originalStart`; its authored date awaits review.
-- `date_kind` distinguishes points, spans, uncertain bounds, and ongoing spans. Never describe an uncertainty interval as an event's duration. `null` end is not automatically present-day.
+- Signed historical years: `-1` is 1 BCE, `1` is 1 CE, no year zero. Use shared date helpers. The original year-zero value in event 179 is retained in `legacy.originalStart`; its authored first-century origins window is explicitly approximate.
+- `date_kind` distinguishes points, spans, uncertain bounds, and ongoing spans. Never describe an uncertainty interval as an event's duration. `null` end is not automatically present-day. Ongoing spans keep a null end in authored/generated files and resolve to the viewer's current year in the reader. Scientific BP ages retain their fixed reference; date tooltips are separate viewer-relative comparisons.
 - A record may have optional named `periods` for lifespan, office terms, active work, or another sourced interval. Keep the original primary dates and their meaning; use `date_label` and `timeline_period` deliberately. Period IDs are stable within the record. Never infer career dates or silently turn an imported office term into a lifespan. All-period charts must count periods separately from unique records and retain the original event links.
 - Legacy geocodes are untrusted evidence. Only reviewed place references with a source can supply map coordinates. Do not geocode vague labels or split compound historical labels into modern countries automatically.
+- A Wikipedia infobox, redirect, introductory extract, or lead image is research material, not automatic factual approval. Review article identity, date precision, qualifiers and scope. Keep speculative scenarios and concepts undated when no defensible absolute date exists.
 - Time scales retain legacy boundaries pending source review. Human periods are regional conventions. Do not quietly rewrite scientific or historical boundaries, resolve overlaps, or claim the lists are authoritative.
 - Keep authored source URLs separate from cached article provenance. Respect pinned Wikipedia `oldid` URLs. Never replace a pinned source with today's text silently.
-- Network enrichment is explicit: use `sources:sync`. Ordinary development, tests, and production builds must not fetch Wikipedia or run geocoders.
-- Retain image license, artist, credit, attribution, source, retrieval time, and checksum. Cache only supported reusable licenses automatically; keep failures visible in reports. Prefer small local assets and preserve remote fallbacks.
+- Network enrichment is explicit: use `research` for attributed source cards/lead images and `sources:sync` for source or image-byte caching. Ordinary development, tests, and production builds must not fetch Wikipedia or run geocoders.
+- Retain image license, artist, credit, attribution, source, retrieval time, and checksum. Cache only supported reusable licenses automatically; keep failures visible in reports. The public reader hotlinks sized remote images first and retains attributed local fallbacks. An authored image is a deliberate choice; a fetched Wikipedia lead image supplies only a missing choice. Never replace custom images in bulk.
 
 ## Changes and checks
 
@@ -33,3 +34,5 @@ Read `README.md`, `data/README.md`, and `docs/HANDOFF.md` before changing the wo
 6. Update the nearest README or `docs/HANDOFF.md` with meaningful workflow changes, evidence, remaining problems, and exact commands. Do not put transient logs or unverified claims into durable guidance.
 
 Deployment troubleshooting and annual historical map layers remain separate future work. Do not deploy, change accounts, or add a backend as an incidental part of maintenance.
+
+Public-reader conventions: keep authoring/review status and retrieval metadata in Tools or closed Sources disclosures. Keep historically meaningful uncertainty visible beside the dates. Use shared system-font/theme tokens in `src/styles/reader.css`, shared date helpers, and native SVG charts/export helpers. Reserve list-image space and preload a detail image before replacing an already displayed story. Test period navigation and Back to top with the virtual list; do not issue competing native and virtualizer scroll commands.

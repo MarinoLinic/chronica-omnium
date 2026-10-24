@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0022",
+  "source": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+  "revisionId": 1381432928,
+  "fetchedAt": "2026-10-24T10:40:30.504Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Extinction_intensity.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Extinction_intensity.svg/960px-Extinction_intensity.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Extinction_intensity.svg/330px-Extinction_intensity.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Extinction_intensity.svg",
+      "artist": "",
+      "credit": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

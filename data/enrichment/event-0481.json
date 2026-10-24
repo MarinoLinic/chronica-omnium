@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0481",
+  "source": "https://en.wikipedia.org/wiki/Mercantilism",
+  "revisionId": 1380696374,
+  "fetchedAt": "2026-10-24T10:24:06.421Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg/960px-F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg/330px-F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:F0087_Louvre_Gellee_port_au_soleil_couchant-_INV4715_rwk.jpg",
+      "artist": "Claude Lorrain",
+      "credit": "Mbzt",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

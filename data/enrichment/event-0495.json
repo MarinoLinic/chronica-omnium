@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0495",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+  "revisionId": 1379405742,
+  "fetchedAt": "2026-10-24T10:24:14.738Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Thomas_Savery.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Thomas_Savery.gif/960px-Thomas_Savery.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Thomas_Savery.gif/330px-Thomas_Savery.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Savery.gif",
+      "artist": "Unknown authorUnknown author",
+      "credit": "http://www.history.rochester.edu/steam/thurston/1878/Chapter1.html\nhttp://www.moah.org/steam/steam.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

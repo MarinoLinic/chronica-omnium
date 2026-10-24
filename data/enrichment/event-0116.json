@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0116",
+  "source": "https://en.wikipedia.org/wiki/Phoenicia",
+  "revisionId": 1380733179,
+  "fetchedAt": "2026-10-24T10:40:48.063Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Phoenicia_map-en.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Phoenicia_map-en.svg/960px-Phoenicia_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Phoenicia_map-en.svg/330px-Phoenicia_map-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Phoenicia_map-en.svg",
+      "artist": "Kordas, based on Alvaro's work",
+      "credit": "This map",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

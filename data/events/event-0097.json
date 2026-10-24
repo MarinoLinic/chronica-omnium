@@ -13,7 +13,7 @@
   "type": "Event",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Potter's_wheel",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Hand_positions_used_during_wheel-throwing_pottery.png/1920px-Hand_positions_used_during_wheel-throwing_pottery.png",
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-cba3ee736d57"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "potters-wheel",
     "Unnamed: 30": null,

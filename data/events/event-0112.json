@@ -5,7 +5,7 @@
   "slug": "minoan-greece",
   "status": "review",
   "name": "Minoan Greece",
-  "short_desc": null,
+  "short_desc": "The Minoan civilization was a Bronze Age culture centered on the island of Crete.",
   "long_desc": "Minoan Greece",
   "start": -2700,
   "end": -1450,
@@ -13,7 +13,7 @@
   "type": "Unit",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Minoan_civilization",
   "image": "https://i.imgur.com/1xhMsws.jpg ",
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-9c93ad439373"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "minoan-greece",
     "Unnamed: 30": null,

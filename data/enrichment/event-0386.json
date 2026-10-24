@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0386",
+  "source": "https://en.wikipedia.org/wiki/Fidel_Castro",
+  "revisionId": 1381705816,
+  "fetchedAt": "2026-10-24T10:43:38.241Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fidel_Castro_1950s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fidel_Castro_1950s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Fidel_Castro_1950s_%28cropped%29.jpg/330px-Fidel_Castro_1950s_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fidel_Castro_1950s_(cropped).jpg",
+      "artist": "Unknown (Mondadori Publishers)",
+      "credit": "[1]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

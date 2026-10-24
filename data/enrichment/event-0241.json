@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0241",
+  "source": "https://en.wikipedia.org/wiki/Renaissance_music",
+  "revisionId": 1370830792,
+  "fetchedAt": "2026-10-24T10:41:48.365Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/The_Concert_A22894.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Concert_A22894.jpg/960px-The_Concert_A22894.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/The_Concert_A22894.jpg/330px-The_Concert_A22894.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Concert_A22894.jpg",
+      "artist": "Gerard van Honthorst",
+      "credit": "National Gallery of Art, Washington, D. C., online collection",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

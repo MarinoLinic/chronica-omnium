@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0209",
+  "source": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+  "revisionId": 1381544341,
+  "fetchedAt": "2026-10-24T10:41:29.621Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Umayyad_Caliphate_740-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Umayyad_Caliphate_740-en.png/960px-Umayyad_Caliphate_740-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Umayyad_Caliphate_740-en.png/330px-Umayyad_Caliphate_740-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Umayyad_Caliphate_740-en.png",
+      "artist": "Ahmed.Mhdv",
+      "credit": "This file was derived from:  Caliphate 740-en.svg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

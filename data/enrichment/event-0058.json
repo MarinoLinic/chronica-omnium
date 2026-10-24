@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0058",
+  "source": "https://en.wikipedia.org/wiki/Cro-Magnon",
+  "revisionId": 1381362746,
+  "fetchedAt": "2026-10-24T10:40:33.499Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Map_of_human_fossils_with_an_age_of_at_least_~40%2C000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Map_of_human_fossils_with_an_age_of_at_least_~40%2C000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp/960px-Map_of_human_fossils_with_an_age_of_at_least_~40%2C000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Map_of_human_fossils_with_an_age_of_at_least_~40%2C000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp/330px-Map_of_human_fossils_with_an_age_of_at_least_~40%2C000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_human_fossils_with_an_age_of_at_least_~40,000_years_that_yielded_genome-wide_data_and_location_of_the_Zlat%C3%BD_k%C5%AF%C5%88_fossil.webp",
+      "artist": "Authors of the study: Kay Prüfer, Cosimo Posth, He Yu, Alexander Stoessel, Maria A. Spyrou, Thibaut Deviese, Marco Mattonai, Erika Ribechini, Thomas Higham, Petr Velemínský, Jaroslav Brůžek & Johannes Krause",
+      "credit": "A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia\nProvided under CC BY 4.0:\nRights and permissions\n\nOpen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

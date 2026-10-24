@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0459",
+  "source": "https://en.wikipedia.org/wiki/Korean_War",
+  "revisionId": 1381005552,
+  "fetchedAt": "2026-10-24T10:23:48.733Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/960px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Chosin.jpg",
+      "artist": "Photo by Corporal Peter McDonald, USMC",
+      "credit": "[1] (originally uploaded to en.wiki by Raul654)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

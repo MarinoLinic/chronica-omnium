@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0352",
+  "source": "https://en.wikipedia.org/wiki/Ludwig_von_Mises",
+  "revisionId": 1380592896,
+  "fetchedAt": "2026-10-24T10:43:13.594Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ludwig_von_Mises_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ludwig_von_Mises_%283x4_cropped%29.jpg/960px-Ludwig_von_Mises_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Ludwig_von_Mises_%283x4_cropped%29.jpg/330px-Ludwig_von_Mises_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ludwig_von_Mises_(3x4_cropped).jpg",
+      "artist": "Ludwig von Mises Institute",
+      "credit": "Ludwig von Mises Institute. Originally from en.wikipedia; description page is/was here. Original uploader was DickClarkMises at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

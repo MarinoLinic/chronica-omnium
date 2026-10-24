@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0492",
+  "source": "https://en.wikipedia.org/wiki/Windmill",
+  "title": "Windmill",
+  "revisionId": 1381332220,
+  "revisionTimestamp": "2026-10-21T18:00:25Z",
+  "fetchedAt": "2026-10-24T10:24:13.048Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "A windmill is a machine operated by the force of wind acting on vanes or sails to mill grain (gristmills). Windmills were used throughout the high medieval and early modern periods; the horizontal or panemone windmill first appeared in Persia during the 9th century, and the vertical windmill first appeared in northwestern Europe in the 12th century.\n\n"
+}

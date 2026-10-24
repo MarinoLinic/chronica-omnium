@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0486",
+  "source": "https://en.wikipedia.org/wiki/History_of_the_telescope",
+  "revisionId": 1381008920,
+  "fetchedAt": "2026-10-24T10:24:09.195Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Emblemata_1624.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblemata_1624.jpg/960px-Emblemata_1624.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Emblemata_1624.jpg/330px-Emblemata_1624.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Emblemata_1624.jpg",
+      "artist": "Adriaen van de Venne",
+      "credit": "http://www.phys.uu.nl/~vgent/telescope/telescopenl.htm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0258",
+  "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+  "revisionId": 1381677968,
+  "fetchedAt": "2026-10-24T10:42:07.055Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/960px-Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/330px-Luther_95_Thesen.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Luther_95_Thesen.png",
+      "artist": "Martin Luther",
+      "credit": "http://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN644115580&PHYSID=PHYS_0001",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

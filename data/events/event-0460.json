@@ -3,23 +3,23 @@
   "id": "event-0460",
   "id_num": 460,
   "slug": "george-orwell",
-  "status": "stub",
+  "status": "review",
   "name": "George Orwell",
-  "short_desc": null,
+  "short_desc": "Eric Arthur Blair (25 June 1903 – 21 January 1950) was an English novelist, poet, essayist, journalist, and critic who wrote under the pen name of George Orwell.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1903,
+  "end": 1950,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/George_Orwell",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

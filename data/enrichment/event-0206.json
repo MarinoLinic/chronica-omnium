@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0206",
+  "source": "https://en.wikipedia.org/wiki/History_of_Islam",
+  "revisionId": 1381385005,
+  "fetchedAt": "2026-10-24T10:41:27.341Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Icon-religion.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Icon-religion.svg/960px-Icon-religion.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Icon-religion.svg/330px-Icon-religion.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Icon-religion.svg",
+      "artist": "Nancystodd",
+      "credit": "Own work; svg version of png file , composed by Shiva.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

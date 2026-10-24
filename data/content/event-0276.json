@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0276",
-  "text": "The Baroque guitar (c. 1600–1750) is a string instrument with five courses of gut strings and moveable gut frets. The first (highest pitched) course sometimes used only a single string.\n\n",
   "source": "https://en.wikipedia.org/wiki/Baroque_guitar",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Baroque guitar",
+  "revisionId": 1377312666,
+  "revisionTimestamp": "2026-09-28T21:17:57Z",
+  "fetchedAt": "2026-10-24T10:42:17.930Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Baroque guitar (c. 1600–1750) is a string instrument with five courses of gut strings and moveable gut frets. The first (highest pitched) course sometimes used only a single string."
 }

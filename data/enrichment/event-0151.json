@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0151",
+  "source": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+  "revisionId": 1380112224,
+  "fetchedAt": "2026-10-24T10:41:07.999Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Greek-Persian_duel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Greek-Persian_duel_1.jpg/960px-Greek-Persian_duel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Greek-Persian_duel_1.jpg/330px-Greek-Persian_duel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Greek-Persian_duel_1.jpg",
+      "artist": "Unknown",
+      "credit": "https://commons.wikimedia.org/wiki/File:Greek-Persian_duel.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

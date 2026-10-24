@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0235",
+  "source": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+  "revisionId": 1380557792,
+  "fetchedAt": "2026-10-24T10:41:45.090Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/960px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/330px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Ottoman_Empire_(1844%E2%80%931922).svg",
+      "artist": "User:Orwellianist",
+      "credit": "File:German soldiers celebrate Christmas in Ottoman Empire during WW1.jpg\nFile:Nordenfelt submarine Abdülhamid.jpg Ottoman submarine Abdülhamid (1886)\nFile:Declaration of the 1908 Revolution in Ottoman Empire.png Photo from 1908\nhttp://www.tayyareci.com/digerucaklar/turkiye/preww1/Bleriot%20XI%20b%20TuAF.jpg - Photo from 1912\nhttp://www.manorhouse.clara.net/book2/chapter18.htm (image), alternative link - Photo from 1914\nhttp://www.manorhouse.clara.net/book2/chapter21.htm image - Photo from 1914\nFile:SultanahmetMitingi.jpg Photo from 1919\nhttp://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd12.jpg - Photo from 1915\nhttp://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd2.jpg - Photo from 1915\nhttp://www.tayyareci.com/digerucaklar/turkiye/ww1/gothawd13.jpg - Photo from 1915\nhttp://www.tayyareci.com/digerucaklar/turkiye/ww1/sakir_feyzi_resimleri2.jpg - Photo from 1915\nhttp://www.tayyareci.com/digerucaklar/turkiye/ww1/S.P.A.D13.JPG - Photo from 1918\nhttp://www.tayyareci.com/digerucaklar/turkiye/kurtulus/fiat-r2.jpg - Photo from 1920\nhttp://www.tayyareci.com/digerucaklar/turkiye/kurtulus/breguet14b2.jpg - Photo from 1922\nhttp://www.tayyareci.com/digerucaklar/turkiye/kurtulus/nieuport27-2.jpg - Photo from 1922\nFile:Bundesarchiv Bild 146-2005-0086, Kaiser Wilhelm II in Konstantinopel.jpg\nFile:Ceremony to decolate the flag of 27th Regiment with Imtiyaz Medals.jpg\nFile:Ottoman troops with flag.jpg\nFile:Ottoman Navy at the Golden Horn.jpg - Postcard from 1914\nhttp://www.osmanzengin.com/ESKi__iSTANBUL/kararkoy02.jpg - Postcard from 1920\nhttp://www.osmanzengin.com/ESKi__iSTANBUL/tepebasi.jpg - Postcard from 1920\nhttp://www.vicmart.com/ext/en/exrw/item=1416 - Ottoman medal from 1850\nFile:Aff_ciwl_orient_express4_jw.jpg - 1888-1889 season timetable of the Orient Express\nFile:Ottoman conquests.jpg - Ottoman map from 1914",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

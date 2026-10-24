@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0495",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Savery",
+  "title": "Thomas Savery",
+  "revisionId": 1379405742,
+  "revisionTimestamp": "2026-10-09T20:33:30Z",
+  "fetchedAt": "2026-10-24T10:24:14.738Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Thomas Savery (; c. 1650 – 15 May 1715) was an English inventor and engineer. He invented the first commercially used steam-powered device, a steam pump which is often referred to as the \"Savery engine\". Savery's steam pump was a revolutionary method of pumping water, which improved mine drainage and made widespread public water supply practicable."
+}

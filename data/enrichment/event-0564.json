@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0564",
+  "source": "https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek",
+  "revisionId": 1379872855,
+  "fetchedAt": "2026-10-24T10:25:06.797Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slavoj_%C5%BDi%C5%BEek-5229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Slavoj_%C5%BDi%C5%BEek-5229.jpg/960px-Slavoj_%C5%BDi%C5%BEek-5229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Slavoj_%C5%BDi%C5%BEek-5229.jpg/330px-Slavoj_%C5%BDi%C5%BEek-5229.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Slavoj_%C5%BDi%C5%BEek-5229.jpg",
+      "artist": "Harald Krichel",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Harald Krichel / WikiPortraits"
+    }
+  }
+}

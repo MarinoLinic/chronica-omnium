@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0360",
+  "source": "https://en.wikipedia.org/wiki/Expressionist_music",
+  "revisionId": 1373058024,
+  "fetchedAt": "2026-10-24T10:43:18.317Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Arnold_Schoenberg_la_1948.jpg/330px-Arnold_Schoenberg_la_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Arnold_Schoenberg_la_1948.jpg",
+      "artist": "Florence Homolka",
+      "credit": "Source of photo was the Schoenberg Archives at USC.[dead link] The archive grants permission to publish this image, provided that the photographer is credited. [dead link]",
+      "license": "Attribution",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

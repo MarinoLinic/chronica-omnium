@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0198",
+  "source": "https://en.wikipedia.org/wiki/Julius_Nepos",
+  "revisionId": 1380311125,
+  "fetchedAt": "2026-10-24T10:41:24.053Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Solidus_of_Julius_Nepos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Solidus_of_Julius_Nepos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Solidus_of_Julius_Nepos.png/330px-Solidus_of_Julius_Nepos.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Solidus_of_Julius_Nepos.png",
+      "artist": "CNG Coins",
+      "credit": "CNG Coins",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "attribution": "Classical Numismatic Group, Inc. http://www.cngcoins.com"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0394",
+  "source": "https://en.wikipedia.org/wiki/New_Deal",
+  "revisionId": 1381193279,
+  "fetchedAt": "2026-10-24T10:43:42.943Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/New_Deal_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Deal_collage.jpg/960px-New_Deal_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/New_Deal_collage.jpg/330px-New_Deal_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:New_Deal_collage.jpg",
+      "artist": "LordHarris at English Wikipedia",
+      "credit": "Top left: (from here)\nTop right:(from here)\nBottom:(from here).\nTransferred from en.wikipedia to Commons by Pass3456.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

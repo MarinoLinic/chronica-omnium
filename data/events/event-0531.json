@@ -3,23 +3,23 @@
   "id": "event-0531",
   "id_num": 531,
   "slug": "chechnian-war",
-  "status": "stub",
-  "name": "Chechnian war",
-  "short_desc": null,
+  "status": "review",
+  "name": "Chechen Wars",
+  "short_desc": "The first war between Russian federal forces and the Chechen Republic of Ichkeria ended with the Khasavyurt Accord in 1996.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1994,
+  "end": 1996,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "War",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/First_Chechen_War",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Two distinct wars, not a continuous 1994–2009 bar. Primary dates: First Chechen War (1994–1996). Use all periods to compare the second war (1999–2009).",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,18 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "First Chechen War",
+  "periods": [
+    {
+      "id": "second-war",
+      "label": "Second Chechen War",
+      "kind": "other",
+      "start": 1999,
+      "end": 2009,
+      "date_kind": "span",
+      "date_note": "Conventionally through the end of the Russian counterterrorism operation in April 2009; insurgency continued afterwards.",
+      "source": "https://en.wikipedia.org/wiki/Second_Chechen_War"
+    }
+  ]
 }

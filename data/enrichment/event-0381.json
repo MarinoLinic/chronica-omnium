@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0381",
+  "source": "https://en.wikipedia.org/wiki/Roaring_Twenties",
+  "revisionId": 1379977182,
+  "fetchedAt": "2026-10-24T10:43:34.101Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Baker_Charleston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Baker_Charleston.jpg/960px-Baker_Charleston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Baker_Charleston.jpg/330px-Baker_Charleston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Baker_Charleston.jpg",
+      "artist": "Walery, Polish-British, 1863-1929",
+      "credit": "http://estonia.usembassy.gov/dancepost.pdf  https://web.archive.org/web/20050531161113/https://estonia.usembassy.gov/dancepost.pdf",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

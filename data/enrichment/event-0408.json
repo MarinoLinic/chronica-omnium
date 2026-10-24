@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0408",
+  "source": "https://en.wikipedia.org/wiki/Atlas_Shrugged",
+  "revisionId": 1376931328,
+  "fetchedAt": "2026-10-24T10:43:51.025Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg/960px-Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg/330px-Atlas_Shrugged_%281957_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Atlas_Shrugged_(1957_1st_ed)_-_Ayn_Rand.jpg",
+      "artist": "Published by Random House. Jacket design by George Salter.",
+      "credit": "Scan via Heritage Auctions Lot #36334. Cropped from the original image.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

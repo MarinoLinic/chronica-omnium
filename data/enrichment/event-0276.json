@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0276",
+  "source": "https://en.wikipedia.org/wiki/Baroque_guitar",
+  "revisionId": 1377312666,
+  "fetchedAt": "2026-10-24T10:42:17.930Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Guitar_MET_DP232758.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Guitar_MET_DP232758.jpg/960px-Guitar_MET_DP232758.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Guitar_MET_DP232758.jpg/330px-Guitar_MET_DP232758.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Guitar_MET_DP232758.jpg",
+      "artist": "Creator:Matteo Sellas",
+      "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

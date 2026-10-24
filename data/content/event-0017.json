@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0017",
-  "text": "Sarcopterygii (/ˌsɑːrkɒptəˈrɪdʒi.aɪ/; from Ancient Greek  σάρξ (sárx) 'flesh', and  πτέρυξ (ptérux) 'wing, fins') — sometimes considered synonymous with Crossopterygii (from Ancient Greek  κροσσός (krossós) 'fringe') — is a taxon (traditionally a class or subclass) of the bony fishes known as the lobe-finned fishes. The group Tetrapoda, a mostly terrestrial superclass including amphibians, sauropsids (reptiles, including dinosaurs and therefore birds) and synapsids (with mammals being the only extant group), evolved from certain sarcopterygians; under a cladistic view, tetrapods are themselves considered a subgroup within Sarcopterygii.\n\nThe known extant non-tetrapod sarcopterygians include two species of coelacanths and six species of lungfishes.\n\n",
   "source": "https://en.wikipedia.org/wiki/Sarcopterygii",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Sarcopterygii",
+  "revisionId": 1369315573,
+  "revisionTimestamp": "2026-08-14T06:28:18Z",
+  "fetchedAt": "2026-10-24T10:40:28.955Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sarcopterygii (; from Ancient Greek  σάρξ (sárx) 'flesh' and  πτέρυξ (ptérux) 'wing, fin') is a clade (traditionally a class or subclass) of vertebrate animals which includes a group of bony fishes and all four legged land animals, including humans. The common name for this clade is lobe-finned fish. \nLobe-finned fish have muscular limb buds (lobes) within their fins, which are supported by  appendicular skeletons. This is in contrast to the other clade of bony fishes, the Actinopterygii, which have only skin-covered bony spines supporting the fins.\nSarcopterygii emerged in the Silurian and early Devonian periods consisting entirely of aquatic species, but today the vast majority of its species are land animals called tetrapods. This mostly terrestrial clade of vertebrates are now recognized as having evolved from sarcopterygian ancestors and are most closely related to lungfishes. The lobed fins evolved into limbs, and foregut diverticulum eventually evolved into air-breathing lungs. These changes made it possible for tetrapods to explore and eventually permeate terrestrial ecosystems. While it is technically correct to include tetrapod species with Sarcopterygii, the phrase \"lobe-finned fish\" normally refers to the aquatic species that are not tetrapods.\nMost species of lobe-finned fish are now extinct, but during the Carboniferous and Permian periods these non-tetrapod sarcopterygians were dominant predators of freshwater ecosystems. The entire clade suffered significant decline after the Permian–Triassic extinction event known as the Great Dying.  It is estimated that at least two thirds of tetrapod species went extinct during this time. The lobe-finned fish were hit even harder. Today, the only living non-tetrapod sarcopterygians are the two species of coelacanths and six species of lungfishes."
 }

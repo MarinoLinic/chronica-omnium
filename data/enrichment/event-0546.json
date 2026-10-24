@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0546",
+  "source": "https://en.wikipedia.org/wiki/Future_of_Earth",
+  "revisionId": 1380629720,
+  "fetchedAt": "2026-10-24T10:44:34.077Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_Giant_Earth_warm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_Giant_Earth_warm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Red_Giant_Earth_warm.jpg/330px-Red_Giant_Earth_warm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Giant_Earth_warm.jpg",
+      "artist": "Celestia",
+      "credit": "This  image was created with Celestia.This file was derived from:  Red Giant Earth.jpg",
+      "license": "GPL",
+      "licenseUrl": "http://www.gnu.org/licenses/gpl.html",
+      "attribution": ""
+    }
+  }
+}

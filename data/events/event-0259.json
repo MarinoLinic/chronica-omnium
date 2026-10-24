@@ -5,10 +5,10 @@
   "slug": "protestantism",
   "status": "review",
   "name": "Protestantism",
-  "short_desc": null,
+  "short_desc": "Protestantism is a form of Christianity that originated in the Protestant Reformation.",
   "long_desc": "Protestantism",
   "start": 1517,
-  "end": 2023,
+  "end": null,
   "location": null,
   "type": "Religion",
   "field": "History",
@@ -18,8 +18,8 @@
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "span",
-  "date_note": "",
+  "date_kind": "point",
+  "date_note": "1517 conventionally marks Luther’s Ninety-five Theses. It is an origin milestone for the Reformation, not the full duration of Protestant traditions.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Reformation milestone"
 }

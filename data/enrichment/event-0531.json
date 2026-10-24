@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0531",
+  "source": "https://en.wikipedia.org/wiki/Chechen%E2%80%93Russian_conflict",
+  "revisionId": 1377769596,
+  "fetchedAt": "2026-10-24T10:36:47.157Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Map_of_Chechnya_in_Russia.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_Chechnya_in_Russia.svg/960px-Map_of_Chechnya_in_Russia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Map_of_Chechnya_in_Russia.svg/330px-Map_of_Chechnya_in_Russia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_Chechnya_in_Russia.svg",
+      "artist": "TUBS",
+      "credit": "This vector image includes elements that have been taken or adapted from this file:",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

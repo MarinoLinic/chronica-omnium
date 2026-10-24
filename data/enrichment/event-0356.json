@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0356",
+  "source": "https://en.wikipedia.org/wiki/Modernism_(music)",
+  "revisionId": 1330237102,
+  "fetchedAt": "2026-10-24T10:43:15.815Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Der_junge_Richard_Strauss.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Der_junge_Richard_Strauss.JPG/960px-Der_junge_Richard_Strauss.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Der_junge_Richard_Strauss.JPG/330px-Der_junge_Richard_Strauss.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Der_junge_Richard_Strauss.JPG",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Unknown sourceUnknown source",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

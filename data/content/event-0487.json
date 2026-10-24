@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0487",
+  "source": "https://en.wikipedia.org/wiki/John_Harington_(writer)",
+  "title": "John Harington (writer)",
+  "revisionId": 1379304050,
+  "revisionTimestamp": "2026-10-09T03:25:53Z",
+  "fetchedAt": "2026-10-24T10:24:09.772Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sir John Harington (4 August 1560 – 20 November 1612) was an English courtier, author and translator popularly known as the inventor of the flush toilet. Born in Kelston, Somerset, he became prominent at Queen Elizabeth I's court, and was known as her \"saucy Godson\", but his poetry and other writings caused him to fall in and out of favour with the Queen. He was the author of the description of a flush toilet forerunner installed in his Kelston house, which appeared in A New Discourse of a Stale Subject, called the Metamorphosis of Ajax (1596), a political allegory and coded attack on the monarchy which is nowadays his best-known work."
+}

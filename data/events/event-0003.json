@@ -11,7 +11,7 @@
   "end": null,
   "location": "World",
   "type": "Event",
-  "field": null,
+  "field": "Geology",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Geological_history_of_Earth",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/1920px-Hadean.png",

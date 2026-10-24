@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0231",
+  "source": "https://en.wikipedia.org/wiki/Golden_Horde",
+  "revisionId": 1381558248,
+  "fetchedAt": "2026-10-24T10:41:43.182Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/Map_of_the_Golden_Horde_%28with_text%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Map_of_the_Golden_Horde_%28with_text%29.png/960px-Map_of_the_Golden_Horde_%28with_text%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Map_of_the_Golden_Horde_%28with_text%29.png/330px-Map_of_the_Golden_Horde_%28with_text%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Golden_Horde_(with_text).png",
+      "artist": "naturalearthdata.com, offered to the Public Domain per Terms of Use",
+      "credit": "This image has been extracted from another file",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

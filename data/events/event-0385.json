@@ -4,8 +4,8 @@
   "id_num": 385,
   "slug": "mustafa-kemal-atatrk-in-office",
   "status": "review",
-  "name": "Mustafa Kemal Atatürk (in office)",
-  "short_desc": null,
+  "name": "Mustafa Kemal Atatürk",
+  "short_desc": "Mustafa Kemal Atatürk (c. 1881 – 10 November 1938) was a Turkish field marshal and statesman who was the founder of the Republic of Turkey and served as its first president from 1923 until his death in 1938.",
   "long_desc": null,
   "start": 1923,
   "end": 1938,
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Primary dates describe the labelled office interval. A separate sourced lifespan is also recorded.",
   "places": [
     "place-07c67d76ef92"
   ],
@@ -67,5 +67,18 @@
         34.9249653
       ]
     }
-  }
+  },
+  "date_label": "President of Turkey",
+  "periods": [
+    {
+      "id": "life",
+      "kind": "life",
+      "label": "Lifespan",
+      "start": 1881,
+      "end": 1938,
+      "date_kind": "span",
+      "date_note": "Birth around 1881.",
+      "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+    }
+  ]
 }

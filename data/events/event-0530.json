@@ -3,23 +3,23 @@
   "id": "event-0530",
   "id_num": 530,
   "slug": "robespierre",
-  "status": "stub",
-  "name": "Robespierre",
-  "short_desc": null,
+  "status": "review",
+  "name": "Maximilien Robespierre",
+  "short_desc": "Maximilien François Marie Isidore de Robespierre (; French: [maksimiljɛ̃ ʁɔbɛspjɛʁ]; 6 May 1758 – 28 July 1794) was a French lawyer and statesman, widely recognised as one of the most influential figures of the French Revolution.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": 1758,
+  "end": 1794,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Dates shown to year precision; see the source for exact dates and context.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

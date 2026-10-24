@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0488",
+  "source": "https://en.wikipedia.org/wiki/Smallpox_vaccine",
+  "revisionId": 1381372461,
+  "fetchedAt": "2026-10-24T10:24:10.592Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Smallpox_vaccine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smallpox_vaccine.jpg/960px-Smallpox_vaccine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smallpox_vaccine.jpg/330px-Smallpox_vaccine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Smallpox_vaccine.jpg",
+      "artist": "Photo Credit: James Gathany\nContent Providers(s): CDC",
+      "credit": "This media comes from the Centers for Disease Control and Prevention's Public Health Image Library (PHIL), with identification number #2674.\n\n\nNote: Not all PHIL images are public domain; be sure to check copyright status and credit authors and content providers.\n\n\n\nالعربية | Deutsch | English | македонски | slovenščina | +/−",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

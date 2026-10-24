@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0355",
+  "source": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+  "revisionId": 1381545355,
+  "fetchedAt": "2026-10-24T10:43:15.290Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/960px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hitler_portrait_crop_(cropped)(2).jpg",
+      "artist": "Heinrich Hoffmann",
+      "credit": "This  is a retouched picture, which means that it has been digitally altered from its original version. Modifications: 3:4 portrait crop, some dust and scratches removed, contrast/brightness changed. The original can be viewed here: Bundesarchiv Bild 183-H1216-0500-002, Adolf Hitler.jpg: . Modifications made by Notwist.",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "attribution": "Bundesarchiv, Bild 183-H1216-0500-002 / CC-BY-SA"
+    }
+  }
+}

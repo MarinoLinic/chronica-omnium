@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0310",
+  "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+  "revisionId": 1381202308,
+  "fetchedAt": "2026-10-24T10:42:39.268Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Powerloom_weaving_in_1835.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/960px-Powerloom_weaving_in_1835.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/330px-Powerloom_weaving_in_1835.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Powerloom_weaving_in_1835.jpg",
+      "artist": "Illustrator T. Allom, Engraver J. Tingle",
+      "credit": "History of the cotton manufacture in Great Britain by Sir Edward Baines,",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

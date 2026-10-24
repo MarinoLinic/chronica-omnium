@@ -3,23 +3,23 @@
   "id": "event-0549",
   "id_num": 549,
   "slug": "hannibal",
-  "status": "stub",
+  "status": "review",
   "name": "Hannibal",
-  "short_desc": null,
+  "short_desc": "Hannibal (; Punic: 𐤇𐤍𐤁𐤏𐤋; 247 – between 183 and 181 BC) was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War.",
   "long_desc": null,
-  "start": null,
-  "end": null,
+  "start": -247,
+  "end": -183,
   "location": null,
-  "type": null,
-  "field": null,
+  "type": "Person",
+  "field": "History",
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Hannibal",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
   "dubious": null,
-  "date_kind": "point",
-  "date_note": "",
+  "date_kind": "span",
+  "date_note": "Birth around 247 BCE; death traditionally 183 BCE, with dates down to 181 BCE also proposed.",
   "places": [],
   "notes": "",
   "legacy": {
@@ -65,5 +65,6 @@
         11.0480288
       ]
     }
-  }
+  },
+  "date_label": "Lifespan"
 }

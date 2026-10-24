@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0033",
+  "source": "https://en.wikipedia.org/wiki/Ardipithecus_kadabba",
+  "revisionId": 1352558886,
+  "fetchedAt": "2026-10-24T10:40:30.995Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ardipithecus_kadabba_fossils.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ardipithecus_kadabba_fossils.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ardipithecus_kadabba_fossils.jpg/330px-Ardipithecus_kadabba_fossils.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ardipithecus_kadabba_fossils.jpg",
+      "artist": "it:User:Lucius",
+      "credit": "it:wp (original image page here)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Lucius"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0371",
+  "source": "https://en.wikipedia.org/wiki/Christmas_truce",
+  "revisionId": 1375592240,
+  "fetchedAt": "2026-10-24T10:43:26.526Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/en/4/42/Illustrated_London_News_-_Christmas_Truce_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/Illustrated_London_News_-_Christmas_Truce_1914.jpg/960px-Illustrated_London_News_-_Christmas_Truce_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/Illustrated_London_News_-_Christmas_Truce_1914.jpg/330px-Illustrated_London_News_-_Christmas_Truce_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": null
+  }
+}

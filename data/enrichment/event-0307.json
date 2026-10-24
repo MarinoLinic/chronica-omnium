@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0307",
+  "source": "https://en.wikipedia.org/wiki/Classical_period_(music)",
+  "revisionId": 1377199812,
+  "fetchedAt": "2026-10-24T10:42:36.670Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mozart_family_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mozart_family_crop.jpg/960px-Mozart_family_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mozart_family_crop.jpg/330px-Mozart_family_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mozart_family_crop.jpg",
+      "artist": "Louis Carrogis Carmontelle",
+      "credit": "originally uploaded to en.wikipedia by  Brianboulton (talk · contribs) on 14 November 2008, 16:07 under the file name Mozart family crop.jpg.(+/−)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

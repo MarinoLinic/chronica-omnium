@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0248",
-  "text": "Ottoman victory\n\n60,000-80,000 in total (modern sources)\n\nNaval forces:\n\nNaval forces:\n26 ships\n\n200–18,000 (first day)\n\nThe fall of Constantinople, also known as the conquest of Constantinople, was the capture of the capital of the Byzantine Empire by the Ottoman Empire. The city was captured on 29 May 1453 as part of the culmination of a 53-day siege which had begun on 6 April.  \n\nThe attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by the 21-year-old Sultan Mehmed II (later nicknamed \"the Conqueror\"), while the Byzantine army was led by Emperor Constantine XI Palaiologos. After conquering the city, Mehmed II made Constantinople the new Ottoman capital, replacing Adrianople.\n\nThe conquest of Constantinople and the fall of the Byzantine Empire was a watershed of the Late Middle Ages, marking the effective end of the last remains of the Roman Empire, a state which began in roughly 27 BC and had lasted nearly  1500 years. Among many modern historians, the fall of Constantinople is considered the end of the medieval period. The city's fall also stood as a turning point in military history. Since ancient times, cities and castles had depended upon ramparts and walls to repel invaders. The Walls of Constantinople, especially the Theodosian Walls, were some of the most advanced defensive systems in the world at the time. These fortifications were overcome with the use of gunpowder, specifically in the form of large cannons and bombards, heralding a change in siege warfare.\n\n",
   "source": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "title": "Fall of Constantinople",
+  "revisionId": 1381601898,
+  "revisionTimestamp": "2026-10-23T16:29:09Z",
+  "fetchedAt": "2026-10-24T10:42:02.027Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Constantinople, the capital city of the Byzantine Empire, was captured by the Ottoman Empire on 29 May 1453 as part of the culmination of a 53-day siege which had begun on 6 April.\nThe attacking Ottoman Army, which significantly outnumbered Constantinople's defenders, was commanded by Sultan Mehmed II (later titled \"the Conqueror\"), while the Byzantine army was led by Emperor Constantine XI Palaiologos. After conquering the city, Mehmed II made Constantinople the new Ottoman capital, replacing Adrianople.\nThe fall of Constantinople and of the Byzantine Empire was a watershed moment of the Late Middle Ages, marking the effective end of the Roman Empire, a state which began in roughly 27 BC and had lasted nearly 1,500 years. For many modern historians, the fall of Constantinople marks the end of the medieval period and the beginning of the early modern period. The city's fall also stood as a turning point in military history. Since ancient times, cities and castles had depended upon ramparts and walls to repel invaders. The walls of Constantinople, especially the Theodosian walls, protected Constantinople from attack for 800 years and were noted as some of the most advanced defensive systems in the world at the time. However, these fortifications were overcome by Ottoman infantry with the support of gunpowder, specifically from cannons and bombards, heralding a change in siege warfare. The Ottoman cannons repeatedly fired massive cannonballs weighing 500 kilograms (1,100 lb) over 1.5 kilometres (0.93 mi) which created gaps in the Theodosian walls for the Ottoman siege.\n\n"
 }

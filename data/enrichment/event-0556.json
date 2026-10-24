@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0556",
+  "source": "https://en.wikipedia.org/wiki/Western_hunter-gatherer",
+  "revisionId": 1379837581,
+  "fetchedAt": "2026-10-24T10:36:47.696Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png/960px-Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png/330px-Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28WHG_highlighted%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_(WHG_highlighted).png",
+      "artist": "Posth, C., Yu, H., Ghalichi, A. et al.",
+      "credit": "Palaeogenomics of Upper Palaeolithic to Neolithic European hunter-gatherers. Nature 615, 117–126 (2023). https://doi.org/10.1038/s41586-023-05726-0\nProvided under CC BY 4.0:\n\"Rights and permissions\n\nOpen Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/.\"",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

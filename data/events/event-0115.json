@@ -13,7 +13,7 @@
   "type": "Event",
   "field": null,
   "relevance": 1,
-  "source": null,
+  "source": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
   "image": null,
   "casualties_low": null,
   "casualties_high": null,
@@ -23,7 +23,7 @@
   "places": [
     "place-557c1599d9a0"
   ],
-  "notes": "",
+  "notes": "\nBackground source added 24 October 2026. Existing date claims require specific source verification.",
   "legacy": {
     "id": "great-pyramid-of-giza",
     "Unnamed: 30": null,

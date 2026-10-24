@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0399",
+  "source": "https://en.wikipedia.org/wiki/The_Fountainhead",
+  "revisionId": 1377724291,
+  "fetchedAt": "2026-10-24T10:43:46.027Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg/330px-The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_Fountain_Head_(1943_1st_ed)_-_Ayn_Rand.jpg",
+      "artist": "Published by the Bobbs-Merrill Company. Jacket designer uncredited.",
+      "credit": "Scan via Heritage Auctions. Cropped from the original image.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

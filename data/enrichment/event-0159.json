@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0159",
+  "source": "https://en.wikipedia.org/wiki/Hellenistic_Greece",
+  "revisionId": 1378068578,
+  "fetchedAt": "2026-10-24T10:41:13.150Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/330px-Macedonia_and_the_Aegean_World_c.200.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Macedonia_and_the_Aegean_World_c.200.png",
+      "artist": "Kryston",
+      "credit": "R. Ginouvès et al., La Macédoine, Paris, 1992",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

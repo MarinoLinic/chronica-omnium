@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0205",
+  "source": "https://en.wikipedia.org/wiki/Muhammad",
+  "revisionId": 1380560812,
+  "fetchedAt": "2026-10-24T10:41:26.742Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Al-Masjid_AL-Nabawi_Door800x600x300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/46/Al-Masjid_AL-Nabawi_Door800x600x300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Al-Masjid_AL-Nabawi_Door800x600x300.jpg/330px-Al-Masjid_AL-Nabawi_Door800x600x300.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Al-Masjid_AL-Nabawi_Door800x600x300.jpg",
+      "artist": "بلال الدويك",
+      "credit": "File:Al-Masjid_AL-Nabawi_Door.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

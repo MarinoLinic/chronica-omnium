@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "eventId": "event-0030",
-  "text": "The Hominini form a taxonomic tribe of the subfamily Homininae (\"hominines\"). Hominini includes the extant genera Homo (humans) and Pan (chimpanzees and bonobos) and in standard usage excludes the genus Gorilla (gorillas).\n\nThe term was originally introduced by Camille Arambourg (1948).\nArambourg combined the categories of Hominina and Simiina due to Gray (1825) into his new subtribe.\n\nTraditionally, chimpanzees, gorillas and orangutans were grouped together as pongids. Since Gray's classification, evidence has accumulated from genetic phylogeny confirming that humans, chimpanzees, and gorillas are more closely related to each other than to the orangutan. The former pongids were reassigned to the subfamily Hominidae (\"great apes\"), which already included humans, but the details of this reassignment remain contested; within Hominini, not every source excludes gorillas, and not every source includes chimpanzees.\n\nHumans are the only extant species in the Australopithecine branch (subtribe), which also contains many extinct close relatives of humans.\n\n",
-  "source": "https://en.wikipedia.org/wiki/Hominini",
-  "title": null,
-  "revisionId": null,
-  "fetchedAt": null,
-  "method": "legacy-html-scrape",
-  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
-  "status": "review"
+  "source": "https://en.wikipedia.org/wiki/Human_evolution",
+  "title": "Human evolution",
+  "revisionId": 1381339287,
+  "revisionTimestamp": "2026-10-21T19:05:45Z",
+  "fetchedAt": "2026-10-24T10:36:36.639Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Homo sapiens is a distinct species of the hominid family of primates, which includes all the great apes. Over their evolutionary history, humans gradually developed traits such as bipedalism, dexterity, and complex language. Modern humans interbred with archaic humans, indicating that their evolution was not linear but weblike. The study of the origins of humans involves several scientific disciplines, including physical and evolutionary anthropology, paleontology, and genetics; the field is also known by the terms anthropogeny, anthropogenesis, and anthropogony—with the latter two sometimes used to refer to the related subject of hominization.\nPrimates diverged from other mammals about 85 million years ago, in the Late Cretaceous period, with their earliest fossils appearing over 55 mya, during the Paleocene. Primates produced successive clades leading to the ape superfamily, which gave rise to the hominid and the gibbon families; these diverged some 15–20 mya. African and Asian hominids (including orangutans) diverged about 14 mya. Hominins (including the Australopithecine and Panina subtribes) parted from the Gorillini tribe between 8 and 9 mya; Australopithecine (including the extinct biped ancestors of humans) separated from the Pan genus (containing chimpanzees and bonobos) 4–7 mya. The Homo genus is evidenced by the appearance of H. habilis over 2 mya, while anatomically modern humans emerged in Africa approximately 300,000 years ago."
 }

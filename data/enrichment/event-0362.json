@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0362",
+  "source": "https://en.wikipedia.org/wiki/Karl_Popper",
+  "revisionId": 1376668372,
+  "fetchedAt": "2026-10-24T10:43:19.887Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/330px-Karl_Popper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Karl_Popper.jpg",
+      "artist": "Franz Barta",
+      "credit": "Flickr Commons",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "attribution": ""
+    }
+  }
+}

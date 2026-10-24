@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0089",
+  "source": "https://en.wikipedia.org/wiki/Beekeeping",
+  "revisionId": 1381358629,
+  "fetchedAt": "2026-10-24T10:36:54.546Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg/960px-Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg/330px-Beekeeper_2017_Honeybee_Conservancy%2C_College_of_DuPage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Beekeeper_2017_Honeybee_Conservancy,_College_of_DuPage.jpg",
+      "artist": "COD Newsroom",
+      "credit": "https://www.flickr.com/photos/codnewsroom/34992577656",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

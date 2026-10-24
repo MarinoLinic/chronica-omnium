@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0095",
+  "source": "https://en.wikipedia.org/wiki/Funnelbeaker_culture",
+  "revisionId": 1373647642,
+  "fetchedAt": "2026-10-24T10:36:55.056Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Funnelbeaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Funnelbeaker_culture.jpg/960px-Funnelbeaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Funnelbeaker_culture.jpg/330px-Funnelbeaker_culture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Funnelbeaker_culture.jpg",
+      "artist": "Krakkos",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

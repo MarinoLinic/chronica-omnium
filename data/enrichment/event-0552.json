@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0552",
+  "source": "https://en.wikipedia.org/wiki/SPQR",
+  "revisionId": 1381434073,
+  "fetchedAt": "2026-10-24T10:24:46.059Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Roman_SPQR_banner.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/960px-Roman_SPQR_banner.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/330px-Roman_SPQR_banner.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Roman_SPQR_banner.svg",
+      "artist": "Ssolbergj",
+      "credit": "Own work",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}
