@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0637",
+  "id_num": 637,
+  "slug": null,
+  "status": "review",
+  "name": "Shaka",
+  "short_desc": "A Zulu king whose military and political reforms expanded the power of the Zulu kingdom.",
+  "long_desc": null,
+  "start": 1787,
+  "end": 1828,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Shaka",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "Born about 1787; died in 1828. His reign is recorded separately.",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "King of the Zulu kingdom",
+      "kind": "office",
+      "start": 1816,
+      "end": 1828,
+      "date_kind": "span",
+      "date_note": "Reign, 1816–1828; the approximate birth year is not a reign boundary.",
+      "source": "https://en.wikipedia.org/wiki/Shaka"
+    }
+  ],
+  "timeline_period": null
+}

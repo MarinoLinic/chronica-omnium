@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0619",
+  "source": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+  "revisionId": 1374644358,
+  "fetchedAt": "2026-10-24T15:37:28.009Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/960px-Portrait_of_J._D._Rockefeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Portrait_of_J._D._Rockefeller.jpg/330px-Portrait_of_J._D._Rockefeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_J._D._Rockefeller.jpg",
+      "artist": "Published by Scientific American Compiling Dep't, New York. 1907.",
+      "credit": "https://resource.rockarch.org/story/sour-milk-preventing-infant-mortality-with-public-health-rockefeller-institute-food-safety-study/1003-jdr-sr-1895-davis-sanford_display/ 'John D. Rockefeller'. Artist/engraver/cartographer: Unsigned. Provenance: \"The Americana \"; Editor-in-Chief Frederick Converse Beach, Managing Editor George Edwin Rines, Published by Scientific American Compiling Dep't, New York. 1907 Type: Antique photographic book illustration.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

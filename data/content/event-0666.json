@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0666",
+  "source": "https://en.wikipedia.org/wiki/Chalcolithic_Europe",
+  "title": "Chalcolithic Europe",
+  "revisionId": 1372986180,
+  "revisionTimestamp": "2026-09-03T10:09:12Z",
+  "fetchedAt": "2026-10-24T15:37:14.327Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Chalcolithic (also Eneolithic, Copper Age) period of Prehistoric Europe lasted roughly from 5000 to 2000 BC, developing from the preceding Neolithic period and followed by the Bronze Age.\nIt was a period of Megalithic culture, the appearance of the first significant economic stratification, and probably the earliest presence of Indo-European speakers.\nThe economy of the Chalcolithic, even in the regions where copper was not yet used, was no longer that of peasant communities and tribes: some materials began to be produced in specific locations and distributed to wide regions. Mining of metal and stone was particularly developed in some areas, along with the processing of those materials into valuable goods."
+}

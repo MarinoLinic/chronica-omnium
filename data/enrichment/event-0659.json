@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0659",
+  "source": "https://en.wikipedia.org/wiki/2008_Mumbai_attacks",
+  "revisionId": 1381597525,
+  "fetchedAt": "2026-10-24T15:37:09.354Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/960px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg/330px-2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg",
+      "artist": "Nicholas (Nichalp)",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

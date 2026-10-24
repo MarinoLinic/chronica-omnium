@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0633",
+  "source": "https://en.wikipedia.org/wiki/Richard_Stallman",
+  "title": "Richard Stallman",
+  "revisionId": 1379005403,
+  "revisionTimestamp": "2026-10-07T09:28:19Z",
+  "fetchedAt": "2026-10-24T15:38:07.332Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Richard Matthew Stallman ( STAWL-mən; born March 16, 1953), also known by his initials rms, is an American free software activist and programmer. He campaigns for software to be distributed in such a manner that its users have the freedom to use, study, distribute, and modify that software. Software which ensures these freedoms is termed free software. Stallman launched the GNU Project, founded the Free Software Foundation (FSF) in October 1985, developed the GNU C Compiler and GNU Emacs, and wrote all versions of the GNU General Public License.\nStallman launched the GNU Project in September 1983 to write a Unix-like computer operating system composed entirely of free software. With that he also launched the free software movement. He has been GNU Project's lead architect and organizer, and developed a number of pieces of widely used GNU software including among others, the GNU Compiler Collection, GNU Debugger, and GNU Emacs.\nStallman pioneered the concept of copyleft, which uses the principles of copyright law to preserve the right to use, modify, and distribute free software. He is the main author of free software licenses which describe those terms, most notably the GNU General Public License (GPL), the most widely used free software license.\nIn 1989, he co-founded the League for Programming Freedom. Since the mid-1990s, Stallman has spent most of his time advocating for free software, as well as campaigning against software patents, digital rights management (which he refers to as digital restrictions management), software license agreements, non-disclosure agreements, activation keys, software protection dongles, copy restriction, proprietary formats, and closed-source binary executables.\nIn September 2019, Stallman resigned as president of the FSF and left his visiting scientist role at MIT after making controversial comments about the Jeffrey Epstein sex trafficking scandal related to Marvin Minsky. He remained head of the GNU Project, and in 2021 returned to the FSF board of directors and others."
+}

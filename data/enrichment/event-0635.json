@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0635",
+  "source": "https://en.wikipedia.org/wiki/Robert_Koch",
+  "revisionId": 1377810391,
+  "fetchedAt": "2026-10-24T15:38:07.894Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RobertKoch_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/960px-RobertKoch_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/RobertKoch_cropped.jpg/330px-RobertKoch_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:RobertKoch_cropped.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://ihm.nlm.nih.gov/images/B16691",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

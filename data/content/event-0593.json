@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0593",
+  "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+  "title": "Dmitri Mendeleev",
+  "revisionId": 1380553108,
+  "revisionTimestamp": "2026-10-16T12:48:57Z",
+  "fetchedAt": "2026-10-24T15:37:17.832Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Dmitri Ivanovich Mendeleev ( MEN-dəl-AY-əf; 8 February [O.S. 27 January] 1834 – 2 February [O.S. 20 January] 1907) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered (germanium, gallium, and scandium). The synthetic element mendelevium is named in his honor. He was one of the founders of the Russian Chemical Society in 1868, and worked on the theory and practice of protectionist trade and on agriculture."
+}

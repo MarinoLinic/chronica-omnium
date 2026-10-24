@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0632",
+  "id_num": 632,
+  "slug": null,
+  "status": "review",
+  "name": "Queen Victoria",
+  "short_desc": "A British queen whose long reign coincided with industrial change and the expansion of the British Empire.",
+  "long_desc": null,
+  "start": 1819,
+  "end": 1901,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Queen_Victoria",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "Queen of the United Kingdom",
+      "kind": "office",
+      "start": 1837,
+      "end": 1901,
+      "date_kind": "span",
+      "date_note": "Acceded on 20 June 1837; died on 22 January 1901.",
+      "source": "https://en.wikipedia.org/wiki/Queen_Victoria"
+    }
+  ],
+  "timeline_period": null
+}

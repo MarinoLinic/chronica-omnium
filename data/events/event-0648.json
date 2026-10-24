@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0648",
+  "id_num": 648,
+  "slug": null,
+  "status": "review",
+  "name": "Wilhelm II",
+  "short_desc": "The last German emperor, whose reign ended with defeat and revolution in the First World War.",
+  "long_desc": null,
+  "start": 1859,
+  "end": 1941,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Wilhelm_II",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "German emperor",
+      "kind": "office",
+      "start": 1888,
+      "end": 1918,
+      "date_kind": "span",
+      "date_note": "Emperor from 15 June 1888 until his abdication in November 1918; he lived until 1941.",
+      "source": "https://en.wikipedia.org/wiki/Wilhelm_II"
+    }
+  ],
+  "timeline_period": null
+}

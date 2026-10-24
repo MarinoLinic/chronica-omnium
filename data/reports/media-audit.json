@@ -1,13 +1,14 @@
 {
   "authoredImages": 419,
-  "selectedImages": 559,
-  "wikipediaLeadImages": 140,
+  "selectedImages": 647,
+  "wikipediaLeadImages": 228,
   "counts": {
     "cached": 529,
     "missing": 2,
     "external": 15,
     "license-review": 12,
-    "failed": 1
+    "failed": 1,
+    "not-cached": 88
   },
   "uniqueMappedFiles": 507,
   "uniqueMappedBytes": 160137971,
@@ -3924,6 +3925,622 @@
       "status": "cached",
       "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Eugen_von_B%C3%B6hm-Bawerk_1896_Portrait_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
       "path": "/media/cc30a6dd920ba0c6c77513108e184dec688e6b685077159f9a8d45d1ea90932e.png",
+      "reason": null
+    },
+    {
+      "id": "event-0575",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0576",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0577",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Stieler%2C_Joseph_Karl_-_Alexander_von_Humboldt_-_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0578",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0579",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Andrew_Carnegie%2C_by_Theodore_Marceau_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0580",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0581",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0582",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0583",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0584",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0585",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0586",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0587",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ponzi1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0588",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Christopher_Wren_by_Godfrey_Kneller_1711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0589",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0590",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0591",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cyrus_II_%28The_Great%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0592",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0593",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0594",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0595",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0596",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0597",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Enrico_Fermi_1943-49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0598",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Enver_Hoxha_portrait_%28colour_correction%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0599",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Holbein-erasmus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0600",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0601",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0602",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Friedrich_der_Gro%C3%9Fe_-_Johann_Georg_Ziesenis_-_Google_Cultural_Institute_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0603",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Friedrich_List_1845_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0604",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0605",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_%28ca._1695%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0606",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gregor_Mendel_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0607",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0608",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0609",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0610",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hubert_Wilkins_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0611",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0612",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0613",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Oppenheimer_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0614",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0615",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0616",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0617",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0618",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0619",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Portrait_of_J._D._Rockefeller.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0620",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portrait_of_Dr._John_Harvey_Kellogg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0621",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Joseph%2C_son_of_Gorian%2C_called_Flavius_Josephus_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0623",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0624",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0625",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monroecirca1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0626",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0627",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Faraday_sitting_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0628",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0629",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0630",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0631",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paul_Dirac%2C_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0632",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0633",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0634",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_a_Mathematician_1680c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0635",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RobertKoch_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0636",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rudolf_Virchow_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0637",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/KingShaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0638",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0639",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0640",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/St-thomas-aquinasFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0642",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Thomas_Hobbes_by_John_Michael_Wright_%28colour%29_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0643",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ThomasHutchinsonByEdwardTruman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0644",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Thomas_Midgley_Jr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0645",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Laurent_Dabos_%E2%80%93_Thomas_Paine_%E2%80%93_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0646",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Portr%C3%A4tt_av_Tycho_Brahe_-_Skoklosters_slott_-_90153.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0647",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Vilfredo_Pareto_1870s2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0648",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0649",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/William_James_Sidis_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0650",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0651",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0652",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0653",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Charge_of_the_Danites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0655",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_FIRMS_2025-07-20_Serpukhov-15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0656",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0657",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0658",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/USD-1998-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0659",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/2008_Mumbai_terror_attacks_Taj_dome_burned_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0660",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alaska_Purchase_%28hi-res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0661",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Spanishhaggadah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0662",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0663",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Domesday-book-1804x972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0664",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Global_distribution_of_the_Bond_Holocene_IRD_Event_3_also_named_4.2_kiloyear_event._The_hatched_areas_were_affected_by_wet_conditions_or_flooding_and_the_dotted_areas_by_drought_or_dust_storms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0665",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
       "reason": null
     }
   ]

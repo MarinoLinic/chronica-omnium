@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0665",
+  "source": "https://en.wikipedia.org/wiki/8.2-kiloyear_event",
+  "title": "8.2-kiloyear event",
+  "revisionId": 1378615205,
+  "revisionTimestamp": "2026-10-05T06:34:25Z",
+  "fetchedAt": "2026-10-24T15:37:09.924Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The 8.2-kiloyear event was a rapid drop in global temperatures that occurred around 8,200 years ago (BP), lasting between two and four centuries. This event marks the beginning of the Northgrippian stage within the Holocene epoch. While this cooling phase was not as intense as the earlier Younger Dryas period that occurred just before the Holocene began, it was still significant. During the 8.2-kiloyear event, atmospheric methane levels dropped by 80 parts per billion, a 15% reduction, suggesting a broad cooling and drying trend across the Northern Hemisphere."
+}

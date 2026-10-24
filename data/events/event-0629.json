@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0629",
+  "id_num": 629,
+  "slug": null,
+  "status": "review",
+  "name": "Oliver Cromwell",
+  "short_desc": "A Parliamentarian commander who became Lord Protector after the overthrow of the English monarchy.",
+  "long_desc": null,
+  "start": 1599,
+  "end": 1658,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "protectorate",
+      "label": "Lord Protector",
+      "kind": "office",
+      "start": 1653,
+      "end": 1658,
+      "date_kind": "span",
+      "date_note": "Lord Protector from December 1653 until his death in September 1658.",
+      "source": "https://en.wikipedia.org/wiki/Oliver_Cromwell"
+    }
+  ],
+  "timeline_period": null
+}

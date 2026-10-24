@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0623",
+  "source": "https://en.wikipedia.org/wiki/Lord_Byron",
+  "revisionId": 1381281103,
+  "fetchedAt": "2026-10-24T15:38:02.242Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Byron_1813_by_Phillips.jpg/330px-Byron_1813_by_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Byron_1813_by_Phillips.jpg",
+      "artist": "Thomas Phillips",
+      "credit": "BBC Your Paintings",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

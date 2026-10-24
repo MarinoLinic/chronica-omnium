@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0648",
+  "source": "https://en.wikipedia.org/wiki/Wilhelm_II",
+  "revisionId": 1381260225,
+  "fetchedAt": "2026-10-24T15:38:12.475Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/960px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/330px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kaiser_Wilhelm_II_of_Germany_-_1902_(3x4_cropped).jpg",
+      "artist": "Studio of Thomas Heinrich Voigt",
+      "credit": "http://media.iwm.org.uk/iwm/mediaLib//20/media-20612/large.jpg\n\n\n\n\n\nThis photograph HU 68367 comes from the collections of the Imperial War Museums.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

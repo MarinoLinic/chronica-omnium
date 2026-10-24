@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0615",
+  "source": "https://en.wikipedia.org/wiki/Jesse_Livermore",
+  "revisionId": 1379530725,
+  "fetchedAt": "2026-10-24T15:37:26.470Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg/330px-Press_photo_of_Jesse_Livermore_in_1940_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Press_photo_of_Jesse_Livermore_in_1940_(cropped).jpg",
+      "artist": "Acme Photo",
+      "credit": "https://www.worthpoint.com/worthopedia/1940-press-photo-york-jesse-livermore-1848439328",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

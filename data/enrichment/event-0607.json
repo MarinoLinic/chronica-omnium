@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0607",
+  "source": "https://en.wikipedia.org/wiki/Henry_Kissinger",
+  "revisionId": 1381298685,
+  "fetchedAt": "2026-10-24T15:37:23.338Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/960px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg/330px-Henry_A._Kissinger%2C_U.S._Secretary_of_State%2C_1973-1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Henry_A._Kissinger,_U.S._Secretary_of_State,_1973-1977.jpg",
+      "artist": "U.S. Department of State from United States",
+      "credit": "Kenry A. Kissinger, U.S. Secretary of State",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0656",
+  "source": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
+  "revisionId": 1381439496,
+  "fetchedAt": "2026-10-24T15:37:08.147Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pinatubo_Ausbruch_1991.jpg/960px-Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pinatubo_Ausbruch_1991.jpg/330px-Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pinatubo_Ausbruch_1991.jpg",
+      "artist": "Richard P. Hoblitt, USGS",
+      "credit": "U.S. Geological Survey.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

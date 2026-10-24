@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0632",
+  "source": "https://en.wikipedia.org/wiki/Queen_Victoria",
+  "revisionId": 1380077305,
+  "fetchedAt": "2026-10-24T15:38:06.650Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/960px-Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg",
+      "artist": "Alexander Bassano",
+      "credit": "Original text: Scanned from the book 'The National Portrait Gallery History of the Kings and Queens of England' by David Williamson, ISBN 1855142287, p. 153. See here for 1901 publication. National Portrait Gallery: NPG x95802",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

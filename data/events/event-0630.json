@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0630",
+  "id_num": 630,
+  "slug": null,
+  "status": "review",
+  "name": "Otto von Bismarck",
+  "short_desc": "A Prussian statesman who helped unify Germany and became the empire’s first chancellor.",
+  "long_desc": null,
+  "start": 1815,
+  "end": 1898,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "chancellorship",
+      "label": "German imperial chancellorship",
+      "kind": "office",
+      "start": 1871,
+      "end": 1890,
+      "date_kind": "span",
+      "date_note": "First chancellor of the German Empire, 1871–1890; his Prussian offices are separate.",
+      "source": "https://en.wikipedia.org/wiki/Otto_von_Bismarck"
+    }
+  ],
+  "timeline_period": null
+}

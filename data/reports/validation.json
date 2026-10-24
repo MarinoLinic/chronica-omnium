@@ -1,6 +1,6 @@
 {
-  "total": 574,
-  "dated": 544,
+  "total": 666,
+  "dated": 636,
   "undated": 30,
   "errors": [],
   "warnings": [
@@ -1791,6 +1791,10 @@
     {
       "id": "event-0572",
       "code": "missing-date"
+    },
+    {
+      "id": "event-0663",
+      "code": "uncertain-date-range"
     },
     {
       "id": "Hadean",

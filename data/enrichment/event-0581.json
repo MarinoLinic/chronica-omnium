@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0581",
+  "source": "https://en.wikipedia.org/wiki/Baruch_Spinoza",
+  "revisionId": 1381746660,
+  "fetchedAt": "2026-10-24T15:37:13.243Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/960px-Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/330px-Spinoza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg",
+      "artist": "anonymous",
+      "credit": "This image has been extracted from another file",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

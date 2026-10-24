@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0631",
+  "source": "https://en.wikipedia.org/wiki/Paul_Dirac",
+  "revisionId": 1372471093,
+  "fetchedAt": "2026-10-24T15:38:05.441Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paul_Dirac%2C_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/50/Paul_Dirac%2C_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_Dirac%2C_1933.jpg/330px-Paul_Dirac%2C_1933.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_Dirac,_1933.jpg",
+      "artist": "Nobel Foundation",
+      "credit": "http://nobelprize.org/nobel_prizes/physics/laureates/1933/dirac.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

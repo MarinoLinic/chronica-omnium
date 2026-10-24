@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0594",
+  "source": "https://en.wikipedia.org/wiki/Donatello",
+  "revisionId": 1378345226,
+  "fetchedAt": "2026-10-24T15:37:18.500Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg/960px-Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg/330px-Donatello%2C_miracolo_della_mula%2C_1446-49_ca._%28pd%2C_museo_antoniano%29_37_uomo_che_si_allontana%2C_forse_autoritratto_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Donatello,_miracolo_della_mula,_1446-49_ca._(pd,_museo_antoniano)_37_uomo_che_si_allontana,_forse_autoritratto_(cropped).jpg",
+      "artist": "Francesco Bini",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

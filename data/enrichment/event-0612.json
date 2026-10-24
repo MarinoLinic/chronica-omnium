@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0612",
+  "source": "https://en.wikipedia.org/wiki/Ivan_Pavlov",
+  "revisionId": 1375148285,
+  "fetchedAt": "2026-10-24T15:37:25.742Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/960px-Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Ivan_Pavlov_NLM3.jpg/330px-Ivan_Pavlov_NLM3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ivan_Pavlov_NLM3.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "http://ihm.nlm.nih.gov/images/B21072",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

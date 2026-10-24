@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0626",
+  "source": "https://en.wikipedia.org/wiki/Max_Planck",
+  "title": "Max Planck",
+  "revisionId": 1381610274,
+  "revisionTimestamp": "2026-10-23T17:32:38Z",
+  "fetchedAt": "2026-10-24T15:38:03.040Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Max Karl Ernst Ludwig Planck (; German: [ˈmaks ˈplaŋk] ; 23 April 1858 – 4 October 1947) was a German theoretical physicist. Planck made many contributions to theoretical physics, primarily in his role as the originator of quantum theory and one of the founders of modern physics, which revolutionized understanding of atomic and subatomic processes. He is known for the Planck constant, \n  \n    \n      \n        h\n      \n    \n    {\\displaystyle h}\n  \n, which is of foundational importance for quantum physics, and which he used to derive a set of units, now called Planck units, expressed in terms of physical constants. The Planck relation, E= \n  \n    \n      \n        h\n      \n    \n    {\\displaystyle h}\n  \nν, states that the energy of a photon is proportional to its frequency.\nPlanck was twice President of the Kaiser Wilhelm Society. In 1948 it was renamed the Max Planck Society, and today includes 83 institutions representing a wide range of scientific disciplines. He was awarded the 1918 Nobel Prize in Physics \"for the services he rendered to the advancement of physics by his discovery of energy quanta\"."
+}

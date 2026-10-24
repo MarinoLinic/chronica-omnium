@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0584",
+  "source": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+  "revisionId": 1380446673,
+  "fetchedAt": "2026-10-24T15:37:13.831Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/960px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/330px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Friedrich_Gauss_1840_by_Jensen.jpg",
+      "artist": "Christian Albrecht Jensen",
+      "credit": "http://archiv.bbaw.de/archiv/archivbestaende/abteilung-sammlungen/gesamtbestand-des-kunstbesitzes/gelehrtengemaelde/gelehrtengemalde-seiten/ZIMM-0001.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

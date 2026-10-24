@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0585",
+  "source": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+  "revisionId": 1368872335,
+  "fetchedAt": "2026-10-24T15:37:14.532Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif/lossy-page1-960px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif/lossy-page1-330px-Carl_von_Linn%C3%A9%2C_1707-1778%2C_botanist%2C_professor_%28Alexander_Roslin%29_-_Nationalmuseum_-_15723_%28cropped%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_von_Linn%C3%A9,_1707-1778,_botanist,_professor_(Alexander_Roslin)_-_Nationalmuseum_-_15723_(cropped).tif",
+      "artist": "Alexander Roslin",
+      "credit": "Nationalmuseum",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

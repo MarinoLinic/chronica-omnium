@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0578",
+  "source": "https://en.wikipedia.org/wiki/Alexis_de_Tocqueville",
+  "revisionId": 1379425709,
+  "fetchedAt": "2026-10-24T15:37:11.838Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg/960px-Portrait_of_Alexis_de_Tocqueville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Portrait_of_Alexis_de_Tocqueville.jpg/330px-Portrait_of_Alexis_de_Tocqueville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Alexis_de_Tocqueville.jpg",
+      "artist": "Théodore Chassériau",
+      "credit": "histoire-image.org[ dead link ]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

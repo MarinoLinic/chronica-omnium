@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0655",
+  "source": "https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident",
+  "title": "1983 Soviet nuclear false alarm incident",
+  "revisionId": 1381403237,
+  "revisionTimestamp": "2026-10-22T06:18:14Z",
+  "fetchedAt": "2026-10-24T15:37:07.603Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "On 26 September 1983, during the Cold War, the Soviet nuclear early warning system Oko reported the launch of one intercontinental ballistic missile with four more missiles behind it, from the United States. These missile attack warnings were suspected to be false alarms by Stanislav Petrov (1939–2017), an engineer of the Soviet Air Defence Forces on duty at the command center of the early-warning system. He decided to wait for corroborating evidence—of which none arrived—rather than immediately relaying the warning up the chain of command. This decision is seen as having prevented a retaliatory nuclear strike against the United States and its NATO allies, which would likely have resulted in a full-scale nuclear war. Investigation of the satellite warning system later determined that the system had indeed malfunctioned."
+}

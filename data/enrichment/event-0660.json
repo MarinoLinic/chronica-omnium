@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0660",
+  "source": "https://en.wikipedia.org/wiki/Alaska_Purchase",
+  "revisionId": 1381652527,
+  "fetchedAt": "2026-10-24T15:37:10.468Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alaska_Purchase_%28hi-res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Alaska_Purchase_%28hi-res%29.jpg/960px-Alaska_Purchase_%28hi-res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Alaska_Purchase_%28hi-res%29.jpg/330px-Alaska_Purchase_%28hi-res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Alaska_Purchase_(hi-res).jpg",
+      "artist": "Edouard de Stoeckl and William H. Seward",
+      "credit": "http://www.ourdocuments.gov/doc.php?doc=41",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

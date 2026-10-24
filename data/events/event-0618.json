@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0618",
+  "id_num": 618,
+  "slug": null,
+  "status": "review",
+  "name": "John Adams",
+  "short_desc": "An American revolutionary diplomat who became the second president of the United States.",
+  "long_desc": null,
+  "start": 1735,
+  "end": 1826,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/John_Adams",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "presidency",
+      "label": "US presidency",
+      "kind": "office",
+      "start": 1797,
+      "end": 1801,
+      "date_kind": "span",
+      "date_note": "Second president of the United States, 1797–1801.",
+      "source": "https://en.wikipedia.org/wiki/John_Adams"
+    }
+  ],
+  "timeline_period": null
+}

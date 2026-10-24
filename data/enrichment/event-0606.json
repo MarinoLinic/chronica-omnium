@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0606",
+  "source": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+  "revisionId": 1376806037,
+  "fetchedAt": "2026-10-24T15:37:22.735Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Gregor_Mendel_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/960px-Gregor_Mendel_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Gregor_Mendel_2.jpg/330px-Gregor_Mendel_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Gregor_Mendel_2.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "http://0.tqn.com/d/biology/1/0/l/e/3244238.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

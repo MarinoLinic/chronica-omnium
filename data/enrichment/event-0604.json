@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0604",
+  "source": "https://en.wikipedia.org/wiki/Fritz_Haber",
+  "revisionId": 1380529655,
+  "fetchedAt": "2026-10-24T15:37:22.237Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg/960px-Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg/330px-Portret_van_Professor_Fritz_Haber%2C_een_chemicus_uit_Duitsland_%28foto_1918-_1934%29%2C_SFA002023057.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Professor_Fritz_Haber,_een_chemicus_uit_Duitsland_(foto_1918-_1934),_SFA002023057.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Nationaal Archief (Collectie Spaarnestad)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

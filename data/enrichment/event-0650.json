@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0650",
+  "source": "https://en.wikipedia.org/wiki/William_of_Ockham",
+  "revisionId": 1374746336,
+  "fetchedAt": "2026-10-24T15:38:12.958Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_of_Ockham.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:William_of_Ockham.png",
+      "artist": "self-created (Moscarlop)",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

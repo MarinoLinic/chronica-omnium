@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0580",
+  "source": "https://en.wikipedia.org/wiki/Archimedes",
+  "revisionId": 1376063220,
+  "fetchedAt": "2026-10-24T15:37:12.529Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/960px-Domenico-Fetti_Archimedes_1620.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/330px-Domenico-Fetti_Archimedes_1620.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg",
+      "artist": "Domenico Fetti",
+      "credit": "http://archimedes2.mpiwg-berlin.mpg.de/archimedes_templates/popup.htm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

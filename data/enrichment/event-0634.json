@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0634",
+  "source": "https://en.wikipedia.org/wiki/Robert_Hooke",
+  "revisionId": 1380738646,
+  "fetchedAt": "2026-10-24T15:38:07.406Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Portrait_of_a_Mathematician_1680c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Portrait_of_a_Mathematician_1680c.jpg/960px-Portrait_of_a_Mathematician_1680c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Portrait_of_a_Mathematician_1680c.jpg/330px-Portrait_of_a_Mathematician_1680c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Mathematician_1680c.jpg",
+      "artist": "Mary Beale",
+      "credit": "https://arthistoryproject.com/artists/mary-beale/portrait-of-a-mathematician/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

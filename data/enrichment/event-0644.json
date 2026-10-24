@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0644",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+  "revisionId": 1379804840,
+  "fetchedAt": "2026-10-24T15:38:10.802Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Portrait_of_Thomas_Midgley_Jr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Thomas_Midgley_Jr..jpg/960px-Portrait_of_Thomas_Midgley_Jr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Portrait_of_Thomas_Midgley_Jr..jpg/330px-Portrait_of_Thomas_Midgley_Jr..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Thomas_Midgley_Jr..jpg",
+      "artist": "AnonymousUnknown author for Blank & Stoller N.Y.",
+      "credit": "https://digital.sciencehistory.org/works/9s161624t",
+      "license": "No restrictions",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

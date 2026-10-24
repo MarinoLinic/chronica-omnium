@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0658",
+  "source": "https://en.wikipedia.org/wiki/1998_Russian_financial_crisis",
+  "title": "1998 Russian financial crisis",
+  "revisionId": 1380506836,
+  "revisionTimestamp": "2026-10-16T04:00:44Z",
+  "fetchedAt": "2026-10-24T15:37:08.768Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Russian financial crisis (also called the ruble crisis or the Russian flu) began in Russia on 17 August 1998. It resulted in the Russian government and the Russian Central Bank devaluing the ruble and defaulting on its debt. The crisis had severe impacts on the economies of many neighboring countries."
+}

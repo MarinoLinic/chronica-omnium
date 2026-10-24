@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0608",
+  "id_num": 608,
+  "slug": null,
+  "status": "review",
+  "name": "Henry VIII",
+  "short_desc": "An English king whose break with papal authority transformed the country’s church and monarchy.",
+  "long_desc": null,
+  "start": 1491,
+  "end": 1547,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Henry_VIII",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "King of England",
+      "kind": "office",
+      "start": 1509,
+      "end": 1547,
+      "date_kind": "span",
+      "date_note": "Acceded on 22 April 1509; died on 28 January 1547. The royal title changed during the reign.",
+      "source": "https://en.wikipedia.org/wiki/Henry_VIII"
+    }
+  ],
+  "timeline_period": null
+}

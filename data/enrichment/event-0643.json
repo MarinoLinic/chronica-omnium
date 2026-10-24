@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0643",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Hutchinson_(governor)",
+  "revisionId": 1369891296,
+  "fetchedAt": "2026-10-24T15:38:10.317Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/ThomasHutchinsonByEdwardTruman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ThomasHutchinsonByEdwardTruman.jpg/960px-ThomasHutchinsonByEdwardTruman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/ThomasHutchinsonByEdwardTruman.jpg/330px-ThomasHutchinsonByEdwardTruman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:ThomasHutchinsonByEdwardTruman.jpg",
+      "artist": "Edward Truman",
+      "credit": "Massachusetts Historical Society: http://www.masshist.org/revolution/doc-viewer.php?item_id=1755&mode=nav",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

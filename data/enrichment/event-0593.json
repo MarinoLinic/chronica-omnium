@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0593",
+  "source": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+  "revisionId": 1380553108,
+  "fetchedAt": "2026-10-24T15:37:17.832Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dmitri_Mendeleev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dmitri_Mendeleev.jpg/960px-Dmitri_Mendeleev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dmitri_Mendeleev.jpg/330px-Dmitri_Mendeleev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev.jpg",
+      "artist": "Original:  Unknown authorUnknown author\nUpload:  Germansociety2014",
+      "credit": "Unknown sourceUnknown source",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

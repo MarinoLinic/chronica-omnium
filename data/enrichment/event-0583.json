@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0583",
+  "source": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+  "revisionId": 1380388754,
+  "fetchedAt": "2026-10-24T15:37:13.805Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/960px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Blaise_Pascal_Versailles%2C_circa_1690.JPG/330px-Blaise_Pascal_Versailles%2C_circa_1690.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Blaise_Pascal_Versailles,_circa_1690.JPG",
+      "artist": "unknown; a copy of the painting of François II Quesnel, which was made for Gérard Edelinck en 1691[réf. nécessaire].",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

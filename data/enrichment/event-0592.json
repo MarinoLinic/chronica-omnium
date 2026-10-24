@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0592",
+  "source": "https://en.wikipedia.org/wiki/Daniel_Bernoulli",
+  "revisionId": 1377846044,
+  "fetchedAt": "2026-10-24T15:37:16.988Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/960px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg/330px-Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portr%C3%A4t_des_Daniel_Bernoulli_-_edit1.jpg",
+      "artist": "UnknownEdited by Bammesk",
+      "credit": "Basel Historical Museum\nLink: https://www.hmb.ch/en/museums/objects-in-the-collection/details/s/portraet-des-daniel-bernoulli/",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

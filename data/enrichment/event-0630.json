@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0630",
+  "source": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+  "revisionId": 1376052602,
+  "fetchedAt": "2026-10-24T15:38:05.183Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/330px-Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Otto_von_Bismarck_1885_(cropped).jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Bridgeman Art Library:  Object 2990143",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0610",
+  "source": "https://en.wikipedia.org/wiki/Hubert_Wilkins",
+  "revisionId": 1376221928,
+  "fetchedAt": "2026-10-24T15:37:24.595Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hubert_Wilkins_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hubert_Wilkins_1931.jpg/960px-Hubert_Wilkins_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Hubert_Wilkins_1931.jpg/330px-Hubert_Wilkins_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Hubert_Wilkins_1931.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID cph.3a23921.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

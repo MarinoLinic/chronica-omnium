@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0603",
+  "source": "https://en.wikipedia.org/wiki/Friedrich_List",
+  "title": "Friedrich List",
+  "revisionId": 1363909688,
+  "revisionTimestamp": "2026-07-13T06:50:55Z",
+  "fetchedAt": "2026-10-24T15:37:21.846Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Daniel Friedrich List (6 August 1789 – 30 November 1846) was a German entrepreneur, diplomat, economist and political theorist who developed the nationalist theory of political economy in both Europe and the United States. He was a forefather of the German historical school of economics and argued for the Zollverein (a pan-German customs union) from a nationalist standpoint. He advocated raising tariffs on imported goods while supporting free trade of domestic goods and stated the cost of a tariff should be seen as an investment in a nation's future productivity. His theories and writing also influenced the American school of economics.\nList was a political liberal who collaborated with Karl von Rotteck and Carl Theodor Welcker on the Rotteck-Welckersches Staatslexikon, an encyclopedia of political science that advocated constitutional liberalism and influenced the Vormärz. At the time in Europe, liberal and nationalist ideas were almost inseparably linked, and political liberalism was not yet attached to what was later considered economic liberalism. Emmanuel Todd considers List a forerunner to John Maynard Keynes as a theorist of \"moderate or regulated capitalism.\""
+}

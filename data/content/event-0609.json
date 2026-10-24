@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0609",
+  "source": "https://en.wikipedia.org/wiki/Herodotus",
+  "title": "Herodotus",
+  "revisionId": 1380867143,
+  "revisionTimestamp": "2026-10-18T12:48:28Z",
+  "fetchedAt": "2026-10-24T15:37:24.036Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Herodotus (Ancient Greek: Ἡρόδοτος, romanised: Hēródotos; c. 484 – c. 425 BC) was a Greek historian and geographer from the Greek city of Halicarnassus (now Bodrum, Türkiye), under Persian control in the 5th century BC, and a later citizen of Thurii in modern Calabria, Italy. He wrote the Histories, a detailed account of the Greco-Persian Wars, among other subjects such as the rise of the Achaemenid dynasty of Cyrus. He has been described as \"The Father of History\", a title conferred on him by the ancient Roman orator Cicero.\nThe Histories primarily cover the lives of prominent kings and famous battles such as Marathon, Thermopylae, Artemisium, Salamis, Plataea, and Mycale. His work deviates from the main topics to provide a cultural, ethnographical, geographical, and historiographical background that forms an essential part of the narrative and provides readers with a wellspring of additional information.\nHerodotus was criticised in his times for his inclusion of \"legends and fanciful accounts\" in his work. The contemporaneous historian Thucydides, who covered the Peloponnesian War in his History of the Peloponnesian War, would separately accuse Herodotus of making up stories for entertainment. Herodotus retorted that he reported what he could see and what he was told."
+}

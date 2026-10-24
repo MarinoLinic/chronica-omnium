@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0624",
+  "source": "https://en.wikipedia.org/wiki/Marco_Polo",
+  "revisionId": 1381102296,
+  "fetchedAt": "2026-10-24T15:38:02.371Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png/330px-Frontispice_%C3%A9dition_de_Nuremberg_1477_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Frontispice_%C3%A9dition_de_Nuremberg_1477_(cropped).png",
+      "artist": "Unknown authorUnknown author",
+      "credit": "The Description of the World, Moule & Pelliot, 1938, dont la source est le frontispice en noir et blanc de la 1e édition allemande du Livre de Marco Polo (Nuremberg, 1477).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

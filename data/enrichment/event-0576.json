@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0576",
+  "source": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+  "revisionId": 1375868973,
+  "fetchedAt": "2026-10-24T15:37:11.133Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/960px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/330px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Synthetic_Production_of_Penicillin_TR1468.jpg",
+      "artist": "Official photographer",
+      "credit": "http://media.iwm.org.uk/iwm/mediaLib//32/media-32192/large.jpg\n\n\n\n\n\nThis photograph TR 1468 comes from the collections of the Imperial War Museums.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

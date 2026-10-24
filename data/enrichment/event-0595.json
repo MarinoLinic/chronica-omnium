@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0595",
+  "source": "https://en.wikipedia.org/wiki/Edward_Gibbon",
+  "revisionId": 1378565685,
+  "fetchedAt": "2026-10-24T15:37:18.794Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg/960px-Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Edward_Gibbon_by_Henry_Walton_cleaned.jpg/330px-Edward_Gibbon_by_Henry_Walton_cleaned.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Edward_Gibbon_by_Henry_Walton_cleaned.jpg",
+      "artist": "Henry Walton",
+      "credit": "one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof. This may be due to recognition of the \"sweat of the brow\" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.\nAs such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement. Please see Commons:When to use the PD-Art tag for more information.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0614",
+  "source": "https://en.wikipedia.org/wiki/Jan_Hus",
+  "revisionId": 1380924688,
+  "fetchedAt": "2026-10-24T15:37:26.376Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/47/Stimmer_Jan_Hus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stimmer_Jan_Hus.jpg/330px-Stimmer_Jan_Hus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Stimmer_Jan_Hus.jpg",
+      "artist": "Christoph Murer 1587",
+      "credit": "Selbstgefertigter Scan eines Holzschnitts aus eigenem Bildarchiv",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

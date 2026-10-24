@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0665",
+  "source": "https://en.wikipedia.org/wiki/8.2-kiloyear_event",
+  "revisionId": 1378615205,
+  "fetchedAt": "2026-10-24T15:37:09.924Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png/960px-North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png/330px-North-western_European_Holocene_Climate_Proxies_and_Culture_Stages%2C_by_Hans_J.J.G._Holm.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:North-western_European_Holocene_Climate_Proxies_and_Culture_Stages,_by_Hans_J.J.G._Holm.png",
+      "artist": "HJJHolm",
+      "credit": "Own work, based upon\nAlley, R.B. (2000): The Younger Dryas cold interval as viewed from central Greenland. Quaternary Science Reviews 19:213-226.\nAlley, R.B.  (2004): GISP2 Ice Core Temperature and Accumulation Data. IGBP PAGES/World Data Center for Paleoclimatology Data Contribution Series #2004-013. NOAA/NGDC Paleoclimatology Program, Boulder CO, USA. \nHolzhauser, H.; Magny, M.; Zumbühl, H. J. (2005): Glacier and lake-level variations in west-central Europe over the last 3500 years, The Holocene 15-6: 789-801.\nNicolussi K. (2008): Umwelt- und Klimaentwicklung in den Alpen. Archäologie in Deutschland 2008/4: 22-23.\n\nRasmussen, S. O., and et. al. (2006): A new Greenland ice core chronology for the last glacial termination, J. Geophys. Res., 111, D06102, doi:10.1029/2005JD006079.",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

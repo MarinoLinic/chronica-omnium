@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0611",
+  "source": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile",
+  "revisionId": 1381671261,
+  "fetchedAt": "2026-10-24T15:37:25.171Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/960px-IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/330px-IsabellaofCastile03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:IsabellaofCastile03.jpg",
+      "artist": "anonymous",
+      "credit": "1. www.secc.es2. Unknown sourceUnknown source3. Museo del Prado",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

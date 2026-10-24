@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0588",
+  "source": "https://en.wikipedia.org/wiki/Christopher_Wren",
+  "title": "Christopher Wren",
+  "revisionId": 1380609414,
+  "revisionTimestamp": "2026-10-16T20:22:53Z",
+  "fetchedAt": "2026-10-24T15:37:15.516Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Sir Christopher Wren (; 30 October 1632 [O.S. 20 October] – 8 March 1723 [O.S. 25 February]) was an English architect, astronomer, mathematician and physicist who is one of the most highly acclaimed architects in the history of England. Known for his work in the English Baroque style,  he was accorded responsibility for rebuilding 52 churches in the City of London after the Great Fire in 1666, including what is regarded as his masterpiece, St Paul's Cathedral, on Ludgate Hill, completed in 1710.\nThe principal creative responsibility for a number of the churches is now more commonly attributed to others in his office, especially Nicholas Hawksmoor. Other notable buildings by Wren include the Royal Hospital Chelsea, the Old Royal Naval College, Greenwich, and the south front of Hampton Court Palace. Educated in Latin and Aristotelian physics at the University of Oxford, Wren was a founder of the Royal Society and served as its president from 1680 to 1682. His scientific work was highly regarded by Isaac Newton and Blaise Pascal."
+}

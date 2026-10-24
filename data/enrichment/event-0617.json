@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0617",
+  "source": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+  "revisionId": 1380990617,
+  "fetchedAt": "2026-10-24T15:37:27.256Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/7/74/JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/330px-JKepler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:JKepler.jpg",
+      "artist": "August Köhler [1]",
+      "credit": "Kepler-Museum in Weil der Stadt",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

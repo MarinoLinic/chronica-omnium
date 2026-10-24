@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0628",
+  "source": "https://en.wikipedia.org/wiki/Niels_Bohr",
+  "revisionId": 1378921180,
+  "fetchedAt": "2026-10-24T15:38:03.859Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/960px-Niels_Bohr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/330px-Niels_Bohr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Niels_Bohr.jpg",
+      "artist": "The American Institute of Physics credits the photo [1] to AB Lagrelius & Westphal, which is the Swedish company used by the Nobel Foundation for most photos of its book series Les Prix Nobel.",
+      "credit": "Niels Bohr's Nobel Prize biography, from 1922",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

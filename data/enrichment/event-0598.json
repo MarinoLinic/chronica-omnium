@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0598",
+  "source": "https://en.wikipedia.org/wiki/Enver_Hoxha",
+  "revisionId": 1380953788,
+  "fetchedAt": "2026-10-24T15:37:19.836Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Enver_Hoxha_portrait_%28colour_correction%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Enver_Hoxha_portrait_%28colour_correction%29.jpg/960px-Enver_Hoxha_portrait_%28colour_correction%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Enver_Hoxha_portrait_%28colour_correction%29.jpg/330px-Enver_Hoxha_portrait_%28colour_correction%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Enver_Hoxha_portrait_(colour_correction).jpg",
+      "artist": "Petrit Kumi",
+      "credit": "Albanian Encyclopedic Dictionary (p. 382–383)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0661",
+  "source": "https://en.wikipedia.org/wiki/Alhambra_Decree",
+  "revisionId": 1372790892,
+  "fetchedAt": "2026-10-24T15:37:11.896Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Spanishhaggadah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Spanishhaggadah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Spanishhaggadah.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Spanishhaggadah.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Unknown sourceUnknown source",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

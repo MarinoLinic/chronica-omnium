@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0655",
+  "source": "https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident",
+  "revisionId": 1381403237,
+  "fetchedAt": "2026-10-24T15:37:07.603Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_FIRMS_2025-07-20_Serpukhov-15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/1/17/NASA_FIRMS_2025-07-20_Serpukhov-15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/NASA_FIRMS_2025-07-20_Serpukhov-15.png/330px-NASA_FIRMS_2025-07-20_Serpukhov-15.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:NASA_FIRMS_2025-07-20_Serpukhov-15.png",
+      "artist": "Imagery from LANCE FIRMS operated by NASA's Earth Science Data and Information System (ESDIS) with funding provided by NASA Headquarters.",
+      "credit": "https://firms.modaps.eosdis.nasa.gov/map/#d:2025-07-20;@37.06,55.06,14.00z",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

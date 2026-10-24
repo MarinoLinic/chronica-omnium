@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0615",
+  "source": "https://en.wikipedia.org/wiki/Jesse_Livermore",
+  "title": "Jesse Livermore",
+  "revisionId": 1379530725,
+  "revisionTimestamp": "2026-10-10T14:45:40Z",
+  "fetchedAt": "2026-10-24T15:37:26.470Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Jesse Lauriston Livermore (July 26, 1877 – November 28, 1940) was an American stock trader. He is considered a pioneer of day trading and was the basis for the main character of Reminiscences of a Stock Operator, a best-selling book by Edwin Lefèvre. At one time, Livermore was one of the richest people in the world; however, at the time of his suicide, he had liabilities greater than his assets.\nIn a time when accurate financial statements were rarely published, getting current stock quotes required a large operation, and market manipulation was rampant, Livermore used what is now known as technical analysis as the basis for his trades. His principles, including the effects of emotion on trading, continue to be studied.\nSome of Livermore's trades, such as taking short positions before the 1906 San Francisco earthquake and just before the Wall Street crash of 1929, are legendary within investing circles. Some observers have regarded Livermore as the greatest trader who ever lived, but others have regarded his legacy as a cautionary tale about the risks of leverage to seek large gains rather than a strategy focused on smaller yet more consistent returns."
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0653",
+  "source": "https://en.wikipedia.org/wiki/1838_Mormon_War",
+  "revisionId": 1379956286,
+  "fetchedAt": "2026-10-24T15:37:07.294Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Charge_of_the_Danites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Charge_of_the_Danites.jpg/960px-Charge_of_the_Danites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Charge_of_the_Danites.jpg/330px-Charge_of_the_Danites.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Charge_of_the_Danites.jpg",
+      "artist": "Sidney Rigdon",
+      "credit": "https://engelsbergideas.com/essays/when-the-mormons-had-a-military/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

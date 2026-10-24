@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0590",
+  "source": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+  "revisionId": 1381424350,
+  "fetchedAt": "2026-10-24T15:37:16.242Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/960px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/330px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_Claudio_Monteverdi_(c.1630).jpg",
+      "artist": "Bernardo Strozzi",
+      "credit": "1. Tiroler Landesmuseum2. The New York Times, 6 May 2017",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0662",
+  "source": "https://en.wikipedia.org/wiki/A_Christmas_Carol",
+  "revisionId": 1376465667,
+  "fetchedAt": "2026-10-24T15:37:09.914Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg/960px-Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg/330px-Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Dickens-A_Christmas_Carol-Cloth-First_Edition_1843.jpg",
+      "artist": "Charles Dickens, Photographer: Heritage Auctions, Inc. Dallas, Texas",
+      "credit": "http://historical.ha.com/common/view_item.php?Sale_No=683&Lot_No=57424&type=&ic=",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

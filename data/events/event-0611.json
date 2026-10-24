@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0611",
+  "id_num": 611,
+  "slug": null,
+  "status": "review",
+  "name": "Isabella I of Castile",
+  "short_desc": "A Castilian queen whose joint rule with Ferdinand accompanied the conquest of Granada and the expulsion of Jews.",
+  "long_desc": null,
+  "start": 1451,
+  "end": 1504,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "Queen of Castile",
+      "kind": "office",
+      "start": 1474,
+      "end": 1504,
+      "date_kind": "span",
+      "date_note": "Queen of Castile from 1474 until her death in 1504; this is separate from her title as queen of Aragon.",
+      "source": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+    }
+  ],
+  "timeline_period": null
+}

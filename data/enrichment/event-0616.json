@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0616",
+  "source": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+  "revisionId": 1379455421,
+  "fetchedAt": "2026-10-24T15:37:27.249Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/960px-Goethe_%28Stieler_1828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/330px-Goethe_%28Stieler_1828%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Goethe_(Stieler_1828).jpg",
+      "artist": "Joseph Karl Stieler",
+      "credit": "Transferred from nds.wikipedia to Commons..org by G.Meiners at 12:05, 15. Okt 2005.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

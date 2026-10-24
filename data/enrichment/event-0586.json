@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0586",
+  "source": "https://en.wikipedia.org/wiki/Charles_Dickens",
+  "revisionId": 1381284700,
+  "fetchedAt": "2026-10-24T15:37:14.850Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/330px-Dickens_Gurney_head.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg",
+      "artist": "Jeremiah Gurney",
+      "credit": "Heritage Auction Gallery",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0602",
+  "id_num": 602,
+  "slug": null,
+  "status": "review",
+  "name": "Frederick the Great",
+  "short_desc": "A Prussian king whose military campaigns and reforms made Prussia a major European power.",
+  "long_desc": null,
+  "start": 1712,
+  "end": 1786,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Frederick_the_Great",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "Prussian monarchy",
+      "kind": "office",
+      "start": 1740,
+      "end": 1786,
+      "date_kind": "span",
+      "date_note": "King in Prussia from 1740; styled King of Prussia from 1772.",
+      "source": "https://en.wikipedia.org/wiki/Frederick_the_Great"
+    }
+  ],
+  "timeline_period": null
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0649",
+  "source": "https://en.wikipedia.org/wiki/William_James_Sidis",
+  "revisionId": 1381043650,
+  "fetchedAt": "2026-10-24T15:38:12.316Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d3/William_James_Sidis_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/d/d3/William_James_Sidis_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/William_James_Sidis_1914.jpg/330px-William_James_Sidis_1914.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:William_James_Sidis_1914.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "The Sidis Archives",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0637",
+  "source": "https://en.wikipedia.org/wiki/Shaka",
+  "revisionId": 1373187123,
+  "fetchedAt": "2026-10-24T15:38:08.604Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/KingShaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/7/73/KingShaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/KingShaka.jpg/330px-KingShaka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:KingShaka.jpg",
+      "artist": "James King",
+      "credit": "https://books.google.com/books?id=M8VjAAAAMAAJ&printsec=frontcover&pg=PA57-IA2",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

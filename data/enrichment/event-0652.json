@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0652",
+  "source": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+  "revisionId": 1380609130,
+  "fetchedAt": "2026-10-24T15:38:13.633Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/34/William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/330px-William_the_Conqueror_%28TFA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:William_the_Conqueror_(TFA).jpg",
+      "artist": "Myrabella",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

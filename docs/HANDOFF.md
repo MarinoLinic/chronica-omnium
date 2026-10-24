@@ -8,6 +8,20 @@ This continuation started from commit `46fc4bf` (`Sol updates`), which already c
 
 ## Start here
 
+### Discord Wikipedia intake, 24 October 2026
+
+The first intake batch adds **92 new records**, `event-0575`–`event-0666`: 78 people and 14 events, works, or periods. The catalog now contains **666 records, 636 dated and 30 undated**. Every one of the 574 pre-existing authored record files was checked byte-for-byte against its intake baseline and is unchanged.
+
+The private, ignored working queue is `.local/discord-wikipedia/TODO.md`, with structured provenance in `queue.json`. It covers all authors in 32 HISTORY channels plus the supplied archeogenetics channel from the September Discord export. There are **1,817 distinct pasted Wikipedia articles** after normalizing mobile URLs and fragments: 92 added, 193 matched to existing records, 1,527 pending, two alternate links to the same article, two needing identity review, and one Polish article needing language review. The pending list contains surveys, lists, concepts and overlapping subjects as well as suitable future additions; it is not a count of approved new events. Original Discord files were read without modification. Author IDs, message IDs, timestamps and embed text stay in the ignored queue and are not included in published records or reports.
+
+`data/reports/discord-wikipedia-additions.json` records only the added entries and their public Wikipedia revision/date evidence. All 92 have manually authored summaries and attributed introductory snapshots; they remain `review` pending independent claim-specific citations. The total article cache is now **664 snapshots**. Ten people have separate sourced reign/office periods; primary dates are explicitly lifespans. Approximate birth years, Monteverdi's baptism-year start, Old/New Style year differences, Domesday's disputed compilation bounds and fixed-reference climate ages retain explanatory notes. The uncertain Domesday bounds add one intentional validation warning.
+
+The 88 new lead-image choices include attribution metadata, bringing the selected-image total to **647** (419 authored and 228 Wikipedia fallbacks). No new image bytes were downloaded because the disk-space check found approximately 400 MB free. Existing local image caches remain unchanged; the new entries use remote images and do not yet have offline image fallbacks. Once space permits, image-only sync can be limited to the new IDs using `--id` with a comma-separated list and `--limit 92`; do not refresh the entire catalog incidentally.
+
+Resume by reading the private TODO and selecting another reviewed batch. `identities.json` retains the initial live redirect checks; `cards/` holds 105 staged research cards, including deferred candidates and their date problems. `py .local/discord-wikipedia/reconcile.py` refreshes queue matching against the current authored catalog and retains the initial additions. Do not rerun `apply-batch.mjs`: those IDs are already allocated. New batches should use the existing catalog CLI allocator, append their intake evidence, and run the normal offline checks. Never publish the Discord export or private queue as site assets.
+
+Verification for this data-only batch: `npm run data:build`, all **34 tests**, and `npm run build` pass. Validation reports **zero errors and 548 warnings**. Existing archive/ID checks and offline byte-reproducibility checks pass. Reader spot-checks confirmed the new numeric URLs, Ada Lovelace's lifespan/background/image, and Domesday's visible uncertainty explanation with Sources initially closed. The temporary check tab was closed. No interaction or layout code changed.
+
 Read `AGENTS.md`, `README.md`, and `data/README.md`. The source of truth remains one JSON record per permanent ID in `data/events/`. Do not edit `src/generated/`, `public/data/`, or `dist/`.
 
 ```powershell
@@ -75,11 +89,11 @@ Research evidence and remaining qualifications are in [RESEARCH.md](RESEARCH.md)
 
 `scripts/research.mjs` stages attributed Wikipedia introductions, proposed summaries, nested infobox wikitext, Wikidata IDs, revisions and lead-image choices in `.local/research/`. `--cache` updates `data/content/` and `data/enrichment/` after backups, without assigning authored dates, status or custom images. Disambiguation pages fail; semantic redirect review is still necessary. A single title cannot be assigned to `--all`, and pinned `oldid` sources cannot be overwritten.
 
-There are **572 article snapshots**: 457 fresh MediaWiki introductions with revision/retrieval metadata and 115 retained legacy extractions. Routine startup/tests/builds remain offline. Markdown/HTML reading exports remain available through `content:export` and Sources.
+Before the Discord intake there were **572 article snapshots**: 457 fresh MediaWiki introductions with revision/retrieval metadata and 115 retained legacy extractions. The intake above adds 92 fresh introductions, for **664 total**. Routine startup/tests/builds remain offline. Markdown/HTML reading exports remain available through `content:export` and Sources.
 
 Images now hotlink sized remote choices first, preserving original and local fallbacks. Existing authored images are treated as deliberate choices; Wikipedia lead metadata fills only missing choices. The user-identified repeated irrigation pictures were replaced with topic images, and the originals survive in archives/backups.
 
-There are **559 selected images**: 419 authored choices and 140 lead-image fallbacks. **529** have matching attributed local caches. The **507 unique mapped files total 160,137,971 bytes**. The completed image-only pass downloaded 47,394,259 bytes without replacing text.
+There are **647 selected images** after the Discord intake: 419 authored choices and 228 lead-image fallbacks. **529** have matching attributed local caches. The **507 unique mapped files total 160,137,971 bytes**. The earlier completed image-only pass downloaded 47,394,259 bytes without replacing text; the intake adds remote choices without image-byte downloads.
 
 The explicit sync returned exit 1 for unresolved cases: 15 external imports, 12 license reviews, two missing Commons files, and one oversized animated GIF. This is an honest source/cache report, not a production-build failure. Unsupported license labels were not automatically approved or custom images replaced. Inspect `media-audit.json` and `source-sync.json` for exact IDs and reasons. Offline images are not guaranteed for those cases.
 
@@ -102,6 +116,6 @@ QA exports and screenshots are in ignored `.local/qa/`, including `overhaul-hori
 
 ## What remains
 
-Engineering requested in this pass is complete. Research remains for claim-specific citations beyond the scoped review, regional domestication/cultural dates, disputed chronology, 10 legacy dubious flags, 115 legacy extracts, unreviewed places, time-scale boundaries, and the specific image cases above. Current validation has **zero errors and 547 warnings**; warnings are not silently cleared or turned into factual approval. Use the research notes rather than old missing-field counts as the next research queue.
+Engineering requested in this pass is complete. Research remains for claim-specific citations beyond the scoped review, regional domestication/cultural dates, disputed chronology, 10 legacy dubious flags, 115 legacy extracts, unreviewed places, time-scale boundaries, and the specific image cases above. The Discord intake is deliberately a first batch; its remaining candidates are tracked separately in the ignored queue described above. Current validation has **zero errors and 548 warnings**; warnings are not silently cleared or turned into factual approval. Use the research notes and intake queue rather than old missing-field counts as the next research queues.
 
 Deployment troubleshooting and annual historical map layers remain explicitly deferred. Public-reader redesign is no longer deferred because the user requested and authorized it in this continuation.

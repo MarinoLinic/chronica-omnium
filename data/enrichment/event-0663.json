@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0663",
+  "source": "https://en.wikipedia.org/wiki/Domesday_Book",
+  "revisionId": 1381311424,
+  "fetchedAt": "2026-10-24T15:37:18.230Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Domesday-book-1804x972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Domesday-book-1804x972.jpg/960px-Domesday-book-1804x972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Domesday-book-1804x972.jpg/330px-Domesday-book-1804x972.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Domesday-book-1804x972.jpg",
+      "artist": "Andrews, William",
+      "credit": "Andrews, William: “Historic Byways and Highways of Old England” (1900)[2]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

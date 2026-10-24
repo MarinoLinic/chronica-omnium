@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0664",
+  "source": "https://en.wikipedia.org/wiki/4.2-kiloyear_event",
+  "revisionId": 1380005033,
+  "fetchedAt": "2026-10-24T15:37:09.416Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Global_distribution_of_the_Bond_Holocene_IRD_Event_3_also_named_4.2_kiloyear_event._The_hatched_areas_were_affected_by_wet_conditions_or_flooding_and_the_dotted_areas_by_drought_or_dust_storms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Global_distribution_of_the_Bond_Holocene_IRD_Event_3_also_named_4.2_kiloyear_event._The_hatched_areas_were_affected_by_wet_conditions_or_flooding_and_the_dotted_areas_by_drought_or_dust_storms.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Global_distribution_of_the_Bond_Holocene_IRD_Event_3_also_named_4.2_kiloyear_event._The_hatched_areas_were_affected_by_wet_conditions_or_flooding_and_the_dotted_areas_by_drought_or_dust_storms.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Global_distribution_of_the_Bond_Holocene_IRD_Event_3_also_named_4.2_kiloyear_event._The_hatched_areas_were_affected_by_wet_conditions_or_flooding_and_the_dotted_areas_by_drought_or_dust_storms.jpg",
+      "artist": "Jianjun Wang, Liguang Sun, Liqi Chen, Libin Xu, Yuhong Wang & Xinming Wang",
+      "credit": "The abrupt climate change near 4,400 yr BP on the cultural transition in Yuchisi, China and its global linkage\nMaterial provided under a Creative Commons 4.0 license:\n\nThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.\"",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

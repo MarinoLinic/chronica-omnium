@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0603",
+  "source": "https://en.wikipedia.org/wiki/Friedrich_List",
+  "revisionId": 1363909688,
+  "fetchedAt": "2026-10-24T15:37:21.846Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Friedrich_List_1845_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Friedrich_List_1845_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Friedrich_List_1845_crop.jpg/330px-Friedrich_List_1845_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Friedrich_List_1845_crop.jpg",
+      "artist": "Josef Kriehuber",
+      "credit": "Eigenes Foto einer Originallithographie",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

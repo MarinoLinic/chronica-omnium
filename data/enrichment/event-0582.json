@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0582",
+  "source": "https://en.wikipedia.org/wiki/Bernhard_Riemann",
+  "revisionId": 1381175196,
+  "fetchedAt": "2026-10-24T15:37:13.144Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Georg_Friedrich_Bernhard_Riemann.jpeg/330px-Georg_Friedrich_Bernhard_Riemann.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Georg_Friedrich_Bernhard_Riemann.jpeg",
+      "artist": "",
+      "credit": "http://www.sil.si.edu/digitalcollections/hst/scientific-identity/explore.htm according to the German Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

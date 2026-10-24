@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0633",
+  "source": "https://en.wikipedia.org/wiki/Richard_Stallman",
+  "revisionId": 1379005403,
+  "fetchedAt": "2026-10-24T15:38:07.332Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg/960px-Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg/330px-Richard_Stallman_Bologna_2024_abc1_%283x4%2C_rule_of_thirdscropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Richard_Stallman_Bologna_2024_abc1_(3x4,_rule_of_thirdscropped).jpg",
+      "artist": "Patafisik",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

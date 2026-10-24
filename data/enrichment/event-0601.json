@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0601",
+  "source": "https://en.wikipedia.org/wiki/Francis_Bacon",
+  "revisionId": 1381144555,
+  "fetchedAt": "2026-10-24T15:37:21.159Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Somer_Francis_Bacon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/960px-Somer_Francis_Bacon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Somer_Francis_Bacon.jpg/330px-Somer_Francis_Bacon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Somer_Francis_Bacon.jpg",
+      "artist": "Paul van Somer I / Formerly attributed to Frans Pourbus the Younger",
+      "credit": "pl.pinterest.com",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

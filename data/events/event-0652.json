@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0652",
+  "id_num": 652,
+  "slug": null,
+  "status": "review",
+  "name": "William the Conqueror",
+  "short_desc": "The Norman duke who conquered England in 1066 and established a new ruling dynasty.",
+  "long_desc": null,
+  "start": 1028,
+  "end": 1087,
+  "location": null,
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "Born about 1028; died on 9 September 1087. His reign in England is recorded separately.",
+  "places": [],
+  "notes": "New source-linked entry. The Wikipedia introduction, date evidence and article identity received an initial editorial check; independent claim-specific source review remains open.",
+  "legacy": {},
+  "date_label": "Lifespan",
+  "periods": [
+    {
+      "id": "reign",
+      "label": "King of England",
+      "kind": "office",
+      "start": 1066,
+      "end": 1087,
+      "date_kind": "span",
+      "date_note": "King of England from 1066 until his death in 1087; his Norman dukedom began earlier.",
+      "source": "https://en.wikipedia.org/wiki/William_the_Conqueror"
+    }
+  ],
+  "timeline_period": null
+}

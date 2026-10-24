@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0639",
+  "source": "https://en.wikipedia.org/wiki/Ted_Kaczynski",
+  "revisionId": 1381445671,
+  "fetchedAt": "2026-10-24T15:38:09.348Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ted_Kaczynski_2_%28cropped%29.jpg/960px-Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ted_Kaczynski_2_%28cropped%29.jpg/330px-Ted_Kaczynski_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ted_Kaczynski_2_(cropped).jpg",
+      "artist": "Federal Bureau of Investigation",
+      "credit": "Original: Federal Bureau of Investigation",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

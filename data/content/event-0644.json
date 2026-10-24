@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0644",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+  "title": "Thomas Midgley Jr.",
+  "revisionId": 1379804840,
+  "revisionTimestamp": "2026-10-12T01:22:57Z",
+  "fetchedAt": "2026-10-24T15:38:10.802Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Thomas Midgley Jr. (May 18, 1889 – November 2, 1944), also known as \"The Man Who Accidentally Poisoned the Planet Twice\" was an American mechanical and chemical engineer. He played a major role in developing leaded gasoline (tetraethyl lead) and some of the first chlorofluorocarbons (CFCs), better known in the United States by the brand name Freon; both products were later banned from common use due to their harmful impact on human health and the environment. He was granted more than 100 patents over the course of his career.\nMidgley contracted polio in 1940 and lost the use of his legs; in 1944, he was found strangled to death by a device he devised to allow him to get out of bed unassisted. It is often reported that he had been accidentally killed by his own invention, but his death was declared by the coroner to be a suicide.\nWhile the harmful effects of CFCs were not understood until decades after Midgley's death, tetraethyl lead was known to be acutely toxic by those involved in the development of leaded gasoline. This included Midgley, who publicly insisted that there was nonetheless no health hazard posed by the use of leaded gasoline in internal combustion engines."
+}

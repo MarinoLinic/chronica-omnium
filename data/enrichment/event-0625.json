@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0625",
+  "source": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+  "revisionId": 1381232725,
+  "fetchedAt": "2026-10-24T15:38:03.033Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monroecirca1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/960px-Monroecirca1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/330px-Monroecirca1953.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Monroecirca1953.jpg",
+      "artist": "Bert Parry",
+      "credit": "Page 39",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

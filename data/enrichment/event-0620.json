@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0620",
+  "source": "https://en.wikipedia.org/wiki/John_Harvey_Kellogg",
+  "revisionId": 1378712865,
+  "fetchedAt": "2026-10-24T15:37:28.572Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portrait_of_Dr._John_Harvey_Kellogg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Portrait_of_Dr._John_Harvey_Kellogg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Portrait_of_Dr._John_Harvey_Kellogg.jpg/330px-Portrait_of_Dr._John_Harvey_Kellogg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Dr._John_Harvey_Kellogg.jpg",
+      "artist": "F. E. Doty",
+      "credit": "http://dspace.willardlibrary.org/xmlui/handle/123456789/9371?show=full",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

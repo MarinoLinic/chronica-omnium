@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0623",
+  "source": "https://en.wikipedia.org/wiki/Lord_Byron",
+  "title": "Lord Byron",
+  "revisionId": 1381281103,
+  "revisionTimestamp": "2026-10-21T08:01:30Z",
+  "fetchedAt": "2026-10-24T15:38:02.242Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "George Noel Gordon Byron, 6th Baron Byron (22 January 1788 – 19 April 1824), was a British poet. He was one of the major figures of the Romantic movement, and is regarded as being among the greatest British poets. Among his best-known works are the lengthy narratives Don Juan and Childe Harold's Pilgrimage; many of his shorter lyrics in Hebrew Melodies also became popular.\n\nByron was educated at Trinity College at the University of Cambridge. Following graduation, he travelled extensively in Europe, living for seven years in Italy, in Venice, Ravenna, Pisa, and Genoa, as he was forced to flee England after receiving threats of lynching. During his stay in Italy, he would frequently visit his friend and fellow poet Percy Bysshe Shelley. Later in life, Byron joined the Greek War of Independence to fight the Ottoman Empire, for which Greeks revere him as a folk hero. He died leading a campaign in 1824, at the age of 36, from a fever contracted after the first and second sieges of Missolonghi."
+}

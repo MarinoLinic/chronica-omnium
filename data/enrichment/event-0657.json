@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0657",
+  "source": "https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis",
+  "revisionId": 1380488672,
+  "fetchedAt": "2026-10-24T15:37:08.326Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg/960px-%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg/330px-%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%83%99%E3%83%BC%E3%83%AB%E3%82%A4%E3%83%89%E3%83%BC%E3%83%A0.jpg",
+      "artist": "Bergmann at Japanese Wikipedia",
+      "credit": "Own work(original source on jawp: ja:File:ベールイドーム.jpg)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

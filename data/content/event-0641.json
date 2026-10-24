@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0641",
+  "source": "https://en.wikipedia.org/wiki/Thomas_Digges",
+  "title": "Thomas Digges",
+  "revisionId": 1372001088,
+  "revisionTimestamp": "2026-08-29T20:05:29Z",
+  "fetchedAt": "2026-10-24T15:38:09.860Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Thomas Digges (; c. 1546 – 24 August 1595) was an English mathematician and astronomer. He was the first to expound the Copernican system in English but discarded the notion of a fixed shell of immoveable stars to postulate infinitely many stars at varying distances. He was also first to postulate the \"dark night sky paradox\"."
+}
