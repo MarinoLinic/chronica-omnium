@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0374",
+  "id_num": 374,
+  "slug": "spanish-flu",
+  "status": "review",
+  "name": "Spanish flu",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1918,
+  "end": 1920,
+  "location": "World",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Spanish_flu",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/1920px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "spanish-flu",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2,
+    "generation_diff": 0,
+    "generations_end": 5,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 374,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/960px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg/330px-Emergency_hospital_during_Influenza_epidemic%2C_Camp_Funston%2C_Kansas_-_NCP_1603.jpg",
+    "range_type": null,
+    "time_bp_end": 103,
+    "time_bp_start": 105,
+    "time_end": "1920 ",
+    "time_start": "1918 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

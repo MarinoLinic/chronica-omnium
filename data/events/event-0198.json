@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0198",
+  "id_num": 198,
+  "slug": "-last-western-roman-emperor-assassinated",
+  "status": "review",
+  "name": " Last Western Roman Emperor assassinated",
+  "short_desc": "Julius Nepos assassinated",
+  "long_desc": " Last Western Roman Emperor assassinated",
+  "start": 480,
+  "end": null,
+  "location": "Dalmatia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-6a98bc0ea0c8"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "-last-western-roman-emperor-assassinated",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 77,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 198,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1543,
+    "time_end": null,
+    "time_start": "480 ",
+    "location_info": {
+      "display_name": "Dalmatia, Northumberland County, Pennsylvania, 17017, United States",
+      "boundingbox": [
+        "40.6342515",
+        "40.6742515",
+        "-76.9224752",
+        "-76.8824752"
+      ],
+      "osm_id": 158526424,
+      "osm_type": "node",
+      "coordinates": [
+        40.6542515,
+        -76.9024752
+      ]
+    }
+  }
+}

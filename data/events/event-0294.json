@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0294",
+  "id_num": 294,
+  "slug": "george-frideric-handel",
+  "status": "review",
+  "name": "George Frideric Handel",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1685,
+  "end": 1759,
+  "location": "Halle",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/1920px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-f715c83fb2d5"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "george-frideric-handel",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 74,
+    "generation_diff": 3,
+    "generations_end": 13,
+    "generations_start": 16,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 294,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/960px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/330px-George_Frideric_Handel_by_Balthasar_Denner.jpg",
+    "range_type": null,
+    "time_bp_end": 264,
+    "time_bp_start": 338,
+    "time_end": "1759 ",
+    "time_start": "1685 ",
+    "location_info": {
+      "display_name": "Halle (Saale), Sachsen-Anhalt, Deutschland",
+      "boundingbox": [
+        "51.4021008",
+        "51.5435116",
+        "11.8552541",
+        "12.0892171"
+      ],
+      "osm_id": 62638,
+      "osm_type": "relation",
+      "coordinates": [
+        51.4825041,
+        11.9705452
+      ]
+    }
+  }
+}

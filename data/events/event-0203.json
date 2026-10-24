@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0203",
+  "id_num": 203,
+  "slug": "the-plague-of-justinian",
+  "status": "review",
+  "name": "The Plague of Justinian",
+  "short_desc": "The Plague of Justinian (outbreak of the First plague pandemic) kills 30-50 million people",
+  "long_desc": "The Plague of Justinian",
+  "start": 541,
+  "end": 549,
+  "location": "Mediterranean",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaguet03.jpg/1920px-Plaguet03.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b01c72c717ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-plague-of-justinian",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 8,
+    "generation_diff": 1,
+    "generations_end": 73,
+    "generations_start": 74,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 203,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaguet03.jpg/960px-Plaguet03.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plaguet03.jpg/330px-Plaguet03.jpg",
+    "range_type": null,
+    "time_bp_end": 1474,
+    "time_bp_start": 1482,
+    "time_end": "549 ",
+    "time_start": "541 ",
+    "location_info": {
+      "display_name": "Mediterranean, İskele, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.2554556",
+        "35.2559192",
+        "33.903377",
+        "33.9046383"
+      ],
+      "osm_id": 695975547,
+      "osm_type": "way",
+      "coordinates": [
+        35.25570135,
+        33.9040119532
+      ]
+    }
+  }
+}

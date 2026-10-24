@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0180",
+  "id_num": 180,
+  "slug": "nero-reign",
+  "status": "review",
+  "name": "Nero (reign)",
+  "short_desc": "Emperor Nero's reign",
+  "long_desc": "Nero (reign)",
+  "start": 54,
+  "end": 68,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Nero",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nero_Glyptothek_Munich_321.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "nero-reign",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 14,
+    "generation_diff": 1,
+    "generations_end": 97,
+    "generations_start": 98,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 180,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/960px-Nero_Glyptothek_Munich_321.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nero_Glyptothek_Munich_321.jpg/330px-Nero_Glyptothek_Munich_321.jpg",
+    "range_type": null,
+    "time_bp_end": 1955,
+    "time_bp_start": 1969,
+    "time_end": "68 ",
+    "time_start": "54 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

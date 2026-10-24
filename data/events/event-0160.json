@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0160",
+  "id_num": 160,
+  "slug": "punic-wars",
+  "status": "review",
+  "name": "Punic Wars",
+  "short_desc": "Punic Wars (Rome v. Carthage)",
+  "long_desc": "Punic Wars",
+  "start": -264,
+  "end": -146,
+  "location": "Mediterranean",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Punic_Wars",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Domain_changes_during_the_Punic_Wars.gif",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b01c72c717ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "punic-wars",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 118,
+    "generation_diff": 6,
+    "generations_end": 108,
+    "generations_start": 114,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 160,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/3/30/Domain_changes_during_the_Punic_Wars.gif",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Domain_changes_during_the_Punic_Wars.gif/330px-Domain_changes_during_the_Punic_Wars.gif",
+    "range_type": null,
+    "time_bp_end": 2169,
+    "time_bp_start": 2287,
+    "time_end": "146 BCE",
+    "time_start": "264 BCE",
+    "location_info": {
+      "display_name": "Mediterranean, İskele, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.2554556",
+        "35.2559192",
+        "33.903377",
+        "33.9046383"
+      ],
+      "osm_id": 695975547,
+      "osm_type": "way",
+      "coordinates": [
+        35.25570135,
+        33.9040119532
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0342",
+  "id_num": 342,
+  "slug": "austria-hungary",
+  "status": "review",
+  "name": "Austria-Hungary",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1867,
+  "end": 1918,
+  "location": "Central Europe",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Austria-Hungary",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Austro-Hungarian_Monarchy_%281914%29.svg/1920px-Austro-Hungarian_Monarchy_%281914%29.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-40d9a90716b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "austria-hungary",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 51,
+    "generation_diff": 2,
+    "generations_end": 5,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 342,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Austro-Hungarian_Monarchy_%281914%29.svg/960px-Austro-Hungarian_Monarchy_%281914%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Austro-Hungarian_Monarchy_%281914%29.svg/330px-Austro-Hungarian_Monarchy_%281914%29.svg.png",
+    "range_type": null,
+    "time_bp_end": 105,
+    "time_bp_start": 156,
+    "time_end": "1918 ",
+    "time_start": "1867 ",
+    "location_info": {
+      "display_name": "Central Europe, Muskogee County, Oklahoma, 74423, United States",
+      "boundingbox": [
+        "35.670103",
+        "35.670119",
+        "-95.167596",
+        "-95.164943"
+      ],
+      "osm_id": 14903654,
+      "osm_type": "way",
+      "coordinates": [
+        35.670119,
+        -95.167241
+      ]
+    }
+  }
+}

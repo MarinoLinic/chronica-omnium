@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0124",
+  "id_num": 124,
+  "slug": "code-of-hamurabi",
+  "status": "review",
+  "name": "Code of Hamurabi",
+  "short_desc": null,
+  "long_desc": "Code of Hamurabi",
+  "start": -1750,
+  "end": null,
+  "location": "Babylon",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-348260ed7e92"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "code-of-hamurabi",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 188,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 124,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/960px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/P1050763_Louvre_code_Hammurabi_face_rwk.JPG/330px-P1050763_Louvre_code_Hammurabi_face_rwk.JPG",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 3700,
+    "time_end": null,
+    "time_start": "1750 BCE",
+    "location_info": {
+      "display_name": "بابل, قرية عنان, ناحية مرکز قضاء الحلة, قضاء الحلة, محافظة بابل, 51001, العراق",
+      "boundingbox": [
+        "32.5207313",
+        "32.5698221",
+        "44.4057606",
+        "44.4540933"
+      ],
+      "osm_id": 961272499,
+      "osm_type": "way",
+      "coordinates": [
+        32.5447132,
+        44.4318143344
+      ]
+    }
+  }
+}

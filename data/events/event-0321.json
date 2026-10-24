@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0321",
+  "id_num": 321,
+  "slug": "haitian-revolution",
+  "status": "review",
+  "name": "Haitian Revolution",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1791,
+  "end": 1804,
+  "location": "Haiti",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/w/index.php?title=Haitian_Revolution&oldid=689232983",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Revolucion_Haitiana.png/1920px-Revolucion_Haitiana.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-d090b87e4a3b"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "haitian-revolution",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 13,
+    "generation_diff": 1,
+    "generations_end": 10,
+    "generations_start": 11,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 321,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Revolucion_Haitiana.png/960px-Revolucion_Haitiana.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Revolucion_Haitiana.png/330px-Revolucion_Haitiana.png",
+    "range_type": null,
+    "time_bp_end": 219,
+    "time_bp_start": 232,
+    "time_end": "1804 ",
+    "time_start": "1791 ",
+    "location_info": {
+      "display_name": "Ayiti",
+      "boundingbox": [
+        "17.820859",
+        "20.2911852",
+        "-75.2384618",
+        "-71.6217461"
+      ],
+      "osm_id": 307829,
+      "osm_type": "relation",
+      "coordinates": [
+        19.1399952,
+        -72.3570972
+      ]
+    }
+  }
+}

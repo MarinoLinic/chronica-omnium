@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0004",
+  "id_num": 4,
+  "slug": "solar-system",
+  "status": "review",
+  "name": "Solar System",
+  "short_desc": "Formation of the Solar System",
+  "long_desc": "Solar System",
+  "start": -4540000000,
+  "end": null,
+  "location": "Solar System",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Solar_System_annotated.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-e98b4de710d8"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "solar-system",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Hadean",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 4,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Solar_System_annotated.jpg/960px-Solar_System_annotated.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Solar_System_annotated.jpg/330px-Solar_System_annotated.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 4540000000,
+    "time_end": null,
+    "time_start": "4.54 billion BCE",
+    "location_info": {
+      "display_name": "Solar System, Observatory Trail, Los Angeles, Los Angeles County, California, 90027, United States",
+      "boundingbox": [
+        "34.1185308",
+        "34.1186308",
+        "-118.3004229",
+        "-118.3003229"
+      ],
+      "osm_id": 6916483741,
+      "osm_type": "node",
+      "coordinates": [
+        34.1185808,
+        -118.3003729
+      ]
+    }
+  }
+}

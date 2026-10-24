@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0091",
+  "id_num": 91,
+  "slug": "proto-indo-europeans",
+  "status": "review",
+  "name": "Proto-Indo-Europeans",
+  "short_desc": "Proto Indo-Europeans (Caucasus)",
+  "long_desc": "Proto-Indo-Europeans",
+  "start": -5500,
+  "end": -4500,
+  "location": "Caucasus",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Proto-Indo-Europeans",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/1920px-Indo-European_migrations.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": "1",
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e72cd6342c10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "proto-indo-europeans",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Western European Neolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1000,
+    "generation_diff": 55,
+    "generations_end": 362,
+    "generations_start": 417,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 91,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/960px-Indo-European_migrations.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Indo-European_migrations.jpg/330px-Indo-European_migrations.jpg",
+    "range_type": null,
+    "time_bp_end": 6500,
+    "time_bp_start": 7500,
+    "time_end": "4500 BCE",
+    "time_start": "5500 BCE",
+    "location_info": {
+      "display_name": "caucasus, ლუარსაბ ანდრონიკაშვილის ქუჩა, დიღმისველი, საბურთალოს რაიონი, სოფელი დიღომი, თბილისი, 0159, საქართველო",
+      "boundingbox": [
+        "41.7727558",
+        "41.7728558",
+        "44.7625876",
+        "44.7626876"
+      ],
+      "osm_id": 5526968821,
+      "osm_type": "node",
+      "coordinates": [
+        41.7728058,
+        44.7626376
+      ]
+    }
+  }
+}

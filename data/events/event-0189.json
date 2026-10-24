@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0189",
+  "id_num": 189,
+  "slug": "tetrarchy",
+  "status": "review",
+  "name": "Tetrarchy",
+  "short_desc": "Diocletian introduces the Tetrarchy (officially in 293) begins dividing the Empire",
+  "long_desc": "Tetrarchy",
+  "start": 286,
+  "end": null,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Tetrarchy",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Tetrarchy_map3.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "tetrarchy",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 86,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 189,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tetrarchy_map3.jpg/960px-Tetrarchy_map3.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Tetrarchy_map3.jpg/330px-Tetrarchy_map3.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1737,
+    "time_end": null,
+    "time_start": "286 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

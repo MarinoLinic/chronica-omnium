@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0357",
+  "id_num": 357,
+  "slug": "impressionist-music",
+  "status": "review",
+  "name": "Impressionist music",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1890,
+  "end": 1930,
+  "location": "Europe",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Impressionism_in_music",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Claude_Debussy_atelier_Nadar.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "impressionist-music",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 40,
+    "generation_diff": 2,
+    "generations_end": 4,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 357,
+    "img_md": "https://upload.wikimedia.org/wikipedia/en/b/b4/Claude_Debussy_atelier_Nadar.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Claude_Debussy_atelier_Nadar.jpg/330px-Claude_Debussy_atelier_Nadar.jpg",
+    "range_type": null,
+    "time_bp_end": 93,
+    "time_bp_start": 133,
+    "time_end": "1930 ",
+    "time_start": "1890 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

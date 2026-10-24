@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0072",
+  "id_num": 72,
+  "slug": "domestication-of-wolves",
+  "status": "review",
+  "name": "Domestication of wolves",
+  "short_desc": "Domestication of dog from gray wolf (Canis lupus) in Siberia (by ANE)",
+  "long_desc": "Domestication of wolves",
+  "start": -21000,
+  "end": null,
+  "location": "Siberia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Canis_lupus_howling_on_glacial_erratic.jpg/1920px-Canis_lupus_howling_on_glacial_erratic.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-a5503f12a7ac"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "domestication-of-wolves",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Upper Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1438,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 72,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Canis_lupus_howling_on_glacial_erratic.jpg/960px-Canis_lupus_howling_on_glacial_erratic.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Canis_lupus_howling_on_glacial_erratic.jpg/330px-Canis_lupus_howling_on_glacial_erratic.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 23000,
+    "time_end": null,
+    "time_start": "21 thousand BCE",
+    "location_info": {
+      "display_name": "Сибирь, Красноярский край, Сибирский федеральный округ, Россия",
+      "boundingbox": [
+        "59",
+        "61",
+        "99",
+        "101"
+      ],
+      "osm_id": 5332639323,
+      "osm_type": "node",
+      "coordinates": [
+        60,
+        100
+      ]
+    }
+  }
+}

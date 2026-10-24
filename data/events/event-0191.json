@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0191",
+  "id_num": 191,
+  "slug": "the-great-migration",
+  "status": "review",
+  "name": "The Great Migration",
+  "short_desc": "The Great [Barbarian] Migration (into the Roman Empire)",
+  "long_desc": "The Great Migration",
+  "start": 375,
+  "end": 568,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Migration_Period",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Invasions_of_the_Roman_Empire_1.png/1920px-Invasions_of_the_Roman_Empire_1.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-great-migration",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 193,
+    "generation_diff": 10,
+    "generations_end": 72,
+    "generations_start": 82,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 191,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Invasions_of_the_Roman_Empire_1.png/960px-Invasions_of_the_Roman_Empire_1.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Invasions_of_the_Roman_Empire_1.png/330px-Invasions_of_the_Roman_Empire_1.png",
+    "range_type": null,
+    "time_bp_end": 1455,
+    "time_bp_start": 1648,
+    "time_end": "568 ",
+    "time_start": "375 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

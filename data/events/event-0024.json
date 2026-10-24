@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0024",
+  "id_num": 24,
+  "slug": "cretaceouspaleogene-k-pg-extinction-event",
+  "status": "review",
+  "name": "CretaceousPaleogene (K-Pg) extinction event",
+  "short_desc": "Asteroid impact and mass extinction of life (75%) incl. all non-avian dinosaurs",
+  "long_desc": "CretaceousPaleogene (K-Pg) extinction event",
+  "start": -66000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Impact_event.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "cretaceouspaleogene-k-pg-extinction-event",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 6600000,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Paleogene",
+    "id_num": 24,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Impact_event.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impact_event.jpg/330px-Impact_event.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 66000000,
+    "time_end": null,
+    "time_start": "66 million BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

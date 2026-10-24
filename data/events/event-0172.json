@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0172",
+  "id_num": 172,
+  "slug": "roman-invasion-of-celtic-britain",
+  "status": "review",
+  "name": "Roman invasion of Celtic Britain",
+  "short_desc": "Caesar's two invasions of Celtic Britain",
+  "long_desc": "Roman invasion of Celtic Britain",
+  "start": -55,
+  "end": -54,
+  "location": "Great Britain",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Roman_conquest_of_Britain",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Roman.Britain.campaigns.43.to.84.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b5cbec1a064d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "roman-invasion-of-celtic-britain",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1,
+    "generation_diff": 0,
+    "generations_end": 103,
+    "generations_start": 103,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 172,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Roman.Britain.campaigns.43.to.84.jpg/960px-Roman.Britain.campaigns.43.to.84.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Roman.Britain.campaigns.43.to.84.jpg/330px-Roman.Britain.campaigns.43.to.84.jpg",
+    "range_type": null,
+    "time_bp_end": 2077,
+    "time_bp_start": 2078,
+    "time_end": "54 BCE",
+    "time_start": "55 BCE",
+    "location_info": {
+      "display_name": "Great Britain, United Kingdom",
+      "boundingbox": [
+        "49.9586975",
+        "58.672078",
+        "-6.2278849",
+        "1.7632199"
+      ],
+      "osm_id": 6038068,
+      "osm_type": "relation",
+      "coordinates": [
+        54.31536155,
+        -1.9180234948
+      ]
+    }
+  }
+}

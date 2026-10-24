@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0440",
+  "id_num": 440,
+  "slug": "january-6-us-capitol-attack",
+  "status": "review",
+  "name": "January 6 US Capitol attack",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2021,
+  "end": null,
+  "location": "Washington D.C.",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/1920px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78d51f04a119"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "january-6-us-capitol-attack",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 440,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/960px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/330px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2,
+    "time_end": null,
+    "time_start": "2021 ",
+    "location_info": {
+      "display_name": "Washington, District of Columbia, United States",
+      "boundingbox": [
+        "38.7916303",
+        "38.995968",
+        "-77.1197949",
+        "-76.909366"
+      ],
+      "osm_id": 5396194,
+      "osm_type": "relation",
+      "coordinates": [
+        38.8950368,
+        -77.0365427
+      ]
+    }
+  }
+}

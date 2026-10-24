@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0423",
+  "id_num": 423,
+  "slug": "ronald-reagan-in-office",
+  "status": "review",
+  "name": "Ronald Reagan (in office)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1981,
+  "end": 1989,
+  "location": "United States",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/1920px-Official_Portrait_of_President_Reagan_1981.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ronald-reagan-in-office",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 8,
+    "generation_diff": 1,
+    "generations_end": 1,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 423,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/960px-Official_Portrait_of_President_Reagan_1981.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg",
+    "range_type": null,
+    "time_bp_end": 34,
+    "time_bp_start": 42,
+    "time_end": "1989 ",
+    "time_start": "1981 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

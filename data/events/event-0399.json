@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0399",
+  "id_num": 399,
+  "slug": "the-fountainhead",
+  "status": "review",
+  "name": "The Fountainhead",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1943,
+  "end": null,
+  "location": "United States",
+  "type": "Book",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/The_Fountainhead",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-fountainhead",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 399,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg/330px-The_Fountain_Head_%281943_1st_ed%29_-_Ayn_Rand.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 80,
+    "time_end": null,
+    "time_start": "1943 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

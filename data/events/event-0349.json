@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0349",
+  "id_num": 349,
+  "slug": "german-empire",
+  "status": "review",
+  "name": "German Empire",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1871,
+  "end": 1918,
+  "location": "Germany",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/German_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/German_Empire_1914.svg/1920px-German_Empire_1914.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-80db4ccdca10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "german-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 47,
+    "generation_diff": 2,
+    "generations_end": 5,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 349,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/German_Empire_1914.svg/960px-German_Empire_1914.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/German_Empire_1914.svg/330px-German_Empire_1914.svg.png",
+    "range_type": null,
+    "time_bp_end": 105,
+    "time_bp_start": 152,
+    "time_end": "1918 ",
+    "time_start": "1871 ",
+    "location_info": {
+      "display_name": "Deutschland",
+      "boundingbox": [
+        "47.2701114",
+        "55.099161",
+        "5.8663153",
+        "15.0419309"
+      ],
+      "osm_id": 51477,
+      "osm_type": "relation",
+      "coordinates": [
+        51.1638175,
+        10.4478313
+      ]
+    }
+  }
+}

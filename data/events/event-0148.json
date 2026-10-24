@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0148",
+  "id_num": 148,
+  "slug": "confucius",
+  "status": "review",
+  "name": "Confucius",
+  "short_desc": null,
+  "long_desc": "Confucius",
+  "start": -551,
+  "end": -479,
+  "location": "Shandong",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Confucius",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b80a89eaa759"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "confucius",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 72,
+    "generation_diff": 3,
+    "generations_end": 125,
+    "generations_start": 128,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 148,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Confucius_Tang_Dynasty.jpg/330px-Confucius_Tang_Dynasty.jpg",
+    "range_type": null,
+    "time_bp_end": 2502,
+    "time_bp_start": 2574,
+    "time_end": "479 BCE",
+    "time_start": "551 BCE",
+    "location_info": {
+      "display_name": "山东省, 中国",
+      "boundingbox": [
+        "34.3785778",
+        "38.6014435",
+        "114.8169103",
+        "122.9567578"
+      ],
+      "osm_id": 913006,
+      "osm_type": "relation",
+      "coordinates": [
+        36.0000001,
+        118.9999999
+      ]
+    }
+  }
+}

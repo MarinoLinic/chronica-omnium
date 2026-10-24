@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0454",
+  "text": "Sputnik 1 (/ˈspʌtnɪk, ˈspʊtnɪk/; see § Etymology) was the first artificial Earth satellite. It was launched into an elliptical low Earth orbit by the Soviet Union on 4 October 1957 as part of the Soviet space program. It sent a radio signal back to Earth for three weeks before its three silver-zinc batteries ran out. Aerodynamic drag caused it to fall back into the atmosphere on 4 January 1958.\n\nIt was a polished metal sphere 58 cm (23 in) in diameter with four external radio antennas to broadcast radio pulses. Its radio signal was easily detectable by amateur radio operators, and the 65° orbital inclination made its flight path cover virtually the entire inhabited Earth.\n\nThe satellite's unanticipated success precipitated the American Sputnik crisis and triggered the Space Race, part of the Cold War. The launch was the beginning of a new era of political, military, technological and scientific developments. The word sputnik is Russian for satellite when interpreted in an astronomical context; its other meanings are spouse or traveling companion.\n\nTracking and studying Sputnik 1 from Earth provided scientists with valuable information. The density of the upper atmosphere could be deduced from its drag on the orbit, and the propagation of its radio signals gave data about the ionosphere.\n\nSputnik 1 was launched during the International Geophysical Year from Site No.1/5, at the 5th Tyuratam range, in Kazakh SSR (now known as the Baikonur Cosmodrome). The satellite traveled at a peak speed of about 8 km/s (18,000 mph), taking 96.20 minutes to complete each orbit. It transmitted on 20.005 and 40.002 MHz, which were monitored by radio operators throughout the world. The signals continued for 21 days until the transmitter batteries ran out on 26 October 1957. Sputnik 1 burned up on 4 January 1958 while reentering Earth's atmosphere, after three months, 1,440 completed orbits of the Earth, and a distance traveled of about 70,000,000 km (43,000,000 mi).\n\n",
+  "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

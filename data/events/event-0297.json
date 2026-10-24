@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0297",
+  "id_num": 297,
+  "slug": "saint-petersburg-founded",
+  "status": "review",
+  "name": "Saint Petersburg founded",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1703,
+  "end": null,
+  "location": "Saint Petersburg",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Saint_Petersburg#:~:text=Founded-,27%C2%A0May%C2%A01703,-%5B3%5D",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-8019b77606f9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "saint-petersburg-founded",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 16,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 297,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg/960px-Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg/330px-Locator_map_of_Saint_Petersburg%2C_Russia_%282014%E2%80%932022%29.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 320,
+    "time_end": null,
+    "time_start": "1703 ",
+    "location_info": {
+      "display_name": "Saint Petersburg, Pinellas County, Florida, United States",
+      "boundingbox": [
+        "27.643638",
+        "27.913901",
+        "-82.769023",
+        "-82.540618"
+      ],
+      "osm_id": 118894,
+      "osm_type": "relation",
+      "coordinates": [
+        27.7703796,
+        -82.6695085
+      ]
+    }
+  }
+}

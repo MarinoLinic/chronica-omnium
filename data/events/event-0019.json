@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0019",
+  "id_num": 19,
+  "slug": "pangea",
+  "status": "review",
+  "name": "Pangea",
+  "short_desc": null,
+  "long_desc": "Pangea",
+  "start": -335000000,
+  "end": -200000000,
+  "location": "Pangea",
+  "type": "Period",
+  "field": "Geology",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Pangaea",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pangaea_200Ma.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-93979002f8f4"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "pangea",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 135000000,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Paleozoic",
+    "geologic_period": "Carboniferous",
+    "id_num": 19,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pangaea_200Ma.jpg/960px-Pangaea_200Ma.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pangaea_200Ma.jpg/330px-Pangaea_200Ma.jpg",
+    "range_type": null,
+    "time_bp_end": 200000000,
+    "time_bp_start": 335000000,
+    "time_end": "200 million BCE",
+    "time_start": "335 million BCE",
+    "location_info": {
+      "display_name": "Pangea, Gorontalo, Indonesia",
+      "boundingbox": [
+        "0.7332806",
+        "0.7732806",
+        "122.4512841",
+        "122.4912841"
+      ],
+      "osm_id": 1308647760,
+      "osm_type": "node",
+      "coordinates": [
+        0.7532806,
+        122.4712841
+      ]
+    }
+  }
+}

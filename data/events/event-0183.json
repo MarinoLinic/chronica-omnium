@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0183",
+  "id_num": 183,
+  "slug": "siege-of-jerusalem",
+  "status": "review",
+  "name": "Siege of Jerusalem",
+  "short_desc": "Siege of Jerusalem (Jews expelled by general Titus)",
+  "long_desc": "Siege of Jerusalem",
+  "start": 70,
+  "end": null,
+  "location": "Jerusalem",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(70_CE)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Arch_of_Titus_Menorah.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-451ebbe3f766"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "siege-of-jerusalem",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 97,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 183,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arch_of_Titus_Menorah.png/960px-Arch_of_Titus_Menorah.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Arch_of_Titus_Menorah.png/330px-Arch_of_Titus_Menorah.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1953,
+    "time_end": null,
+    "time_start": "70 ",
+    "location_info": {
+      "display_name": "ירושלים | القدس, נפת ירושלים, מחוז ירושלים, ישראל",
+      "boundingbox": [
+        "31.7096214",
+        "31.8826655",
+        "35.0852011",
+        "35.2650458"
+      ],
+      "osm_id": 1381350,
+      "osm_type": "relation",
+      "coordinates": [
+        31.7788242,
+        35.2257626
+      ]
+    }
+  }
+}

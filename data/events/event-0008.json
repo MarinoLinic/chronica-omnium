@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0008",
+  "id_num": 8,
+  "slug": "late-heavy-bombardment-lhb",
+  "status": "review",
+  "name": "Late Heavy Bombardment (LHB)",
+  "short_desc": null,
+  "long_desc": "Late Heavy Bombardment (LHB)",
+  "start": -4100000000,
+  "end": -3900000000,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Late_Heavy_Bombardment",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lunar_cataclysm.jpg/1920px-Lunar_cataclysm.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "late-heavy-bombardment-lhb",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Hadean",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 8,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lunar_cataclysm.jpg/960px-Lunar_cataclysm.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Lunar_cataclysm.jpg/330px-Lunar_cataclysm.jpg",
+    "range_type": 1,
+    "time_bp_end": 3900000000,
+    "time_bp_start": 4100000000,
+    "time_end": "3.9 billion BCE",
+    "time_start": "4.1 billion BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

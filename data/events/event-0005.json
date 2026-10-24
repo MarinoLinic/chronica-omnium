@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0005",
+  "id_num": 5,
+  "slug": "theia-collides-with-earth",
+  "status": "review",
+  "name": "Theia collides with Earth",
+  "short_desc": "Theia hits Earth; ejected material coalesces to create the Moon",
+  "long_desc": "Theia collides with Earth",
+  "start": -4425000000,
+  "end": null,
+  "location": "Moon",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Theia_(planet)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Big_Splash_Theia.gif",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-5fc165254f4f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "theia-collides-with-earth",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Hadean",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 5,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/7/74/Big_Splash_Theia.gif",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Big_Splash_Theia.gif/330px-Big_Splash_Theia.gif",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 4425000000,
+    "time_end": null,
+    "time_start": "4.425 billion BCE",
+    "location_info": {
+      "display_name": "Muhu, Saare maakond, Eesti",
+      "boundingbox": [
+        "58.5073704",
+        "58.6844376",
+        "23.0664193",
+        "23.4061863"
+      ],
+      "osm_id": 189933,
+      "osm_type": "relation",
+      "coordinates": [
+        58.5959044,
+        23.219646086
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0385",
+  "id_num": 385,
+  "slug": "mustafa-kemal-atatrk-in-office",
+  "status": "review",
+  "name": "Mustafa Kemal Atatürk (in office)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1923,
+  "end": 1938,
+  "location": "Turkey",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atat%C3%BCrk_Smokinli.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-07c67d76ef92"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "mustafa-kemal-atatrk-in-office",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 15,
+    "generation_diff": 1,
+    "generations_end": 4,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 385,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atat%C3%BCrk_Smokinli.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Atat%C3%BCrk_Smokinli.png/330px-Atat%C3%BCrk_Smokinli.png",
+    "range_type": null,
+    "time_bp_end": 85,
+    "time_bp_start": 100,
+    "time_end": "1938 ",
+    "time_start": "1923 ",
+    "location_info": {
+      "display_name": "Türkiye",
+      "boundingbox": [
+        "35.8059015",
+        "42.297",
+        "25.5656305",
+        "44.8176638"
+      ],
+      "osm_id": 174737,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9597594,
+        34.9249653
+      ]
+    }
+  }
+}

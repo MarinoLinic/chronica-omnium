@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0434",
+  "id_num": 434,
+  "slug": "fukushima-nuclear-disaster",
+  "status": "review",
+  "name": "Fukushima nuclear disaster",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2011,
+  "end": null,
+  "location": "?kuma",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Fukushima_nuclear_disaster",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fukushima_I_by_Digital_Globe.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-a637a80faf7a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "fukushima-nuclear-disaster",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 434,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/960px-Fukushima_I_by_Digital_Globe.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/330px-Fukushima_I_by_Digital_Globe.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 12,
+    "time_end": null,
+    "time_start": "2011 ",
+    "location_info": {
+      "display_name": "استان قم, ایران",
+      "boundingbox": [
+        "34.1581799",
+        "35.2186113",
+        "50.0862046",
+        "51.9649046"
+      ],
+      "osm_id": 537702,
+      "osm_type": "relation",
+      "coordinates": [
+        34.7191915,
+        51.0122844
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0307",
+  "id_num": 307,
+  "slug": "classical-music",
+  "status": "review",
+  "name": "Classical music",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1750,
+  "end": 1820,
+  "location": "Europe",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Classical_period_(music)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mozart_family_crop.jpg/400px-Mozart_family_crop.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "classical-music",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 70,
+    "generation_diff": 3,
+    "generations_end": 10,
+    "generations_start": 13,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 307,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mozart_family_crop.jpg/960px-Mozart_family_crop.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mozart_family_crop.jpg/330px-Mozart_family_crop.jpg",
+    "range_type": null,
+    "time_bp_end": 203,
+    "time_bp_start": 273,
+    "time_end": "1820 ",
+    "time_start": "1750 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

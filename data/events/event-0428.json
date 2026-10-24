@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0428",
+  "id_num": 428,
+  "slug": "european-union",
+  "status": "review",
+  "name": "European Union",
+  "short_desc": "The EU is formally established",
+  "long_desc": null,
+  "start": 1993,
+  "end": 2023,
+  "location": "Maastricht",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/European_Union#Treaties_of_Maastricht,_Amsterdam_and_Nice_(1993%E2%80%8D%E2%80%93%E2%80%8D2004):~:text=on%201%20November-,1993,-.%5B21%5D",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/1920px-Flag_of_Europe.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-8e3478315386"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "european-union",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 30,
+    "generation_diff": 1,
+    "generations_end": 0,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 428,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/960px-Flag_of_Europe.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 30,
+    "time_end": "2023 ",
+    "time_start": "1993 ",
+    "location_info": {
+      "display_name": "Maastricht, Limburg, Nederland",
+      "boundingbox": [
+        "50.8038053",
+        "50.9120028",
+        "5.6388661",
+        "5.7629249"
+      ],
+      "osm_id": 2078291,
+      "osm_type": "relation",
+      "coordinates": [
+        50.85798545,
+        5.6969881818
+      ]
+    }
+  }
+}

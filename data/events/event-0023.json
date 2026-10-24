@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0023",
+  "id_num": 23,
+  "slug": "emergence-of-primates",
+  "status": "review",
+  "name": "Emergence of primates",
+  "short_desc": "Primates emerge from mammals",
+  "long_desc": "Emergence of primates",
+  "start": -85000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Primate",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Primate_skull_series_with_legend_cropped.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "emergence-of-primates",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 8500000,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Mesozoic",
+    "geologic_period": "Cretaceous",
+    "id_num": 23,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Primate_skull_series_with_legend_cropped.png/960px-Primate_skull_series_with_legend_cropped.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Primate_skull_series_with_legend_cropped.png/330px-Primate_skull_series_with_legend_cropped.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 85000000,
+    "time_end": null,
+    "time_start": "85 million BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

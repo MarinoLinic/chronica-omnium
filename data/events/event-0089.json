@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0089",
+  "id_num": 89,
+  "slug": "beekeeping",
+  "status": "review",
+  "name": "Beekeeping",
+  "short_desc": "Origin of beekeeping in the Middle East",
+  "long_desc": "Beekeeping",
+  "start": -7000,
+  "end": null,
+  "location": "Middle East",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-379440120637"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "beekeeping",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 501,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 89,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/330px-PivotWithDrops.JPG",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 9000,
+    "time_end": null,
+    "time_start": "7000 BCE",
+    "location_info": {
+      "display_name": "Middle East, Baltimore, Maryland, United States",
+      "boundingbox": [
+        "39.2983771",
+        "39.3046478",
+        "-76.5945092",
+        "-76.5851263"
+      ],
+      "osm_id": 12770700,
+      "osm_type": "relation",
+      "coordinates": [
+        39.3014159,
+        -76.5888477
+      ]
+    }
+  }
+}

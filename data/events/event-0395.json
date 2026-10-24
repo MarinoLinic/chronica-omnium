@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0395",
+  "id_num": 395,
+  "slug": "nazi-germany",
+  "status": "review",
+  "name": "Nazi Germany",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1933,
+  "end": 1945,
+  "location": "Europe",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Nazi_Germany",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Greater_German_Reich_%281942%29.svg/1920px-Greater_German_Reich_%281942%29.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "nazi-germany",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 12,
+    "generation_diff": 1,
+    "generations_end": 3,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 395,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Greater_German_Reich_%281942%29.svg/960px-Greater_German_Reich_%281942%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Greater_German_Reich_%281942%29.svg/330px-Greater_German_Reich_%281942%29.svg.png",
+    "range_type": null,
+    "time_bp_end": 78,
+    "time_bp_start": 90,
+    "time_end": "1945 ",
+    "time_start": "1933 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

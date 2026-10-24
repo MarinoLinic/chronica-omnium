@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0281",
+  "id_num": 281,
+  "slug": "jamestown",
+  "status": "review",
+  "name": "Jamestown",
+  "short_desc": "The Jamestown settlement in the Colony of Virginiafirst permanent English settlement in the Americas",
+  "long_desc": "The first permanent English settlement in North America is established by the Virginia Company at Jamestown, Virginia. This initiates migration to the colonies.",
+  "start": 1607,
+  "end": null,
+  "location": "Virginia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Jamestown,_Virginia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1639_Jamestown_Church_%282883847775%29.jpg/1920px-1639_Jamestown_Church_%282883847775%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-0ee033b5f7f9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "jamestown",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 20,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 281,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1639_Jamestown_Church_%282883847775%29.jpg/960px-1639_Jamestown_Church_%282883847775%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1639_Jamestown_Church_%282883847775%29.jpg/330px-1639_Jamestown_Church_%282883847775%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 416,
+    "time_end": null,
+    "time_start": "1607 ",
+    "location_info": {
+      "display_name": "Virginia, United States",
+      "boundingbox": [
+        "36.5407896",
+        "39.466012",
+        "-83.6753671",
+        "-75.166435"
+      ],
+      "osm_id": 224042,
+      "osm_type": "relation",
+      "coordinates": [
+        37.1232245,
+        -78.4927721
+      ]
+    }
+  }
+}

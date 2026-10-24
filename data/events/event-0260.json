@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0260",
+  "id_num": 260,
+  "slug": "magellan-expedition",
+  "status": "review",
+  "name": "Magellan expedition",
+  "short_desc": "First voyage around the world (Ferdinand Magellan)",
+  "long_desc": "Magellan expedition",
+  "start": 1519,
+  "end": 1522,
+  "location": "World",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Magellan_expedition",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/1920px-Magellan_Elcano_Circumnavigation-en.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "magellan-expedition",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 3,
+    "generation_diff": 0,
+    "generations_end": 25,
+    "generations_start": 25,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 260,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/960px-Magellan_Elcano_Circumnavigation-en.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Magellan_Elcano_Circumnavigation-en.svg/330px-Magellan_Elcano_Circumnavigation-en.svg.png",
+    "range_type": null,
+    "time_bp_end": 501,
+    "time_bp_start": 504,
+    "time_end": "1522 ",
+    "time_start": "1519 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

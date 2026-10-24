@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0351",
+  "id_num": 351,
+  "slug": "albert-einstein",
+  "status": "review",
+  "name": "Albert Einstein",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1879,
+  "end": 1955,
+  "location": "Ulm",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Albert_Einstein",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/1920px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7be83aafdc95"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "albert-einstein",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 76,
+    "generation_diff": 4,
+    "generations_end": 3,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 351,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/960px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/330px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg",
+    "range_type": null,
+    "time_bp_end": 68,
+    "time_bp_start": 144,
+    "time_end": "1955 ",
+    "time_start": "1879 ",
+    "location_info": {
+      "display_name": "Ulm, Baden-Württemberg, Deutschland",
+      "boundingbox": [
+        "48.3066627",
+        "48.4685153",
+        "9.8420502",
+        "10.0428303"
+      ],
+      "osm_id": 62495,
+      "osm_type": "relation",
+      "coordinates": [
+        48.3974003,
+        9.9934336
+      ]
+    }
+  }
+}

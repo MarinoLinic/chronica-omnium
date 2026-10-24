@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0027",
+  "id_num": 27,
+  "slug": "danuvius-guggenmosi",
+  "status": "review",
+  "name": "Danuvius guggenmosi",
+  "short_desc": "Danuvius guggenmosi (possibly first bipedal Great Ape) in southern Germany",
+  "long_desc": "Danuvius guggenmosi",
+  "start": -11600000,
+  "end": null,
+  "location": "Southern Germany",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Danuvius_guggenmosi",
+  "image": "https://th-thumbnailer.cdn-si-edu.com/2p3SAp1UJZP5EWX2ZIagO4d-6S8=/1000x750/filters:no_upscale():focal(809x695:810x696)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/cb/92/cb92c4ba-cb46-4ccf-b78a-4298c4facf84/ape-bones.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-0d463ac13204"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "danuvius-guggenmosi",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1160000,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Neogene",
+    "id_num": 27,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 11600000,
+    "time_end": null,
+    "time_start": "11.6 million BCE",
+    "location_info": {
+      "display_name": "Germany, Chateau Ville, Don Bosco, Parañaque, Southern Manila District, Metro Manila, 1711, Philippines",
+      "boundingbox": [
+        "14.4838515",
+        "14.483882",
+        "121.0313139",
+        "121.0314078"
+      ],
+      "osm_id": 52098798,
+      "osm_type": "way",
+      "coordinates": [
+        14.4838515,
+        121.0314078
+      ]
+    }
+  }
+}

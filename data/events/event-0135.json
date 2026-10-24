@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0135",
+  "id_num": 135,
+  "slug": "neo-assyrian-empire",
+  "status": "review",
+  "name": "Neo-Assyrian Empire",
+  "short_desc": null,
+  "long_desc": "Neo-Assyrian Empire",
+  "start": -911,
+  "end": -609,
+  "location": "Near East",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Neo-Assyrian_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_Assyria.png/1920px-Map_of_Assyria.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-1946323a12d6"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "neo-assyrian-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 302,
+    "generation_diff": 15,
+    "generations_end": 131,
+    "generations_start": 146,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 135,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_Assyria.png/960px-Map_of_Assyria.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Map_of_Assyria.png/330px-Map_of_Assyria.png",
+    "range_type": null,
+    "time_bp_end": 2600,
+    "time_bp_start": 2900,
+    "time_end": "609 BCE",
+    "time_start": "911 BCE",
+    "location_info": {
+      "display_name": "Near East, Müftü Raci Sokak, Lefkoşa Türk Belediyesi, Lefkoşa, Kuzey Kıbrıs, 1107, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.1778699",
+        "35.1779699",
+        "33.3606391",
+        "33.3607391"
+      ],
+      "osm_id": 8173344020,
+      "osm_type": "node",
+      "coordinates": [
+        35.1779199,
+        33.3606891
+      ]
+    }
+  }
+}

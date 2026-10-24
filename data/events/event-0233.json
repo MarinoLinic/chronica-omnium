@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0233",
+  "id_num": 233,
+  "slug": "summer-canon",
+  "status": "review",
+  "name": "Summer Canon",
+  "short_desc": "Earliest known musical composition featuring (six-part) polyphony",
+  "long_desc": "Summer Canon",
+  "start": 1261,
+  "end": null,
+  "location": "England",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Sumer_is_icumen_in",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sumer_is_icumen_in_-_Summer_Canon_%28Reading_Rota%29_%28mid_13th_C%29%2C_f.11v_-_BL_Harley_MS_978.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-c0ea960b065c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "summer-canon",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "High Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 38,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 233,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sumer_is_icumen_in_-_Summer_Canon_%28Reading_Rota%29_%28mid_13th_C%29%2C_f.11v_-_BL_Harley_MS_978.jpg/960px-Sumer_is_icumen_in_-_Summer_Canon_%28Reading_Rota%29_%28mid_13th_C%29%2C_f.11v_-_BL_Harley_MS_978.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sumer_is_icumen_in_-_Summer_Canon_%28Reading_Rota%29_%28mid_13th_C%29%2C_f.11v_-_BL_Harley_MS_978.jpg/330px-Sumer_is_icumen_in_-_Summer_Canon_%28Reading_Rota%29_%28mid_13th_C%29%2C_f.11v_-_BL_Harley_MS_978.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 762,
+    "time_end": null,
+    "time_start": "1261 ",
+    "location_info": {
+      "display_name": "England, United Kingdom",
+      "boundingbox": [
+        "49.674",
+        "55.917",
+        "-6.7047494",
+        "2.0919117"
+      ],
+      "osm_id": 58447,
+      "osm_type": "relation",
+      "coordinates": [
+        52.5310214,
+        -1.2649062
+      ]
+    }
+  }
+}

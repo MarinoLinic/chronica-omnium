@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0364",
+  "id_num": 364,
+  "slug": "mensheviks",
+  "status": "review",
+  "name": "Mensheviks",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1903,
+  "end": 1921,
+  "location": "Russia",
+  "type": "Faction",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Mensheviks",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mensevikii.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-33a3d8ed92b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "mensheviks",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 18,
+    "generation_diff": 1,
+    "generations_end": 5,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 364,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mensevikii.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Mensevikii.jpg/330px-Mensevikii.jpg",
+    "range_type": null,
+    "time_bp_end": 102,
+    "time_bp_start": 120,
+    "time_end": "1921 ",
+    "time_start": "1903 ",
+    "location_info": {
+      "display_name": "Россия",
+      "boundingbox": [
+        "41.1850968",
+        "82.0586232",
+        "-180",
+        "180"
+      ],
+      "osm_id": 60189,
+      "osm_type": "relation",
+      "coordinates": [
+        64.6863136,
+        97.7453061
+      ]
+    }
+  }
+}

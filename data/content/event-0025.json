@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0025",
+  "text": "The Antarctic ice sheet is one of the two polar ice caps of Earth. It covers about 98% of the Antarctic continent and is the largest single mass of ice on Earth, with an average thickness of over 2 kilometers. Separate to the Antarctic sea ice it covers an area of almost 14 million square kilometres (5.4 million square miles) and contains 26.5 million cubic kilometres (6,400,000 cubic miles) of ice. A cubic kilometer of ice weighs approximately 0.92 metric gigatonnes, meaning that the ice sheet weighs about 24,380,000 gigatonnes. It holds approximately 61% of all fresh water on Earth, equivalent to about 58 meters of sea level rise if all the ice were above sea level. In East Antarctica, the ice sheet rests on a major land mass, while in West Antarctica the bed can extend to more than 2,500 m below sea level.\n\nSatellite measurements by NASA indicate a still increasing sheet thickness above the continent, outweighing the losses at the edge. The reasons for this are not fully understood, but suggestions include the climatic effects on ocean and atmospheric circulation of the ozone hole, and/or cooler ocean surface temperatures as the warming deep waters melt the ice shelves.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet#:~:text=The%20icing%20of%20Antarctica%20began,in%20the%20thousands%20of%20ppm.",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

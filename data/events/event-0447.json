@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0447",
+  "id_num": 447,
+  "slug": "dot-com-bubble",
+  "status": "review",
+  "name": "Dot-com bubble",
+  "short_desc": "Dot-com crash",
+  "long_desc": null,
+  "start": 1995,
+  "end": 2000,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_VC_funding.png/1920px-US_VC_funding.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "dot-com-bubble",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 5,
+    "generation_diff": 0,
+    "generations_end": 1,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 447,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_VC_funding.png/960px-US_VC_funding.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/US_VC_funding.png/330px-US_VC_funding.png",
+    "range_type": null,
+    "time_bp_end": 23,
+    "time_bp_start": 28,
+    "time_end": "2000 ",
+    "time_start": "1995 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

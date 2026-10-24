@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0134",
+  "id_num": 134,
+  "slug": "kingdom-of-judah-south",
+  "status": "review",
+  "name": "Kingdom of Judah (south)",
+  "short_desc": null,
+  "long_desc": "Kingdom of Judah (south)",
+  "start": -930,
+  "end": -587,
+  "location": "Israel",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Kingdom_of_Judah",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kingdoms_of_Israel_and_Judah_map_830.svg/1920px-Kingdoms_of_Israel_and_Judah_map_830.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3552ac0c0324"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "kingdom-of-judah-south",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 343,
+    "generation_diff": 17,
+    "generations_end": 130,
+    "generations_start": 147,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 134,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kingdoms_of_Israel_and_Judah_map_830.svg/960px-Kingdoms_of_Israel_and_Judah_map_830.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kingdoms_of_Israel_and_Judah_map_830.svg/330px-Kingdoms_of_Israel_and_Judah_map_830.svg.png",
+    "range_type": null,
+    "time_bp_end": 2600,
+    "time_bp_start": 2900,
+    "time_end": "587 BCE",
+    "time_start": "930 BCE",
+    "location_info": {
+      "display_name": "ישראל",
+      "boundingbox": [
+        "29.4533796",
+        "33.3356317",
+        "34.2674994",
+        "35.8950234"
+      ],
+      "osm_id": 1473946,
+      "osm_type": "relation",
+      "coordinates": [
+        30.8124247,
+        34.8594762
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0179",
+  "id_num": 179,
+  "slug": "christianity",
+  "status": "stub",
+  "name": "Christianity",
+  "short_desc": "Common era (\"Christ's birth\"; origin of Christianity)",
+  "long_desc": "Christianity",
+  "start": null,
+  "end": null,
+  "location": "Judea",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Christianity",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/1280px-Christian_cross.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "Legacy year zero is ambiguous in BCE/CE notation. Review the source before choosing a year.",
+  "places": [
+    "place-5553857c83bf"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "christianity",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 101,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 179,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/960px-Christian_cross.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Christian_cross.svg/330px-Christian_cross.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2023,
+    "time_end": null,
+    "time_start": "0 ",
+    "location_info": {
+      "display_name": "Judea, Tauranga, Tauranga City, Bay of Plenty, 3110, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-37.7156662",
+        "-37.6756662",
+        "176.1287548",
+        "176.1687548"
+      ],
+      "osm_id": 3794106970,
+      "osm_type": "node",
+      "coordinates": [
+        -37.6956662,
+        176.1487548
+      ]
+    },
+    "originalStart": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0407",
+  "id_num": 407,
+  "slug": "vietnam-war",
+  "status": "review",
+  "name": "Vietnam War",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1955,
+  "end": 1975,
+  "location": "Vietnam",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Vietnam_War",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-2e5e81066a29"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "vietnam-war",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 20,
+    "generation_diff": 1,
+    "generations_end": 2,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 407,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/960px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
+    "range_type": null,
+    "time_bp_end": 48,
+    "time_bp_start": 68,
+    "time_end": "1975 ",
+    "time_start": "1955 ",
+    "location_info": {
+      "display_name": "Việt Nam",
+      "boundingbox": [
+        "7.6920852",
+        "23.3926918",
+        "102.1438589",
+        "114.8572578"
+      ],
+      "osm_id": 49915,
+      "osm_type": "relation",
+      "coordinates": [
+        15.9266657,
+        107.9650855
+      ]
+    }
+  }
+}

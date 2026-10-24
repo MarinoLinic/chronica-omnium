@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0372",
+  "id_num": 372,
+  "slug": "october-revolution",
+  "status": "review",
+  "name": "October Revolution",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1917,
+  "end": null,
+  "location": "Saint Petersburg",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/October_Revolution",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-8019b77606f9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "october-revolution",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 372,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/After_the_capture_of_the_Winter_Palace_26_October_1917.jpg/330px-After_the_capture_of_the_Winter_Palace_26_October_1917.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 106,
+    "time_end": null,
+    "time_start": "1917 ",
+    "location_info": {
+      "display_name": "Saint Petersburg, Pinellas County, Florida, United States",
+      "boundingbox": [
+        "27.643638",
+        "27.913901",
+        "-82.769023",
+        "-82.540618"
+      ],
+      "osm_id": 118894,
+      "osm_type": "relation",
+      "coordinates": [
+        27.7703796,
+        -82.6695085
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0417",
+  "id_num": 417,
+  "slug": "watergate",
+  "status": "review",
+  "name": "Watergate",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1972,
+  "end": null,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Watergate_scandal",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/WatergateFromAir.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "watergate",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 417,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/960px-WatergateFromAir.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/WatergateFromAir.JPG/330px-WatergateFromAir.JPG",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 51,
+    "time_end": null,
+    "time_start": "1972 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0254",
+  "id_num": 254,
+  "slug": "martin-luther",
+  "status": "review",
+  "name": "Martin Luther",
+  "short_desc": null,
+  "long_desc": "Martin Luther",
+  "start": 1483,
+  "end": 1546,
+  "location": "Eisleben",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Martin_Luther",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/1280px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b1d45d710708"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "martin-luther",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 63,
+    "generation_diff": 4,
+    "generations_end": 23,
+    "generations_start": 27,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 254,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/960px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/330px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "range_type": null,
+    "time_bp_end": 477,
+    "time_bp_start": 540,
+    "time_end": "1546 ",
+    "time_start": "1483 ",
+    "location_info": {
+      "display_name": "Lutherstadt Eisleben, Mansfeld-Südharz, Sachsen-Anhalt, 06295, Deutschland",
+      "boundingbox": [
+        "51.4127453",
+        "51.6018554",
+        "11.4637804",
+        "11.6727834"
+      ],
+      "osm_id": 2409291,
+      "osm_type": "relation",
+      "coordinates": [
+        51.5283282,
+        11.5465911
+      ]
+    }
+  }
+}

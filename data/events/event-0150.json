@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0150",
+  "id_num": 150,
+  "slug": "establishment-of-the-roman-republic",
+  "status": "review",
+  "name": "Establishment of the Roman Republic",
+  "short_desc": "Establishment of the Roman Republic by overthrowing the Kingdom",
+  "long_desc": "Establishment of the Roman Republic",
+  "start": -509,
+  "end": -27,
+  "location": "Rome",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Roman_Republic",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Roman_Republic_44_bC.svg/1920px-Roman_Republic_44_bC.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-d0d220191865"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "establishment-of-the-roman-republic",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 482,
+    "generation_diff": 24,
+    "generations_end": 102,
+    "generations_start": 126,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 150,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Roman_Republic_44_bC.svg/960px-Roman_Republic_44_bC.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Roman_Republic_44_bC.svg/330px-Roman_Republic_44_bC.svg.png",
+    "range_type": null,
+    "time_bp_end": 2050,
+    "time_bp_start": 2532,
+    "time_end": "27 BCE",
+    "time_start": "509 BCE",
+    "location_info": {
+      "display_name": "Roma, Roma Capitale, Lazio, Italia",
+      "boundingbox": [
+        "41.6556417",
+        "42.1410285",
+        "12.2344669",
+        "12.8557603"
+      ],
+      "osm_id": 41485,
+      "osm_type": "relation",
+      "coordinates": [
+        41.8933203,
+        12.4829321
+      ]
+    }
+  }
+}

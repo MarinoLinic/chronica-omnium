@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0299",
+  "id_num": 299,
+  "slug": "leonhard-euler",
+  "status": "review",
+  "name": "Leonhard Euler",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1707,
+  "end": 1783,
+  "location": "Basel",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Leonhard_Euler_-_edit1.jpg/1920px-Leonhard_Euler_-_edit1.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-9029091829b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "leonhard-euler",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 76,
+    "generation_diff": 3,
+    "generations_end": 12,
+    "generations_start": 15,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 299,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/960px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/330px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg",
+    "range_type": null,
+    "time_bp_end": 240,
+    "time_bp_start": 316,
+    "time_end": "1783 ",
+    "time_start": "1707 ",
+    "location_info": {
+      "display_name": "Basel, Basel-Stadt, Schweiz/Suisse/Svizzera/Svizra",
+      "boundingbox": [
+        "47.519294",
+        "47.5898969",
+        "7.5546608",
+        "7.6341406"
+      ],
+      "osm_id": 1683619,
+      "osm_type": "relation",
+      "coordinates": [
+        47.5581077,
+        7.5878261
+      ]
+    }
+  }
+}

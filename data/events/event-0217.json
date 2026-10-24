@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0217",
+  "id_num": 217,
+  "slug": "khmer-empire",
+  "status": "review",
+  "name": "Khmer Empire",
+  "short_desc": null,
+  "long_desc": "Khmer Empire",
+  "start": 802,
+  "end": 1431,
+  "location": "Southeast Asia",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Khmer_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Khmer_Empire_Expansion_%28cropped1%29.png/1920px-Khmer_Empire_Expansion_%28cropped1%29.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-a73ef7e2d61c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "khmer-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 629,
+    "generation_diff": 32,
+    "generations_end": 29,
+    "generations_start": 61,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 217,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Khmer_Empire_Expansion_%28cropped1%29.png/960px-Khmer_Empire_Expansion_%28cropped1%29.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Khmer_Empire_Expansion_%28cropped1%29.png/330px-Khmer_Empire_Expansion_%28cropped1%29.png",
+    "range_type": null,
+    "time_bp_end": 592,
+    "time_bp_start": 1221,
+    "time_end": "1431 ",
+    "time_start": "802 ",
+    "location_info": {
+      "display_name": "Euro-Asia Park, Potong Pasir, Southeast, 357920, Singapore",
+      "boundingbox": [
+        "1.3357947",
+        "1.33711",
+        "103.8667819",
+        "103.8681612"
+      ],
+      "osm_id": 684066791,
+      "osm_type": "way",
+      "coordinates": [
+        1.33645505,
+        103.8674211202
+      ]
+    }
+  }
+}

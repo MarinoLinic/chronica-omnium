@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0101",
+  "id_num": 101,
+  "slug": "depictions-of-wheeled-wagons",
+  "status": "review",
+  "name": "Depictions of wheeled wagons",
+  "short_desc": "Depictions of wheeled wagons in Uruk in Sumer",
+  "long_desc": "Depictions of wheeled wagons",
+  "start": -3500,
+  "end": -3350,
+  "location": "Uruk",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-a3a8dbd67329"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "depictions-of-wheeled-wagons",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 8,
+    "generations_end": 268,
+    "generations_start": 276,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 101,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": 1,
+    "time_bp_end": 5300,
+    "time_bp_start": 5500,
+    "time_end": "3350 BCE",
+    "time_start": "3500 BCE",
+    "location_info": {
+      "display_name": "وركاء, ناحية مرکز قضاء الخضر, قضاء الخضر, محافظة المثنى, العراق",
+      "boundingbox": [
+        "31.3096393",
+        "31.3370337",
+        "45.6245899",
+        "45.6520772"
+      ],
+      "osm_id": 1046022673,
+      "osm_type": "way",
+      "coordinates": [
+        31.3231771,
+        45.6384762899
+      ]
+    }
+  }
+}

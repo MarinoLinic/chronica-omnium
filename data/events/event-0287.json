@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0287",
+  "id_num": 287,
+  "slug": "qing-dynasty",
+  "status": "review",
+  "name": "Qing dynasty",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1636,
+  "end": 1912,
+  "location": "China",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Qing_dynasty",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Qing_dynasty_in_1760.svg/1920px-Qing_dynasty_in_1760.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "qing-dynasty",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 276,
+    "generation_diff": 14,
+    "generations_end": 5,
+    "generations_start": 19,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 287,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Qing_dynasty_in_1760.svg/960px-Qing_dynasty_in_1760.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Qing_dynasty_in_1760.svg/330px-Qing_dynasty_in_1760.svg.png",
+    "range_type": null,
+    "time_bp_end": 111,
+    "time_bp_start": 387,
+    "time_end": "1912 ",
+    "time_start": "1636 ",
+    "location_info": {
+      "display_name": "中国",
+      "boundingbox": [
+        "8.6650385",
+        "53.5608154",
+        "73.4997347",
+        "134.7754563"
+      ],
+      "osm_id": 270056,
+      "osm_type": "relation",
+      "coordinates": [
+        35.000074,
+        104.999927
+      ]
+    }
+  }
+}

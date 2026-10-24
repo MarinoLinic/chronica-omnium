@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0334",
+  "id_num": 334,
+  "slug": "friedrich-nietzsche",
+  "status": "review",
+  "name": "Friedrich Nietzsche",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1844,
+  "end": 1900,
+  "location": "Röcken",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Nietzsche187a.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-852ad4c9a185"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "friedrich-nietzsche",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 56,
+    "generation_diff": 2,
+    "generations_end": 6,
+    "generations_start": 8,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 334,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/960px-Nietzsche187a.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/330px-Nietzsche187a.jpg",
+    "range_type": null,
+    "time_bp_end": 123,
+    "time_bp_start": 179,
+    "time_end": "1900 ",
+    "time_start": "1844 ",
+    "location_info": {
+      "display_name": "Röcken, Lützen, Burgenlandkreis, Sachsen-Anhalt, Deutschland",
+      "boundingbox": [
+        "51.2217765",
+        "51.2619092",
+        "12.0746431",
+        "12.1461314"
+      ],
+      "osm_id": 2405641,
+      "osm_type": "relation",
+      "coordinates": [
+        51.24198515,
+        12.1142682529
+      ]
+    }
+  }
+}

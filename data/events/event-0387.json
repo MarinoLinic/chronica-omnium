@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0387",
+  "id_num": 387,
+  "slug": "che-guevara",
+  "status": "review",
+  "name": "Che Guevara",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1928,
+  "end": 1967,
+  "location": "Argentina",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Che_Guevara",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/CheHigh.jpg/1920px-CheHigh.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-ea0b937ea317"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "che-guevara",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 39,
+    "generation_diff": 2,
+    "generations_end": 2,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 387,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/CheHigh.jpg/960px-CheHigh.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/CheHigh.jpg/330px-CheHigh.jpg",
+    "range_type": null,
+    "time_bp_end": 56,
+    "time_bp_start": 95,
+    "time_end": "1967 ",
+    "time_start": "1928 ",
+    "location_info": {
+      "display_name": "Argentina",
+      "boundingbox": [
+        "-55.1925709",
+        "-21.7808568",
+        "-73.5605371",
+        "-53.6374515"
+      ],
+      "osm_id": 286393,
+      "osm_type": "relation",
+      "coordinates": [
+        -34.9964963,
+        -64.9672817
+      ]
+    }
+  }
+}

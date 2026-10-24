@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0131",
+  "id_num": 131,
+  "slug": "hallstat-culture",
+  "status": "review",
+  "name": "Hallstat culture",
+  "short_desc": "Celtic expansion",
+  "long_desc": "Hallstat culture",
+  "start": -1200,
+  "end": -500,
+  "location": "Central Europe",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-40d9a90716b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "hallstat-culture",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 700,
+    "generation_diff": 35,
+    "generations_end": 126,
+    "generations_start": 161,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 131,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 2500,
+    "time_bp_start": 3200,
+    "time_end": "500 BCE",
+    "time_start": "1200 BCE",
+    "location_info": {
+      "display_name": "Central Europe, Muskogee County, Oklahoma, 74423, United States",
+      "boundingbox": [
+        "35.670103",
+        "35.670119",
+        "-95.167596",
+        "-95.164943"
+      ],
+      "osm_id": 14903654,
+      "osm_type": "way",
+      "coordinates": [
+        35.670119,
+        -95.167241
+      ]
+    }
+  }
+}

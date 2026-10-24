@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0436",
+  "id_num": 436,
+  "slug": "gamergate",
+  "status": "review",
+  "name": "Gamergate",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2014,
+  "end": 2015,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Gamergate_(harassment_campaign)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Zo%C3%AB_Quinn_%282015%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "gamergate",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1,
+    "generation_diff": 0,
+    "generations_end": 0,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 436,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zo%C3%AB_Quinn_%282015%29.jpg/960px-Zo%C3%AB_Quinn_%282015%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zo%C3%AB_Quinn_%282015%29.jpg/330px-Zo%C3%AB_Quinn_%282015%29.jpg",
+    "range_type": null,
+    "time_bp_end": 8,
+    "time_bp_start": 9,
+    "time_end": "2015 ",
+    "time_start": "2014 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

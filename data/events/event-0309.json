@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0309",
+  "id_num": 309,
+  "slug": "rothschild-family",
+  "status": "review",
+  "name": "Rothschild family",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1760,
+  "end": null,
+  "location": "Germany",
+  "type": "Family",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Rothschild_family",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Great_coat_of_arms_of_Rothschild_family.svg/1920px-Great_coat_of_arms_of_Rothschild_family.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-80db4ccdca10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "rothschild-family",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 13,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 309,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Great_coat_of_arms_of_Rothschild_family.svg/960px-Great_coat_of_arms_of_Rothschild_family.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Great_coat_of_arms_of_Rothschild_family.svg/330px-Great_coat_of_arms_of_Rothschild_family.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 263,
+    "time_end": null,
+    "time_start": "1760 ",
+    "location_info": {
+      "display_name": "Deutschland",
+      "boundingbox": [
+        "47.2701114",
+        "55.099161",
+        "5.8663153",
+        "15.0419309"
+      ],
+      "osm_id": 51477,
+      "osm_type": "relation",
+      "coordinates": [
+        51.1638175,
+        10.4478313
+      ]
+    }
+  }
+}

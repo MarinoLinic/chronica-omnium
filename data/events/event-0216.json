@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0216",
+  "id_num": 216,
+  "slug": "islamic-golden-age",
+  "status": "review",
+  "name": "Islamic Golden Age",
+  "short_desc": null,
+  "long_desc": "Islamic Golden Age",
+  "start": 789,
+  "end": 1258,
+  "location": "Middle East",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Islamic_Golden_Age",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Astrolabe_planisf%C3%A9rique_closeup800x600x300.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-379440120637"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "islamic-golden-age",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 469,
+    "generation_diff": 23,
+    "generations_end": 38,
+    "generations_start": 61,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 216,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Astrolabe_planisf%C3%A9rique_closeup800x600x300.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Astrolabe_planisf%C3%A9rique_closeup800x600x300.jpg/330px-Astrolabe_planisf%C3%A9rique_closeup800x600x300.jpg",
+    "range_type": null,
+    "time_bp_end": 765,
+    "time_bp_start": 1234,
+    "time_end": "1258 ",
+    "time_start": "789 ",
+    "location_info": {
+      "display_name": "Middle East, Baltimore, Maryland, United States",
+      "boundingbox": [
+        "39.2983771",
+        "39.3046478",
+        "-76.5945092",
+        "-76.5851263"
+      ],
+      "osm_id": 12770700,
+      "osm_type": "relation",
+      "coordinates": [
+        39.3014159,
+        -76.5888477
+      ]
+    }
+  }
+}

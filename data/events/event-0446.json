@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0446",
+  "id_num": 446,
+  "slug": "iraq-war",
+  "status": "review",
+  "name": "Iraq war",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2003,
+  "end": 2011,
+  "location": "Iraq",
+  "type": "War",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Iraq_War",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iraq_War_montage.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-de5008d194a7"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "iraq-war",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 8,
+    "generation_diff": 1,
+    "generations_end": 0,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 446,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Iraq_War_montage.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iraq_War_montage.png/330px-Iraq_War_montage.png",
+    "range_type": null,
+    "time_bp_end": 12,
+    "time_bp_start": 20,
+    "time_end": "2011 ",
+    "time_start": "2003 ",
+    "location_info": {
+      "display_name": "العراق",
+      "boundingbox": [
+        "29.0585661",
+        "37.3806687",
+        "38.7936719",
+        "49.1067706"
+      ],
+      "osm_id": 304934,
+      "osm_type": "relation",
+      "coordinates": [
+        33.0955793,
+        44.1749775
+      ]
+    }
+  }
+}

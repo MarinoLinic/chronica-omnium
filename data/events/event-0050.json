@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0050",
+  "id_num": 50,
+  "slug": "migration-out-of-africa",
+  "status": "review",
+  "name": "Migration out of Africa",
+  "short_desc": "Migration out of Africa (Arabian peninsula)",
+  "long_desc": "Migration out of Africa",
+  "start": -68000,
+  "end": null,
+  "location": "Arabian peninsula",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1920px-Spreading_homo_sapiens_la.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-d15ea8090a06"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "migration-out-of-africa",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Middle Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 4376,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 50,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/960px-Spreading_homo_sapiens_la.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/330px-Spreading_homo_sapiens_la.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 70000,
+    "time_end": null,
+    "time_start": "68 thousand BCE",
+    "location_info": {
+      "display_name": "جزيرة العرب, السعودية",
+      "boundingbox": [
+        "12.593498",
+        "32.1543377",
+        "34.5710341",
+        "59.8394181"
+      ],
+      "osm_id": 5631846,
+      "osm_type": "relation",
+      "coordinates": [
+        22.3743008,
+        49.4771176516
+      ]
+    }
+  }
+}

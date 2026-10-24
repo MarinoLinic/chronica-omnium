@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0314",
+  "id_num": 314,
+  "slug": "ludwig-van-beethoven",
+  "status": "review",
+  "name": "Ludwig van Beethoven",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1770,
+  "end": 1827,
+  "location": "Bonn",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Beethoven.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-39d2faabcd9d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ludwig-van-beethoven",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 57,
+    "generation_diff": 3,
+    "generations_end": 9,
+    "generations_start": 12,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 314,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/960px-Beethoven.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/330px-Beethoven.jpg",
+    "range_type": null,
+    "time_bp_end": 196,
+    "time_bp_start": 253,
+    "time_end": "1827 ",
+    "time_start": "1770 ",
+    "location_info": {
+      "display_name": "Bonn, Nordrhein-Westfalen, Deutschland",
+      "boundingbox": [
+        "50.6326909",
+        "50.7744233",
+        "7.0225354",
+        "7.2106794"
+      ],
+      "osm_id": 62508,
+      "osm_type": "relation",
+      "coordinates": [
+        50.735851,
+        7.10066
+      ]
+    }
+  }
+}

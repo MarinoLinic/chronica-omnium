@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0261",
+  "id_num": 261,
+  "slug": "calvinism",
+  "status": "review",
+  "name": "Calvinism",
+  "short_desc": null,
+  "long_desc": "Calvinism",
+  "start": 1519,
+  "end": null,
+  "location": "Switzerland",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_Calvinism",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Leading_Theologians_of_the_Middle_Ages.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-2275583196d7"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "calvinism",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 25,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 261,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/0/03/Leading_Theologians_of_the_Middle_Ages.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Leading_Theologians_of_the_Middle_Ages.jpg/330px-Leading_Theologians_of_the_Middle_Ages.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 504,
+    "time_end": null,
+    "time_start": "1519 ",
+    "location_info": {
+      "display_name": "Schweiz/Suisse/Svizzera/Svizra",
+      "boundingbox": [
+        "45.8179716",
+        "47.8084597",
+        "5.9559113",
+        "10.4922941"
+      ],
+      "osm_id": 51701,
+      "osm_type": "relation",
+      "coordinates": [
+        46.7985624,
+        8.2319736
+      ]
+    }
+  }
+}

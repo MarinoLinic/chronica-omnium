@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0129",
+  "id_num": 129,
+  "slug": "burning-of-troy-vii",
+  "status": "review",
+  "name": "Burning of Troy VII",
+  "short_desc": "Burning of Troy VII (likely inspired stories about the Trojan War) in Marmara (western Anatolia)",
+  "long_desc": "Burning of Troy VII",
+  "start": -1200,
+  "end": -1100,
+  "location": "Western Anatolia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-1f5ea84e35cf"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "burning-of-troy-vii",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 5,
+    "generations_end": 156,
+    "generations_start": 161,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 129,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": 1,
+    "time_bp_end": 3100,
+    "time_bp_start": 3200,
+    "time_end": "1100 BCE",
+    "time_start": "1200 BCE",
+    "location_info": {
+      "display_name": "Ανατολία, Μαιζώνος, Patras Open Mall, 4η Κοινότητα Πατρών - Κεντρικός Τομέας, Δημοτική Ενότητα Πατρέων, Δήμος Πατρέων, Περιφερειακή Ενότητα Αχαΐας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 262 21, Ελλάς",
+      "boundingbox": [
+        "38.2468593",
+        "38.2469593",
+        "21.7348566",
+        "21.7349566"
+      ],
+      "osm_id": 8221869355,
+      "osm_type": "node",
+      "coordinates": [
+        38.2469093,
+        21.7349066
+      ]
+    }
+  }
+}

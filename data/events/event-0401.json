@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0401",
+  "id_num": 401,
+  "slug": "cold-war",
+  "status": "review",
+  "name": "Cold War",
+  "short_desc": "Geopolitical tension between the US and the Soviet Union",
+  "long_desc": null,
+  "start": 1947,
+  "end": 1991,
+  "location": "World",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Cold_War",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_alliances_mid-1975.svg/1920px-Cold_War_alliances_mid-1975.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "cold-war",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 44,
+    "generation_diff": 2,
+    "generations_end": 1,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 401,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_alliances_mid-1975.svg/960px-Cold_War_alliances_mid-1975.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cold_War_alliances_mid-1975.svg/330px-Cold_War_alliances_mid-1975.svg.png",
+    "range_type": null,
+    "time_bp_end": 32,
+    "time_bp_start": 76,
+    "time_end": "1991 ",
+    "time_start": "1947 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

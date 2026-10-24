@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0076",
+  "id_num": 76,
+  "slug": "african-humid-period",
+  "status": "review",
+  "name": "African Humid Period",
+  "short_desc": "Sahara was covered by grasses, trees, and lakes",
+  "long_desc": "African Humid Period",
+  "start": -12500,
+  "end": -3500,
+  "location": "Sahara",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/African_humid_period",
+  "image": "https://i0.wp.com/thinkafrica.net/wp-content/uploads/2021/02/africa-9000-5000-bp-1-location-of-lakes-and-rivers.png?resize=1832%2C2048&ssl=1",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-bff4d121f688"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "african-humid-period",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 9000,
+    "generation_diff": 530,
+    "generations_end": 276,
+    "generations_start": 806,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 76,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 5500,
+    "time_bp_start": 14500,
+    "time_end": "3500 BCE",
+    "time_start": "12.5 thousand BCE",
+    "location_info": {
+      "display_name": "Sahara, Tazrouk ⵜⴰⵥⵔⵓⴽ تاظروك, Daïra Tazrouk, Tamanrasset ⵜⴰⵎⴰⵏⵖⴰⵙⴻⵜ تمنراست, Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+      "boundingbox": [
+        "22.24995",
+        "22.25005",
+        "9.79995",
+        "9.80005"
+      ],
+      "osm_id": 9412354612,
+      "osm_type": "node",
+      "coordinates": [
+        22.25,
+        9.8
+      ]
+    }
+  }
+}

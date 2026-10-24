@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0300",
+  "id_num": 300,
+  "slug": "david-hume",
+  "status": "review",
+  "name": "David Hume",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1711,
+  "end": 1776,
+  "location": "Edinburgh",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/David_Hume",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4f00c4593da1"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "david-hume",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 65,
+    "generation_diff": 3,
+    "generations_end": 12,
+    "generations_start": 15,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 300,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/960px-Painting_of_David_Hume.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/330px-Painting_of_David_Hume.jpg",
+    "range_type": null,
+    "time_bp_end": 247,
+    "time_bp_start": 312,
+    "time_end": "1776 ",
+    "time_start": "1711 ",
+    "location_info": {
+      "display_name": "City of Edinburgh, Alba / Scotland, United Kingdom",
+      "boundingbox": [
+        "55.8187919",
+        "56.0040837",
+        "-3.4495326",
+        "-3.0749512"
+      ],
+      "osm_id": 1920901,
+      "osm_type": "relation",
+      "coordinates": [
+        55.9533456,
+        -3.1883749
+      ]
+    }
+  }
+}

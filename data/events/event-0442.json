@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0442",
+  "id_num": 442,
+  "slug": "woodstock",
+  "status": "review",
+  "name": "Woodstock",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1969,
+  "end": null,
+  "location": "Bethel",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Woodstock",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Woodstock_Music_and_Art_Fair.jpg/1920px-Woodstock_Music_and_Art_Fair.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-422adb6d7d6c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "woodstock",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 442,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Woodstock_Music_and_Art_Fair.jpg/960px-Woodstock_Music_and_Art_Fair.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Woodstock_Music_and_Art_Fair.jpg/330px-Woodstock_Music_and_Art_Fair.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 54,
+    "time_end": null,
+    "time_start": "1969 ",
+    "location_info": {
+      "display_name": "Bethel, Unorganized Borough, Alaska, 99559, United States",
+      "boundingbox": [
+        "60.748109",
+        "60.833062",
+        "-161.91819",
+        "-161.665882"
+      ],
+      "osm_id": 32974963,
+      "osm_type": "way",
+      "coordinates": [
+        60.7922222,
+        -161.755833
+      ]
+    }
+  }
+}

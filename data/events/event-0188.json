@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0188",
+  "id_num": 188,
+  "slug": "classic-maya",
+  "status": "review",
+  "name": "Classic Maya",
+  "short_desc": null,
+  "long_desc": "Classic Maya",
+  "start": 250,
+  "end": 950,
+  "location": "Mesoamerica",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization#Classic_period_(c._250%E2%80%93950_AD):~:text=Preclassic.%5B27%5D-,Classic%20period%20(c.%20250%E2%80%93950%20AD),-%5Bedit%5D",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1920px-Chichen_Itza_3.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-063d3a69033a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "classic-maya",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 700,
+    "generation_diff": 35,
+    "generations_end": 53,
+    "generations_start": 88,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 188,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/960px-Chichen_Itza_3.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg",
+    "range_type": null,
+    "time_bp_end": 1073,
+    "time_bp_start": 1773,
+    "time_end": "950 ",
+    "time_start": "250 ",
+    "location_info": {
+      "display_name": "Calle Mesoamérica, Fraccionamiento Ciudad Olmeca, Coatzacoalcos, Veracruz, México",
+      "boundingbox": [
+        "18.1554223",
+        "18.1563112",
+        "-94.5578992",
+        "-94.549771"
+      ],
+      "osm_id": 96404789,
+      "osm_type": "way",
+      "coordinates": [
+        18.1558579,
+        -94.5538126
+      ]
+    }
+  }
+}

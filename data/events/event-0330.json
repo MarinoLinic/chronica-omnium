@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0330",
+  "id_num": 330,
+  "slug": "louis-pasteur",
+  "status": "review",
+  "name": "Louis Pasteur",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1822,
+  "end": 1895,
+  "location": "Dole",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/1920px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0ed0e6feed14"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "louis-pasteur",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 73,
+    "generation_diff": 4,
+    "generations_end": 6,
+    "generations_start": 10,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 330,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/960px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/330px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+    "range_type": null,
+    "time_bp_end": 128,
+    "time_bp_start": 201,
+    "time_end": "1895 ",
+    "time_start": "1822 ",
+    "location_info": {
+      "display_name": "Dole, Jura, Bourgogne-Franche-Comté, France métropolitaine, 39100, France",
+      "boundingbox": [
+        "47.02203",
+        "47.1258353",
+        "5.4529405",
+        "5.5519576"
+      ],
+      "osm_id": 148676,
+      "osm_type": "relation",
+      "coordinates": [
+        47.0921047,
+        5.4925463
+      ]
+    }
+  }
+}

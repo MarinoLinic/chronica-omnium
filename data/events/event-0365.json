@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0365",
+  "id_num": 365,
+  "slug": "ayn-rand",
+  "status": "review",
+  "name": "Ayn Rand",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1905,
+  "end": 1982,
+  "location": "Saint Petersburg",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ayn_Rand",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-8019b77606f9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ayn-rand",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 77,
+    "generation_diff": 3,
+    "generations_end": 2,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 365,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ayn_Rand_%281943_Talbot_portrait%29.jpg/330px-Ayn_Rand_%281943_Talbot_portrait%29.jpg",
+    "range_type": null,
+    "time_bp_end": 41,
+    "time_bp_start": 118,
+    "time_end": "1982 ",
+    "time_start": "1905 ",
+    "location_info": {
+      "display_name": "Saint Petersburg, Pinellas County, Florida, United States",
+      "boundingbox": [
+        "27.643638",
+        "27.913901",
+        "-82.769023",
+        "-82.540618"
+      ],
+      "osm_id": 118894,
+      "osm_type": "relation",
+      "coordinates": [
+        27.7703796,
+        -82.6695085
+      ]
+    }
+  }
+}

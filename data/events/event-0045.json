@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0045",
+  "id_num": 45,
+  "slug": "anatomically-modern-humans",
+  "status": "review",
+  "name": "Anatomically modern humans",
+  "short_desc": "Oldest anatomically modern human (AMH/EMH) found in Morocco",
+  "long_desc": "Anatomically modern humans",
+  "start": -313000,
+  "end": null,
+  "location": "North Africa",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Early_modern_human",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Skhul.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-b30fcbd6cb0f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "anatomically-modern-humans",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Lower Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 19688,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 45,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Skhul.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Skhul.JPG/330px-Skhul.JPG",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 315000,
+    "time_end": null,
+    "time_start": "313 thousand BCE",
+    "location_info": {
+      "display_name": "Nord, Burkina Faso",
+      "boundingbox": [
+        "12.62303",
+        "14.299451",
+        "-2.95249",
+        "-1.53208"
+      ],
+      "osm_id": 1159881,
+      "osm_type": "relation",
+      "coordinates": [
+        13.45911,
+        -2.2496367403
+      ]
+    }
+  }
+}

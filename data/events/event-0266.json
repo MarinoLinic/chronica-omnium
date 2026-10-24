@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0266",
+  "id_num": 266,
+  "slug": "siege-of-vienna-1529",
+  "status": "review",
+  "name": "Siege of Vienna (1529)",
+  "short_desc": null,
+  "long_desc": "Siege of Vienna (1529)",
+  "start": 1529,
+  "end": null,
+  "location": "Vienna",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-db7ee413d604"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "siege-of-vienna-1529",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 24,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 266,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Siegeofvienna1529.jpg/330px-Siegeofvienna1529.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 494,
+    "time_end": null,
+    "time_start": "1529 ",
+    "location_info": {
+      "display_name": "Wien, Österreich",
+      "boundingbox": [
+        "48.1179069",
+        "48.3226679",
+        "16.181831",
+        "16.5775132"
+      ],
+      "osm_id": 109166,
+      "osm_type": "relation",
+      "coordinates": [
+        48.2083537,
+        16.3725042
+      ]
+    }
+  }
+}

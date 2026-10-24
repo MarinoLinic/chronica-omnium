@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0456",
+  "id_num": 456,
+  "slug": "assassination-of-jfk",
+  "status": "review",
+  "name": "Assassination of JFK",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1963,
+  "end": null,
+  "location": "Dallas",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JFK_limousine.png/1920px-JFK_limousine.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-4eb1b68df132"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "assassination-of-jfk",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 456,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JFK_limousine.png/960px-JFK_limousine.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/JFK_limousine.png/330px-JFK_limousine.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 60,
+    "time_end": null,
+    "time_start": "1963 ",
+    "location_info": {
+      "display_name": "Dallas, Dallas County, Texas, United States",
+      "boundingbox": [
+        "32.613216",
+        "33.0239366",
+        "-97.000482",
+        "-96.4636317"
+      ],
+      "osm_id": 6571629,
+      "osm_type": "relation",
+      "coordinates": [
+        32.7762719,
+        -96.7968559
+      ]
+    }
+  }
+}

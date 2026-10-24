@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0224",
+  "id_num": 224,
+  "slug": "holy-roman-empire",
+  "status": "review",
+  "name": "Holy Roman Empire",
+  "short_desc": null,
+  "long_desc": "Holy Roman Empire",
+  "start": 962,
+  "end": 1806,
+  "location": "Central Europe",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HRR.gif",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-40d9a90716b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "holy-roman-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 844,
+    "generation_diff": 43,
+    "generations_end": 10,
+    "generations_start": 53,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 224,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HRR.gif",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/HRR.gif/330px-HRR.gif",
+    "range_type": null,
+    "time_bp_end": 217,
+    "time_bp_start": 1061,
+    "time_end": "1806 ",
+    "time_start": "962 ",
+    "location_info": {
+      "display_name": "Central Europe, Muskogee County, Oklahoma, 74423, United States",
+      "boundingbox": [
+        "35.670103",
+        "35.670119",
+        "-95.167596",
+        "-95.164943"
+      ],
+      "osm_id": 14903654,
+      "osm_type": "way",
+      "coordinates": [
+        35.670119,
+        -95.167241
+      ]
+    }
+  }
+}

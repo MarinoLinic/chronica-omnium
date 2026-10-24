@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0389",
+  "text": "The Wall Street Crash of 1929, also known as the Great Crash, the Crash of 29, or Black Tuesday,  was a major American stock market crash that occurred in the autumn of 1929. It started in September and ended in mid November, when share prices on the New York Stock Exchange collapsed.\n\nIt was the most devastating stock market crash in the history of the United States, when taking into consideration the full extent and duration of its aftereffects. The Great Crash is mostly associated with October 24, 1929, called Black Thursday, the day of the largest sell-off of shares in U.S. history, and October 29, 1929, called Black Tuesday, when investors traded some 16 million shares on the New York Stock Exchange in a single day. The crash, which followed the London Stock Exchange's crash of September, signaled the beginning of the Great Depression.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

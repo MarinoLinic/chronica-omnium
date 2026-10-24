@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0354",
+  "id_num": 354,
+  "slug": "rubber-terror",
+  "status": "review",
+  "name": "Rubber terror",
+  "short_desc": "1.5-13 million dead",
+  "long_desc": null,
+  "start": 1885,
+  "end": 1908,
+  "location": "DR Congo",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/MutilatedChildrenFromCongo.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-059bdf337a98"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "rubber-terror",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 23,
+    "generation_diff": 1,
+    "generations_end": 5,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 354,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/5/52/MutilatedChildrenFromCongo.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MutilatedChildrenFromCongo.jpg/330px-MutilatedChildrenFromCongo.jpg",
+    "range_type": null,
+    "time_bp_end": 115,
+    "time_bp_start": 138,
+    "time_end": "1908 ",
+    "time_start": "1885 ",
+    "location_info": {
+      "display_name": "République démocratique du Congo",
+      "boundingbox": [
+        "-13.459035",
+        "5.3920026",
+        "12.039074",
+        "31.3056758"
+      ],
+      "osm_id": 192795,
+      "osm_type": "relation",
+      "coordinates": [
+        -2.9814344,
+        23.8222636
+      ]
+    }
+  }
+}

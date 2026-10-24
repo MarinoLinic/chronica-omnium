@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0310",
+  "id_num": 310,
+  "slug": "industrial-revolution",
+  "status": "review",
+  "name": "Industrial Revolution",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1760,
+  "end": 1840,
+  "location": "West",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/1920px-Powerloom_weaving_in_1835.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-41a6741e9a0f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "industrial-revolution",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 80,
+    "generation_diff": 4,
+    "generations_end": 9,
+    "generations_start": 13,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 310,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/960px-Powerloom_weaving_in_1835.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Powerloom_weaving_in_1835.jpg/330px-Powerloom_weaving_in_1835.jpg",
+    "range_type": null,
+    "time_bp_end": 183,
+    "time_bp_start": 263,
+    "time_end": "1840 ",
+    "time_start": "1760 ",
+    "location_info": {
+      "display_name": "Western, West Kenya, Kenya",
+      "boundingbox": [
+        "-2.0909604",
+        "3.1090396",
+        "31.9731341",
+        "37.1731341"
+      ],
+      "osm_id": 1938467964,
+      "osm_type": "node",
+      "coordinates": [
+        0.5090396,
+        34.5731341
+      ]
+    }
+  }
+}

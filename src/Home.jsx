@@ -1,8 +1,8 @@
 import { useState, useMemo, useRef } from 'react'
 import { Link } from 'react-router-dom'
 import { GroupedVirtuoso } from 'react-virtuoso'
-import data from './resources/World_History.json'
-import timeScales from './resources/time_scales.json'
+import data from './data'
+import timeScales from './generated/time-scales.json'
 import { filterData } from './utils/functions'
 import Title from './components/Title'
 import HomeEvent from './components/HomeEvent'
@@ -91,7 +91,7 @@ function findGeologic(year) {
 
 function getPeriodLabel(year) {
 	if (year >= 1) return `${ordinal(Math.ceil(year / 100))} century CE`
-	if (year >= -4999) return `${ordinal(Math.floor(-year / 1000) + 1)} millennium BCE`
+	if (year >= -4999) return `${ordinal(Math.ceil(-year / 1000))} millennium BCE`
 	return findArchaeological(year) || findGeologic(year)
 }
 
@@ -115,7 +115,8 @@ function Home() {
 				(q === '' ||
 					item.name?.toLowerCase().includes(q) ||
 					item.short_desc?.toLowerCase().includes(q) ||
-					item.location?.toLowerCase().includes(q))
+					item.location?.toLowerCase().includes(q) ||
+					item.countryNames?.some(country => country.toLowerCase().includes(q)))
 		)
 	}, [allData, selectedTypes, selectedFields, query])
 
@@ -158,7 +159,9 @@ function Home() {
 					<Link to={`/timeline`} className="font-medium text-[#21306a] hover:underline">
 						Timeline
 					</Link>
+					{' · '}<Link to="/catalog" className="underline">Catalog & unfinished records ({data.filter(r => r.start === null).length})</Link>
 				</p>
+				<p className="mx-auto mt-2 max-w-3xl px-4 text-center text-xs text-slate-500">Period dividers retain imported regional conventions and still need source review.</p>
 			</header>
 
 			<BackToTop />
@@ -171,6 +174,7 @@ function Home() {
 							value={query}
 							onChange={(e) => setQuery(e.target.value)}
 							placeholder="Search events, places, descriptions..."
+							aria-label="Search dated events"
 							className="w-full rounded-lg border border-slate-200 bg-slate-50 px-4 py-2 text-sm text-slate-700 outline-none transition focus:border-[#21306a] focus:bg-white focus:ring-2 focus:ring-[#21306a]/20"
 						/>
 					</div>

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0158",
+  "id_num": 158,
+  "slug": "conquest-of-the-achaemenid-empire",
+  "status": "review",
+  "name": "Conquest of the Achaemenid Empire",
+  "short_desc": "Alexander the Great conquers the Achaemenid Empire",
+  "long_desc": "Conquest of the Achaemenid Empire",
+  "start": -330,
+  "end": null,
+  "location": "Persia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-f2f6ac3ee1ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "conquest-of-the-achaemenid-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 117,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 158,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2353,
+    "time_end": null,
+    "time_start": "330 BCE",
+    "location_info": {
+      "display_name": "ایران",
+      "boundingbox": [
+        "24.8353084",
+        "39.7824624",
+        "44.0318908",
+        "63.3332704"
+      ],
+      "osm_id": 304938,
+      "osm_type": "relation",
+      "coordinates": [
+        32.6475314,
+        54.5643516
+      ]
+    }
+  }
+}

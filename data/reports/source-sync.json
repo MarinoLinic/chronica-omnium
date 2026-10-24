@@ -1,0 +1,2894 @@
+{
+  "startedAt": "2026-10-23T19:14:05.538Z",
+  "mode": {
+    "images": true,
+    "refresh": false,
+    "imagesOnly": true
+  },
+  "selected": 574,
+  "completed": true,
+  "results": [
+    {
+      "id": "event-0001",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0002",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0003",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0004",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0005",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0006",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0007",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0008",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0009",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0010",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0011",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0012",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0013",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Wikipedia page or file is missing"
+    },
+    {
+      "id": "event-0014",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0015",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0016",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0017",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0018",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0019",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0020",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0021",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0022",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0023",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0024",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0025",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0026",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0027",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0028",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0029",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0030",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0031",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0032",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0033",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0034",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0035",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0036",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0037",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0038",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0039",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0040",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0041",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0042",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0043",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0044",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0045",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0046",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0047",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0048",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0049",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0050",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0051",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0052",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0053",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0054",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0055",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0056",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0057",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0058",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0059",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0060",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0061",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0062",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0063",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0064",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0065",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0066",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0067",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0068",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0069",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0070",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0071",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0072",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0073",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0074",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0075",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0076",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0077",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0078",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0079",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0080",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0081",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0082",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0083",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0084",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0085",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0086",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0087",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0088",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0089",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0090",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0091",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0092",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0093",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0094",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0095",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0096",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0097",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0098",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0099",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0100",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0101",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0102",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0103",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0104",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0105",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0106",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0107",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0108",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0109",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0110",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0111",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0112",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0113",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0114",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0115",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0116",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0117",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0118",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0119",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0120",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0121",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0122",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0123",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0124",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0125",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0126",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0127",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0128",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0129",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0130",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0131",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0132",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0133",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0134",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0135",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0136",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0137",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0138",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0139",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0140",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0141",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: GFDL"
+    },
+    {
+      "id": "event-0142",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0143",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0144",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0145",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0146",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0147",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0148",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0149",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0150",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0151",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0152",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0153",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0154",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0155",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0156",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0157",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0158",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0159",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0160",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0161",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0162",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0163",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0164",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0165",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0166",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0167",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0168",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0169",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0170",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0171",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0172",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0173",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0174",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0175",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0176",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0177",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0178",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0179",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0180",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0181",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0182",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0183",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0184",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0185",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0186",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0187",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0188",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0189",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0190",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0191",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0192",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0193",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0194",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0195",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0196",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0197",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0198",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0199",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0200",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0201",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: Attribution"
+    },
+    {
+      "id": "event-0202",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0203",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0204",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0205",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0206",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0207",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0208",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0209",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0210",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0211",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0212",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0213",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0214",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0215",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0216",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0217",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0218",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0219",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0220",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0221",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0222",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0223",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0224",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0225",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0226",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0227",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0228",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0229",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0230",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0231",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0232",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0233",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0234",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0235",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0236",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0237",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0238",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0239",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0240",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0241",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0242",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0243",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0244",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0245",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0246",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0247",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0248",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0249",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0250",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0251",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0252",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0253",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0254",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0255",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0256",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0257",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0258",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0259",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: FAL"
+    },
+    {
+      "id": "event-0260",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0261",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0262",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0263",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0264",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0265",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0266",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0267",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0268",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0269",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0270",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0271",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0272",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0273",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0274",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0275",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0276",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0277",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0278",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0279",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0280",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0281",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0282",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0283",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0284",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0285",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0286",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0287",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0288",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0289",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0290",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0291",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0292",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0293",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0294",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0295",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0296",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0297",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0298",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0299",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0300",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0301",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0302",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0303",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0304",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0305",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0306",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0307",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0308",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0309",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0310",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0311",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0312",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0313",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0314",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0315",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0316",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0317",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0318",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0319",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0320",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0321",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0322",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0323",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0324",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0325",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0326",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0327",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0328",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0329",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0330",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0331",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0332",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0333",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0334",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0335",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0336",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0337",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0338",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0339",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0340",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0341",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0342",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0343",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0344",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0345",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0346",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0347",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0348",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: No restrictions"
+    },
+    {
+      "id": "event-0349",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0350",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0351",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0352",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0353",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0354",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0355",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0356",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0357",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0358",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0359",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0360",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: Attribution"
+    },
+    {
+      "id": "event-0361",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0362",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: No restrictions"
+    },
+    {
+      "id": "event-0363",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0364",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0365",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0366",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0367",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0368",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0369",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0370",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0371",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0372",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0373",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0374",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0375",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0376",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0377",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0378",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0379",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0380",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0381",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0382",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0383",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0384",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0385",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0386",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0387",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0388",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0389",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0390",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0391",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0392",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0393",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0394",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0395",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0396",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0397",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0398",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0399",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0400",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0401",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0402",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0403",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Wikipedia page or file is missing"
+    },
+    {
+      "id": "event-0404",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0405",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0406",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0407",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0408",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0409",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0410",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0411",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0412",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0413",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0414",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0415",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0416",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0417",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0418",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0419",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0420",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0421",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "Image license requires manual review: Copyrighted free use"
+    },
+    {
+      "id": "event-0422",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0423",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0424",
+      "text": "unchanged",
+      "image": "external image retained; local import needs manual attribution"
+    },
+    {
+      "id": "event-0425",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0426",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0427",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0428",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0429",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0430",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0431",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0432",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0433",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0434",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0435",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0436",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0437",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0438",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0439",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0440",
+      "text": "unchanged",
+      "image": "failed",
+      "imageError": "EPERM: operation not permitted, rename 'C:\\Users\\marin\\OneDrive\\Documents\\My Programs\\chronica-omnium\\data\\media\\manifest.json.48a5e681-4ac5-4693-a937-1f052f475e4c.tmp' -> 'C:\\Users\\marin\\OneDrive\\Documents\\My Programs\\chronica-omnium\\data\\media\\manifest.json'"
+    },
+    {
+      "id": "event-0441",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0442",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0443",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0444",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0445",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0446",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0447",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0448",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0449",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0450",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0451",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0452",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0453",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0454",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0455",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0456",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0457",
+      "text": "unchanged",
+      "image": "cached"
+    },
+    {
+      "id": "event-0458",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0459",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0460",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0461",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0462",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0463",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0464",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0465",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0466",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0467",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0468",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0469",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0470",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0471",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0472",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0473",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0474",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0475",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0476",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0477",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0478",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0479",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0480",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0481",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0482",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0483",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0484",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0485",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0486",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0487",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0488",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0489",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0490",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0491",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0492",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0493",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0494",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0495",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0496",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0497",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0498",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0499",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0500",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0501",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0502",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0503",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0504",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0505",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0506",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0507",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0508",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0509",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0510",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0511",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0512",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0513",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0514",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0515",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0516",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0517",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0518",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0519",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0520",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0521",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0522",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0523",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0524",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0525",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0526",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0527",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0528",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0529",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0530",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0531",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0532",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0533",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0534",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0535",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0536",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0537",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0538",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0539",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0540",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0541",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0542",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0543",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0544",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0545",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0546",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0547",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0548",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0549",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0550",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0551",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0552",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0553",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0554",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0555",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0556",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0557",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0558",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0559",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0560",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0561",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0562",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0563",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0564",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0565",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0566",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0567",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0568",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0569",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0570",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0571",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0572",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0573",
+      "text": "unchanged",
+      "image": "unchanged"
+    },
+    {
+      "id": "event-0574",
+      "text": "unchanged",
+      "image": "unchanged"
+    }
+  ],
+  "finishedAt": "2026-10-23T19:15:08.529Z",
+  "downloadedBytes": 6772219
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0067",
+  "id_num": 67,
+  "slug": "caucasus-hunter-gatherers-chg",
+  "status": "review",
+  "name": "Caucasus Hunter-Gatherers (CHG)",
+  "short_desc": null,
+  "long_desc": "Caucasus Hunter-Gatherers (CHG)",
+  "start": -23000,
+  "end": -6000,
+  "location": "Caucasus",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Caucasus_hunter-gatherer",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaukasus.jpg/1920px-Kaukasus.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": "1",
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e72cd6342c10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "caucasus-hunter-gatherers-chg",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Upper Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 17000,
+    "generation_diff": 1118,
+    "generations_end": 445,
+    "generations_start": 1563,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 67,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaukasus.jpg/960px-Kaukasus.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaukasus.jpg/330px-Kaukasus.jpg",
+    "range_type": null,
+    "time_bp_end": 8000,
+    "time_bp_start": 25000,
+    "time_end": "6000 BCE",
+    "time_start": "23 thousand BCE",
+    "location_info": {
+      "display_name": "caucasus, ლუარსაბ ანდრონიკაშვილის ქუჩა, დიღმისველი, საბურთალოს რაიონი, სოფელი დიღომი, თბილისი, 0159, საქართველო",
+      "boundingbox": [
+        "41.7727558",
+        "41.7728558",
+        "44.7625876",
+        "44.7626876"
+      ],
+      "osm_id": 5526968821,
+      "osm_type": "node",
+      "coordinates": [
+        41.7728058,
+        44.7626376
+      ]
+    }
+  }
+}

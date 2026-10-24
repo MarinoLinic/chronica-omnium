@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0065",
+  "id_num": 65,
+  "slug": "oruanui-supereruption",
+  "status": "review",
+  "name": "Oruanui supereruption",
+  "short_desc": "Oruanui supereruption in New Zealand",
+  "long_desc": "Oruanui supereruption",
+  "start": -24500,
+  "end": null,
+  "location": "New Zealand",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Oruanui_eruption",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Oruanui.North.Island.NZ.jpg/1920px-Oruanui.North.Island.NZ.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-2898e16d4e4e"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "oruanui-supereruption",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Upper Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1657,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 65,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Oruanui.North.Island.NZ.jpg/960px-Oruanui.North.Island.NZ.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Oruanui.North.Island.NZ.jpg/330px-Oruanui.North.Island.NZ.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 26500,
+    "time_end": null,
+    "time_start": "24.5 thousand BCE",
+    "location_info": {
+      "display_name": "New Zealand/Aotearoa",
+      "boundingbox": [
+        "-52.8213687",
+        "-29.0303303",
+        "-179.059153",
+        "179.3643594"
+      ],
+      "osm_id": 556706,
+      "osm_type": "relation",
+      "coordinates": [
+        -41.5000831,
+        172.8344077
+      ]
+    }
+  }
+}

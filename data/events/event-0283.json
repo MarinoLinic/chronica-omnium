@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0283",
+  "id_num": 283,
+  "slug": "mayflower",
+  "status": "review",
+  "name": "Mayflower",
+  "short_desc": "Pilgrims arrive in Cape Cod and found the Plymouth colony",
+  "long_desc": null,
+  "start": 1620,
+  "end": null,
+  "location": "Cape Cod",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Mayflower",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-cbe7f61b63c3"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "mayflower",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 20,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 283,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg/330px-Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 403,
+    "time_end": null,
+    "time_start": "1620 ",
+    "location_info": {
+      "display_name": "Cape Cod, Barnstable County, Massachusetts, United States",
+      "boundingbox": [
+        "41.5150731",
+        "42.08253",
+        "-70.6876847",
+        "-69.9287879"
+      ],
+      "osm_id": 9241337,
+      "osm_type": "relation",
+      "coordinates": [
+        41.7988074,
+        -69.9960134712
+      ]
+    }
+  }
+}

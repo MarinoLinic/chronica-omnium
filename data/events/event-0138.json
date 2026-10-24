@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0138",
+  "id_num": 138,
+  "slug": "ancient-carthage",
+  "status": "review",
+  "name": "Ancient Carthage",
+  "short_desc": "Phoenicians found Carthage",
+  "long_desc": "Ancient Carthage",
+  "start": -814,
+  "end": -146,
+  "location": "Tunisia",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ancient_Carthage#:~:text=c.-,814%20BC%E2%80%93146%20BC,-Supposed%20military%20standard ",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Carthage_323_BC.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4609682a2f3d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ancient-carthage",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 668,
+    "generation_diff": 33,
+    "generations_end": 108,
+    "generations_start": 141,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 138,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Carthage_323_BC.png/960px-Carthage_323_BC.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Carthage_323_BC.png/330px-Carthage_323_BC.png",
+    "range_type": null,
+    "time_bp_end": 2169,
+    "time_bp_start": 2837,
+    "time_end": "146 BCE",
+    "time_start": "814 BCE",
+    "location_info": {
+      "display_name": "تونس",
+      "boundingbox": [
+        "30.229061",
+        "37.7612052",
+        "7.5219807",
+        "11.8801133"
+      ],
+      "osm_id": 192757,
+      "osm_type": "relation",
+      "coordinates": [
+        33.8439408,
+        9.400138
+      ]
+    }
+  }
+}

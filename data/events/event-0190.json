@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0190",
+  "id_num": 190,
+  "slug": "conversion-of-constantine-the-great",
+  "status": "review",
+  "name": "Conversion of Constantine the Great",
+  "short_desc": "Constantine the Great converts to Christianity 6 years after becoming emperor",
+  "long_desc": "Conversion of Constantine the Great",
+  "start": 312,
+  "end": null,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/1280px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "conversion-of-constantine-the-great",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 85,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 190,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/960px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Statua_di_Costantino_ai_musei_capitolini.jpg/330px-Statua_di_Costantino_ai_musei_capitolini.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1711,
+    "time_end": null,
+    "time_start": "312 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

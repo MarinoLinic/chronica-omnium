@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0118",
+  "id_num": 118,
+  "slug": "akkadian-empire",
+  "status": "review",
+  "name": "Akkadian Empire",
+  "short_desc": null,
+  "long_desc": "Akkadian Empire",
+  "start": -2334,
+  "end": -2154,
+  "location": "Mesopotamia",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Akkadian_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/1920px-Empire_akkad.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-84363cef0b48"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "akkadian-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 180,
+    "generation_diff": 9,
+    "generations_end": 208,
+    "generations_start": 217,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 118,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/960px-Empire_akkad.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Empire_akkad.svg/330px-Empire_akkad.svg.png",
+    "range_type": null,
+    "time_bp_end": 4100,
+    "time_bp_start": 4300,
+    "time_end": "2154 BCE",
+    "time_start": "2334 BCE",
+    "location_info": {
+      "display_name": "Mesopotamia / Mezopotamya / Μεσοποταμία / بلاد الرافدين / ܒܝܬ ܢܗܪܝܢ, العراق",
+      "boundingbox": [
+        "30.910482",
+        "38.8923437",
+        "37.8341674",
+        "47.4534005"
+      ],
+      "osm_id": 14013535,
+      "osm_type": "relation",
+      "coordinates": [
+        34.9019732,
+        42.0596465948
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0070",
+  "id_num": 70,
+  "slug": "malta-boy",
+  "status": "review",
+  "name": "Mal'ta boy",
+  "short_desc": null,
+  "long_desc": "Mal'ta boy",
+  "start": -22000,
+  "end": null,
+  "location": "Siberia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Mal%27ta%E2%80%93Buret%27_culture",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-a5503f12a7ac"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "malta-boy",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Upper Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1501,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 70,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif/960px-Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif/330px-Engraving_of_a_mammoth_on_a_slab_of_mammoth_ivory%2C_from_the_Upper_Paleolithic_Mal%27ta_deposits_at_Lake_Baikal%2C_Siberia.gif",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 24000,
+    "time_end": null,
+    "time_start": "22 thousand BCE",
+    "location_info": {
+      "display_name": "Сибирь, Красноярский край, Сибирский федеральный округ, Россия",
+      "boundingbox": [
+        "59",
+        "61",
+        "99",
+        "101"
+      ],
+      "osm_id": 5332639323,
+      "osm_type": "node",
+      "coordinates": [
+        60,
+        100
+      ]
+    }
+  }
+}

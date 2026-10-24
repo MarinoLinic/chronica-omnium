@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0103",
+  "id_num": 103,
+  "slug": "indus-valley-civilization",
+  "status": "review",
+  "name": "Indus Valley civilization",
+  "short_desc": "Indus Valley civilization (IVC)",
+  "long_desc": "Indus Valley civilization",
+  "start": -3300,
+  "end": -1100,
+  "location": "South Asia",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0f5fbbd8e643"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "indus-valley-civilization",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2200,
+    "generation_diff": 110,
+    "generations_end": 156,
+    "generations_start": 266,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 103,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png/330px-Indus_Valley_Civilization%2C_Mature_Phase_%282600-1900_BCE%29.png",
+    "range_type": null,
+    "time_bp_end": 3100,
+    "time_bp_start": 5300,
+    "time_end": "1100 BCE",
+    "time_start": "3300 BCE",
+    "location_info": {
+      "display_name": "Asia, 668, South Lane Street, Little Saigon, International District/Chinatown, Seattle, King County, Washington, 98104, United States",
+      "boundingbox": [
+        "47.5967575",
+        "47.5970996",
+        "-122.3243949",
+        "-122.3239"
+      ],
+      "osm_id": 235386602,
+      "osm_type": "way",
+      "coordinates": [
+        47.5968685,
+        -122.32414745
+      ]
+    }
+  }
+}

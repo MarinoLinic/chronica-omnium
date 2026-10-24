@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0007",
+  "id_num": 7,
+  "slug": "protocell",
+  "status": "review",
+  "name": "Protocell",
+  "short_desc": "Earliest life form (protocell); has RNA",
+  "long_desc": "Protocell",
+  "start": -4280000000,
+  "end": -3700000000,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Protocell",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Protocell-4.svg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "protocell",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Hadean",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 7,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Protocell-4.svg/960px-Protocell-4.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Protocell-4.svg/330px-Protocell-4.svg.png",
+    "range_type": 1,
+    "time_bp_end": 3700000000,
+    "time_bp_start": 4280000000,
+    "time_end": "3.7 billion BCE",
+    "time_start": "4.28 billion BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0240",
+  "id_num": 240,
+  "slug": "ming-dynasty",
+  "status": "review",
+  "name": "Ming dynasty",
+  "short_desc": null,
+  "long_desc": "Ming dynasty",
+  "start": 1368,
+  "end": 1644,
+  "location": "China",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ming_dynasty",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ming_Empire_cca_1580_%28en%29.svg/1920px-Ming_Empire_cca_1580_%28en%29.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ming-dynasty",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 276,
+    "generation_diff": 14,
+    "generations_end": 18,
+    "generations_start": 32,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 240,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ming_Empire_cca_1580_%28en%29.svg/960px-Ming_Empire_cca_1580_%28en%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ming_Empire_cca_1580_%28en%29.svg/330px-Ming_Empire_cca_1580_%28en%29.svg.png",
+    "range_type": null,
+    "time_bp_end": 379,
+    "time_bp_start": 655,
+    "time_end": "1644 ",
+    "time_start": "1368 ",
+    "location_info": {
+      "display_name": "中国",
+      "boundingbox": [
+        "8.6650385",
+        "53.5608154",
+        "73.4997347",
+        "134.7754563"
+      ],
+      "osm_id": 270056,
+      "osm_type": "relation",
+      "coordinates": [
+        35.000074,
+        104.999927
+      ]
+    }
+  }
+}

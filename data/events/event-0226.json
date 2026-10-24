@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0226",
+  "id_num": 226,
+  "slug": "lanse-aux-meadows",
+  "status": "review",
+  "name": "L'Anse aux Meadows",
+  "short_desc": "First Norse colony in North America",
+  "long_desc": "L'Anse aux Meadows",
+  "start": 1014,
+  "end": null,
+  "location": "Newfoundland",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/L%27Anse_aux_Meadows#:~:text=carbon%20date%20of-,1014,-%2C%5B3%5D",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/L%27AnseAuxMeadowsModel.jpg/1920px-L%27AnseAuxMeadowsModel.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-d3309bbd8954"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "lanse-aux-meadows",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "High Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 50,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 226,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/L%27AnseAuxMeadowsModel.jpg/960px-L%27AnseAuxMeadowsModel.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/L%27AnseAuxMeadowsModel.jpg/330px-L%27AnseAuxMeadowsModel.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1009,
+    "time_end": null,
+    "time_start": "1014 ",
+    "location_info": {
+      "display_name": "Island of Newfoundland, Canada",
+      "boundingbox": [
+        "46.6112595",
+        "51.6311624",
+        "-59.4125546",
+        "-52.6193663"
+      ],
+      "osm_id": 7168979,
+      "osm_type": "relation",
+      "coordinates": [
+        49.12120935,
+        -56.6403111408
+      ]
+    }
+  }
+}

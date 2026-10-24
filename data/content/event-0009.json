@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0009",
+  "text": "The last universal common ancestor (LUCA) is the most recent population from which all organisms now living on Earth share common descent—the most recent common ancestor of all current life on Earth. This includes all cellular organisms; the origins of viruses are unclear but they share the same genetic code.  LUCA probably harboured a variety of viruses. The LUCA is not the first life on Earth, but rather the latest form ancestral to all existing life.\n\nWhile there is no specific fossil evidence of the LUCA, the detailed biochemical similarity of all current life confirms its existence. Its characteristics can be inferred from shared features of modern genomes. These genes describe a complex life form with many co-adapted features, including transcription and translation mechanisms to convert information from DNA to RNA to proteins. The LUCA probably lived in the high-temperature water of deep sea vents near ocean-floor magma flows around 4 billion years ago.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0293",
+  "id_num": 293,
+  "slug": "johann-sebastian-bach",
+  "status": "review",
+  "name": "Johann Sebastian Bach",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1685,
+  "end": 1750,
+  "location": "Eisenach",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Johann_Sebastian_Bach.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-102cb8b468e5"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "johann-sebastian-bach",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 65,
+    "generation_diff": 3,
+    "generations_end": 13,
+    "generations_start": 16,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 293,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/960px-Johann_Sebastian_Bach.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg",
+    "range_type": null,
+    "time_bp_end": 273,
+    "time_bp_start": 338,
+    "time_end": "1750 ",
+    "time_start": "1685 ",
+    "location_info": {
+      "display_name": "Eisenach, Wutha-Farnroda, Wartburgkreis, Thüringen, 99848, Deutschland",
+      "boundingbox": [
+        "50.9308125",
+        "51.0523906",
+        "10.1752359",
+        "10.3915234"
+      ],
+      "osm_id": 62370,
+      "osm_type": "relation",
+      "coordinates": [
+        50.9747134,
+        10.3193565
+      ]
+    }
+  }
+}

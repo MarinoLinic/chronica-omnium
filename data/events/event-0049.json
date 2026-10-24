@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0049",
+  "id_num": 49,
+  "slug": "toba-supereruption",
+  "status": "review",
+  "name": "Toba supereruption",
+  "short_desc": "Toba supereruption in Indonesia (humans bottlenecked down to 3k-10k individuals)",
+  "long_desc": "Toba supereruption",
+  "start": -72000,
+  "end": null,
+  "location": "Indonesia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Toba_catastrophe_theory",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tobaeruption.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-dbc74a36d8e7"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "toba-supereruption",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Middle Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 4626,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 49,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tobaeruption.png/960px-Tobaeruption.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tobaeruption.png/330px-Tobaeruption.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 74000,
+    "time_end": null,
+    "time_start": "72 thousand BCE",
+    "location_info": {
+      "display_name": "Indonesia",
+      "boundingbox": [
+        "-11.2085669",
+        "6.2744496",
+        "94.7717124",
+        "141.0194444"
+      ],
+      "osm_id": 304751,
+      "osm_type": "relation",
+      "coordinates": [
+        -2.4833826,
+        117.8902853
+      ]
+    }
+  }
+}

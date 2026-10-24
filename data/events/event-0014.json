@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0014",
+  "id_num": 14,
+  "slug": "sexual-reproduction",
+  "status": "review",
+  "name": "Sexual reproduction",
+  "short_desc": "Appearance of sexual reproduction",
+  "long_desc": "Sexual reproduction",
+  "start": -2000000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Sexual_reproduction",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sexual_cycle.svg/1920px-Sexual_cycle.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "sexual-reproduction",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Proterozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Paleoproterozoic",
+    "geologic_period": "Orosirian",
+    "id_num": 14,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sexual_cycle.svg/960px-Sexual_cycle.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sexual_cycle.svg/330px-Sexual_cycle.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2000000000,
+    "time_end": null,
+    "time_start": "2 billion BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

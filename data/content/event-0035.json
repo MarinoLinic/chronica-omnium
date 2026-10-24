@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0035",
+  "text": "Australopithecus anamensis is a hominin species that lived approximately between 4.2 and 3.8 million years ago and is the oldest known Australopithecus species, living during the Plio-Pleistocene era.\n\nNearly one hundred fossil specimens of A. anamensis are known from Kenya and Ethiopia, representing over twenty individuals. The first fossils of A. anamensis discovered, are dated to around 3.8 and 4.2 million years ago and were found in Kanapoi and Allia Bay in Northern Kenya.\n\nIt is usually accepted that A. afarensis emerged within this lineage. However,  A. anamensis and A. afarensis appear to have lived side by side for at least some period of time, and it is not fully settled whether the lineage that led to extant humans emerged in A. afarensis, or directly in A. anamensis.\nFossil evidence determines that Australopithecus anamensis is the earliest hominin species in the Turkana Basin, but likely co-existed with afarensis towards the end of its existence. A. anamensis and A. afarensis may be treated as a single grouping.\n\nPreliminary analysis of the sole upper cranial fossil indicates A. anamensis had a smaller cranial capacity (estimated 365-370 c.c.) than A. afarensis.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Australopithecus_anamensis",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

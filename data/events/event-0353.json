@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0353",
+  "id_num": 353,
+  "slug": "john-mynard-keynes",
+  "status": "review",
+  "name": "John Mynard Keynes",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1883,
+  "end": 1946,
+  "location": "Cambridge",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/John_Maynard_Keynes",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-086eec074ad1"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "john-mynard-keynes",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 63,
+    "generation_diff": 4,
+    "generations_end": 3,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 353,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/0/04/Keynes_1933.jpg",
+    "range_type": null,
+    "time_bp_end": 77,
+    "time_bp_start": 140,
+    "time_end": "1946 ",
+    "time_start": "1883 ",
+    "location_info": {
+      "display_name": "Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
+      "boundingbox": [
+        "52.1579417",
+        "52.2372296",
+        "0.0686389",
+        "0.184552"
+      ],
+      "osm_id": 295355,
+      "osm_type": "relation",
+      "coordinates": [
+        52.2055314,
+        0.1186637
+      ]
+    }
+  }
+}

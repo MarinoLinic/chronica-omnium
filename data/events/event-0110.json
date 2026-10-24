@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0110",
+  "id_num": 110,
+  "slug": "stonehenge",
+  "status": "review",
+  "name": "Stonehenge",
+  "short_desc": "Stonehenge is built",
+  "long_desc": "Stonehenge",
+  "start": -3000,
+  "end": -2000,
+  "location": "Great Britain",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-b5cbec1a064d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "stonehenge",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 50,
+    "generations_end": 201,
+    "generations_start": 251,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 110,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": 1,
+    "time_bp_end": 4000,
+    "time_bp_start": 5000,
+    "time_end": "2000 BCE",
+    "time_start": "3000 BCE",
+    "location_info": {
+      "display_name": "Great Britain, United Kingdom",
+      "boundingbox": [
+        "49.9586975",
+        "58.672078",
+        "-6.2278849",
+        "1.7632199"
+      ],
+      "osm_id": 6038068,
+      "osm_type": "relation",
+      "coordinates": [
+        54.31536155,
+        -1.9180234948
+      ]
+    }
+  }
+}

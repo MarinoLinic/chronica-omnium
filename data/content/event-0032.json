@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0032",
+  "text": "The chimpanzee–human last common ancestor (CHLCA) is the last common ancestor shared by the extant Homo (human) and Pan (chimpanzee and bonobo) genera of Hominini. Due to complex hybrid speciation, it is not currently possible to give a precise estimate on the age of this ancestral population. While \"original divergence\" between populations may have occurred as early as 13 million years ago (Miocene), hybridization may have been ongoing until as recently as 4 million years ago (Pliocene).\n\nIn human genetic studies, the CHLCA is useful as an anchor point for calculating single-nucleotide polymorphism (SNP) rates in human populations where chimpanzees are used as an outgroup, that is, as the extant species most genetically similar to Homo sapiens.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Chimpanzee%E2%80%93human_last_common_ancestor",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

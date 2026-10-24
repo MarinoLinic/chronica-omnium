@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0267",
+  "id_num": 267,
+  "slug": "anglicanism",
+  "status": "review",
+  "name": "Anglicanism",
+  "short_desc": null,
+  "long_desc": "Anglicanism",
+  "start": 1534,
+  "end": 2023,
+  "location": "England",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Anglicanism",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Canterbury-cathedral-wyrdlight.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-c0ea960b065c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "anglicanism",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 489,
+    "generation_diff": 24,
+    "generations_end": 0,
+    "generations_start": 24,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 267,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canterbury-cathedral-wyrdlight.jpg/960px-Canterbury-cathedral-wyrdlight.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Canterbury-cathedral-wyrdlight.jpg/330px-Canterbury-cathedral-wyrdlight.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 489,
+    "time_end": "2023 ",
+    "time_start": "1534 ",
+    "location_info": {
+      "display_name": "England, United Kingdom",
+      "boundingbox": [
+        "49.674",
+        "55.917",
+        "-6.7047494",
+        "2.0919117"
+      ],
+      "osm_id": 58447,
+      "osm_type": "relation",
+      "coordinates": [
+        52.5310214,
+        -1.2649062
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0352",
+  "id_num": 352,
+  "slug": "ludwig-von-mises",
+  "status": "review",
+  "name": "Ludwig von Mises",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1881,
+  "end": 1973,
+  "location": "Lemberg",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ludwig_von_Mises",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ludwig_von_Mises.jpg/1920px-Ludwig_von_Mises.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4eb738c1b63a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ludwig-von-mises",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 92,
+    "generation_diff": 5,
+    "generations_end": 2,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 352,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ludwig_von_Mises.jpg/960px-Ludwig_von_Mises.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ludwig_von_Mises.jpg/330px-Ludwig_von_Mises.jpg",
+    "range_type": null,
+    "time_bp_end": 50,
+    "time_bp_start": 142,
+    "time_end": "1973 ",
+    "time_start": "1881 ",
+    "location_info": {
+      "display_name": "Львів, Львівська міська громада, Львівський район, Львівська область, Україна",
+      "boundingbox": [
+        "49.7681748",
+        "49.9037122",
+        "23.8980549",
+        "24.1334136"
+      ],
+      "osm_id": 2032280,
+      "osm_type": "relation",
+      "coordinates": [
+        49.841952,
+        24.0315921
+      ]
+    }
+  }
+}

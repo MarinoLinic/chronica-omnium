@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0296",
+  "text": "The piano is a keyboard instrument with strings struck by wooden hammers coated with a softer material (modern hammers are covered with dense wool felt; some early pianos used leather). It is played using its keyboard, which is a row of keys (small levers) touched by the performer with the fingers and thumbs of both hands, causing the hammers to strike the strings. It was invented in Italy by Bartolomeo Cristofori around the year 1700.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Piano",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

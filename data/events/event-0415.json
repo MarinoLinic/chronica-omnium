@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0415",
+  "id_num": 415,
+  "slug": "abandonment-of-the-gold-standard",
+  "status": "review",
+  "name": "Abandonment of the Gold Standard",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1971,
+  "end": null,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Gold_standard#:~:text=to%20gold%20on-,August%2015%2C%201971,-(the%20%22Nixon",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Us-gold-certificate-1922.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "abandonment-of-the-gold-standard",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 415,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/1/17/Us-gold-certificate-1922.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Us-gold-certificate-1922.jpg/330px-Us-gold-certificate-1922.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 52,
+    "time_end": null,
+    "time_start": "1971 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

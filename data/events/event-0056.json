@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0056",
+  "id_num": 56,
+  "slug": "figurative-cave-painting",
+  "status": "review",
+  "name": "Figurative cave painting",
+  "short_desc": "First figurative cave painting in Indonesia: a pig (Maros-Pangkep karst)",
+  "long_desc": "Figurative cave painting",
+  "start": -41900,
+  "end": null,
+  "location": "Indonesia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-dbc74a36d8e7"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "figurative-cave-painting",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Upper Paleolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2745,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 56,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 43900,
+    "time_end": null,
+    "time_start": "41.9 thousand BCE",
+    "location_info": {
+      "display_name": "Indonesia",
+      "boundingbox": [
+        "-11.2085669",
+        "6.2744496",
+        "94.7717124",
+        "141.0194444"
+      ],
+      "osm_id": 304751,
+      "osm_type": "relation",
+      "coordinates": [
+        -2.4833826,
+        117.8902853
+      ]
+    }
+  }
+}

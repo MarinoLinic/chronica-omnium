@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0278",
+  "text": "The Edo period (江戸時代, Edo jidai) or Tokugawa period (徳川時代, Tokugawa jidai) is the period between 1603 and 1867 in the history of Japan, when Japan was under the rule of the Tokugawa shogunate and the country's 300 regional daimyo. Emerging from the chaos of the Sengoku period, the Edo period was characterized by economic growth, strict social order, isolationist foreign policies, a stable population, perpetual peace, and popular enjoyment of arts and culture. \n\nThe period derives its name from Edo (now Tokyo), where on March 24, 1603, the shogunate was officially established by Tokugawa Ieyasu. The period came to an end with the Meiji Restoration and the Boshin War, which restored imperial rule to Japan.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Edo_period",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

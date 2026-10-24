@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0277",
+  "id_num": 277,
+  "slug": "east-india-company",
+  "status": "review",
+  "name": "East India Company",
+  "short_desc": null,
+  "long_desc": "East India Company",
+  "start": 1600,
+  "end": 1874,
+  "location": "World",
+  "type": "Company",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/East_India_Company",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg/1920px-Flag_of_the_British_East_India_Company_%281801%29.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "east-india-company",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 274,
+    "generation_diff": 14,
+    "generations_end": 7,
+    "generations_start": 21,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 277,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg/960px-Flag_of_the_British_East_India_Company_%281801%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_the_British_East_India_Company_%281801%29.svg/330px-Flag_of_the_British_East_India_Company_%281801%29.svg.png",
+    "range_type": null,
+    "time_bp_end": 149,
+    "time_bp_start": 423,
+    "time_end": "1874 ",
+    "time_start": "1600 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

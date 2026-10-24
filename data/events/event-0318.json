@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0318",
+  "id_num": 318,
+  "slug": "french-revolution",
+  "status": "review",
+  "name": "French Revolution",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1789,
+  "end": 1799,
+  "location": "France",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/French_Revolution",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/1920px-Anonymous_-_Prise_de_la_Bastille.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7a1ca4ef7515"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "french-revolution",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 10,
+    "generation_diff": 0,
+    "generations_end": 11,
+    "generations_start": 11,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 318,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/960px-Anonymous_-_Prise_de_la_Bastille.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg",
+    "range_type": null,
+    "time_bp_end": 224,
+    "time_bp_start": 234,
+    "time_end": "1799 ",
+    "time_start": "1789 ",
+    "location_info": {
+      "display_name": "France",
+      "boundingbox": [
+        "-50.2187169",
+        "51.3055721",
+        "-178.3873749",
+        "172.3057152"
+      ],
+      "osm_id": 2202162,
+      "osm_type": "relation",
+      "coordinates": [
+        46.603354,
+        1.8883335
+      ]
+    }
+  }
+}

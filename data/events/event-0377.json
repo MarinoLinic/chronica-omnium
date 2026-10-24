@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0377",
+  "id_num": 377,
+  "slug": "treaty-of-versailles",
+  "status": "review",
+  "name": "Treaty of Versailles",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1919,
+  "end": null,
+  "location": "Versailles",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/1280px-Treaty_of_Versailles%2C_English_version.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-16d7b75d3f53"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "treaty-of-versailles",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 377,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/960px-Treaty_of_Versailles%2C_English_version.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Treaty_of_Versailles%2C_English_version.jpg/330px-Treaty_of_Versailles%2C_English_version.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 104,
+    "time_end": null,
+    "time_start": "1919 ",
+    "location_info": {
+      "display_name": "Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France",
+      "boundingbox": [
+        "48.7792385",
+        "48.8286153",
+        "2.0699384",
+        "2.1683504"
+      ],
+      "osm_id": 30295,
+      "osm_type": "relation",
+      "coordinates": [
+        48.8035403,
+        2.1266886
+      ]
+    }
+  }
+}

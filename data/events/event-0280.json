@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0280",
+  "id_num": 280,
+  "slug": "thirteen-colonies",
+  "status": "review",
+  "name": "Thirteen Colonies",
+  "short_desc": null,
+  "long_desc": "Thirteen Colonies",
+  "start": 1607,
+  "end": 1776,
+  "location": "United States",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Thirteen_Colonies",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_territorial_growth_1775.svg/1920px-Map_of_territorial_growth_1775.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "thirteen-colonies",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 169,
+    "generation_diff": 8,
+    "generations_end": 12,
+    "generations_start": 20,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 280,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_territorial_growth_1775.svg/960px-Map_of_territorial_growth_1775.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_territorial_growth_1775.svg/330px-Map_of_territorial_growth_1775.svg.png",
+    "range_type": null,
+    "time_bp_end": 247,
+    "time_bp_start": 416,
+    "time_end": "1776 ",
+    "time_start": "1607 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

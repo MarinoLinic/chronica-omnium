@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0038",
+  "text": "For other species or subspecies suggested, see below.\n\nHomo (from Latin  homō 'human') is the genus that emerged in the (otherwise extinct) genus Australopithecus that encompasses the extant species Homo sapiens (modern humans), plus several extinct species classified as either ancestral to or closely related to modern humans (depending on the species), most notably H. erectus and H. neanderthalensis. The oldest member of Homo is H. habilis with records of just over 2 million years ago. However, a recent phylogenetic study in hominins using morphological, molecular and radiometric information, dates the emergence of Homo at 3.3 Ma (4.30 – 2.56 Ma).  Homo, together with the genus Paranthropus, is probably sister to Australopithecus africanus, which itself had previously split from the lineage of Pan, the chimpanzees.\n\nHomo erectus appeared about 2 million years ago and, in several early migrations, spread throughout Africa (where it is dubbed H. ergaster) and Eurasia. It is likely that the first human species lived in a hunter-gatherer society and was able to control fire. An adaptive and successful species, H. erectus persisted for more than a million years and gradually diverged into new species by around 500,000 years ago.\n\nAnatomically modern humans (Homo sapiens) emerged close to 300,000 to 200,000 years ago, in Africa, and H. neanderthalensis emerged around the same time in Europe and Western Asia. H. sapiens dispersed from Africa in several waves, from possibly as early as 250,000 years ago, and certainly by 130,000 years ago, the so-called Southern Dispersal beginning about 70–50,000 years ago leading to the lasting colonisation of Eurasia and Oceania by 50,000 years ago. Both in Africa and Eurasia, H. sapiens met with and interbred with archaic humans. Separate archaic (non-sapiens) human species are thought to have survived until around 40,000 years ago (Neanderthal extinction).\n\n",
+  "source": "https://en.wikipedia.org/wiki/Homo",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

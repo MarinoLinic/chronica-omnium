@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0429",
+  "id_num": 429,
+  "slug": "google",
+  "status": "review",
+  "name": "Google",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1998,
+  "end": 2023,
+  "location": "Menlo Park",
+  "type": "Company",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Google",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/1920px-Googleplex_HQ_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7e12449255ed"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "google",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 25,
+    "generation_diff": 1,
+    "generations_end": 0,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 429,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/960px-Googleplex_HQ_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 25,
+    "time_end": "2023 ",
+    "time_start": "1998 ",
+    "location_info": {
+      "display_name": "Menlo Park, San Mateo County, California, 94025, United States",
+      "boundingbox": [
+        "37.4169279",
+        "37.5338387",
+        "-122.2284392",
+        "-122.0801029"
+      ],
+      "osm_id": 1544957,
+      "osm_type": "relation",
+      "coordinates": [
+        37.4519671,
+        -122.177992
+      ]
+    }
+  }
+}

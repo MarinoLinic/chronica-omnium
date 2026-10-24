@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0441",
+  "id_num": 441,
+  "slug": "russian-invasion-of-ukraine-2022",
+  "status": "review",
+  "name": "Russian invasion of Ukraine (2022)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2022,
+  "end": 2023,
+  "location": "Ukraine",
+  "type": "War",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/1920px-2022_Russian_invasion_of_Ukraine.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-580eedc669f3"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "russian-invasion-of-ukraine-2022",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1,
+    "generation_diff": 0,
+    "generations_end": 0,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 441,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/960px-2022_Russian_invasion_of_Ukraine.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2022_Russian_invasion_of_Ukraine.svg/330px-2022_Russian_invasion_of_Ukraine.svg.png",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 1,
+    "time_end": "2023 ",
+    "time_start": "2022 ",
+    "location_info": {
+      "display_name": "Україна",
+      "boundingbox": [
+        "44.184598",
+        "52.3797464",
+        "22.137059",
+        "40.2275801"
+      ],
+      "osm_id": 60199,
+      "osm_type": "relation",
+      "coordinates": [
+        49.4871968,
+        31.2718321
+      ]
+    }
+  }
+}

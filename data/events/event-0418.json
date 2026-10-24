@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0418",
+  "id_num": 418,
+  "slug": "curtis-yarvin",
+  "status": "review",
+  "name": "Curtis Yarvin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1973,
+  "end": 2023,
+  "location": "United States",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Curtis_Yarvin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Curtis_Yarvin_on_Philosophy_of_Art_%26_Science.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "curtis-yarvin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 50,
+    "generation_diff": 2,
+    "generations_end": 0,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 418,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Curtis_Yarvin_on_Philosophy_of_Art_%26_Science.jpg/960px-Curtis_Yarvin_on_Philosophy_of_Art_%26_Science.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Curtis_Yarvin_on_Philosophy_of_Art_%26_Science.jpg/330px-Curtis_Yarvin_on_Philosophy_of_Art_%26_Science.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 50,
+    "time_end": "2023 ",
+    "time_start": "1973 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

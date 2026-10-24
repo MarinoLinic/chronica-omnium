@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0320",
+  "id_num": 320,
+  "slug": "jean-franois-champollion",
+  "status": "review",
+  "name": "Jean-François Champollion",
+  "short_desc": "Founder of Egyptology and decipherer of Egyptian hieroglyphs",
+  "long_desc": null,
+  "start": 1790,
+  "end": 1832,
+  "location": "France",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/1920px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7a1ca4ef7515"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "jean-franois-champollion",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 42,
+    "generation_diff": 2,
+    "generations_end": 9,
+    "generations_start": 11,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 320,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/960px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg/330px-Jean-Fran%C3%A7ois_Champollion%2C_by_L%C3%A9on_Cogniet.jpg",
+    "range_type": null,
+    "time_bp_end": 191,
+    "time_bp_start": 233,
+    "time_end": "1832 ",
+    "time_start": "1790 ",
+    "location_info": {
+      "display_name": "France",
+      "boundingbox": [
+        "-50.2187169",
+        "51.3055721",
+        "-178.3873749",
+        "172.3057152"
+      ],
+      "osm_id": 2202162,
+      "osm_type": "relation",
+      "coordinates": [
+        46.603354,
+        1.8883335
+      ]
+    }
+  }
+}

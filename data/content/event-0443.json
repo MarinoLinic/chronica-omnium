@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0443",
+  "text": "The 1992 Los Angeles riots, sometimes called the Rodney King riots or the 1992 Los Angeles uprising, were a series of riots and civil disturbances that occurred in Los Angeles County, California, in April and May 1992. Unrest began in South Central Los Angeles on April 29, after a jury acquitted four officers of the Los Angeles Police Department (LAPD) charged with using excessive force in the arrest and beating of Rodney King. This incident had been videotaped and widely shown in television broadcasts.\n\nThe rioting took place in several areas in the Los Angeles metropolitan area as thousands of people rioted over six days following the verdict's announcement. Widespread looting, assault, and arson occurred during the riots, which local police forces had difficulty controlling. The situation in the Los Angeles area was resolved only after the California National Guard, United States military, and several federal law enforcement agencies deployed more than 5,000 federal troops to assist in ending the violence and unrest.\n\nWhen the riots ended, 63 people had been killed, 2,383 had been injured, more than 12,000 had been arrested, and estimates of property damage were over $1 billion. Koreatown, situated just to the north of South Central LA, was disproportionately damaged. Much of the blame for the extensive nature of the violence was attributed to LAPD Chief of Police Daryl Gates, who had already announced his resignation by the time of the riots, for failure to de-escalate the situation and overall mismanagement.\n\n",
+  "source": "https://en.wikipedia.org/wiki/1992_Los_Angeles_riots",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

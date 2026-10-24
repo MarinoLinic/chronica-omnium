@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0136",
+  "id_num": 136,
+  "slug": "homer",
+  "status": "review",
+  "name": "Homer",
+  "short_desc": null,
+  "long_desc": "Homer",
+  "start": -900,
+  "end": -700,
+  "location": "Greece",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Homer",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-9c93ad439373"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "homer",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 10,
+    "generations_end": 136,
+    "generations_start": 146,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 136,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Homer_British_Museum.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Homer_British_Museum.jpg/330px-Homer_British_Museum.jpg",
+    "range_type": 1,
+    "time_bp_end": 2700,
+    "time_bp_start": 2900,
+    "time_end": "700 BCE",
+    "time_start": "900 BCE",
+    "location_info": {
+      "display_name": "Ελλάς",
+      "boundingbox": [
+        "34.7188863",
+        "41.7488889",
+        "19.1127535",
+        "29.68381"
+      ],
+      "osm_id": 192307,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9953683,
+        21.9877132
+      ]
+    }
+  }
+}

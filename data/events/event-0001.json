@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0001",
+  "id_num": 1,
+  "slug": "the-big-bang",
+  "status": "review",
+  "name": "The Big Bang",
+  "short_desc": "The Big Bang",
+  "long_desc": "The Big Bang",
+  "start": -13800000000,
+  "end": null,
+  "location": "Universe",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Big_Bang",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/1920px-CMB_Timeline300_no_WMAP.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-7572e44117a8"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-big-bang",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 1,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/960px-CMB_Timeline300_no_WMAP.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/330px-CMB_Timeline300_no_WMAP.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 13800000000,
+    "time_end": null,
+    "time_start": "13.8 billion BCE",
+    "location_info": {
+      "display_name": "Universe, Gammel Fabriksvej, Elsmark, Svenstrup, Sønderborg Kommune, Region Syddanmark, 6430, Danmark",
+      "boundingbox": [
+        "55.0390662",
+        "55.0431181",
+        "9.8081809",
+        "9.8123936"
+      ],
+      "osm_id": 94561506,
+      "osm_type": "way",
+      "coordinates": [
+        55.04104775,
+        9.8103565357
+      ]
+    }
+  }
+}

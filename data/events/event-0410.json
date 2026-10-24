@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0410",
+  "id_num": 410,
+  "slug": "jfk-in-office",
+  "status": "review",
+  "name": "John F. Kennedy",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1961,
+  "end": 1963,
+  "location": "United States",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "jfk-in-office",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2,
+    "generation_diff": 0,
+    "generations_end": 3,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 410,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/960px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+    "range_type": null,
+    "time_bp_end": 60,
+    "time_bp_start": 62,
+    "time_end": "1963 ",
+    "time_start": "1961 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  },
+  "date_label": "U.S. presidency",
+  "periods": [
+    {
+      "id": "lifespan",
+      "label": "Lifespan",
+      "kind": "life",
+      "start": 1917,
+      "end": 1963,
+      "date_kind": "span",
+      "date_note": "Year-level lifespan. Born 29 May 1917; died 22 November 1963. Checked against the Library of Congress resource guide on 24 October 2026.",
+      "source": "https://guides.loc.gov/john-f-kennedy/introduction"
+    }
+  ],
+  "timeline_period": null
+}

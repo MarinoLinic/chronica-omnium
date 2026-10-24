@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0327",
+  "id_num": 327,
+  "slug": "french-invasion-of-russia",
+  "status": "review",
+  "name": "French invasion of Russia",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1812,
+  "end": null,
+  "location": "Russia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/French_invasion_of_Russia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/French_invasion_of_Russia_collage.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-33a3d8ed92b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "french-invasion-of-russia",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 10,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 327,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_invasion_of_Russia_collage.jpg/960px-French_invasion_of_Russia_collage.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_invasion_of_Russia_collage.jpg/330px-French_invasion_of_Russia_collage.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 211,
+    "time_end": null,
+    "time_start": "1812 ",
+    "location_info": {
+      "display_name": "Россия",
+      "boundingbox": [
+        "41.1850968",
+        "82.0586232",
+        "-180",
+        "180"
+      ],
+      "osm_id": 60189,
+      "osm_type": "relation",
+      "coordinates": [
+        64.6863136,
+        97.7453061
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0006",
+  "text": "The  origin of water on Earth is the subject of a body of research in the fields of planetary science, astronomy, and astrobiology. Earth is unique among the rocky planets in the Solar System in having oceans of liquid water on its surface. Liquid water, which is necessary for life as we know it, continues to exist on the surface of Earth because the planet is at a distance, known as the  habitable zone, far enough from the Sun that it does not lose its water, but not so far that low temperatures cause all water on the planet to freeze.\n\nIt was long thought that Earth’s water did not originate from the planet’s region of the protoplanetary disk. Instead, it was hypothesized water and other volatiles must have been delivered to Earth from the outer Solar System later in its history. Recent research, however, indicates that hydrogen inside the Earth played a role in the formation of the ocean. The two ideas are not mutually exclusive, as there is also evidence that water was delivered to Earth by impacts from icy planetesimals similar in composition to asteroids in the outer edges of the asteroid belt.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Origin_of_water_on_Earth",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

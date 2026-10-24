@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0379",
+  "id_num": 379,
+  "slug": "league-of-nations",
+  "status": "review",
+  "name": "League of Nations",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1920,
+  "end": 1946,
+  "location": "World",
+  "type": "Organization",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/League_of_Nations",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/League_of_Nations_Anachronous_Map.PNG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "league-of-nations",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 26,
+    "generation_diff": 2,
+    "generations_end": 3,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 379,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/League_of_Nations_Anachronous_Map.PNG/960px-League_of_Nations_Anachronous_Map.PNG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/League_of_Nations_Anachronous_Map.PNG/330px-League_of_Nations_Anachronous_Map.PNG",
+    "range_type": null,
+    "time_bp_end": 77,
+    "time_bp_start": 103,
+    "time_end": "1946 ",
+    "time_start": "1920 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

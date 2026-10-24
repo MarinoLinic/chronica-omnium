@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0333",
+  "id_num": 333,
+  "slug": "pyotr-ilyich-tchaikovsky",
+  "status": "review",
+  "name": "Pyotr Ilyich Tchaikovsky",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1840,
+  "end": 1893,
+  "location": "Votkinsk",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-aee89f076a84"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "pyotr-ilyich-tchaikovsky",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 53,
+    "generation_diff": 3,
+    "generations_end": 6,
+    "generations_start": 9,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 333,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/960px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tchaikovsky_by_Reutlinger_%28cropped%29.jpg/330px-Tchaikovsky_by_Reutlinger_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 130,
+    "time_bp_start": 183,
+    "time_end": "1893 ",
+    "time_start": "1840 ",
+    "location_info": {
+      "display_name": "городской округ Воткинск, Удмуртия, Приволжский федеральный округ, Россия",
+      "boundingbox": [
+        "56.9662959",
+        "57.1277209",
+        "53.8140803",
+        "54.0997349"
+      ],
+      "osm_id": 1027529,
+      "osm_type": "relation",
+      "coordinates": [
+        57.052505,
+        53.990612
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0253",
+  "id_num": 253,
+  "slug": "michelangelo",
+  "status": "review",
+  "name": "Michelangelo",
+  "short_desc": null,
+  "long_desc": "Michelangelo",
+  "start": 1475,
+  "end": 1564,
+  "location": "Capresse",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Michelangelo",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-94d6bd9eb556"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "michelangelo",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 89,
+    "generation_diff": 5,
+    "generations_end": 22,
+    "generations_start": 27,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 253,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/960px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/330px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg",
+    "range_type": null,
+    "time_bp_end": 459,
+    "time_bp_start": 548,
+    "time_end": "1564 ",
+    "time_start": "1475 ",
+    "location_info": {
+      "display_name": "Passage de la Belle Capresse, Tourterelles-Nord, Fort-de-France, Martinique, 97200, France",
+      "boundingbox": [
+        "14.600375",
+        "14.6007238",
+        "-61.0552395",
+        "-61.0546704"
+      ],
+      "osm_id": 186976404,
+      "osm_type": "way",
+      "coordinates": [
+        14.6005767,
+        -61.0549805
+      ]
+    }
+  }
+}

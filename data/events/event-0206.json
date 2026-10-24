@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0206",
+  "id_num": 206,
+  "slug": "islam",
+  "status": "review",
+  "name": "Islam",
+  "short_desc": null,
+  "long_desc": "Islam",
+  "start": 610,
+  "end": null,
+  "location": "Saudi Arabia",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_Islam",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Icon-religion.svg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-ed9ad13611d7"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "islam",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 70,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 206,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Icon-religion.svg/960px-Icon-religion.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Icon-religion.svg/330px-Icon-religion.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1413,
+    "time_end": null,
+    "time_start": "610 ",
+    "location_info": {
+      "display_name": "السعودية",
+      "boundingbox": [
+        "16.29",
+        "32.1543377",
+        "34.4571718",
+        "55.6666851"
+      ],
+      "osm_id": 307584,
+      "osm_type": "relation",
+      "coordinates": [
+        25.6242618,
+        42.3528328
+      ]
+    }
+  }
+}

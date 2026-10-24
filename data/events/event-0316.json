@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0316",
+  "id_num": 316,
+  "slug": "american-revolutionary-war",
+  "status": "review",
+  "name": "American Revolutionary War",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1775,
+  "end": 1783,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Revolutionary_War_%28collage%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "american-revolutionary-war",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 8,
+    "generation_diff": 0,
+    "generations_end": 12,
+    "generations_start": 12,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 316,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Revolutionary_War_%28collage%29.jpg/960px-Revolutionary_War_%28collage%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Revolutionary_War_%28collage%29.jpg/330px-Revolutionary_War_%28collage%29.jpg",
+    "range_type": null,
+    "time_bp_end": 240,
+    "time_bp_start": 248,
+    "time_end": "1783 ",
+    "time_start": "1775 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

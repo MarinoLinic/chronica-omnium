@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0397",
+  "id_num": 397,
+  "slug": "z3",
+  "status": "review",
+  "name": "Z3",
+  "short_desc": "First computer (Konrad Zuse)",
+  "long_desc": null,
+  "start": 1941,
+  "end": null,
+  "location": "Berlin",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Z3_(computer)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Z3_Deutsches_Museum.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-dad114b6ed73"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "z3",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 397,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Z3_Deutsches_Museum.JPG/960px-Z3_Deutsches_Museum.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Z3_Deutsches_Museum.JPG/330px-Z3_Deutsches_Museum.JPG",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 82,
+    "time_end": null,
+    "time_start": "1941 ",
+    "location_info": {
+      "display_name": "Berlin, Deutschland",
+      "boundingbox": [
+        "52.3382448",
+        "52.6755087",
+        "13.088345",
+        "13.7611609"
+      ],
+      "osm_id": 62422,
+      "osm_type": "relation",
+      "coordinates": [
+        52.5170365,
+        13.3888599
+      ]
+    }
+  }
+}

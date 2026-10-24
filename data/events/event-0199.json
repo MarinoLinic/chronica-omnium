@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0199",
+  "id_num": 199,
+  "slug": "francia",
+  "status": "review",
+  "name": "Francia",
+  "short_desc": null,
+  "long_desc": "Francia",
+  "start": 481,
+  "end": 843,
+  "location": "France",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Francia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Franks_expansion.gif",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7a1ca4ef7515"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "francia",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 362,
+    "generation_diff": 18,
+    "generations_end": 59,
+    "generations_start": 77,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 199,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/2/23/Franks_expansion.gif",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Franks_expansion.gif/330px-Franks_expansion.gif",
+    "range_type": null,
+    "time_bp_end": 1180,
+    "time_bp_start": 1542,
+    "time_end": "843 ",
+    "time_start": "481 ",
+    "location_info": {
+      "display_name": "France",
+      "boundingbox": [
+        "-50.2187169",
+        "51.3055721",
+        "-178.3873749",
+        "172.3057152"
+      ],
+      "osm_id": 2202162,
+      "osm_type": "relation",
+      "coordinates": [
+        46.603354,
+        1.8883335
+      ]
+    }
+  }
+}

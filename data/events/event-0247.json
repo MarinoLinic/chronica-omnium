@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0247",
+  "id_num": 247,
+  "slug": "leonardo-da-vinci",
+  "status": "review",
+  "name": "Leonardo da Vinci",
+  "short_desc": null,
+  "long_desc": "Leonardo da Vinci",
+  "start": 1452,
+  "end": 1519,
+  "location": "Vinci",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0b19ebd4a6ee"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "leonardo-da-vinci",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 67,
+    "generation_diff": 3,
+    "generations_end": 25,
+    "generations_start": 28,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 247,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/330px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+    "range_type": null,
+    "time_bp_end": 504,
+    "time_bp_start": 571,
+    "time_end": "1519 ",
+    "time_start": "1452 ",
+    "location_info": {
+      "display_name": "Vinci, Firenze, Toscana, Italia",
+      "boundingbox": [
+        "43.722348",
+        "43.8236006",
+        "10.8538932",
+        "10.9796501"
+      ],
+      "osm_id": 42603,
+      "osm_type": "relation",
+      "coordinates": [
+        43.7873966,
+        10.9271055
+      ]
+    }
+  }
+}

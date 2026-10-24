@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0346",
+  "id_num": 346,
+  "slug": "grigori-rasputin",
+  "status": "review",
+  "name": "Grigori Rasputin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1869,
+  "end": 1916,
+  "location": "Russia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/1920px-Rasputin_PA.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-33a3d8ed92b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "grigori-rasputin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 47,
+    "generation_diff": 2,
+    "generations_end": 5,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 346,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/960px-Rasputin_PA.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rasputin_PA.jpg/330px-Rasputin_PA.jpg",
+    "range_type": null,
+    "time_bp_end": 107,
+    "time_bp_start": 154,
+    "time_end": "1916 ",
+    "time_start": "1869 ",
+    "location_info": {
+      "display_name": "Россия",
+      "boundingbox": [
+        "41.1850968",
+        "82.0586232",
+        "-180",
+        "180"
+      ],
+      "osm_id": 60189,
+      "osm_type": "relation",
+      "coordinates": [
+        64.6863136,
+        97.7453061
+      ]
+    }
+  }
+}

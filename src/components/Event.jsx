@@ -1,191 +1,47 @@
-import data from '../resources/World_History.json'
+import data, { eventById } from '../data'
 import { useParams, Link } from 'react-router-dom'
-import { useEffect } from 'react'
+import { lazy, Suspense, useEffect, useState, useRef, useMemo } from 'react'
 import EventDisplay from './EventDisplay'
-import TimelineChart from './TimelineChart'
-import EventMap, { canShowMap } from './EventMap'
+import { ordinalYear, historicalYear } from '../utils/dates'
+import { timelinePeriods, dateModes } from '../utils/periods'
+const TimelineChart = lazy(() => import('./TimelineChart'))
+const EventMap = lazy(() => import('./EventMap'))
+const ordered = [...data].sort((a, b) => (a.start ?? Infinity) - (b.start ?? Infinity) || a.id_num - b.id_num)
 
-// Only show the surrounding "In context" timelines for events recent enough to
-// have meaningful neighbours. Before the Holocene (~10,000 BCE) the dataset is
-// sparse (geological/evolutionary events), so the charts would be empty.
-const CONTEXT_MIN_START = -10000
-
-// Locations that describe the whole world or have no meaningful point to pin.
-const GLOBAL_LOCATION = /^(world|global|worldwide|earth|international|universal|everywhere)$/i
-
-const ChartCard = ({ label, children }) => (
-	<div className="flex flex-col overflow-hidden border border-slate-200 bg-white shadow-sm">
-		<div className="border-b border-slate-100 px-4 py-2 text-sm font-semibold text-slate-700">{label}</div>
-		<div className="h-[260px] w-full">{children}</div>
-	</div>
-)
-
-const NavButton = ({ to, direction, disabled }) => {
-	const base =
-		'inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition ring-1 ring-slate-200'
-	if (disabled) {
-		return <span className={`${base} cursor-not-allowed text-slate-300`} aria-hidden="true" />
-	}
-	return (
-		<Link
-			to={to}
-			className={`${base} text-slate-700 hover:bg-slate-50 hover:text-[#21306a]`}
-			aria-label={direction === 'left' ? 'Previous event' : 'Next event'}
-		>
-			{direction === 'left' ? '← Previous' : 'Next →'}
-		</Link>
-	)
+function Context({ event }) {
+  const ref = useRef(null), [visible, setVisible] = useState(false), [map, setMap] = useState(false)
+  const [dateMode,setDateMode] = useState('preferred')
+  const periods = useMemo(()=>timelinePeriods(data,dateMode),[dateMode])
+  const focus = timelinePeriods([event],dateMode==='all'?'preferred':dateMode)[0]
+  useEffect(() => {
+    const observer = new IntersectionObserver(([entry]) => { if (entry.isIntersecting) { setVisible(true); observer.disconnect() } }, { rootMargin: '150px' })
+    observer.observe(ref.current); return () => observer.disconnect()
+  }, [])
+  const hasDate=focus.start!==null && focus.start>=-10000
+  const center=focus.start ?? 1
+  const start = historicalYear(ordinalYear(center) - 100), end = historicalYear(Math.max(ordinalYear(center) + 1, Math.min(ordinalYear(center) + 100, ordinalYear(event.referenceYear))))
+  return <aside ref={ref} className="mt-10 border-t border-slate-200 pt-6 print:hidden">
+    <div className="mb-4 flex flex-wrap items-center justify-between gap-3"><div className="min-w-0 max-w-full"><h2 className="text-xl">In context</h2><p className="mt-2 text-sm text-slate-500">Charts share the same time window. Points include events without an end date. Dates shown: {dateModes[dateMode]}.</p><select aria-label="Context dates" className="mt-2 max-w-full rounded border border-slate-300 p-2 text-sm" value={dateMode} onChange={e=>setDateMode(e.target.value)}>{Object.entries(dateModes).map(([key,label])=><option key={key} value={key}>{label}</option>)}</select></div>{hasDate&&<Link className="underline blue" to={`/timeline?start=${start}&end=${end}&dates=${dateMode}`}>Explore this time range →</Link>}</div>
+    {!hasDate&&<p className="text-sm text-slate-500">Select a dated period within human history to show context charts.</p>}
+    <div className="grid gap-4 lg:grid-cols-3">{visible && hasDate && <Suspense fallback={<p>Loading charts…</p>}>{[['Unit','Civilizations & units'],['Person','People'],['Event','Events']].map(([type,title]) => <section key={type} className="min-w-0 border border-slate-200 bg-white"><TimelineChart data={periods} rangestart={start} rangeend={end} type={type} title={`${title} · ${dateMode} dates`} markerYear={focus.start} /></section>)}</Suspense>}</div>
+    {event.location_info?.reviewed && <div className="mt-5"><button onClick={() => setMap(m => !m)} className="underline">{map ? 'Hide map' : 'Load location map (OpenStreetMap)'}</button>{map && <div className="mt-3 h-[300px]"><Suspense fallback={<p>Loading map…</p>}><EventMap locationInfo={event.location_info} /></Suspense></div>}</div>}
+  </aside>
 }
-
-const Event = () => {
-	const { eventId } = useParams()
-	const eventIdInt = parseInt(eventId)
-	const event = data.find((item) => item.id_num === eventIdInt)
-
-	useEffect(() => {
-		window.scrollTo({ top: 0 })
-	}, [eventId])
-
-	if (!event) {
-		return (
-			<div className="flex min-h-screen flex-col items-center justify-center gap-4 text-center">
-				<h1 className="text-2xl font-bold text-slate-800">Event not found.</h1>
-				<Link to="/" className="hypertext-underline blue">
-					Back to all events
-				</Link>
-			</div>
-		)
-	}
-
-	const maxId = data.reduce((m, i) => (i.id_num > m ? i.id_num : m), 0)
-
-	const showContext = event.start >= CONTEXT_MIN_START
-	const showMap =
-		event.start >= CONTEXT_MIN_START &&
-		!!(event.location_info && event.location && !GLOBAL_LOCATION.test(event.location.trim()) && canShowMap(event.location_info))
-	const hasVisuals = showContext || showMap
-
-	return (
-		<div className="min-h-screen bg-slate-50/40">
-			<header className="sticky top-0 z-20 border-b border-slate-200 bg-white/80 backdrop-blur">
-				<div className="mx-auto flex max-w-[1400px] items-center justify-between gap-3 px-4 py-3">
-					<Link
-						to="/"
-						className="inline-flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-slate-700 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-[#21306a]"
-					>
-						All events
-					</Link>
-					<nav className="flex items-center gap-2">
-						<NavButton to={`/${event.id_num - 1}`} direction="left" disabled={event.id_num <= 1} />
-						<NavButton to={`/${event.id_num + 1}`} direction="right" disabled={event.id_num >= maxId} />
-					</nav>
-				</div>
-			</header>
-
-			<div className="mx-auto max-w-[1400px] px-4 py-8 sm:py-12">
-				{showContext ? (
-					<div className="xl:grid xl:grid-cols-[340px_1fr_340px] xl:gap-6">
-						<main className="min-w-0 xl:col-start-2 xl:row-start-1">
-							<EventDisplay event={event} showWiki={false} />
-						</main>
-
-						<aside className="mt-8 space-y-4 xl:col-start-1 xl:row-start-1 xl:mt-0">
-							<p className="hidden text-xs font-semibold uppercase tracking-widest text-slate-400 xl:block">
-								In context
-							</p>
-							<div className="xl:hidden">
-								<h2 className="text-xl font-bold text-slate-900">In context</h2>
-								<p className="mt-1 text-sm text-slate-500">What else was happening around this time.</p>
-							</div>
-							<ChartCard label="Civilizations &amp; units">
-								<TimelineChart
-									data={data}
-									rangestart={event.start - 100}
-									rangeend={event.start + 100 > event.curr_year ? event.curr_year : event.start + 100}
-									type={'Unit'}
-									title={'Units'}
-									markerYear={event.start}
-								/>
-							</ChartCard>
-							<ChartCard label="Notable people">
-								<TimelineChart
-									data={data}
-									rangestart={event.start - 30}
-									rangeend={event.start + 70 > event.curr_year ? event.curr_year : event.start + 70}
-									type={'Person'}
-									title={'People'}
-									markerYear={event.start}
-								/>
-							</ChartCard>
-						</aside>
-
-						<aside className="mt-4 space-y-4 xl:col-start-3 xl:row-start-1 xl:mt-0">
-							<p className="hidden text-xs font-semibold uppercase tracking-widest text-slate-400 xl:block">
-								&nbsp;
-							</p>
-							<ChartCard label="Events">
-								<TimelineChart
-									data={data}
-									rangestart={event.start - 10}
-									rangeend={event.start + 50 > event.curr_year ? event.curr_year : event.start + 30}
-									type={'Event'}
-									title={'Events'}
-									markerYear={event.start}
-								/>
-							</ChartCard>
-							{showMap && (
-								<ChartCard label="Location">
-									<EventMap locationInfo={event.location_info} />
-								</ChartCard>
-							)}
-						</aside>
-
-						{event.wiki && (
-							<div className="mt-10 xl:col-start-2 xl:row-start-2 xl:mt-0">
-								<section className="mx-auto max-w-3xl px-4">
-									<h2 className="text-xl font-bold text-slate-900">
-										From{' '}
-										<a className="hypertext-underline" href={event.source} target="_blank" rel="noopener noreferrer">
-											Wikipedia
-										</a>
-									</h2>
-									<div className="mt-4 space-y-4">
-										{event.wiki
-											.split('\n')
-											.filter((line) => line.trim() !== '')
-											.map((line, index) => (
-												<p className="text-base font-normal leading-relaxed text-slate-700" key={index}>
-													{line}
-												</p>
-											))}
-									</div>
-								</section>
-							</div>
-						)}
-					</div>
-				) : showMap ? (
-					<div className="lg:flex lg:items-start lg:gap-8">
-						<main className="min-w-0 flex-1">
-							<EventDisplay event={event} />
-						</main>
-						<aside className="mt-10 w-full shrink-0 space-y-4 lg:mt-0 lg:w-[340px]">
-							<div>
-								<h2 className="text-lg font-bold text-slate-900">In context</h2>
-								<p className="mt-0.5 text-sm text-slate-500">Where this took place.</p>
-							</div>
-							<ChartCard label="Location">
-								<EventMap locationInfo={event.location_info} />
-							</ChartCard>
-						</aside>
-					</div>
-				) : (
-					<main>
-						<EventDisplay event={event} />
-					</main>
-				)}
-			</div>
-		</div>
-	)
+export default function Event() {
+  const { eventId } = useParams(), event = eventById(eventId)
+  const [detail, setDetail] = useState(null), [error, setError] = useState('')
+  useEffect(() => {
+    window.scrollTo({ top: 0 }); setError(''); setDetail(null)
+    if (!event) return
+    const controller = new AbortController()
+    fetch(`/data/events/${event.id}.json`, { signal: controller.signal }).then(r => { if (!r.ok) throw new Error('Cached article could not be loaded.'); return r.json() }).then(r => setDetail({ id: event.id, event: r, content: r.content })).catch(e => { if (e.name !== 'AbortError') setError(e.message) })
+    return () => controller.abort()
+  }, [event?.id])
+  if (!event) return <main className="p-10 text-center"><h1>Event not found</h1><Link className="underline" to="/">All events</Link></main>
+  const position = ordered.findIndex(r => r.id === event.id)
+  const full = detail?.id === event.id ? detail.event : event
+  return <div className="min-h-screen bg-slate-50/40">
+    <header className="sticky top-0 z-20 border-b border-slate-200 bg-white/95 px-4 py-3 print:hidden"><nav className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-4 text-sm"><Link to="/" className="underline blue">All events</Link><Link to="/catalog" className="underline">Catalog & unfinished records</Link><div className="flex gap-5">{position > 0 && <Link to={`/${ordered[position - 1].id_num}`}>← Previous</Link>}{position < ordered.length - 1 && <Link to={`/${ordered[position + 1].id_num}`}>Next →</Link>}</div></nav></header>
+    <main className="mx-auto max-w-6xl px-4 py-10"><EventDisplay event={full} content={detail?.id === event.id ? detail.content : undefined} />{error && <p role="alert" className="mt-4 text-center text-amber-800">{error} <button onClick={() => window.location.reload()} className="underline">Retry</button></p>}{!detail && !error && <p role="status" className="mt-5 text-center text-sm text-slate-500">Loading local article snapshot…</p>}{[full,...(full.periods || [])].some(p=>p.start!==null&&p.start>=-10000)&&<Context key={event.id} event={full} />}</main>
+  </div>
 }
-
-export default Event

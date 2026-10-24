@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0347",
+  "id_num": 347,
+  "slug": "vladimir-lenin",
+  "status": "review",
+  "name": "Vladimir Lenin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1870,
+  "end": 1924,
+  "location": "Ulyanovsk",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Vladimir_Lenin_in_July_1920_by_Pavel_Zhukov.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-7f44b416751e"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "vladimir-lenin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 54,
+    "generation_diff": 3,
+    "generations_end": 4,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 347,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vladimir_Lenin_in_July_1920_by_Pavel_Zhukov.jpg/960px-Vladimir_Lenin_in_July_1920_by_Pavel_Zhukov.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vladimir_Lenin_in_July_1920_by_Pavel_Zhukov.jpg/330px-Vladimir_Lenin_in_July_1920_by_Pavel_Zhukov.jpg",
+    "range_type": null,
+    "time_bp_end": 99,
+    "time_bp_start": 153,
+    "time_end": "1924 ",
+    "time_start": "1870 ",
+    "location_info": {
+      "display_name": "Ульяновск, городской округ Ульяновск, Ульяновская область, Приволжский федеральный округ, Россия",
+      "boundingbox": [
+        "54.1991084",
+        "54.4165085",
+        "48.2501409",
+        "48.7257327"
+      ],
+      "osm_id": 2049867,
+      "osm_type": "relation",
+      "coordinates": [
+        54.3107593,
+        48.3642771
+      ]
+    }
+  }
+}

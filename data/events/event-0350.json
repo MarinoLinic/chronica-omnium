@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0350",
+  "id_num": 350,
+  "slug": "joseph-stalin",
+  "status": "review",
+  "name": "Joseph Stalin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1878,
+  "end": 1953,
+  "location": "Georgia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Stalin_Full_Image.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4691492179d2"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "joseph-stalin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 75,
+    "generation_diff": 4,
+    "generations_end": 3,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 350,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/43/Stalin_Full_Image.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Stalin_Full_Image.jpg/330px-Stalin_Full_Image.jpg",
+    "range_type": null,
+    "time_bp_end": 70,
+    "time_bp_start": 145,
+    "time_end": "1953 ",
+    "time_start": "1878 ",
+    "location_info": {
+      "display_name": "Georgia, United States",
+      "boundingbox": [
+        "30.3556558",
+        "35.0006769",
+        "-85.605165",
+        "-80.751429"
+      ],
+      "osm_id": 161957,
+      "osm_type": "relation",
+      "coordinates": [
+        32.3293809,
+        -83.1137366
+      ]
+    }
+  }
+}

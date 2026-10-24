@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0412",
+  "id_num": 412,
+  "slug": "cuban-missile-crisis",
+  "status": "review",
+  "name": "Cuban Missile Crisis",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1962,
+  "end": null,
+  "location": "Cuba",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-0d0b4e410222"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "cuban-missile-crisis",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 412,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg/960px-Soviet-R-12-nuclear-ballistic_missile.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Soviet-R-12-nuclear-ballistic_missile.jpg/330px-Soviet-R-12-nuclear-ballistic_missile.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 61,
+    "time_end": null,
+    "time_start": "1962 ",
+    "location_info": {
+      "display_name": "Cuba",
+      "boundingbox": [
+        "19.6275294",
+        "23.4816972",
+        "-85.1679702",
+        "-73.9190004"
+      ],
+      "osm_id": 307833,
+      "osm_type": "relation",
+      "coordinates": [
+        23.0131338,
+        -80.8328748
+      ]
+    }
+  }
+}

@@ -9,6 +9,7 @@
 	/* background-color: #fff; */
 
 	color-scheme: light dark;
+	color-scheme: light;
 	color: black;
 
 	text-rendering: optimizeLegibility;
@@ -17,6 +18,16 @@
 	-webkit-text-size-adjust: 100%;
 
 	-ms-overflow-style: none; /* IE and Edge */
+}
+
+button, summary, select { cursor: pointer; }
+button:disabled { cursor: default; }
+:focus-visible { outline: 2px solid #21306a; outline-offset: 3px; }
+@media print {
+  header.sticky, aside, nav, .back-to-top { display: none !important; }
+  body { background: white; }
+  article { max-width: none; padding: 0; }
+  a { color: inherit; }
 }
 body {
 	overflow: auto;

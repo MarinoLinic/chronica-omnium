@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0335",
+  "id_num": 335,
+  "slug": "thomas-edison",
+  "status": "review",
+  "name": "Thomas Edison",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1847,
+  "end": 1931,
+  "location": "Milan, OH",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Thomas_Edison",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/1920px-Thomas_Edison2.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-192f9e91d1ee"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "thomas-edison",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 84,
+    "generation_diff": 4,
+    "generations_end": 4,
+    "generations_start": 8,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 335,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/960px-Thomas_Edison2.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/330px-Thomas_Edison2.jpg",
+    "range_type": null,
+    "time_bp_end": 92,
+    "time_bp_start": 176,
+    "time_end": "1931 ",
+    "time_start": "1847 ",
+    "location_info": {
+      "display_name": "Milan, Milan Township, Erie County, Ohio, 44846, United States",
+      "boundingbox": [
+        "41.272755",
+        "41.303609",
+        "-82.612512",
+        "-82.582203"
+      ],
+      "osm_id": 182931,
+      "osm_type": "relation",
+      "coordinates": [
+        41.2975519,
+        -82.6054547
+      ]
+    }
+  }
+}

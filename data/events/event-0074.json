@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0074",
+  "id_num": 74,
+  "slug": "scandinavian-hunter-gatherers-shg",
+  "status": "review",
+  "name": "Scandinavian Hunter-Gatherers (SHG)",
+  "short_desc": "Mix of WHG and EHG (81% WHG and 19% ANE)",
+  "long_desc": "Scandinavian Hunter-Gatherers (SHG)",
+  "start": -15000,
+  "end": -3000,
+  "location": "Scandinavia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Scandinavian_Hunter-Gatherer",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28SHG%29.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": "1",
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-8bbf83e8ceff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "scandinavian-hunter-gatherers-shg",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Southwest Asian Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 12000,
+    "generation_diff": 812,
+    "generations_end": 251,
+    "generations_start": 1063,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 74,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28SHG%29.png/960px-Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28SHG%29.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28SHG%29.png/330px-Genetic_ancestry_of_hunter-gatherers_dated_between_14_ka_and_9_ka_%28SHG%29.png",
+    "range_type": null,
+    "time_bp_end": 5000,
+    "time_bp_start": 17000,
+    "time_end": "3000 BCE",
+    "time_start": "15 thousand BCE",
+    "location_info": {
+      "display_name": "Scandinavia, Waupaca County, Wisconsin, United States",
+      "boundingbox": [
+        "44.4535379",
+        "44.4678446",
+        "-89.1562418",
+        "-89.1361143"
+      ],
+      "osm_id": 251603,
+      "osm_type": "relation",
+      "coordinates": [
+        44.4616446,
+        -89.1492785
+      ]
+    }
+  }
+}

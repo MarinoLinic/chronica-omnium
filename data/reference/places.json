@@ -1,0 +1,1696 @@
+{
+  "schemaVersion": 1,
+  "notes": "Literal legacy labels, including compound places. Reviewed coordinates are opt-in. Historical polities are not modern countries.",
+  "places": [
+    {
+      "id": "place-7572e44117a8",
+      "label": "Universe",
+      "aliases": [],
+      "status": "non-geographic",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-69be0ac6da9f",
+      "label": "Milky Way",
+      "aliases": [],
+      "status": "non-geographic",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-78ae647dc554",
+      "label": "World",
+      "aliases": [],
+      "status": "non-geographic",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e98b4de710d8",
+      "label": "Solar System",
+      "aliases": [],
+      "status": "non-geographic",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5fc165254f4f",
+      "label": "Moon",
+      "aliases": [],
+      "status": "non-geographic",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-93979002f8f4",
+      "label": "Pangea",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-c43f33f0578d",
+      "label": "Antarctica",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0d463ac13204",
+      "label": "Southern Germany",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b30fcbd6cb0f",
+      "label": "North Africa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-dbc74a36d8e7",
+      "label": "Indonesia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d15ea8090a06",
+      "label": "Arabian peninsula",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-8ef41e6f4b07",
+      "label": "Spain",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-647294383b2c",
+      "label": "Japan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2898e16d4e4e",
+      "label": "New Zealand",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e72cd6342c10",
+      "label": "Caucasus",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a5503f12a7ac",
+      "label": "Siberia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-8bbf83e8ceff",
+      "label": "Scandinavia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-bff4d121f688",
+      "label": "Sahara",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-10436829032f",
+      "label": "China",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-84363cef0b48",
+      "label": "Mesopotamia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-580eedc669f3",
+      "label": "Ukraine",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2ec67c7c7cad",
+      "label": "Southeastern Anatolia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-82e507ed59e3",
+      "label": "Levant",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-32de6ce1ec71",
+      "label": "Iran, Pakistan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-dbbde35c7cd4",
+      "label": "Andes",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-063d3a69033a",
+      "label": "Mesoamerica",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-c9d917736f72",
+      "label": "South Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-379440120637",
+      "label": "Middle East",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-557c1599d9a0",
+      "label": "Egypt",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-18d4e170765c",
+      "label": "Iran",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-454970012b81",
+      "label": "Southern Poland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-cbb0a7ae59e3",
+      "label": "Northwest Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-cba3ee736d57",
+      "label": "Iraq, Mesopotamia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0c2f42d1d1db",
+      "label": "Northeastern Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-eef94307f38a",
+      "label": "Pontic-Caspian steppe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a3a8dbd67329",
+      "label": "Uruk",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0f5fbbd8e643",
+      "label": "South Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-56059e7fb4e9",
+      "label": "Slovenia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b5cbec1a064d",
+      "label": "Great Britain",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-9c93ad439373",
+      "label": "Greece",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-1946323a12d6",
+      "label": "Near East",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-348260ed7e92",
+      "label": "Babylon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-de5008d194a7",
+      "label": "Iraq",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-1f5ea84e35cf",
+      "label": "Western Anatolia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-40d9a90716b0",
+      "label": "Central Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b01c72c717ff",
+      "label": "Mediterranean",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-3552ac0c0324",
+      "label": "Israel",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4609682a2f3d",
+      "label": "Tunisia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d0d220191865",
+      "label": "Rome",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-f2f6ac3ee1ff",
+      "label": "Persia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e15a18aadcac",
+      "label": "Nepal",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b80a89eaa759",
+      "label": "Shandong",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-9891a4b7aaeb",
+      "label": "Ancient Macedonia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e1cfef97c30f",
+      "label": "Pompeii",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-451ebbe3f766",
+      "label": "Jerusalem",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5f4dbd43faad",
+      "label": "France and Great Britain",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-fbefa9653286",
+      "label": "Northeastern Italy",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-3acefcfa65fa",
+      "label": "Roman Empire",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5553857c83bf",
+      "label": "Judea",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-6a98bc0ea0c8",
+      "label": "Dalmatia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-7a1ca4ef7515",
+      "label": "France",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-ed9ad13611d7",
+      "label": "Saudi Arabia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e595f45dc6c9",
+      "label": "Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-348841ef53db",
+      "label": "Belgium",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d6804464c5f4",
+      "label": "Madagascar",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a9b5c69465cc",
+      "label": "Iberia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-80db4ccdca10",
+      "label": "Germany",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a73ef7e2d61c",
+      "label": "Southeast Asia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-570cde77956f",
+      "label": "Byzantine Empire",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-420cca4363fa",
+      "label": "Eastern Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-48e10296ae1f",
+      "label": "Greenland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d3309bbd8954",
+      "label": "Newfoundland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-99a7c065a730",
+      "label": "Mongolia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-7ee83da5efe8",
+      "label": "Central Asia, Eastern Europe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-f92fd06da205",
+      "label": "Cologne",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-c0ea960b065c",
+      "label": "England",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-10e3a8b2b1a6",
+      "label": "France, Great Britain, Iberia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-c264b22c4496",
+      "label": "Northeastern France",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-ea23726dd0fd",
+      "label": "Romania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0b19ebd4a6ee",
+      "label": "Vinci",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-70af65c90d56",
+      "label": "Istanbul",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4c7de2c3da6d",
+      "label": "Portugal",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-544c789e852c",
+      "label": "Florence",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-9c5396f2c74a",
+      "label": "Thorn",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-94d6bd9eb556",
+      "label": "Capresse",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b1d45d710708",
+      "label": "Eisleben",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-225e9e00cfd6",
+      "label": "Noyon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2275583196d7",
+      "label": "Switzerland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-93711534b06d",
+      "label": "Trabzon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-ff9518d2cc68",
+      "label": "Germany, Poland",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-db7ee413d604",
+      "label": "Vienna",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-be5f18358439",
+      "label": "Europe, North America",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-56c15dcca029",
+      "label": "Pisa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-49dca65f362f",
+      "label": "United States",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0ee033b5f7f9",
+      "label": "Virginia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-cbe7f61b63c3",
+      "label": "Cape Cod",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-71bf5c95906b",
+      "label": "New England",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-64be0885bc3f",
+      "label": "North America",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0609faa9fbf0",
+      "label": "Wington",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-086eec074ad1",
+      "label": "Cambridge",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-33a3d8ed92b0",
+      "label": "Russia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-102cb8b468e5",
+      "label": "Eisenach",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-f715c83fb2d5",
+      "label": "Halle",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5dd272b4f316",
+      "label": "Paris",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5a9cf672c8be",
+      "label": "Italy",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-8019b77606f9",
+      "label": "Saint Petersburg",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a06522bc4aab",
+      "label": "Boston",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-9029091829b0",
+      "label": "Basel",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4f00c4593da1",
+      "label": "Edinburgh",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-806b1459b451",
+      "label": "Geneva",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-40d66c2545f5",
+      "label": "Kirkcaldy",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4126d8a52aef",
+      "label": "Prussia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e91e1744cfbc",
+      "label": "Greenrock",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-1fc0d36610ed",
+      "label": "Salzburg",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-41a6741e9a0f",
+      "label": "West",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0ab93db5f1e0",
+      "label": "Ajaccio",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-39d2faabcd9d",
+      "label": "Bonn",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-ecc0e7dc084f",
+      "label": "London",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d090b87e4a3b",
+      "label": "Haiti",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2dbf2a493d2e",
+      "label": "Hodgenville",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-df074c61ffcd",
+      "label": "Shrewsbury",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-fa9a9adc0b0b",
+      "label": "Trier",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4661bd5b4b1a",
+      "label": "Moscow",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0ed0e6feed14",
+      "label": "Dole",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-815eca977c7d",
+      "label": "New York",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-aee89f076a84",
+      "label": "Votkinsk",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-852ad4c9a185",
+      "label": "Röcken",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-192f9e91d1ee",
+      "label": "Milan, OH",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-efe9cfa6a64f",
+      "label": "Smiljan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-36783c412a82",
+      "label": "Moravia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-04bbc58734da",
+      "label": "Southern China",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2d59f8dd13aa",
+      "label": "Warsaw",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-7f44b416751e",
+      "label": "Ulyanovsk",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4691492179d2",
+      "label": "Georgia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-7be83aafdc95",
+      "label": "Ulm",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4eb738c1b63a",
+      "label": "Lemberg",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-059bdf337a98",
+      "label": "DR Congo",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0990414a2833",
+      "label": "Braunau am Inn",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a1ff4142da5b",
+      "label": "Brooklyn",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-16d7b75d3f53",
+      "label": "Versailles",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5338fc108450",
+      "label": "Soviet Union",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-07c67d76ef92",
+      "label": "Turkey",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-0d0b4e410222",
+      "label": "Cuba",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-ea0b937ea317",
+      "label": "Argentina",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a6c2221569fe",
+      "label": "Atlanta",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d26855d0baae",
+      "label": "Gastonia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-dad114b6ed73",
+      "label": "Berlin",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-3e049d78d958",
+      "label": "South Africa",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e1ca8f3039c1",
+      "label": "Peine",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-2e5e81066a29",
+      "label": "Vietnam",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-c72199a85b54",
+      "label": "Zimbabwe",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d10b273fab39",
+      "label": "Pretoria",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-b3fb95a5f48c",
+      "label": "Albuquerque",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-156e4bd9576f",
+      "label": "Los Altos",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e7d529decf2e",
+      "label": "UK",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-e92ba64d502a",
+      "label": "Pripyat",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-8e3478315386",
+      "label": "Maastricht",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-7e12449255ed",
+      "label": "Menlo Park",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5dbddf911f9e",
+      "label": "Afghanistan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-a637a80faf7a",
+      "label": "?kuma",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-d9aeaabda70c",
+      "label": "Crimea",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-78d51f04a119",
+      "label": "Washington D.C.",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-422adb6d7d6c",
+      "label": "Bethel",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-8b6e04947230",
+      "label": "Los Angeles",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-99df41eee444",
+      "label": "Charlottesville",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-12c8f8f4912c",
+      "label": "Rwanda",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5de21be7a78d",
+      "label": "Kislovodsk",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-5a59ef2e40c5",
+      "label": "New York City",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    },
+    {
+      "id": "place-4eb1b68df132",
+      "label": "Dallas",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Imported literal label. Do not infer modern countries or coordinates from this text."
+    }
+  ]
+}

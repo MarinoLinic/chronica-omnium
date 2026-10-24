@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0222",
+  "text": "The Château de Doué-la-Fontaine, also known as Motte de la Chapelle, is a motte and bailey castle in Doué-la-Fontaine, France that was built upon the foundations of an older 9th century Carolingian aula, and the Château de Doué-la-Fontaine, having been built around the year 950, is widely believed to have been the oldest known castle built out of stone. Only the aula survives today, while the castle and most of the motte no longer survive.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Dou%C3%A9-la-Fontaine",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

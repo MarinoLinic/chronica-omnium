@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0306",
+  "id_num": 306,
+  "slug": "james-watt",
+  "status": "review",
+  "name": "James Watt",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1736,
+  "end": 1819,
+  "location": "Greenrock",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/James_Watt",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/440px-Watt_James_von_Breda.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e91e1744cfbc"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "james-watt",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 83,
+    "generation_diff": 4,
+    "generations_end": 10,
+    "generations_start": 14,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 306,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/960px-Watt_James_von_Breda.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Watt_James_von_Breda.jpg/330px-Watt_James_von_Breda.jpg",
+    "range_type": null,
+    "time_bp_end": 204,
+    "time_bp_start": 287,
+    "time_end": "1819 ",
+    "time_start": "1736 ",
+    "location_info": {
+      "display_name": "Greenrock, San Bernardino County, California, United States",
+      "boundingbox": [
+        "34.427358",
+        "34.433663",
+        "-116.61292",
+        "-116.587959"
+      ],
+      "osm_id": 7306214,
+      "osm_type": "way",
+      "coordinates": [
+        34.431187,
+        -116.601533
+      ]
+    }
+  }
+}

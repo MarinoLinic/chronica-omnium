@@ -5,6 +5,7 @@ import NotFound from './NotFound'
 
 const Event = lazy(() => import('./components/Event'))
 const Timeline = lazy(() => import('./components/Timeline'))
+const Catalog = lazy(() => import('./components/Catalog'))
 
 const PageLoader = () => (
 	<div className="flex min-h-screen items-center justify-center text-sm text-slate-400">Loading…</div>
@@ -17,6 +18,7 @@ function App() {
 				<Route path="/" element={<Home />} />
 				<Route path="/:eventId" element={<Event />} />
 				<Route path="/timeline" element={<Timeline />} />
+				<Route path="/catalog" element={<Catalog />} />
 				<Route path="*" element={<NotFound />} />
 			</Routes>
 		</Suspense>

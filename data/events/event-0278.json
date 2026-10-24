@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0278",
+  "id_num": 278,
+  "slug": "edo-period",
+  "status": "review",
+  "name": "Edo period",
+  "short_desc": "Edo (Tokugawa) period in Japan: military gov. rule, isolationism, growth, peace, art",
+  "long_desc": "Edo period",
+  "start": 1603,
+  "end": 1867,
+  "location": "Japan",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Edo_period",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/1920px-The_Great_Wave_off_Kanagawa.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-647294383b2c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "edo-period",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 264,
+    "generation_diff": 14,
+    "generations_end": 7,
+    "generations_start": 21,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 278,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/960px-The_Great_Wave_off_Kanagawa.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/The_Great_Wave_off_Kanagawa.jpg/330px-The_Great_Wave_off_Kanagawa.jpg",
+    "range_type": null,
+    "time_bp_end": 156,
+    "time_bp_start": 420,
+    "time_end": "1867 ",
+    "time_start": "1603 ",
+    "location_info": {
+      "display_name": "日本",
+      "boundingbox": [
+        "20.2145811",
+        "45.7112046",
+        "122.7141754",
+        "154.205541"
+      ],
+      "osm_id": 382313,
+      "osm_type": "relation",
+      "coordinates": [
+        36.5748441,
+        139.2394179
+      ]
+    }
+  }
+}

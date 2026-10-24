@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0296",
+  "id_num": 296,
+  "slug": "piano",
+  "status": "review",
+  "name": "Piano",
+  "short_desc": "Invented by Bartolomeo Cristofori in Italy around 1700",
+  "long_desc": null,
+  "start": 1700,
+  "end": 2023,
+  "location": "Italy",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Piano",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pianoforte_Cristofori_1720.jpg/1920px-Pianoforte_Cristofori_1720.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5a9cf672c8be"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "piano",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 323,
+    "generation_diff": 16,
+    "generations_end": 0,
+    "generations_start": 16,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 296,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pianoforte_Cristofori_1720.jpg/960px-Pianoforte_Cristofori_1720.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pianoforte_Cristofori_1720.jpg/330px-Pianoforte_Cristofori_1720.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 323,
+    "time_end": "2023 ",
+    "time_start": "1700 ",
+    "location_info": {
+      "display_name": "Italia",
+      "boundingbox": [
+        "35.2889616",
+        "47.0921462",
+        "6.6272658",
+        "18.7844746"
+      ],
+      "osm_id": 365331,
+      "osm_type": "relation",
+      "coordinates": [
+        42.6384261,
+        12.674297
+      ]
+    }
+  }
+}

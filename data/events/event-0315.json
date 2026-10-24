@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0315",
+  "id_num": 315,
+  "slug": "david-ricardo",
+  "status": "review",
+  "name": "David Ricardo",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1772,
+  "end": 1823,
+  "location": "London",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/David_Ricardo",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-ecc0e7dc084f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "david-ricardo",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 51,
+    "generation_diff": 2,
+    "generations_end": 10,
+    "generations_start": 12,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 315,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg/330px-Portrait_of_David_Ricardo_by_Thomas_Phillips.jpg",
+    "range_type": null,
+    "time_bp_end": 200,
+    "time_bp_start": 251,
+    "time_end": "1823 ",
+    "time_start": "1772 ",
+    "location_info": {
+      "display_name": "London, Greater London, England, United Kingdom",
+      "boundingbox": [
+        "51.2867601",
+        "51.6918741",
+        "-0.5103751",
+        "0.3340155"
+      ],
+      "osm_id": 65606,
+      "osm_type": "relation",
+      "coordinates": [
+        51.5073359,
+        -0.12765
+      ]
+    }
+  }
+}

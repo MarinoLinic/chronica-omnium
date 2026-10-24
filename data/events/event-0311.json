@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0311",
+  "id_num": 311,
+  "slug": "catherine-the-great",
+  "status": "review",
+  "name": "Catherine the Great",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1762,
+  "end": 1796,
+  "location": "Russia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Portrait_of_Empress_Catherine_II.jpg/1920px-Portrait_of_Empress_Catherine_II.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-33a3d8ed92b0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "catherine-the-great",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 34,
+    "generation_diff": 2,
+    "generations_end": 11,
+    "generations_start": 13,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 311,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Portrait_of_Empress_Catherine_II.jpg/960px-Portrait_of_Empress_Catherine_II.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Portrait_of_Empress_Catherine_II.jpg/330px-Portrait_of_Empress_Catherine_II.jpg",
+    "range_type": null,
+    "time_bp_end": 227,
+    "time_bp_start": 261,
+    "time_end": "1796 ",
+    "time_start": "1762 ",
+    "location_info": {
+      "display_name": "Россия",
+      "boundingbox": [
+        "41.1850968",
+        "82.0586232",
+        "-180",
+        "180"
+      ],
+      "osm_id": 60189,
+      "osm_type": "relation",
+      "coordinates": [
+        64.6863136,
+        97.7453061
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0325",
+  "id_num": 325,
+  "slug": "abraham-lincoln",
+  "status": "review",
+  "name": "Abraham Lincoln",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1809,
+  "end": 1865,
+  "location": "Hodgenville",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/1920px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-2dbf2a493d2e"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "abraham-lincoln",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 56,
+    "generation_diff": 3,
+    "generations_end": 7,
+    "generations_start": 10,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 325,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/960px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/330px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "range_type": null,
+    "time_bp_end": 158,
+    "time_bp_start": 214,
+    "time_end": "1865 ",
+    "time_start": "1809 ",
+    "location_info": {
+      "display_name": "Hodgenville, Larue County, Kentucky, United States",
+      "boundingbox": [
+        "37.549175",
+        "37.588355",
+        "-85.751661",
+        "-85.717836"
+      ],
+      "osm_id": 130589,
+      "osm_type": "relation",
+      "coordinates": [
+        37.5737487,
+        -85.740353
+      ]
+    }
+  }
+}

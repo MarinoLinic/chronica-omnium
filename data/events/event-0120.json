@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0120",
+  "id_num": 120,
+  "slug": "assyria",
+  "status": "review",
+  "name": "Assyria",
+  "short_desc": null,
+  "long_desc": "Assyria",
+  "start": -2025,
+  "end": -609,
+  "location": "Near East",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Assyria",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Assyrie_general.PNG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-1946323a12d6"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "assyria",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1416,
+    "generation_diff": 71,
+    "generations_end": 131,
+    "generations_start": 202,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 120,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Assyrie_general.PNG/960px-Assyrie_general.PNG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Assyrie_general.PNG/330px-Assyrie_general.PNG",
+    "range_type": null,
+    "time_bp_end": 2600,
+    "time_bp_start": 4000,
+    "time_end": "609 BCE",
+    "time_start": "2025 BCE",
+    "location_info": {
+      "display_name": "Near East, Müftü Raci Sokak, Lefkoşa Türk Belediyesi, Lefkoşa, Kuzey Kıbrıs, 1107, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.1778699",
+        "35.1779699",
+        "33.3606391",
+        "33.3607391"
+      ],
+      "osm_id": 8173344020,
+      "osm_type": "node",
+      "coordinates": [
+        35.1779199,
+        33.3606891
+      ]
+    }
+  }
+}

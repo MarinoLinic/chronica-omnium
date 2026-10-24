@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0182",
+  "text": "Roman victory\n\nThe Boudican revolt was an armed uprising by native Celtic tribes against the Roman Empire. It took place c. 60–61 AD in the Roman province of Britain, and was led by Boudica, the Queen of the Iceni. The uprising was motivated by the Romans' failure to honour an agreement they had made with her husband, Prasutagus, regarding the succession of his kingdom upon his death, and by brutal mistreatment of Boudica and her daughters by the Romans.\n\nAlthough heavily outnumbered, the Roman army led by Gaius Suetonius Paulinus decisively defeated the allied tribes in a final battle which inflicted heavy losses on the Britons. The location of this battle is not known. It marked the end of resistance to Roman rule in most of the southern half of Great Britain, a period that lasted until 410 AD. Modern historians are dependent for information about the uprising and the defeat of Boudica on the narratives written by the Roman historians Tacitus and Dio Cassius, which are the only surviving accounts of the battle known to exist.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Boudican_revolt",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

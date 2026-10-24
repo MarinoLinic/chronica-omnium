@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0258",
+  "id_num": 258,
+  "slug": "ninety-five-theses",
+  "status": "review",
+  "name": "Ninety-five theses",
+  "short_desc": null,
+  "long_desc": "Ninety-five theses",
+  "start": 1517,
+  "end": null,
+  "location": "Germany",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/1920px-Luther_95_Thesen.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-80db4ccdca10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ninety-five-theses",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 25,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 258,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/960px-Luther_95_Thesen.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Luther_95_Thesen.png/330px-Luther_95_Thesen.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 506,
+    "time_end": null,
+    "time_start": "1517 ",
+    "location_info": {
+      "display_name": "Deutschland",
+      "boundingbox": [
+        "47.2701114",
+        "55.099161",
+        "5.8663153",
+        "15.0419309"
+      ],
+      "osm_id": 51477,
+      "osm_type": "relation",
+      "coordinates": [
+        51.1638175,
+        10.4478313
+      ]
+    }
+  }
+}

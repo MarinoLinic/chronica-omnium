@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0403",
+  "id_num": 403,
+  "slug": "hans-hermann-hoppe",
+  "status": "review",
+  "name": "Hans-Hermann Hoppe",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1949,
+  "end": 2023,
+  "location": "Peine",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Hans-Hermann_Hoppe",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hoppe-pfs2022.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e1ca8f3039c1"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "hans-hermann-hoppe",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 74,
+    "generation_diff": 3,
+    "generations_end": 0,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 403,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hoppe-pfs2022.png/640px-Hoppe-pfs2022.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hoppe-pfs2022.png/320px-Hoppe-pfs2022.png",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 74,
+    "time_end": "2023 ",
+    "time_start": "1949 ",
+    "location_info": {
+      "display_name": "Landkreis Peine, Niedersachsen, Deutschland",
+      "boundingbox": [
+        "52.1750064",
+        "52.4488486",
+        "9.9954849",
+        "10.4543019"
+      ],
+      "osm_id": 62494,
+      "osm_type": "relation",
+      "coordinates": [
+        52.3117289,
+        10.2519040136
+      ]
+    }
+  }
+}

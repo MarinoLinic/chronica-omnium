@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0002",
+  "id_num": 2,
+  "slug": "milky-way",
+  "status": "review",
+  "name": "Milky Way",
+  "short_desc": "Formation of the Milky Way galaxy (small overdensity)",
+  "long_desc": "Milky Way",
+  "start": -13600000000,
+  "end": null,
+  "location": "Milky Way",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://spaceplace.nasa.gov/galaxies-age/en/#:~:text=Astronomers%20believe%20that%20our%20own,about%20500%20million%20years%20ago",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Milky_way_map.png/1920px-Milky_way_map.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-69be0ac6da9f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "milky-way",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 2,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Milky_way_map.png/960px-Milky_way_map.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Milky_way_map.png/330px-Milky_way_map.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 13600000000,
+    "time_end": null,
+    "time_start": "13.6 billion BCE",
+    "location_info": {
+      "display_name": "Milky Way, Sesel",
+      "boundingbox": [
+        "-7.1380388",
+        "-7.1180388",
+        "52.7348393",
+        "52.7548393"
+      ],
+      "osm_id": 667906478,
+      "osm_type": "node",
+      "coordinates": [
+        -7.1280388,
+        52.7448393
+      ]
+    }
+  }
+}

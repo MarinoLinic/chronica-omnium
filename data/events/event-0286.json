@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0286",
+  "id_num": 286,
+  "slug": "john-locke",
+  "status": "review",
+  "name": "John Locke",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1632,
+  "end": 1704,
+  "location": "Wington",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/John_Locke",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/John_Locke.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0609faa9fbf0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "john-locke",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 72,
+    "generation_diff": 4,
+    "generations_end": 15,
+    "generations_start": 19,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 286,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/b/b8/John_Locke.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/John_Locke.jpg/330px-John_Locke.jpg",
+    "range_type": null,
+    "time_bp_end": 319,
+    "time_bp_start": 391,
+    "time_end": "1704 ",
+    "time_start": "1632 ",
+    "location_info": {
+      "display_name": "Wington Court, Westgate, Creekwood, Anderson County, South Carolina, 29626, United States",
+      "boundingbox": [
+        "34.510848",
+        "34.5110937",
+        "-82.764321",
+        "-82.763601"
+      ],
+      "osm_id": 12102297,
+      "osm_type": "way",
+      "coordinates": [
+        34.511,
+        -82.764011
+      ]
+    }
+  }
+}

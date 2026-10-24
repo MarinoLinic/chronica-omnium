@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0416",
+  "id_num": 416,
+  "slug": "elon-musk",
+  "status": "review",
+  "name": "Elon Musk",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1971,
+  "end": 2023,
+  "location": "Pretoria",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Elon_Musk",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-d10b273fab39"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "elon-musk",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 52,
+    "generation_diff": 2,
+    "generations_end": 0,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 416,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/960px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/330px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 52,
+    "time_end": "2023 ",
+    "time_start": "1971 ",
+    "location_info": {
+      "display_name": "Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0126, South Africa",
+      "boundingbox": [
+        "-25.9059277",
+        "-25.5859277",
+        "28.0279101",
+        "28.3479101"
+      ],
+      "osm_id": 25503669,
+      "osm_type": "node",
+      "coordinates": [
+        -25.7459277,
+        28.1879101
+      ]
+    }
+  }
+}

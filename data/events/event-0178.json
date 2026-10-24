@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0178",
+  "id_num": 178,
+  "slug": "roman-empire",
+  "status": "review",
+  "name": "Roman Empire",
+  "short_desc": "Establishment of the Roman Empire by Augustus (Caesar's great-nephew): the beginning of Pax Romana (27 BCE)",
+  "long_desc": "Roman Empire",
+  "start": -27,
+  "end": 476,
+  "location": "Roman Empire",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Roman_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vexilloid_of_the_Roman_Empire.svg/1280px-Vexilloid_of_the_Roman_Empire.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "roman-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 503,
+    "generation_diff": 25,
+    "generations_end": 77,
+    "generations_start": 102,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 178,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vexilloid_of_the_Roman_Empire.svg/960px-Vexilloid_of_the_Roman_Empire.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Vexilloid_of_the_Roman_Empire.svg/330px-Vexilloid_of_the_Roman_Empire.svg.png",
+    "range_type": null,
+    "time_bp_end": 1547,
+    "time_bp_start": 2050,
+    "time_end": "476 ",
+    "time_start": "27 BCE",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

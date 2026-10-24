@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0170",
+  "id_num": 170,
+  "slug": "first-triumvirate",
+  "status": "review",
+  "name": "First Triumvirate",
+  "short_desc": null,
+  "long_desc": "First Triumvirate",
+  "start": -59,
+  "end": -53,
+  "location": "Mediterranean",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/First_Triumvirate",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/First_Triumvirate_of_Caesar%2C_Crassius_and_Pompey.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b01c72c717ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "first-triumvirate",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 6,
+    "generation_diff": 1,
+    "generations_end": 103,
+    "generations_start": 104,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 170,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/5/5c/First_Triumvirate_of_Caesar%2C_Crassius_and_Pompey.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/First_Triumvirate_of_Caesar%2C_Crassius_and_Pompey.jpg/330px-First_Triumvirate_of_Caesar%2C_Crassius_and_Pompey.jpg",
+    "range_type": null,
+    "time_bp_end": 2076,
+    "time_bp_start": 2082,
+    "time_end": "53 BCE",
+    "time_start": "59 BCE",
+    "location_info": {
+      "display_name": "Mediterranean, İskele, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.2554556",
+        "35.2559192",
+        "33.903377",
+        "33.9046383"
+      ],
+      "osm_id": 695975547,
+      "osm_type": "way",
+      "coordinates": [
+        35.25570135,
+        33.9040119532
+      ]
+    }
+  }
+}

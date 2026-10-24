@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0122",
+  "id_num": 122,
+  "slug": "preclassic-maya",
+  "status": "review",
+  "name": "Preclassic Maya",
+  "short_desc": null,
+  "long_desc": "Preclassic Maya",
+  "start": -2000,
+  "end": 250,
+  "location": "Mesoamerica",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Preclassic_Maya",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-063d3a69033a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "preclassic-maya",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2250,
+    "generation_diff": 113,
+    "generations_end": 88,
+    "generations_start": 201,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 122,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 1700,
+    "time_bp_start": 4000,
+    "time_end": "250 ",
+    "time_start": "2000 BCE",
+    "location_info": {
+      "display_name": "Calle Mesoamérica, Fraccionamiento Ciudad Olmeca, Coatzacoalcos, Veracruz, México",
+      "boundingbox": [
+        "18.1554223",
+        "18.1563112",
+        "-94.5578992",
+        "-94.549771"
+      ],
+      "osm_id": 96404789,
+      "osm_type": "way",
+      "coordinates": [
+        18.1558579,
+        -94.5538126
+      ]
+    }
+  }
+}

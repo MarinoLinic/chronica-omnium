@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0036",
+  "text": "Lomekwi 3 is the name of an archaeological site in Kenya where ancient stone tools have been discovered  dating to 3.3 million years ago, which make them the oldest ever found.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Lomekwi",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

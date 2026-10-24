@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0443",
+  "id_num": 443,
+  "slug": "1992-los-angeles-riots",
+  "status": "review",
+  "name": "1992 Los Angeles riots",
+  "short_desc": "Race riots",
+  "long_desc": null,
+  "start": 1992,
+  "end": null,
+  "location": "Los Angeles",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/1992_Los_Angeles_riots",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/LA_Riots_-_aftermath_%28159598182%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-8b6e04947230"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "1992-los-angeles-riots",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 443,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LA_Riots_-_aftermath_%28159598182%29.jpg/960px-LA_Riots_-_aftermath_%28159598182%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LA_Riots_-_aftermath_%28159598182%29.jpg/330px-LA_Riots_-_aftermath_%28159598182%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 31,
+    "time_end": null,
+    "time_start": "1992 ",
+    "location_info": {
+      "display_name": "Los Angeles, Los Angeles County, California, United States",
+      "boundingbox": [
+        "33.659541",
+        "34.337306",
+        "-118.6681779",
+        "-118.1552947"
+      ],
+      "osm_id": 207359,
+      "osm_type": "relation",
+      "coordinates": [
+        34.0536909,
+        -118.242766
+      ]
+    }
+  }
+}

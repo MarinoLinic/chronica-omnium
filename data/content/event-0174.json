@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0174",
+  "text": "The phrase \"crossing the Rubicon\" is an idiom that means \"passing a point of no return\". Its meaning comes from allusion to the crossing of the river Rubicon by Julius Caesar in early January 49 BC. The exact date is unknown. Scholars usually place it on the night of 10 and 11 January, based on speeds at which messengers could travel at that time.\n\nHis crossing of the river precipitated Caesar's civil war, which ultimately led to Caesar's becoming dictator for life (dictator perpetuo). Caesar had been appointed to a governorship over a region that ranged from southern Gaul to Illyricum. As his term of governorship ended, the Senate ordered him to disband his army and return to Rome. As it was illegal to bring armies into Italy (the northern border of which was marked by the river Rubicon) his crossing the river under arms amounted to insurrection, treason, and a declaration of war on the state. According to some authors, he uttered the phrase alea iacta est (\"the die is cast\") before crossing.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0384",
+  "id_num": 384,
+  "slug": "benito-mussolini-in-office",
+  "status": "review",
+  "name": "Benito Mussolini (in office)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1922,
+  "end": 1943,
+  "location": "Italy",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5a9cf672c8be"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "benito-mussolini-in-office",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 21,
+    "generation_diff": 1,
+    "generations_end": 4,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 384,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mussolini_biografia.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mussolini_biografia.jpg/330px-Mussolini_biografia.jpg",
+    "range_type": null,
+    "time_bp_end": 80,
+    "time_bp_start": 101,
+    "time_end": "1943 ",
+    "time_start": "1922 ",
+    "location_info": {
+      "display_name": "Italia",
+      "boundingbox": [
+        "35.2889616",
+        "47.0921462",
+        "6.6272658",
+        "18.7844746"
+      ],
+      "osm_id": 365331,
+      "osm_type": "relation",
+      "coordinates": [
+        42.6384261,
+        12.674297
+      ]
+    }
+  }
+}

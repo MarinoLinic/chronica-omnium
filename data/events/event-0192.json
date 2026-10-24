@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0192",
+  "id_num": 192,
+  "slug": "roman-empire-no-longer-unified",
+  "status": "review",
+  "name": "Roman Empire no longer unified",
+  "short_desc": "Theodosius I dies as the last Roman Emperor to rule over a unified empire (Western/Eastern)",
+  "long_desc": "Roman Empire no longer unified",
+  "start": 395,
+  "end": null,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Theodosius_I%27s_empire.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "roman-empire-no-longer-unified",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 81,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 192,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/49/Theodosius_I%27s_empire.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Theodosius_I%27s_empire.png/330px-Theodosius_I%27s_empire.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 1628,
+    "time_end": null,
+    "time_start": "395 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

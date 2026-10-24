@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0419",
+  "id_num": 419,
+  "slug": "microsoft",
+  "status": "review",
+  "name": "Microsoft",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1975,
+  "end": null,
+  "location": "Albuquerque",
+  "type": "Company",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Microsoft",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/1920px-Building92microsoft.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-b3fb95a5f48c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "microsoft",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 419,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/960px-Building92microsoft.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Building92microsoft.jpg/330px-Building92microsoft.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 48,
+    "time_end": null,
+    "time_start": "1975 ",
+    "location_info": {
+      "display_name": "Albuquerque, Bernalillo County, New Mexico, United States",
+      "boundingbox": [
+        "34.9470871",
+        "35.218203",
+        "-106.8821501",
+        "-106.471376"
+      ],
+      "osm_id": 171262,
+      "osm_type": "relation",
+      "coordinates": [
+        35.0841034,
+        -106.650985
+      ]
+    }
+  }
+}

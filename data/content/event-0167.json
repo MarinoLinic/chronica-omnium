@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0167",
+  "text": "Of the many eruptions of Mount Vesuvius, a major stratovolcano in southern Italy, the best-known is its eruption in 79 AD, which was one of the deadliest and best-known in European history.\n\nIn the autumn of 79 AD, Mount Vesuvius violently spewed forth a deadly cloud of super-heated tephra and gases to a height of 33 km (21 mi), ejecting molten rock, pulverized pumice and hot ash at 1.5 million tons per second, ultimately releasing 100,000 times the thermal energy of the atomic bombings of Hiroshima and Nagasaki. The event gives its name to the Vesuvian type of volcanic eruption, characterised by columns of hot gases and ash reaching the stratosphere, although the event also included pyroclastic flows associated with Pelean eruptions.\n\nThe event destroyed several towns and minor settlements in the area, at the time part of the Roman Empire. Pompeii and Herculaneum, obliterated and buried underneath massive pyroclastic surges and ashfall deposits, are the most famous examples. After archaeological excavations revealed much about the lives of the inhabitants, the area became a major tourist attraction and is now a UNESCO World Heritage Site and part of Vesuvius National Park.\n\nThe total population of both cities was over 20,000. The remains of over 1,500 people have been found at Pompeii and Herculaneum so far, although the total death toll from the eruption remains unknown.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

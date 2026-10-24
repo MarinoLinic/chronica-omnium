@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0005",
+  "text": "Theia is a hypothesized ancient planet in the early Solar System that, according to the giant-impact hypothesis, collided with the early Earth around 4.5 billion years ago, with some of the resulting ejected debris gathering to form the Moon. \nTheia could explain why Earth's core is larger than expected for a body its size, with Theia's core and mantle fusing with those of Earth.\nTheia is hypothesized to have been about the size of Mars. Theia may have formed in the outer Solar System and provided much of Earth's water.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Theia_(planet)",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

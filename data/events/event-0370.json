@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0370",
+  "id_num": 370,
+  "slug": "world-war-i",
+  "status": "review",
+  "name": "World War I",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1914,
+  "end": 1918,
+  "location": "Europe",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/World_War_I",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "world-war-i",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 4,
+    "generation_diff": 0,
+    "generations_end": 5,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 370,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg/960px-Cheshire_Regiment_trench_Somme_1916.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cheshire_Regiment_trench_Somme_1916.jpg/330px-Cheshire_Regiment_trench_Somme_1916.jpg",
+    "range_type": null,
+    "time_bp_end": 105,
+    "time_bp_start": 109,
+    "time_end": "1918 ",
+    "time_start": "1914 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

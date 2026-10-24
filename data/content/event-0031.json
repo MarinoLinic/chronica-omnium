@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0031",
+  "text": "Sahelanthropus tchadensis is an extinct species of the Homininae (African apes) dated to about 7 million years ago, during the Miocene epoch. The species, and its genus Sahelanthropus, was announced in 2002, based mainly on a partial cranium, nicknamed Toumaï, discovered in northern Chad.\n\nSahelanthropus tchadensis lived close to the time of the chimpanzee–human divergence, possibly related to Orrorin, a species of Homininae that lived about one million years later. It may have been ancestral to both humans and chimpanzees (which would place it in the tribe Hominini), or alternatively an early member of the tribe Gorillini. In 2020, the femur was analyzed, and it was found that Sahelanthropus was not bipedal, casting some doubt on its position as a human ancestor, but this was refuted in 2022.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Sahelanthropus",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

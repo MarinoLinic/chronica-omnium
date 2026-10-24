@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0221",
+  "id_num": 221,
+  "slug": "postclassic-maya",
+  "status": "review",
+  "name": "Postclassic Maya",
+  "short_desc": null,
+  "long_desc": "Postclassic Maya",
+  "start": 950,
+  "end": 1539,
+  "location": "Mesoamerica",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Maya_civilization#:~:text=Pet%C3%A9n.%5B76%5D-,Postclassic%20period%20(c.%20950%E2%80%931539%20AD),-See%20also%3A",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mayamap.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-063d3a69033a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "postclassic-maya",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 589,
+    "generation_diff": 29,
+    "generations_end": 24,
+    "generations_start": 53,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 221,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mayamap.png/960px-Mayamap.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mayamap.png/330px-Mayamap.png",
+    "range_type": null,
+    "time_bp_end": 484,
+    "time_bp_start": 1073,
+    "time_end": "1539 ",
+    "time_start": "950 ",
+    "location_info": {
+      "display_name": "Calle Mesoamérica, Fraccionamiento Ciudad Olmeca, Coatzacoalcos, Veracruz, México",
+      "boundingbox": [
+        "18.1554223",
+        "18.1563112",
+        "-94.5578992",
+        "-94.549771"
+      ],
+      "osm_id": 96404789,
+      "osm_type": "way",
+      "coordinates": [
+        18.1558579,
+        -94.5538126
+      ]
+    }
+  }
+}

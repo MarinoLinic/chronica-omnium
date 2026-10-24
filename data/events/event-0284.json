@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0284",
+  "id_num": 284,
+  "slug": "plymouth-colony",
+  "status": "review",
+  "name": "Plymouth Colony",
+  "short_desc": "First permanent English colony in New England (Puritans)",
+  "long_desc": null,
+  "start": 1620,
+  "end": 1691,
+  "location": "New England",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Plymouth_Colony",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Plymouth_Colony_seal.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-71bf5c95906b"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "plymouth-colony",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 71,
+    "generation_diff": 4,
+    "generations_end": 16,
+    "generations_start": 20,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 284,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Plymouth_Colony_seal.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Plymouth_Colony_seal.png/330px-Plymouth_Colony_seal.png",
+    "range_type": null,
+    "time_bp_end": 332,
+    "time_bp_start": 403,
+    "time_end": "1691 ",
+    "time_start": "1620 ",
+    "location_info": {
+      "display_name": "New England, United States",
+      "boundingbox": [
+        "40.950983",
+        "47.4598397",
+        "-73.727811",
+        "-66.8854156"
+      ],
+      "osm_id": 9660059,
+      "osm_type": "relation",
+      "coordinates": [
+        44.2057083,
+        -70.7537838745
+      ]
+    }
+  }
+}

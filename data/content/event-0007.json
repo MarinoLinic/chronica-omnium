@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0007",
+  "text": "A protocell (or protobiont) is a self-organized, endogenously ordered, spherical collection of lipids proposed as a stepping-stone toward the origin of life. A central question in evolution is how simple protocells first arose and how they could differ in reproductive output, thus enabling the accumulation of novel biological emergences over time, i.e. biological evolution. Although a functional protocell has not yet been achieved in a laboratory setting, the goal to understand the process appears well within reach.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Protocell",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

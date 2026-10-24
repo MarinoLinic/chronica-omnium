@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0452",
+  "id_num": 452,
+  "slug": "stanley-kubrick",
+  "status": "review",
+  "name": "Stanley Kubrick",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1928,
+  "end": 1999,
+  "location": "New York City",
+  "type": "Person",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5a59ef2e40c5"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "stanley-kubrick",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 71,
+    "generation_diff": 3,
+    "generations_end": 1,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 452,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg/960px-Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg/330px-Stanley_Kubrick_%281949_portrait_by_Phillip_Harrington_-_cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 24,
+    "time_bp_start": 95,
+    "time_end": "1999 ",
+    "time_start": "1928 ",
+    "location_info": {
+      "display_name": "City of New York, New York, United States",
+      "boundingbox": [
+        "40.476578",
+        "40.91763",
+        "-74.258843",
+        "-73.700233"
+      ],
+      "osm_id": 175905,
+      "osm_type": "relation",
+      "coordinates": [
+        40.7127281,
+        -74.0060152
+      ]
+    }
+  }
+}

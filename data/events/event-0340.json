@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0340",
+  "id_num": 340,
+  "slug": "ku-klux-klan",
+  "status": "review",
+  "name": "Ku Klux Klan",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1865,
+  "end": null,
+  "location": "United States",
+  "type": "Organization",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ku_Klux_Klan",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/KKK_night_rally_in_Chicago_c1920_cph.3b12355.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ku-klux-klan",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 340,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/KKK_night_rally_in_Chicago_c1920_cph.3b12355.jpg/960px-KKK_night_rally_in_Chicago_c1920_cph.3b12355.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/KKK_night_rally_in_Chicago_c1920_cph.3b12355.jpg/330px-KKK_night_rally_in_Chicago_c1920_cph.3b12355.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 158,
+    "time_end": null,
+    "time_start": "1865 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

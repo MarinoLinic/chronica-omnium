@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0453",
+  "id_num": 453,
+  "slug": "apollo-11",
+  "status": "review",
+  "name": "Apollo 11",
+  "short_desc": "Humans land on the moon",
+  "long_desc": null,
+  "start": 1969,
+  "end": null,
+  "location": "Moon",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Apollo_11",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Buzz_salutes_the_U.S._Flag.jpg/1920px-Buzz_salutes_the_U.S._Flag.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-5fc165254f4f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "apollo-11",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 453,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Buzz_salutes_the_U.S._Flag.jpg/960px-Buzz_salutes_the_U.S._Flag.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Buzz_salutes_the_U.S._Flag.jpg/330px-Buzz_salutes_the_U.S._Flag.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 54,
+    "time_end": null,
+    "time_start": "1969 ",
+    "location_info": {
+      "display_name": "Muhu, Saare maakond, Eesti",
+      "boundingbox": [
+        "58.5073704",
+        "58.6844376",
+        "23.0664193",
+        "23.4061863"
+      ],
+      "osm_id": 189933,
+      "osm_type": "relation",
+      "coordinates": [
+        58.5959044,
+        23.219646086
+      ]
+    }
+  }
+}

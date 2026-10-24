@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0449",
+  "id_num": 449,
+  "slug": "armenian-genocide",
+  "status": "review",
+  "name": "Armenian genocide",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1915,
+  "end": 1917,
+  "location": "Turkey",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Armenian_genocide",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Russian_soldiers_Sheykhalan_1915.jpg",
+  "casualties_low": 600000,
+  "casualties_high": 1500000,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-07c67d76ef92"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "armenian-genocide",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2,
+    "generation_diff": 0,
+    "generations_end": 5,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 449,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Russian_soldiers_Sheykhalan_1915.jpg/960px-Russian_soldiers_Sheykhalan_1915.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Russian_soldiers_Sheykhalan_1915.jpg/330px-Russian_soldiers_Sheykhalan_1915.jpg",
+    "range_type": null,
+    "time_bp_end": 106,
+    "time_bp_start": 108,
+    "time_end": "1917 ",
+    "time_start": "1915 ",
+    "location_info": {
+      "display_name": "Türkiye",
+      "boundingbox": [
+        "35.8059015",
+        "42.297",
+        "25.5656305",
+        "44.8176638"
+      ],
+      "osm_id": 174737,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9597594,
+        34.9249653
+      ]
+    }
+  }
+}

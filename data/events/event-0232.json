@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0232",
+  "id_num": 232,
+  "slug": "ars-cantus-mensurabilis",
+  "status": "review",
+  "name": "Ars cantus mensurabilis",
+  "short_desc": "Modern musical notation begins to develop",
+  "long_desc": "Ars cantus mensurabilis",
+  "start": 1250,
+  "end": null,
+  "location": "Cologne",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Musical_notation#:~:text=Ars%20cantus%20mensurabilis",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bachlut1.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-f92fd06da205"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ars-cantus-mensurabilis",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "High Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 38,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 232,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bachlut1.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bachlut1.png/330px-Bachlut1.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 773,
+    "time_end": null,
+    "time_start": "1250 ",
+    "location_info": {
+      "display_name": "Köln, Nordrhein-Westfalen, Deutschland",
+      "boundingbox": [
+        "50.8304399",
+        "51.0849743",
+        "6.7725303",
+        "7.162028"
+      ],
+      "osm_id": 62578,
+      "osm_type": "relation",
+      "coordinates": [
+        50.938361,
+        6.959974
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0142",
+  "id_num": 142,
+  "slug": "independent-carthage",
+  "status": "review",
+  "name": "Independent Carthage",
+  "short_desc": "Carthaginians become independent from Tyre (Phoenicians)",
+  "long_desc": "Independent Carthage",
+  "start": -650,
+  "end": -146,
+  "location": "Tunisia",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ancient_Carthage#:~:text=c.-,650%20BC,-%E2%80%A2%C2%A0Destroyed%20by ",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/CarthageMap.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4609682a2f3d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "independent-carthage",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 504,
+    "generation_diff": 25,
+    "generations_end": 108,
+    "generations_start": 133,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 142,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/44/CarthageMap.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CarthageMap.png/330px-CarthageMap.png",
+    "range_type": null,
+    "time_bp_end": 2169,
+    "time_bp_start": 2673,
+    "time_end": "146 BCE",
+    "time_start": "650 BCE",
+    "location_info": {
+      "display_name": "تونس",
+      "boundingbox": [
+        "30.229061",
+        "37.7612052",
+        "7.5219807",
+        "11.8801133"
+      ],
+      "osm_id": 192757,
+      "osm_type": "relation",
+      "coordinates": [
+        33.8439408,
+        9.400138
+      ]
+    }
+  }
+}

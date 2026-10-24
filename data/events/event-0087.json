@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0087",
+  "id_num": 87,
+  "slug": "archaic-maya",
+  "status": "review",
+  "name": "Archaic Maya",
+  "short_desc": null,
+  "long_desc": "Archaic Maya",
+  "start": -8000,
+  "end": -2000,
+  "location": "Mesoamerica",
+  "type": "Unit",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_the_Maya_civilization",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-063d3a69033a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "archaic-maya",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 6000,
+    "generation_diff": 355,
+    "generations_end": 201,
+    "generations_start": 556,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 87,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 4000,
+    "time_bp_start": 10000,
+    "time_end": "2000 BCE",
+    "time_start": "8000 BCE",
+    "location_info": {
+      "display_name": "Calle Mesoamérica, Fraccionamiento Ciudad Olmeca, Coatzacoalcos, Veracruz, México",
+      "boundingbox": [
+        "18.1554223",
+        "18.1563112",
+        "-94.5578992",
+        "-94.549771"
+      ],
+      "osm_id": 96404789,
+      "osm_type": "way",
+      "coordinates": [
+        18.1558579,
+        -94.5538126
+      ]
+    }
+  }
+}

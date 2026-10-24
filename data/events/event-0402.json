@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0402",
+  "id_num": 402,
+  "slug": "apartheid",
+  "status": "review",
+  "name": "Apartheid",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1948,
+  "end": 1991,
+  "location": "South Africa",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Apartheid",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/DurbanSign1989.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3e049d78d958"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "apartheid",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 43,
+    "generation_diff": 2,
+    "generations_end": 1,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 402,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/8/81/DurbanSign1989.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/DurbanSign1989.jpg/330px-DurbanSign1989.jpg",
+    "range_type": null,
+    "time_bp_end": 32,
+    "time_bp_start": 75,
+    "time_end": "1991 ",
+    "time_start": "1948 ",
+    "location_info": {
+      "display_name": "South Africa",
+      "boundingbox": [
+        "-47.1788335",
+        "-22.1250301",
+        "16.3335213",
+        "38.2898954"
+      ],
+      "osm_id": 87565,
+      "osm_type": "relation",
+      "coordinates": [
+        -28.8166236,
+        24.991639
+      ]
+    }
+  }
+}

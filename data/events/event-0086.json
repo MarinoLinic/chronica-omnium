@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0086",
+  "id_num": 86,
+  "slug": "domestication-in-the-andes",
+  "status": "review",
+  "name": "Domestication in the Andes",
+  "short_desc": "Potato, llamas, beans, etc. domesticated in the Andes",
+  "long_desc": "Domestication in the Andes",
+  "start": -8000,
+  "end": -5000,
+  "location": "Andes",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-dbbde35c7cd4"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "domestication-in-the-andes",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 166,
+    "generations_end": 390,
+    "generations_start": 556,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 86,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/330px-PivotWithDrops.JPG",
+    "range_type": 1,
+    "time_bp_end": 7000,
+    "time_bp_start": 10000,
+    "time_end": "5000 BCE",
+    "time_start": "8000 BCE",
+    "location_info": {
+      "display_name": "Andes, Suroeste, Antioquia, Colombia",
+      "boundingbox": [
+        "5.4806446",
+        "5.7751462",
+        "-76.0666724",
+        "-75.8103058"
+      ],
+      "osm_id": 1307011,
+      "osm_type": "relation",
+      "coordinates": [
+        5.62787175,
+        -75.9451674495
+      ]
+    }
+  }
+}

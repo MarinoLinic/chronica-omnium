@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0239",
+  "id_num": 239,
+  "slug": "settlement-of-new-zealand",
+  "status": "review",
+  "name": "Settlement of New Zealand",
+  "short_desc": "Humans (Polynesians) reach New Zealand",
+  "long_desc": "Settlement of New Zealand",
+  "start": 1350,
+  "end": null,
+  "location": "New Zealand",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_New_Zealand#:~:text=between%201320%20and-,1350,-CE%2C%20when%20the",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Spreading_homo_sapiens_la.svg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-2898e16d4e4e"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "settlement-of-new-zealand",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 33,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 239,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/960px-Spreading_homo_sapiens_la.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/330px-Spreading_homo_sapiens_la.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 673,
+    "time_end": null,
+    "time_start": "1350 ",
+    "location_info": {
+      "display_name": "New Zealand/Aotearoa",
+      "boundingbox": [
+        "-52.8213687",
+        "-29.0303303",
+        "-179.059153",
+        "179.3643594"
+      ],
+      "osm_id": 556706,
+      "osm_type": "relation",
+      "coordinates": [
+        -41.5000831,
+        172.8344077
+      ]
+    }
+  }
+}

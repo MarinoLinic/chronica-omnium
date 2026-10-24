@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0262",
+  "id_num": 262,
+  "slug": "suleiman-the-magnificent-reign",
+  "status": "review",
+  "name": "Suleiman the Magnificent (reign)",
+  "short_desc": null,
+  "long_desc": "Suleiman the Magnificent (reign)",
+  "start": 1520,
+  "end": 1566,
+  "location": "Trabzon",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/EmperorSuleiman.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-93711534b06d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "suleiman-the-magnificent-reign",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 46,
+    "generation_diff": 3,
+    "generations_end": 22,
+    "generations_start": 25,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 262,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/330px-EmperorSuleiman.jpg",
+    "range_type": null,
+    "time_bp_end": 457,
+    "time_bp_start": 503,
+    "time_end": "1566 ",
+    "time_start": "1520 ",
+    "location_info": {
+      "display_name": "Trabzon, Ortahisar, Trabzon, Karadeniz Bölgesi, 61110, Türkiye",
+      "boundingbox": [
+        "40.8462202",
+        "41.1662202",
+        "39.5657547",
+        "39.8857547"
+      ],
+      "osm_id": 512552945,
+      "osm_type": "node",
+      "coordinates": [
+        41.0062202,
+        39.7257547
+      ]
+    }
+  }
+}

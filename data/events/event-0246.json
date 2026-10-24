@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0246",
+  "id_num": 246,
+  "slug": "christopher-columbus",
+  "status": "review",
+  "name": "Christopher Columbus",
+  "short_desc": null,
+  "long_desc": "Christopher Columbus",
+  "start": 1451,
+  "end": 1506,
+  "location": "Spain",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-8ef41e6f4b07"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "christopher-columbus",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 55,
+    "generation_diff": 3,
+    "generations_end": 25,
+    "generations_start": 28,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 246,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/960px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+    "range_type": null,
+    "time_bp_end": 517,
+    "time_bp_start": 572,
+    "time_end": "1506 ",
+    "time_start": "1451 ",
+    "location_info": {
+      "display_name": "España",
+      "boundingbox": [
+        "27.4335426",
+        "43.9933088",
+        "-18.3936845",
+        "4.5918885"
+      ],
+      "osm_id": 1311341,
+      "osm_type": "relation",
+      "coordinates": [
+        39.3260685,
+        -4.8379791
+      ]
+    }
+  }
+}

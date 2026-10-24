@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0245",
+  "id_num": 245,
+  "slug": "vlad-the-impaler-reign",
+  "status": "review",
+  "name": "Vlad the Impaler (reign)",
+  "short_desc": "Vlad III; cruel Romanian (Wallachian voivode) ruler known for torturing his foes incl. the Ottomans",
+  "long_desc": "Vlad the Impaler (reign)",
+  "start": 1448,
+  "end": 1476,
+  "location": "Romania",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Vlad_the_Impaler",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Vlad_Tepes_002.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-ea23726dd0fd"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "vlad-the-impaler-reign",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 28,
+    "generation_diff": 1,
+    "generations_end": 27,
+    "generations_start": 28,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 245,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vlad_Tepes_002.jpg/960px-Vlad_Tepes_002.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Vlad_Tepes_002.jpg/330px-Vlad_Tepes_002.jpg",
+    "range_type": null,
+    "time_bp_end": 547,
+    "time_bp_start": 575,
+    "time_end": "1476 ",
+    "time_start": "1448 ",
+    "location_info": {
+      "display_name": "România",
+      "boundingbox": [
+        "43.618682",
+        "48.2654738",
+        "20.2619955",
+        "30.0454257"
+      ],
+      "osm_id": 90689,
+      "osm_type": "relation",
+      "coordinates": [
+        45.9852129,
+        24.6859225
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0223",
+  "id_num": 223,
+  "slug": "song-dynasty",
+  "status": "review",
+  "name": "Song dynasty",
+  "short_desc": null,
+  "long_desc": "Song dynasty",
+  "start": 960,
+  "end": 1279,
+  "location": "China",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Song_dynasty",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/1920px-China_-_Song_Dynasty-en.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "song-dynasty",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 319,
+    "generation_diff": 16,
+    "generations_end": 37,
+    "generations_start": 53,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 223,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/960px-China_-_Song_Dynasty-en.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/330px-China_-_Song_Dynasty-en.svg.png",
+    "range_type": null,
+    "time_bp_end": 744,
+    "time_bp_start": 1063,
+    "time_end": "1279 ",
+    "time_start": "960 ",
+    "location_info": {
+      "display_name": "中国",
+      "boundingbox": [
+        "8.6650385",
+        "53.5608154",
+        "73.4997347",
+        "134.7754563"
+      ],
+      "osm_id": 270056,
+      "osm_type": "relation",
+      "coordinates": [
+        35.000074,
+        104.999927
+      ]
+    }
+  }
+}

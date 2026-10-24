@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0212",
+  "id_num": 212,
+  "slug": "umayyad-conquest-of-iberia-hispania",
+  "status": "review",
+  "name": "Umayyad conquest of Iberia (Hispania)",
+  "short_desc": null,
+  "long_desc": "Umayyad conquest of Iberia (Hispania)",
+  "start": 711,
+  "end": 718,
+  "location": "Iberia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg/1920px-El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-a9b5c69465cc"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "umayyad-conquest-of-iberia-hispania",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 7,
+    "generation_diff": 0,
+    "generations_end": 65,
+    "generations_start": 65,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 212,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg/960px-El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg/330px-El_rey_Don_Rodrigo_arengando_a_sus_tropas_en_la_batalla_de_Guadalete_%28Museo_del_Prado%29.jpg",
+    "range_type": null,
+    "time_bp_end": 1305,
+    "time_bp_start": 1312,
+    "time_end": "718 ",
+    "time_start": "711 ",
+    "location_info": {
+      "display_name": "Iberia, España",
+      "boundingbox": [
+        "36.0000382",
+        "43.790422",
+        "-9.5005921",
+        "3.3222508"
+      ],
+      "osm_id": 3870917,
+      "osm_type": "relation",
+      "coordinates": [
+        39.8952029,
+        -4.4983630475
+      ]
+    }
+  }
+}

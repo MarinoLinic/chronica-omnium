@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0106",
+  "id_num": 106,
+  "slug": "ancient-egypt",
+  "status": "review",
+  "name": "Ancient Egypt",
+  "short_desc": null,
+  "long_desc": "Ancient Egypt",
+  "start": -3100,
+  "end": -30,
+  "location": "Egypt",
+  "type": "Unit",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1920px-All_Gizah_Pyramids.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-557c1599d9a0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ancient-egypt",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 3070,
+    "generation_diff": 154,
+    "generations_end": 102,
+    "generations_start": 256,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 106,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/960px-All_Gizah_Pyramids.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/330px-All_Gizah_Pyramids.jpg",
+    "range_type": null,
+    "time_bp_end": 2000,
+    "time_bp_start": 5100,
+    "time_end": "30 BCE",
+    "time_start": "3100 BCE",
+    "location_info": {
+      "display_name": "مصر",
+      "boundingbox": [
+        "21.9936736",
+        "31.8330854",
+        "24.6499112",
+        "37.1153517"
+      ],
+      "osm_id": 1473947,
+      "osm_type": "relation",
+      "coordinates": [
+        26.2540493,
+        29.2675469
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0162",
+  "id_num": 162,
+  "slug": "qin-dynasty-beginning-of-imperial-china",
+  "status": "review",
+  "name": "Qin dynasty (beginning of Imperial China)",
+  "short_desc": null,
+  "long_desc": "Qin dynasty (beginning of Imperial China)",
+  "start": -221,
+  "end": -206,
+  "location": "China",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Qin_dynasty",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/QinEmpireWithOrdos.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "qin-dynasty-beginning-of-imperial-china",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 15,
+    "generation_diff": 1,
+    "generations_end": 111,
+    "generations_start": 112,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 162,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/QinEmpireWithOrdos.jpg/960px-QinEmpireWithOrdos.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/QinEmpireWithOrdos.jpg/330px-QinEmpireWithOrdos.jpg",
+    "range_type": null,
+    "time_bp_end": 2229,
+    "time_bp_start": 2244,
+    "time_end": "206 BCE",
+    "time_start": "221 BCE",
+    "location_info": {
+      "display_name": "中国",
+      "boundingbox": [
+        "8.6650385",
+        "53.5608154",
+        "73.4997347",
+        "134.7754563"
+      ],
+      "osm_id": 270056,
+      "osm_type": "relation",
+      "coordinates": [
+        35.000074,
+        104.999927
+      ]
+    }
+  }
+}

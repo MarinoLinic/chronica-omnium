@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0435",
+  "id_num": 435,
+  "slug": "euromaidan",
+  "status": "review",
+  "name": "Euromaidan",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2013,
+  "end": 2014,
+  "location": "Ukraine",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Euromaidan",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Euromaidan_collage.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-580eedc669f3"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "euromaidan",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1,
+    "generation_diff": 0,
+    "generations_end": 0,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 435,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/960px-Euromaidan_collage.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Euromaidan_collage.jpg/330px-Euromaidan_collage.jpg",
+    "range_type": null,
+    "time_bp_end": 9,
+    "time_bp_start": 10,
+    "time_end": "2014 ",
+    "time_start": "2013 ",
+    "location_info": {
+      "display_name": "Україна",
+      "boundingbox": [
+        "44.184598",
+        "52.3797464",
+        "22.137059",
+        "40.2275801"
+      ],
+      "osm_id": 60199,
+      "osm_type": "relation",
+      "coordinates": [
+        49.4871968,
+        31.2718321
+      ]
+    }
+  }
+}

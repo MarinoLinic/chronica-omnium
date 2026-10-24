@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0003",
+  "id_num": 3,
+  "slug": "earth",
+  "status": "review",
+  "name": "Earth",
+  "short_desc": "Formation of Earth",
+  "long_desc": "Earth",
+  "start": -4540000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Geological_history_of_Earth",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/1920px-Hadean.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "earth",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Hadean",
+    "geologic_epoch": "",
+    "geologic_era": "",
+    "geologic_period": "",
+    "id_num": 3,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/960px-Hadean.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hadean.png/330px-Hadean.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 4540000000,
+    "time_end": null,
+    "time_start": "4.54 billion BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0057",
+  "text": "Neanderthals became extinct around 40,000 years ago. This timing, based on research published in Nature in 2014, is much earlier than previous estimates, and derives from improved radiocarbon dating methods analyzing 40 sites from Spain to Russia. Evidence for continued Neanderthal presence in the Iberian Peninsula 37,000 years ago was published in 2017.\n\nVarious hypotheses on the causes of Neanderthal extinction implicate:\n\nIt seems unlikely that any single one of these hypotheses is sufficient on its own; rather, multiple factors probably contributed to the demise of an already low population.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Neanderthal_extinction",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

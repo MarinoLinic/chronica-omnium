@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0177",
+  "id_num": 177,
+  "slug": "caesar-is-assassinated",
+  "status": "review",
+  "name": "Caesar is assassinated",
+  "short_desc": null,
+  "long_desc": "Caesar is assassinated",
+  "start": -44,
+  "end": null,
+  "location": "Rome",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1920px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-d0d220191865"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "caesar-is-assassinated",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 103,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 177,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/960px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/330px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2067,
+    "time_end": null,
+    "time_start": "44 BCE",
+    "location_info": {
+      "display_name": "Roma, Roma Capitale, Lazio, Italia",
+      "boundingbox": [
+        "41.6556417",
+        "42.1410285",
+        "12.2344669",
+        "12.8557603"
+      ],
+      "osm_id": 41485,
+      "osm_type": "relation",
+      "coordinates": [
+        41.8933203,
+        12.4829321
+      ]
+    }
+  }
+}

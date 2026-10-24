@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0264",
+  "id_num": 264,
+  "slug": "transatlantic-slave-trade",
+  "status": "review",
+  "name": "Transatlantic slave trade",
+  "short_desc": null,
+  "long_desc": "Transatlantic slave trade",
+  "start": 1526,
+  "end": 1808,
+  "location": "World",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg/1920px-Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "transatlantic-slave-trade",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 282,
+    "generation_diff": 14,
+    "generations_end": 10,
+    "generations_start": 24,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 264,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg/960px-Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg/330px-Marchands_d%27esclaves_de_Gor%C3%A9e-Jacques_Grasset_de_Saint-Sauveur_mg_8526.jpg",
+    "range_type": null,
+    "time_bp_end": 215,
+    "time_bp_start": 497,
+    "time_end": "1808 ",
+    "time_start": "1526 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

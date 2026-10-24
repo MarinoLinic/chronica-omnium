@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0445",
+  "id_num": 445,
+  "slug": "global-financial-crisis-gfc",
+  "status": "review",
+  "name": "Global Financial Crisis (GFC)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2007,
+  "end": 2008,
+  "location": "World",
+  "type": "Event",
+  "field": "Economics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/FCIC_-_Housing_Bubbles_in_Multiple_Countries_2002-2008.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "global-financial-crisis-gfc",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 1,
+    "generation_diff": 0,
+    "generations_end": 0,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 445,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/3/34/FCIC_-_Housing_Bubbles_in_Multiple_Countries_2002-2008.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/FCIC_-_Housing_Bubbles_in_Multiple_Countries_2002-2008.png/330px-FCIC_-_Housing_Bubbles_in_Multiple_Countries_2002-2008.png",
+    "range_type": null,
+    "time_bp_end": 15,
+    "time_bp_start": 16,
+    "time_end": "2008 ",
+    "time_start": "2007 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

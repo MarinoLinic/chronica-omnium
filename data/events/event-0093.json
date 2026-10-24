@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0093",
+  "id_num": 93,
+  "slug": "construction-of-door-for-wagon-entry",
+  "status": "review",
+  "name": "Construction of door for wagon entry",
+  "short_desc": "Door for wagon entry constructed (Linear Pottery culture)",
+  "long_desc": "Construction of door for wagon entry",
+  "start": -5000,
+  "end": null,
+  "location": "Southern Poland",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-454970012b81"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "construction-of-door-for-wagon-entry",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Copper Age",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 390,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 93,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 7000,
+    "time_end": null,
+    "time_start": "5000 BCE",
+    "location_info": {
+      "display_name": "Poland, Scienceville, Parañaque, Southern Manila District, Metro Manila, 1711, Philippines",
+      "boundingbox": [
+        "14.4827629",
+        "14.4847867",
+        "121.0286785",
+        "121.0286859"
+      ],
+      "osm_id": 27423237,
+      "osm_type": "way",
+      "coordinates": [
+        14.4827629,
+        121.0286785
+      ]
+    }
+  }
+}

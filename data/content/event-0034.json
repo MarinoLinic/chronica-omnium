@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0034",
+  "text": "Ardipithecus ramidus is a species of australopithecine from the Afar region of Early Pliocene Ethiopia 4.4 million years ago (mya). A. ramidus, unlike modern hominids, has adaptations for both walking on two legs (bipedality) and life in the trees (arboreality). However, it would not have been as efficient at bipedality as humans, nor at arboreality as non-human great apes. Its discovery, along with Miocene apes, has reworked academic understanding of the chimpanzee-human last common ancestor from appearing much like modern day chimpanzees, orangutans and gorillas to being a creature without a modern anatomical cognate.\n\nThe facial anatomy suggests that A. ramidus males were less aggressive than those of modern chimps, which is correlated to increased parental care and monogamy in primates. It has also been suggested that it was among the earliest of human ancestors to use some proto-language, possibly capable of vocalizing at the same level as a human infant. This is based on evidence of human-like skull architecture, cranial base angle and vocal tract dimensions, all of which in A. ramidus are paedomorphic when compared to chimpanzees and bonobos. This suggests the trend toward paedomorphic or juvenile-like form evident in human evolution, may have begun with A. ramidus. Given these unique features, it has been argued that in A. ramidus we may have the first evidence of human-like forms of social behaviour, vocally mediated sociality as well as increased levels of prosociality via the process of self-domestication - all of which seem to be associated with the same underlying changes in skull architecture. A. ramidus appears to have inhabited woodland and bushland corridors between savannas, and was a generalized omnivore.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Ardipithecus_ramidus",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

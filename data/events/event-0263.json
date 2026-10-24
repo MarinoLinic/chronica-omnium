@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0263",
+  "id_num": 263,
+  "slug": "prussia",
+  "status": "review",
+  "name": "Prussia",
+  "short_desc": null,
+  "long_desc": "Prussia",
+  "start": 1525,
+  "end": 1947,
+  "location": "Germany, Poland",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Prussia",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kingdom_of_Prussia_1870.svg/1920px-Kingdom_of_Prussia_1870.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-ff9518d2cc68"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "prussia",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 422,
+    "generation_diff": 21,
+    "generations_end": 3,
+    "generations_start": 24,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 263,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kingdom_of_Prussia_1870.svg/960px-Kingdom_of_Prussia_1870.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kingdom_of_Prussia_1870.svg/330px-Kingdom_of_Prussia_1870.svg.png",
+    "range_type": null,
+    "time_bp_end": 76,
+    "time_bp_start": 498,
+    "time_end": "1947 ",
+    "time_start": "1525 ",
+    "location_info": {
+      "display_name": "Wloclawek (Poland) -> Mallnow (Germany), gmina Oborniki, powiat obornicki, województwo wielkopolskie, 64-514, Polska",
+      "boundingbox": [
+        "52.4425553",
+        "52.7427368",
+        "14.475195",
+        "18.9546199"
+      ],
+      "osm_id": 523231385,
+      "osm_type": "way",
+      "coordinates": [
+        52.5779519,
+        16.7210245
+      ]
+    }
+  }
+}

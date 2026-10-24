@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0242",
+  "id_num": 242,
+  "slug": "joan-of-arc",
+  "status": "review",
+  "name": "Joan of Arc",
+  "short_desc": null,
+  "long_desc": "Joan of Arc",
+  "start": 1412,
+  "end": 1431,
+  "location": "Northeastern France",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/1280px-Joan_of_Arc_miniature_graded.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-c264b22c4496"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "joan-of-arc",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 19,
+    "generation_diff": 1,
+    "generations_end": 29,
+    "generations_start": 30,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 242,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/960px-Joan_of_Arc_miniature_graded.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg",
+    "range_type": null,
+    "time_bp_end": 592,
+    "time_bp_start": 611,
+    "time_end": "1431 ",
+    "time_start": "1412 ",
+    "location_info": {
+      "display_name": "South Lac La France, Unorganized North Cochrane, Cochrane District, Northeastern Ontario, Ontario, Canada",
+      "boundingbox": [
+        "49.2991948",
+        "49.3211164",
+        "-80.475523",
+        "-80.4648587"
+      ],
+      "osm_id": 328061357,
+      "osm_type": "way",
+      "coordinates": [
+        49.3101271,
+        -80.4709508551
+      ]
+    }
+  }
+}

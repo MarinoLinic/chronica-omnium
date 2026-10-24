@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0078",
+  "id_num": 78,
+  "slug": "domestication-of-cats",
+  "status": "review",
+  "name": "Domestication of cats",
+  "short_desc": "Domestication of cats in Mesopotamia",
+  "long_desc": "Domestication of cats",
+  "start": -10000,
+  "end": -8000,
+  "location": "Mesopotamia",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-84363cef0b48"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "domestication-of-cats",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 111,
+    "generations_end": 556,
+    "generations_start": 667,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 78,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/330px-PivotWithDrops.JPG",
+    "range_type": 1,
+    "time_bp_end": 10000,
+    "time_bp_start": 12000,
+    "time_end": "8000 BCE",
+    "time_start": "10 thousand BCE",
+    "location_info": {
+      "display_name": "Mesopotamia / Mezopotamya / Μεσοποταμία / بلاد الرافدين / ܒܝܬ ܢܗܪܝܢ, العراق",
+      "boundingbox": [
+        "30.910482",
+        "38.8923437",
+        "37.8341674",
+        "47.4534005"
+      ],
+      "osm_id": 14013535,
+      "osm_type": "relation",
+      "coordinates": [
+        34.9019732,
+        42.0596465948
+      ]
+    }
+  }
+}

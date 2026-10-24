@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0225",
+  "id_num": 225,
+  "slug": "norse-greenland",
+  "status": "review",
+  "name": "Norse Greenland",
+  "short_desc": null,
+  "long_desc": "Norse Greenland",
+  "start": 985,
+  "end": 1500,
+  "location": "Greenland",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_Greenland#Norse_Settlement:~:text=settlement.%5B23%5D-,Norse%20failure,-%5Bedit%5D",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hvalsey_Church.jpg/1920px-Hvalsey_Church.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-48e10296ae1f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "norse-greenland",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 515,
+    "generation_diff": 25,
+    "generations_end": 26,
+    "generations_start": 51,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 225,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hvalsey_Church.jpg/960px-Hvalsey_Church.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hvalsey_Church.jpg/330px-Hvalsey_Church.jpg",
+    "range_type": null,
+    "time_bp_end": 523,
+    "time_bp_start": 1038,
+    "time_end": "1500 ",
+    "time_start": "985 ",
+    "location_info": {
+      "display_name": "Kalaallit Nunaat",
+      "boundingbox": [
+        "59.515387",
+        "83.875172",
+        "-74.1250416",
+        "-10.0288759"
+      ],
+      "osm_id": 2184073,
+      "osm_type": "relation",
+      "coordinates": [
+        77.6192349,
+        -42.8125967
+      ]
+    }
+  }
+}

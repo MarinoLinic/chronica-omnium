@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0173",
+  "id_num": 173,
+  "slug": "the-reign-of-cleopatra",
+  "status": "review",
+  "name": "The reign of Cleopatra",
+  "short_desc": null,
+  "long_desc": "The reign of Cleopatra",
+  "start": -51,
+  "end": -30,
+  "location": "Egypt",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Cleopatra",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retrato_femenino_%2826771127162%29.jpg/1920px-Retrato_femenino_%2826771127162%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-557c1599d9a0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-reign-of-cleopatra",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 21,
+    "generation_diff": 1,
+    "generations_end": 102,
+    "generations_start": 103,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 173,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retrato_femenino_%2826771127162%29.jpg/960px-Retrato_femenino_%2826771127162%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Retrato_femenino_%2826771127162%29.jpg/330px-Retrato_femenino_%2826771127162%29.jpg",
+    "range_type": null,
+    "time_bp_end": 2053,
+    "time_bp_start": 2074,
+    "time_end": "30 BCE",
+    "time_start": "51 BCE",
+    "location_info": {
+      "display_name": "مصر",
+      "boundingbox": [
+        "21.9936736",
+        "31.8330854",
+        "24.6499112",
+        "37.1153517"
+      ],
+      "osm_id": 1473947,
+      "osm_type": "relation",
+      "coordinates": [
+        26.2540493,
+        29.2675469
+      ]
+    }
+  }
+}

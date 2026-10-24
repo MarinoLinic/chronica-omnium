@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0149",
+  "id_num": 149,
+  "slug": "achaemenid-empire",
+  "status": "review",
+  "name": "Achaemenid Empire",
+  "short_desc": "Achaemenid Empire (First Persian Empire)",
+  "long_desc": "Achaemenid Empire",
+  "start": -550,
+  "end": -330,
+  "location": "Persia",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achaemenid_Empire_500_BCE.jpg/1920px-Achaemenid_Empire_500_BCE.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-f2f6ac3ee1ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "achaemenid-empire",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 220,
+    "generation_diff": 11,
+    "generations_end": 117,
+    "generations_start": 128,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 149,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achaemenid_Empire_500_BCE.jpg/960px-Achaemenid_Empire_500_BCE.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Achaemenid_Empire_500_BCE.jpg/330px-Achaemenid_Empire_500_BCE.jpg",
+    "range_type": null,
+    "time_bp_end": 2353,
+    "time_bp_start": 2573,
+    "time_end": "330 BCE",
+    "time_start": "550 BCE",
+    "location_info": {
+      "display_name": "ایران",
+      "boundingbox": [
+        "24.8353084",
+        "39.7824624",
+        "44.0318908",
+        "63.3332704"
+      ],
+      "osm_id": 304938,
+      "osm_type": "relation",
+      "coordinates": [
+        32.6475314,
+        54.5643516
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0113",
+  "id_num": 113,
+  "slug": "old-kingdom-of-egypt",
+  "status": "review",
+  "name": "Old Kingdom of Egypt",
+  "short_desc": null,
+  "long_desc": "Old Kingdom of Egypt",
+  "start": -2700,
+  "end": -2200,
+  "location": "Egypt",
+  "type": "Unit",
+  "field": null,
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-557c1599d9a0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "old-kingdom-of-egypt",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 500,
+    "generation_diff": 25,
+    "generations_end": 211,
+    "generations_start": 236,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 113,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 4200,
+    "time_bp_start": 4700,
+    "time_end": "2200 BCE",
+    "time_start": "2700 BCE",
+    "location_info": {
+      "display_name": "مصر",
+      "boundingbox": [
+        "21.9936736",
+        "31.8330854",
+        "24.6499112",
+        "37.1153517"
+      ],
+      "osm_id": 1473947,
+      "osm_type": "relation",
+      "coordinates": [
+        26.2540493,
+        29.2675469
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0338",
+  "id_num": 338,
+  "slug": "sigmund-freud",
+  "status": "review",
+  "name": "Sigmund Freud",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1856,
+  "end": 1939,
+  "location": "Moravia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-36783c412a82"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "sigmund-freud",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 83,
+    "generation_diff": 4,
+    "generations_end": 4,
+    "generations_start": 8,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 338,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/960px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/330px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 84,
+    "time_bp_start": 167,
+    "time_end": "1939 ",
+    "time_start": "1856 ",
+    "location_info": {
+      "display_name": "Moravia, Appanoose County, Iowa, United States",
+      "boundingbox": [
+        "40.8851254",
+        "40.8996231",
+        "-92.8308047",
+        "-92.8066563"
+      ],
+      "osm_id": 129198,
+      "osm_type": "relation",
+      "coordinates": [
+        40.891181,
+        -92.8145031
+      ]
+    }
+  }
+}

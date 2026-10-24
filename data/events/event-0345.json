@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0345",
+  "id_num": 345,
+  "slug": "meiji-era",
+  "status": "review",
+  "name": "Meiji era",
+  "short_desc": "Meiji era: rapid industrialization of Japan",
+  "long_desc": null,
+  "start": 1868,
+  "end": 1912,
+  "location": "Japan",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Meiji_era",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Meiji_tenno1.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-647294383b2c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "meiji-era",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 44,
+    "generation_diff": 2,
+    "generations_end": 5,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 345,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Meiji_tenno1.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Meiji_tenno1.jpg/330px-Meiji_tenno1.jpg",
+    "range_type": null,
+    "time_bp_end": 111,
+    "time_bp_start": 155,
+    "time_end": "1912 ",
+    "time_start": "1868 ",
+    "location_info": {
+      "display_name": "日本",
+      "boundingbox": [
+        "20.2145811",
+        "45.7112046",
+        "122.7141754",
+        "154.205541"
+      ],
+      "osm_id": 382313,
+      "osm_type": "relation",
+      "coordinates": [
+        36.5748441,
+        139.2394179
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0448",
+  "id_num": 448,
+  "slug": "rwandan-genocide",
+  "status": "review",
+  "name": "Rwandan genocide",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1994,
+  "end": null,
+  "location": "Rwanda",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ntrama_Church_Altar.jpg",
+  "casualties_low": 491000,
+  "casualties_high": 800000,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-12c8f8f4912c"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "rwandan-genocide",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 448,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ntrama_Church_Altar.jpg/960px-Ntrama_Church_Altar.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ntrama_Church_Altar.jpg/330px-Ntrama_Church_Altar.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 29,
+    "time_end": null,
+    "time_start": "1994 ",
+    "location_info": {
+      "display_name": "Rwanda",
+      "boundingbox": [
+        "-2.8397581",
+        "-1.0474083",
+        "28.861696",
+        "30.8990738"
+      ],
+      "osm_id": 171496,
+      "osm_type": "relation",
+      "coordinates": [
+        -1.9646631,
+        30.0644358
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0154",
+  "id_num": 154,
+  "slug": "peloponnesian-wars",
+  "status": "review",
+  "name": "Peloponnesian Wars",
+  "short_desc": "First and Second Peloponnesian Wars (incl. peaceful interperiod)",
+  "long_desc": "Peloponnesian Wars",
+  "start": -460,
+  "end": -404,
+  "location": "Greece",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Peloponnesian_war_alliances_431_BC.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-9c93ad439373"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "peloponnesian-wars",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 56,
+    "generation_diff": 3,
+    "generations_end": 121,
+    "generations_start": 124,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 154,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Peloponnesian_war_alliances_431_BC.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Peloponnesian_war_alliances_431_BC.png/330px-Peloponnesian_war_alliances_431_BC.png",
+    "range_type": null,
+    "time_bp_end": 2427,
+    "time_bp_start": 2483,
+    "time_end": "404 BCE",
+    "time_start": "460 BCE",
+    "location_info": {
+      "display_name": "Ελλάς",
+      "boundingbox": [
+        "34.7188863",
+        "41.7488889",
+        "19.1127535",
+        "29.68381"
+      ],
+      "osm_id": 192307,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9953683,
+        21.9877132
+      ]
+    }
+  }
+}

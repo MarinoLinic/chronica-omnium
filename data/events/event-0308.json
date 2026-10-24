@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0308",
+  "id_num": 308,
+  "slug": "wolfgang-amadeus-mozart",
+  "status": "review",
+  "name": "Wolfgang Amadeus Mozart",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1756,
+  "end": 1791,
+  "location": "Salzburg",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Croce-Mozart-Detail.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-1fc0d36610ed"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "wolfgang-amadeus-mozart",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 35,
+    "generation_diff": 2,
+    "generations_end": 11,
+    "generations_start": 13,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 308,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/47/Croce-Mozart-Detail.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Croce-Mozart-Detail.jpg/330px-Croce-Mozart-Detail.jpg",
+    "range_type": null,
+    "time_bp_end": 232,
+    "time_bp_start": 267,
+    "time_end": "1791 ",
+    "time_start": "1756 ",
+    "location_info": {
+      "display_name": "Salzburg, 5020, Österreich",
+      "boundingbox": [
+        "47.7512115",
+        "47.8543925",
+        "12.9856478",
+        "13.1275256"
+      ],
+      "osm_id": 86538,
+      "osm_type": "relation",
+      "coordinates": [
+        47.7981346,
+        13.0464806
+      ]
+    }
+  }
+}

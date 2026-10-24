@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0451",
+  "id_num": 451,
+  "slug": "solzhenitsyn",
+  "status": "review",
+  "name": "Solzhenitsyn",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1918,
+  "end": 2008,
+  "location": "Kislovodsk",
+  "type": "Person",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Aleksandr_Solzhenitsyn",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5de21be7a78d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "solzhenitsyn",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 90,
+    "generation_diff": 5,
+    "generations_end": 0,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 451,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/960px-Aleksandr_Solzhenitsyn_1974crop.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/330px-Aleksandr_Solzhenitsyn_1974crop.jpg",
+    "range_type": null,
+    "time_bp_end": 15,
+    "time_bp_start": 105,
+    "time_end": "2008 ",
+    "time_start": "1918 ",
+    "location_info": {
+      "display_name": "Кисловодск, городской округ Кисловодск, Ставропольский край, Северо-Кавказский федеральный округ, Россия",
+      "boundingbox": [
+        "43.8472332",
+        "43.9599627",
+        "42.659837",
+        "42.7922094"
+      ],
+      "osm_id": 12273850,
+      "osm_type": "relation",
+      "coordinates": [
+        43.9128743,
+        42.7192186
+      ]
+    }
+  }
+}

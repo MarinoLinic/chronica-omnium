@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0326",
+  "id_num": 326,
+  "slug": "charles-darwin",
+  "status": "review",
+  "name": "Charles Darwin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1809,
+  "end": 1882,
+  "location": "Shrewsbury",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Charles_Darwin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-df074c61ffcd"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "charles-darwin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 73,
+    "generation_diff": 3,
+    "generations_end": 7,
+    "generations_start": 10,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 326,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/960px-Charles_Darwin_seated_crop.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/330px-Charles_Darwin_seated_crop.jpg",
+    "range_type": null,
+    "time_bp_end": 141,
+    "time_bp_start": 214,
+    "time_end": "1882 ",
+    "time_start": "1809 ",
+    "location_info": {
+      "display_name": "Shrewsbury, Shropshire, England, United Kingdom",
+      "boundingbox": [
+        "52.6801902",
+        "52.7549838",
+        "-2.8143238",
+        "-2.7012225"
+      ],
+      "osm_id": 4581086,
+      "osm_type": "relation",
+      "coordinates": [
+        52.707755,
+        -2.7540658
+      ]
+    }
+  }
+}

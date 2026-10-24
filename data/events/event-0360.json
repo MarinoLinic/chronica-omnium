@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0360",
+  "id_num": 360,
+  "slug": "expressionist-music",
+  "status": "review",
+  "name": "Expressionist music",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1900,
+  "end": 1930,
+  "location": "Europe",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Expressionist_music",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "expressionist-music",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 30,
+    "generation_diff": 2,
+    "generations_end": 4,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 360,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Arnold_Schoenberg_la_1948.jpg/330px-Arnold_Schoenberg_la_1948.jpg",
+    "range_type": null,
+    "time_bp_end": 93,
+    "time_bp_start": 123,
+    "time_end": "1930 ",
+    "time_start": "1900 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

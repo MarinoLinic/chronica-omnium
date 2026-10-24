@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0420",
+  "id_num": 420,
+  "slug": "apple-inc",
+  "status": "review",
+  "name": "Apple Inc.",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1976,
+  "end": null,
+  "location": "Los Altos",
+  "type": "Company",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Apple_Inc.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ifc_shanghai_Apple_Store.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-156e4bd9576f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "apple-inc",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 2,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 420,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Ifc_shanghai_Apple_Store.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ifc_shanghai_Apple_Store.jpg/330px-Ifc_shanghai_Apple_Store.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 47,
+    "time_end": null,
+    "time_start": "1976 ",
+    "location_info": {
+      "display_name": "Los Altos, Burgos, Castilla y León, 09551, España",
+      "boundingbox": [
+        "42.6830187",
+        "42.8795096",
+        "-3.7305435",
+        "-3.5483776"
+      ],
+      "osm_id": 343544,
+      "osm_type": "relation",
+      "coordinates": [
+        42.7811566,
+        -3.6202096265
+      ]
+    }
+  }
+}

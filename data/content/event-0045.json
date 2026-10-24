@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0045",
+  "text": "Early modern human (EMH) or anatomically modern human (AMH) are terms used to distinguish Homo sapiens (the only extant Hominina species) that are anatomically consistent with the range of phenotypes seen in contemporary humans, from extinct archaic human species. This distinction is useful especially for times and regions where anatomically modern and archaic humans co-existed, for example, in Paleolithic Europe. Among the oldest known remains of Homo sapiens are those found at the Omo-Kibish I archaeological site in south-western Ethiopia, dating to about 233,000 to 196,000 years ago, the Florisbad site in South Africa, dating to about 259,000 years ago, and the Jebel Irhoud site in Morocco, dated about 315,000 years ago.\n\nExtinct species of the genus Homo include Homo erectus (extant from roughly 2 to 0.1 million years ago) and a number of other species (by some authors considered subspecies of either H. sapiens or H. erectus). The divergence of the lineage leading to H. sapiens out of ancestral H. erectus (or an intermediate species such as Homo antecessor) is estimated to have occurred in Africa roughly 500,000 years ago. The earliest fossil evidence of early modern humans appears in Africa around 300,000 years ago, with the earliest genetic splits among modern people, according to some evidence, dating to around the same time. Sustained archaic human admixture with modern humans is known to have taken place both in Africa and (following the recent Out-Of-Africa expansion) in Eurasia, between about 100,000 and 30,000 years ago.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Early_modern_human",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

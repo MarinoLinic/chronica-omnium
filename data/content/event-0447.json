@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0447",
+  "text": "The dot-com bubble (or dot-com boom) was a stock market bubble in the late 1990s. The period coincided with massive growth in Internet adoption, a proliferation of available venture capital, and the rapid growth of valuations in new dot-com startups. \n\nBetween 1995 and its peak in March 2000, the Nasdaq Composite stock market index rose 400%, only to fall 78% from its peak by October 2002, giving up all its gains during the bubble.\n\nDuring the dot-com crash, many online shopping companies, notably Pets.com, Webvan, and Boo.com, as well as several communication companies, such as Worldcom, NorthPoint Communications, and Global Crossing, failed and shut down. Others, like Lastminute.com, MP3.com and PeopleSound, survived the burst but were acquired. Larger companies like Amazon and Cisco Systems lost large portions of their market capitalization, with Cisco losing 80% of its stock value.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Dot-com_bubble",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0392",
+  "id_num": 392,
+  "slug": "thomas-sowell",
+  "status": "review",
+  "name": "Thomas Sowell",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1930,
+  "end": 2023,
+  "location": "Gastonia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Thomas_Sowell",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Thomas_Sowell_cropped.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-d26855d0baae"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "thomas-sowell",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 93,
+    "generation_diff": 4,
+    "generations_end": 0,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 392,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/44/Thomas_Sowell_cropped.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Thomas_Sowell_cropped.jpg/330px-Thomas_Sowell_cropped.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 93,
+    "time_end": "2023 ",
+    "time_start": "1930 ",
+    "location_info": {
+      "display_name": "Gastonia, Gaston County, North Carolina, United States",
+      "boundingbox": [
+        "35.161407",
+        "35.3120312",
+        "-81.3212551",
+        "-81.0828777"
+      ],
+      "osm_id": 179733,
+      "osm_type": "relation",
+      "coordinates": [
+        35.2622654,
+        -81.1838186
+      ]
+    }
+  }
+}

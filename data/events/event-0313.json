@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0313",
+  "id_num": 313,
+  "slug": "napoleon-bonaparte",
+  "status": "review",
+  "name": "Napoleon Bonaparte",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1769,
+  "end": 1821,
+  "location": "Ajaccio",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Napoleon",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/1280px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0ab93db5f1e0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "napoleon-bonaparte",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 52,
+    "generation_diff": 2,
+    "generations_end": 10,
+    "generations_start": 12,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 313,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/960px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/330px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "range_type": null,
+    "time_bp_end": 202,
+    "time_bp_start": 254,
+    "time_end": "1821 ",
+    "time_start": "1769 ",
+    "location_info": {
+      "display_name": "Ajaccio, Corse-du-Sud, Corse, France métropolitaine, France",
+      "boundingbox": [
+        "41.8738984",
+        "41.9771822",
+        "8.5855655",
+        "8.8261006"
+      ],
+      "osm_id": 73283,
+      "osm_type": "relation",
+      "coordinates": [
+        41.9263991,
+        8.7376029
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0207",
+  "id_num": 207,
+  "slug": "carolingian-dynasty",
+  "status": "review",
+  "name": "Carolingian dynasty",
+  "short_desc": null,
+  "long_desc": "Carolingian dynasty",
+  "start": 613,
+  "end": 1122,
+  "location": "Europe",
+  "type": "Family",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/1920px-Charlemagne_autograph.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "carolingian-dynasty",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 509,
+    "generation_diff": 25,
+    "generations_end": 45,
+    "generations_start": 70,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 207,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/960px-Charlemagne_autograph.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Charlemagne_autograph.svg/330px-Charlemagne_autograph.svg.png",
+    "range_type": null,
+    "time_bp_end": 901,
+    "time_bp_start": 1410,
+    "time_end": "1122 ",
+    "time_start": "613 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

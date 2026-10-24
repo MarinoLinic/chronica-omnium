@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0413",
+  "id_num": 413,
+  "slug": "second-wave-feminism",
+  "status": "review",
+  "name": "Second-wave feminism",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1963,
+  "end": 1980,
+  "location": "United States",
+  "type": "Movement",
+  "field": "Politics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Second-wave_feminism",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Eleanor_Roosevelt_and_John_F._Kennedy_%28President%27s_Commission_on_the_Status_of_Women%29_-_NARA_cropped.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "second-wave-feminism",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 17,
+    "generation_diff": 1,
+    "generations_end": 2,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 413,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eleanor_Roosevelt_and_John_F._Kennedy_%28President%27s_Commission_on_the_Status_of_Women%29_-_NARA_cropped.jpg/960px-Eleanor_Roosevelt_and_John_F._Kennedy_%28President%27s_Commission_on_the_Status_of_Women%29_-_NARA_cropped.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Eleanor_Roosevelt_and_John_F._Kennedy_%28President%27s_Commission_on_the_Status_of_Women%29_-_NARA_cropped.jpg/330px-Eleanor_Roosevelt_and_John_F._Kennedy_%28President%27s_Commission_on_the_Status_of_Women%29_-_NARA_cropped.jpg",
+    "range_type": null,
+    "time_bp_end": 43,
+    "time_bp_start": 60,
+    "time_end": "1980 ",
+    "time_start": "1963 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

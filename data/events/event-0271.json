@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0271",
+  "id_num": 271,
+  "slug": "polish-lithuanian-commonwealth",
+  "status": "review",
+  "name": "Polish-Lithuanian Commonwealth",
+  "short_desc": null,
+  "long_desc": "Polish-Lithuanian Commonwealth",
+  "start": 1569,
+  "end": 1795,
+  "location": "Eastern Europe",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Polish%E2%80%93Lithuanian_Commonwealth",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-420cca4363fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "polish-lithuanian-commonwealth",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 226,
+    "generation_diff": 11,
+    "generations_end": 11,
+    "generations_start": 22,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 271,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png/960px-Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png/330px-Map_of_the_Polish%E2%80%93Lithuanian_Commonwealth_%281619%E2%80%931621%29.png",
+    "range_type": null,
+    "time_bp_end": 228,
+    "time_bp_start": 454,
+    "time_end": "1795 ",
+    "time_start": "1569 ",
+    "location_info": {
+      "display_name": "Источен СР, Северна Македонија",
+      "boundingbox": [
+        "41.5180571",
+        "42.1555026",
+        "21.9480658",
+        "23.034051"
+      ],
+      "osm_id": 2572069,
+      "osm_type": "relation",
+      "coordinates": [
+        41.8368918,
+        22.5238496214
+      ]
+    }
+  }
+}

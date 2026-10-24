@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0214",
+  "id_num": 214,
+  "slug": "reconquista",
+  "status": "review",
+  "name": "Reconquista",
+  "short_desc": null,
+  "long_desc": "Reconquista",
+  "start": 718,
+  "end": 1492,
+  "location": "Iberia",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Reconquista",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Painting_of_Santiago_Matamoros.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-a9b5c69465cc"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "reconquista",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 774,
+    "generation_diff": 39,
+    "generations_end": 26,
+    "generations_start": 65,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 214,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Painting_of_Santiago_Matamoros.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Painting_of_Santiago_Matamoros.jpg/330px-Painting_of_Santiago_Matamoros.jpg",
+    "range_type": null,
+    "time_bp_end": 531,
+    "time_bp_start": 1305,
+    "time_end": "1492 ",
+    "time_start": "718 ",
+    "location_info": {
+      "display_name": "Iberia, España",
+      "boundingbox": [
+        "36.0000382",
+        "43.790422",
+        "-9.5005921",
+        "3.3222508"
+      ],
+      "osm_id": 3870917,
+      "osm_type": "relation",
+      "coordinates": [
+        39.8952029,
+        -4.4983630475
+      ]
+    }
+  }
+}

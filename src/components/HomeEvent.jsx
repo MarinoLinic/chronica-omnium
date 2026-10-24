@@ -1,10 +1,12 @@
 import { Link } from 'react-router-dom'
+import CachedImage from './CachedImage'
 
 const HomeEvent = ({ data }) => {
 	return (
 		<div className="grid grid-cols-1 items-center gap-3 py-6 md:grid-cols-[1fr_2fr_1fr] md:gap-6">
 			<section className="order-2 text-center text-sm md:order-1 md:text-right">
 				<div className="font-semibold text-[#5f1212]">
+					{data.date_label && <span>{data.date_label}: </span>}
 					{data.time_start}
 					{data.time_end && ` – ${data.time_end}`}
 				</div>
@@ -30,12 +32,7 @@ const HomeEvent = ({ data }) => {
 			<section className="order-3 flex justify-center md:justify-start">
 				{data.image && (
 					<Link to={`/${data.id_num}`} className="block w-1/2 md:w-full">
-						<img
-							src={data.img_sm ? data.img_sm : data.image}
-							alt={data.name}
-							loading="lazy"
-							className="w-full rounded-lg object-cover shadow-sm ring-1 ring-slate-200 transition hover:shadow-md"
-						/>
+						<CachedImage key={data.id} event={data} small className="max-h-48 w-full rounded-lg object-contain shadow-sm ring-1 ring-slate-200" />
 					</Link>
 				)}
 			</section>

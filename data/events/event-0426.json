@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0426",
+  "id_num": 426,
+  "slug": "fall-of-the-berlin-wall",
+  "status": "review",
+  "name": "Fall of the Berlin Wall",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1989,
+  "end": null,
+  "location": "Germany",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-80db4ccdca10"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "fall-of-the-berlin-wall",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 426,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/330px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 34,
+    "time_end": null,
+    "time_start": "1989 ",
+    "location_info": {
+      "display_name": "Deutschland",
+      "boundingbox": [
+        "47.2701114",
+        "55.099161",
+        "5.8663153",
+        "15.0419309"
+      ],
+      "osm_id": 51477,
+      "osm_type": "relation",
+      "coordinates": [
+        51.1638175,
+        10.4478313
+      ]
+    }
+  }
+}

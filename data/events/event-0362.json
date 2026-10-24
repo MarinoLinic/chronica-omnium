@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0362",
+  "id_num": 362,
+  "slug": "karl-popper",
+  "status": "review",
+  "name": "Karl Popper",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1902,
+  "end": 1994,
+  "location": "Vienna",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Karl_Popper",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-db7ee413d604"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "karl-popper",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 92,
+    "generation_diff": 5,
+    "generations_end": 1,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 362,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/4/43/Karl_Popper.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/330px-Karl_Popper.jpg",
+    "range_type": null,
+    "time_bp_end": 29,
+    "time_bp_start": 121,
+    "time_end": "1994 ",
+    "time_start": "1902 ",
+    "location_info": {
+      "display_name": "Wien, Österreich",
+      "boundingbox": [
+        "48.1179069",
+        "48.3226679",
+        "16.181831",
+        "16.5775132"
+      ],
+      "osm_id": 109166,
+      "osm_type": "relation",
+      "coordinates": [
+        48.2083537,
+        16.3725042
+      ]
+    }
+  }
+}

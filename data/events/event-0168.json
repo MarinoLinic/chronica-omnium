@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0168",
+  "id_num": 168,
+  "slug": "cleopatra",
+  "status": "review",
+  "name": "Cleopatra",
+  "short_desc": "Cleopatra is born",
+  "long_desc": "Cleopatra",
+  "start": -69,
+  "end": -30,
+  "location": "Egypt",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Cleopatra",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-557c1599d9a0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "cleopatra",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 39,
+    "generation_diff": 2,
+    "generations_end": 102,
+    "generations_start": 104,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 168,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/960px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kleopatra-VII.-Altes-Museum-Berlin1.jpg/330px-Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+    "range_type": null,
+    "time_bp_end": 2053,
+    "time_bp_start": 2092,
+    "time_end": "30 BCE",
+    "time_start": "69 BCE",
+    "location_info": {
+      "display_name": "مصر",
+      "boundingbox": [
+        "21.9936736",
+        "31.8330854",
+        "24.6499112",
+        "37.1153517"
+      ],
+      "osm_id": 1473947,
+      "osm_type": "relation",
+      "coordinates": [
+        26.2540493,
+        29.2675469
+      ]
+    }
+  }
+}

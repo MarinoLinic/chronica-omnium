@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0196",
+  "id_num": 196,
+  "slug": "anglo-saxon-settlement-of-britain",
+  "status": "review",
+  "name": "Anglo-Saxon settlement of Britain",
+  "short_desc": null,
+  "long_desc": "Anglo-Saxon settlement of Britain",
+  "start": 410,
+  "end": 1066,
+  "location": "Great Britain",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Anglo-Saxon_settlement_of_Britain",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/End.of.Roman.rule.in.Britain.383.410.jpg/1920px-End.of.Roman.rule.in.Britain.383.410.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b5cbec1a064d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "anglo-saxon-settlement-of-britain",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Antiquity",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 656,
+    "generation_diff": 33,
+    "generations_end": 47,
+    "generations_start": 80,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 196,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/End.of.Roman.rule.in.Britain.383.410.jpg/960px-End.of.Roman.rule.in.Britain.383.410.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/End.of.Roman.rule.in.Britain.383.410.jpg/330px-End.of.Roman.rule.in.Britain.383.410.jpg",
+    "range_type": null,
+    "time_bp_end": 957,
+    "time_bp_start": 1613,
+    "time_end": "1066 ",
+    "time_start": "410 ",
+    "location_info": {
+      "display_name": "Great Britain, United Kingdom",
+      "boundingbox": [
+        "49.9586975",
+        "58.672078",
+        "-6.2278849",
+        "1.7632199"
+      ],
+      "osm_id": 6038068,
+      "osm_type": "relation",
+      "coordinates": [
+        54.31536155,
+        -1.9180234948
+      ]
+    }
+  }
+}

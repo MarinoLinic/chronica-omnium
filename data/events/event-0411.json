@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0411",
+  "id_num": 411,
+  "slug": "detonation-of-the-tsar-bomba",
+  "status": "review",
+  "name": "Detonation of the Tsar Bomba",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1961,
+  "end": null,
+  "location": "Soviet Union",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Tsar_Bomba",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tsar_photo11.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-5338fc108450"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "detonation-of-the-tsar-bomba",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 411,
+    "img_md": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tsar_photo11.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tsar_photo11.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 62,
+    "time_end": null,
+    "time_start": "1961 ",
+    "location_info": {
+      "display_name": "Soviet Union, Strada Lacului, Slobozia, Ialomița, 920012, România",
+      "boundingbox": [
+        "44.5666034",
+        "44.5666642",
+        "27.3596807",
+        "27.3598921"
+      ],
+      "osm_id": 254256272,
+      "osm_type": "way",
+      "coordinates": [
+        44.56663335,
+        27.3597929697
+      ]
+    }
+  }
+}

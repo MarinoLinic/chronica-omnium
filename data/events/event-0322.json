@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0322",
+  "id_num": 322,
+  "slug": "romantic-music",
+  "status": "review",
+  "name": "Romantic music",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1800,
+  "end": 1910,
+  "location": "Europe",
+  "type": "Period",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Romantic_music",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Liszt_at_the_Piano.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-e595f45dc6c9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "romantic-music",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 110,
+    "generation_diff": 6,
+    "generations_end": 5,
+    "generations_start": 11,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 322,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Liszt_at_the_Piano.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Liszt_at_the_Piano.JPG/330px-Liszt_at_the_Piano.JPG",
+    "range_type": null,
+    "time_bp_end": 113,
+    "time_bp_start": 223,
+    "time_end": "1910 ",
+    "time_start": "1800 ",
+    "location_info": {
+      "display_name": "Ōu",
+      "boundingbox": [
+        "26",
+        "76",
+        "-15",
+        "35"
+      ],
+      "osm_id": 25871341,
+      "osm_type": "node",
+      "coordinates": [
+        51,
+        10
+      ]
+    }
+  }
+}

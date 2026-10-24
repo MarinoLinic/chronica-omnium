@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0301",
+  "text": "Jean-Jacques Rousseau (UK: /ˈruːsoʊ/, US: /ruːˈsoʊ/ French: ; 28 June 1712 – 2 July 1778) was a Genevan philosopher, writer, and composer. His political philosophy influenced the progress of the Age of Enlightenment throughout Europe, as well as aspects of the French Revolution and the development of modern political, economic, and educational thought.\n\nHis Discourse on Inequality and The Social Contract are cornerstones in modern political and social thought. Rousseau's sentimental novel Julie, or the New Heloise (1761) was important to the development of preromanticism and romanticism in fiction. His Emile, or On Education (1762) is an educational treatise on the place of the individual in society. Rousseau's autobiographical writings—the posthumously published Confessions (composed in 1769), which initiated the modern autobiography, and the unfinished Reveries of the Solitary Walker (composed 1776–1778)—exemplified the late 18th-century \"Age of Sensibility\", and featured an increased focus on subjectivity and introspection that later characterized modern writing.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

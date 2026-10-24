@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0009",
+  "id_num": 9,
+  "slug": "luca",
+  "status": "review",
+  "name": "LUCA",
+  "short_desc": "LUCA (last universal common ancestor); DNA exists by this point",
+  "long_desc": "LUCA",
+  "start": -4000000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phylogenetic_tree_of_life_1990_LUCA.svg/1920px-Phylogenetic_tree_of_life_1990_LUCA.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "luca",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Archean",
+    "geologic_epoch": "",
+    "geologic_era": "Eoarchean",
+    "geologic_period": "",
+    "id_num": 9,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phylogenetic_tree_of_life_1990_LUCA.svg/960px-Phylogenetic_tree_of_life_1990_LUCA.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phylogenetic_tree_of_life_1990_LUCA.svg/330px-Phylogenetic_tree_of_life_1990_LUCA.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 4000000000,
+    "time_end": null,
+    "time_start": "4 billion BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

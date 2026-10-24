@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0167",
+  "id_num": 167,
+  "slug": "eruption-of-mount-vesuvius",
+  "status": "review",
+  "name": "Eruption of Mount Vesuvius",
+  "short_desc": "Eruption of Mount Vesuvius (destruction of Pompeii and one of largest European eruptions in recorded history)",
+  "long_desc": "Eruption of Mount Vesuvius",
+  "start": -79,
+  "end": null,
+  "location": "Pompeii",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mt_Vesuvius_79_AD_eruption.svg/1920px-Mt_Vesuvius_79_AD_eruption.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-e1cfef97c30f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "eruption-of-mount-vesuvius",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 105,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 167,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mt_Vesuvius_79_AD_eruption.svg/960px-Mt_Vesuvius_79_AD_eruption.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Mt_Vesuvius_79_AD_eruption.svg/330px-Mt_Vesuvius_79_AD_eruption.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 2102,
+    "time_end": null,
+    "time_start": "79 BCE",
+    "location_info": {
+      "display_name": "Pompei Antica, Pompei, Napoli, Campania, 80045, Italia",
+      "boundingbox": [
+        "40.7417375",
+        "40.7617375",
+        "14.4805636",
+        "14.5005636"
+      ],
+      "osm_id": 4753980853,
+      "osm_type": "node",
+      "coordinates": [
+        40.7517375,
+        14.4905636
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0077",
+  "id_num": 77,
+  "slug": "domestication-of-rice",
+  "status": "review",
+  "name": "Domestication of rice",
+  "short_desc": "Rice cultivated in the Yangtze River basin",
+  "long_desc": "Domestication of rice",
+  "start": -11500,
+  "end": -6200,
+  "location": "China",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "domestication-of-rice",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 295,
+    "generations_end": 456,
+    "generations_start": 751,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 77,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/330px-PivotWithDrops.JPG",
+    "range_type": 1,
+    "time_bp_end": 8200,
+    "time_bp_start": 13500,
+    "time_end": "6200 BCE",
+    "time_start": "11.5 thousand BCE",
+    "location_info": {
+      "display_name": "中国",
+      "boundingbox": [
+        "8.6650385",
+        "53.5608154",
+        "73.4997347",
+        "134.7754563"
+      ],
+      "osm_id": 270056,
+      "osm_type": "relation",
+      "coordinates": [
+        35.000074,
+        104.999927
+      ]
+    }
+  }
+}

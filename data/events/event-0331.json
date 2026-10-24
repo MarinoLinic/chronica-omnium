@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0331",
+  "id_num": 331,
+  "slug": "book-of-mormon",
+  "status": "review",
+  "name": "Book of Mormon",
+  "short_desc": "The Book of Mormon is published",
+  "long_desc": null,
+  "start": 1830,
+  "end": null,
+  "location": "New York",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Book_of_Mormon",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mormon-book.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-815eca977c7d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "book-of-mormon",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 9,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 331,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mormon-book.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mormon-book.jpg/330px-Mormon-book.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 193,
+    "time_end": null,
+    "time_start": "1830 ",
+    "location_info": {
+      "display_name": "City of New York, New York, United States",
+      "boundingbox": [
+        "40.476578",
+        "40.91763",
+        "-74.258843",
+        "-73.700233"
+      ],
+      "osm_id": 175905,
+      "osm_type": "relation",
+      "coordinates": [
+        40.7127281,
+        -74.0060152
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0285",
+  "id_num": 285,
+  "slug": "puritans-colonize-north-america",
+  "status": "review",
+  "name": "Puritans colonize North America",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1630,
+  "end": null,
+  "location": "North America",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/History_of_the_Puritans_in_North_America",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Statue_of_Roger_Conant.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-64be0885bc3f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "puritans-colonize-north-america",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 19,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 285,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Roger_Conant.jpg/960px-Statue_of_Roger_Conant.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Roger_Conant.jpg/330px-Statue_of_Roger_Conant.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 393,
+    "time_end": null,
+    "time_start": "1630 ",
+    "location_info": {
+      "display_name": "North America",
+      "boundingbox": [
+        "26.0000002",
+        "76.0000002",
+        "-134",
+        "-84"
+      ],
+      "osm_id": 36966063,
+      "osm_type": "node",
+      "coordinates": [
+        51.0000002,
+        -109
+      ]
+    }
+  }
+}

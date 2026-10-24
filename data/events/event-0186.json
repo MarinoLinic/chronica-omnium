@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0186",
+  "id_num": 186,
+  "slug": "the-reign-of-marcus-aurelius",
+  "status": "review",
+  "name": "The reign of Marcus Aurelius",
+  "short_desc": "Marcus Aurelius' reign: the end of Pax Romana (180 CE)",
+  "long_desc": "The reign of Marcus Aurelius",
+  "start": 161,
+  "end": 180,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/MSR-ra-61-b-1-DM.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-reign-of-marcus-aurelius",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 19,
+    "generation_diff": 1,
+    "generations_end": 92,
+    "generations_start": 93,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 186,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/960px-MSR-ra-61-b-1-DM.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MSR-ra-61-b-1-DM.jpg/330px-MSR-ra-61-b-1-DM.jpg",
+    "range_type": null,
+    "time_bp_end": 1843,
+    "time_bp_start": 1862,
+    "time_end": "180 ",
+    "time_start": "161 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

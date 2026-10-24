@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0367",
+  "id_num": 367,
+  "slug": "milton-friedman",
+  "status": "review",
+  "name": "Milton Friedman",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1912,
+  "end": 2006,
+  "location": "Brooklyn",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Milton_Friedman",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/1920px-Portrait_of_Milton_Friedman.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-a1ff4142da5b"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "milton-friedman",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 94,
+    "generation_diff": 5,
+    "generations_end": 0,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 367,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/960px-Portrait_of_Milton_Friedman.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/330px-Portrait_of_Milton_Friedman.jpg",
+    "range_type": null,
+    "time_bp_end": 17,
+    "time_bp_start": 111,
+    "time_end": "2006 ",
+    "time_start": "1912 ",
+    "location_info": {
+      "display_name": "Brooklyn, Kings County, City of New York, New York, United States",
+      "boundingbox": [
+        "40.550339",
+        "40.739434",
+        "-74.056688",
+        "-73.832945"
+      ],
+      "osm_id": 9691750,
+      "osm_type": "relation",
+      "coordinates": [
+        40.6526006,
+        -73.9497211
+      ]
+    }
+  }
+}

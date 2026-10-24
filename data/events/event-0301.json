@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0301",
+  "id_num": 301,
+  "slug": "jean-jacques-rousseau",
+  "status": "review",
+  "name": "Jean-Jacques Rousseau",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1712,
+  "end": 1778,
+  "location": "Geneva",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/440px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-806b1459b451"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "jean-jacques-rousseau",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 66,
+    "generation_diff": 3,
+    "generations_end": 12,
+    "generations_start": 15,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 301,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/960px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/330px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg",
+    "range_type": null,
+    "time_bp_end": 245,
+    "time_bp_start": 311,
+    "time_end": "1778 ",
+    "time_start": "1712 ",
+    "location_info": {
+      "display_name": "Genève, Schweiz/Suisse/Svizzera/Svizra",
+      "boundingbox": [
+        "46.1777724",
+        "46.231885",
+        "6.1102411",
+        "6.1758527"
+      ],
+      "osm_id": 1685488,
+      "osm_type": "relation",
+      "coordinates": [
+        46.2017559,
+        6.1466014
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0398",
+  "id_num": 398,
+  "slug": "manhattan-project",
+  "status": "review",
+  "name": "Manhattan Project",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1942,
+  "end": 1946,
+  "location": "United States",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Manhattan_Project",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Trinity_shot_color.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "manhattan-project",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 4,
+    "generation_diff": 1,
+    "generations_end": 3,
+    "generations_start": 4,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 398,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Trinity_shot_color.jpg/960px-Trinity_shot_color.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Trinity_shot_color.jpg/330px-Trinity_shot_color.jpg",
+    "range_type": null,
+    "time_bp_end": 77,
+    "time_bp_start": 81,
+    "time_end": "1946 ",
+    "time_start": "1942 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

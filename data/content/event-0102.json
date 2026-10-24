@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0102",
+  "text": "Writing is a cognitive activity involving neuropsychological and physical processes and the use of writing systems to structure and translate human thoughts into persistent representations of human language. A system of writing relies on many of the same semantic structures as the language it represents, such as lexicon and syntax, with the added dependency of a system of symbols representing that language's phonology and morphology. Nevertheless, written language may take on characteristics distinctive from any available in spoken language.\n\nThe outcome of this activity, also called \"writing\", and sometimes a \"text\", is a series of physically inscribed, mechanically transferred, or digitally represented linguistic symbols. The interpreter or activator of a text is called a \"reader\".\n\nWriting systems do not themselves constitute languages (with the debatable exception of computer languages); they are a means of rendering language into a form that can be reconstructed by other humans separated by time and/or space.  While not all languages use a writing system, those that do can complement and extend capacities of spoken language by creating durable forms of language that can be transmitted across space (e.g. written correspondence) and stored over time (e.g. libraries or other public records). Writing can also have knowledge-transforming effects, since it allows humans to externalize their thinking in forms that are easier to reflect on, elaborate, reconsider, and revise.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Writing#Mesopotamia",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

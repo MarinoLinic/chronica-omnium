@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0397",
+  "text": "The Z3 was a German electromechanical computer designed by Konrad Zuse in 1938, and completed in 1941. It was the world's first working programmable, fully automatic digital computer. The Z3 was built with 2,600 relays, implementing a 22-bit word length that operated at a clock frequency of about 5–10 Hz. Program code was stored on punched film. Initial values were entered manually.: 32–37 \n\nThe Z3 was completed in Berlin in 1941. It was not considered vital, so it was never put into everyday operation.: 30, 38–39  Based on the work of the German aerodynamics engineer Hans Georg Küssner (known for the Küssner effect), a \"Program to Compute a Complex Matrix\" was written and used to solve wing flutter problems. Zuse asked the German government for funding to replace the relays with fully electronic switches, but funding was denied during World War II since such development was deemed \"not war-important\".: 148 \n\nThe original Z3 was destroyed on 21 December 1943 during an Allied bombardment of Berlin. That Z3 was originally called V3 (Versuchsmodell 3 or Experimental Model 3) but was renamed so that it would not be confused with Germany's V-weapons. A fully functioning replica was built in 1961 by Zuse's company, Zuse KG, which is now on permanent display at Deutsches Museum in Munich.: 30 \n\nThe Z3 was demonstrated in 1998 to be, in principle, Turing-complete. However, because it lacked conditional branching, the Z3 only meets this definition by speculatively computing all possible outcomes of a calculation.\n\nThanks to this machine and its predecessors, Konrad Zuse has often been suggested as the inventor of the computer.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Z3_(computer)",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

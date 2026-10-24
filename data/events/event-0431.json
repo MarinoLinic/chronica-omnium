@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0431",
+  "id_num": 431,
+  "slug": "war-in-afghanistan",
+  "status": "review",
+  "name": "War in Afghanistan",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2001,
+  "end": 2021,
+  "location": "Afghanistan",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/1920px-U.S._Army_firefight_in_Kunar.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5dbddf911f9e"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "war-in-afghanistan",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 20,
+    "generation_diff": 1,
+    "generations_end": 0,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 431,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/960px-U.S._Army_firefight_in_Kunar.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg",
+    "range_type": null,
+    "time_bp_end": 2,
+    "time_bp_start": 22,
+    "time_end": "2021 ",
+    "time_start": "2001 ",
+    "location_info": {
+      "display_name": "افغانستان",
+      "boundingbox": [
+        "29.3772",
+        "38.4910682",
+        "60.5176034",
+        "74.889862"
+      ],
+      "osm_id": 303427,
+      "osm_type": "relation",
+      "coordinates": [
+        33.7680065,
+        66.2385139
+      ]
+    }
+  }
+}

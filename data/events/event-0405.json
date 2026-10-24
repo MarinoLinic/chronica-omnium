@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0405",
+  "id_num": 405,
+  "slug": "vladimir-putin",
+  "status": "review",
+  "name": "Vladimir Putin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1952,
+  "end": 2023,
+  "location": "Saint Petersburg",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Vladimir_Putin_17-11-2021_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-8019b77606f9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "vladimir-putin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 71,
+    "generation_diff": 3,
+    "generations_end": 0,
+    "generations_start": 3,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 405,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vladimir_Putin_17-11-2021_%28cropped%29.jpg/960px-Vladimir_Putin_17-11-2021_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vladimir_Putin_17-11-2021_%28cropped%29.jpg/330px-Vladimir_Putin_17-11-2021_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 71,
+    "time_end": "2023 ",
+    "time_start": "1952 ",
+    "location_info": {
+      "display_name": "Saint Petersburg, Pinellas County, Florida, United States",
+      "boundingbox": [
+        "27.643638",
+        "27.913901",
+        "-82.769023",
+        "-82.540618"
+      ],
+      "osm_id": 118894,
+      "osm_type": "relation",
+      "coordinates": [
+        27.7703796,
+        -82.6695085
+      ]
+    }
+  }
+}

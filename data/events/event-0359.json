@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0359",
+  "id_num": 359,
+  "slug": "friedrich-hayek",
+  "status": "review",
+  "name": "Friedrich Hayek",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1899,
+  "end": 1992,
+  "location": "Vienna",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Friedrich_Hayek",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Friedrich_Hayek_portrait.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-db7ee413d604"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "friedrich-hayek",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 93,
+    "generation_diff": 5,
+    "generations_end": 1,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 359,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Friedrich_Hayek_portrait.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Friedrich_Hayek_portrait.jpg/330px-Friedrich_Hayek_portrait.jpg",
+    "range_type": null,
+    "time_bp_end": 31,
+    "time_bp_start": 124,
+    "time_end": "1992 ",
+    "time_start": "1899 ",
+    "location_info": {
+      "display_name": "Wien, Österreich",
+      "boundingbox": [
+        "48.1179069",
+        "48.3226679",
+        "16.181831",
+        "16.5775132"
+      ],
+      "osm_id": 109166,
+      "osm_type": "relation",
+      "coordinates": [
+        48.2083537,
+        16.3725042
+      ]
+    }
+  }
+}

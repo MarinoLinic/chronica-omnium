@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0166",
+  "id_num": 166,
+  "slug": "julius-caesar",
+  "status": "review",
+  "name": "Julius Caesar",
+  "short_desc": "Julius Caesar is born",
+  "long_desc": "Julius Caesar",
+  "start": -100,
+  "end": -44,
+  "location": "Rome",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Julius_Caesar",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-d0d220191865"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "julius-caesar",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 56,
+    "generation_diff": 3,
+    "generations_end": 103,
+    "generations_start": 106,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 166,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/960px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/330px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 2067,
+    "time_bp_start": 2123,
+    "time_end": "44 BCE",
+    "time_start": "100 BCE",
+    "location_info": {
+      "display_name": "Roma, Roma Capitale, Lazio, Italia",
+      "boundingbox": [
+        "41.6556417",
+        "42.1410285",
+        "12.2344669",
+        "12.8557603"
+      ],
+      "osm_id": 41485,
+      "osm_type": "relation",
+      "coordinates": [
+        41.8933203,
+        12.4829321
+      ]
+    }
+  }
+}

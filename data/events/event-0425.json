@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0425",
+  "id_num": 425,
+  "slug": "chernobyl-disaster",
+  "status": "review",
+  "name": "Chernobyl disaster",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1986,
+  "end": null,
+  "location": "Pripyat",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/1280px-IAEA_02790015_%285613115146%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-e92ba64d502a"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "chernobyl-disaster",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 1,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 425,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/960px-IAEA_02790015_%285613115146%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/330px-IAEA_02790015_%285613115146%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 37,
+    "time_end": null,
+    "time_start": "1986 ",
+    "location_info": {
+      "display_name": "Прип’ять, Вишгородський район, Київська область, Україна",
+      "boundingbox": [
+        "51.3944578",
+        "51.4160295",
+        "30.0275554",
+        "30.0827357"
+      ],
+      "osm_id": 2313444,
+      "osm_type": "relation",
+      "coordinates": [
+        51.4059655,
+        30.0573963
+      ]
+    }
+  }
+}

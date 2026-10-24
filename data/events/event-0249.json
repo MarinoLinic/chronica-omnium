@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0249",
+  "id_num": 249,
+  "slug": "vasco-da-gama",
+  "status": "review",
+  "name": "Vasco da Gama",
+  "short_desc": "First European to reach India by sea",
+  "long_desc": "Vasco da Gama",
+  "start": 1460,
+  "end": 1524,
+  "location": "Portugal",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4c7de2c3da6d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "vasco-da-gama",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late Middle Ages",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 64,
+    "generation_diff": 4,
+    "generations_end": 24,
+    "generations_start": 28,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 249,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/960px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/330px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg",
+    "range_type": null,
+    "time_bp_end": 499,
+    "time_bp_start": 563,
+    "time_end": "1524 ",
+    "time_start": "1460 ",
+    "location_info": {
+      "display_name": "Portugal",
+      "boundingbox": [
+        "29.828247",
+        "42.1543112",
+        "-31.5575303",
+        "-6.1891593"
+      ],
+      "osm_id": 295480,
+      "osm_type": "relation",
+      "coordinates": [
+        39.6621648,
+        -8.1353519
+      ]
+    }
+  }
+}

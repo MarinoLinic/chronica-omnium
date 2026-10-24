@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0298",
+  "id_num": 298,
+  "slug": "benjamin-franklin",
+  "status": "review",
+  "name": "Benjamin Franklin",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1706,
+  "end": 1790,
+  "location": "Boston",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/1920px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-a06522bc4aab"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "benjamin-franklin",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 84,
+    "generation_diff": 4,
+    "generations_end": 11,
+    "generations_start": 15,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 298,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/960px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/330px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg",
+    "range_type": null,
+    "time_bp_end": 233,
+    "time_bp_start": 317,
+    "time_end": "1790 ",
+    "time_start": "1706 ",
+    "location_info": {
+      "display_name": "Boston, Suffolk County, Massachusetts, United States",
+      "boundingbox": [
+        "42.2279112",
+        "42.3969775",
+        "-71.1912442",
+        "-70.8044881"
+      ],
+      "osm_id": 2315704,
+      "osm_type": "relation",
+      "coordinates": [
+        42.3554334,
+        -71.060511
+      ]
+    }
+  }
+}

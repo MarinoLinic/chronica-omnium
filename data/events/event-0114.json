@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0114",
+  "id_num": 114,
+  "slug": "abacus",
+  "status": "review",
+  "name": "Abacus",
+  "short_desc": "Sumerians invent the abacus for addition and subtraction",
+  "long_desc": "Abacus",
+  "start": -2700,
+  "end": -2300,
+  "location": "Mesopotamia",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "Legacy range_type=1. Review whether these are uncertain bounds rather than a duration.",
+  "places": [
+    "place-84363cef0b48"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "abacus",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": 20,
+    "generations_end": 216,
+    "generations_start": 236,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 114,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": 1,
+    "time_bp_end": 4300,
+    "time_bp_start": 4700,
+    "time_end": "2300 BCE",
+    "time_start": "2700 BCE",
+    "location_info": {
+      "display_name": "Mesopotamia / Mezopotamya / Μεσοποταμία / بلاد الرافدين / ܒܝܬ ܢܗܪܝܢ, العراق",
+      "boundingbox": [
+        "30.910482",
+        "38.8923437",
+        "37.8341674",
+        "47.4534005"
+      ],
+      "osm_id": 14013535,
+      "osm_type": "relation",
+      "coordinates": [
+        34.9019732,
+        42.0596465948
+      ]
+    }
+  }
+}

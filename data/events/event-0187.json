@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0187",
+  "id_num": 187,
+  "slug": "crisis-of-the-third-century",
+  "status": "review",
+  "name": "Crisis of the Third Century",
+  "short_desc": "Crisis of the Third Century (political instability in Rome almost causes it to collapse)",
+  "long_desc": "Crisis of the Third Century",
+  "start": 235,
+  "end": 284,
+  "location": "Roman Empire",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Ancient_Rome_271_AD.svg/1920px-Map_of_Ancient_Rome_271_AD.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-3acefcfa65fa"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "crisis-of-the-third-century",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 49,
+    "generation_diff": 3,
+    "generations_end": 86,
+    "generations_start": 89,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 187,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Ancient_Rome_271_AD.svg/960px-Map_of_Ancient_Rome_271_AD.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Map_of_Ancient_Rome_271_AD.svg/330px-Map_of_Ancient_Rome_271_AD.svg.png",
+    "range_type": null,
+    "time_bp_end": 1739,
+    "time_bp_start": 1788,
+    "time_end": "284 ",
+    "time_start": "235 ",
+    "location_info": {
+      "display_name": "New Lotus House, 485, Roman Road, Old Ford, Bow, London Borough of Tower Hamlets, London, Greater London, England, E3 5LX, United Kingdom",
+      "boundingbox": [
+        "51.5321882",
+        "51.5322882",
+        "-0.033729",
+        "-0.033629"
+      ],
+      "osm_id": 443418097,
+      "osm_type": "node",
+      "coordinates": [
+        51.5322382,
+        -0.033679
+      ]
+    }
+  }
+}

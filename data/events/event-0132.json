@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0132",
+  "id_num": 132,
+  "slug": "late-bronze-age-collapse",
+  "status": "review",
+  "name": "Late Bronze Age collapse",
+  "short_desc": null,
+  "long_desc": "Late Bronze Age collapse",
+  "start": -1200,
+  "end": -1150,
+  "location": "Mediterranean",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": null,
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-b01c72c717ff"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "late-bronze-age-collapse",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 50,
+    "generation_diff": 3,
+    "generations_end": 158,
+    "generations_start": 161,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 132,
+    "img_md": "",
+    "img_sm": "",
+    "range_type": null,
+    "time_bp_end": 3100,
+    "time_bp_start": 3200,
+    "time_end": "1150 BCE",
+    "time_start": "1200 BCE",
+    "location_info": {
+      "display_name": "Mediterranean, İskele, Κύπρος - Kıbrıs",
+      "boundingbox": [
+        "35.2554556",
+        "35.2559192",
+        "33.903377",
+        "33.9046383"
+      ],
+      "osm_id": 695975547,
+      "osm_type": "way",
+      "coordinates": [
+        35.25570135,
+        33.9040119532
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0337",
+  "id_num": 337,
+  "slug": "nikola-tesla",
+  "status": "review",
+  "name": "Nikola Tesla",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1856,
+  "end": 1943,
+  "location": "Smiljan",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-efe9cfa6a64f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "nikola-tesla",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 87,
+    "generation_diff": 4,
+    "generations_end": 4,
+    "generations_start": 8,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 337,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/330px-Tesla_circa_1890.jpeg",
+    "range_type": null,
+    "time_bp_end": 80,
+    "time_bp_start": 167,
+    "time_end": "1943 ",
+    "time_start": "1856 ",
+    "location_info": {
+      "display_name": "Smiljan, Grad Gospić, Ličko-senjska županija, 53211, Hrvatska",
+      "boundingbox": [
+        "44.5417506",
+        "44.5817506",
+        "15.3013967",
+        "15.3413967"
+      ],
+      "osm_id": 2255654191,
+      "osm_type": "node",
+      "coordinates": [
+        44.5617506,
+        15.3213967
+      ]
+    }
+  }
+}

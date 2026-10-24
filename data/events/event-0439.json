@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0439",
+  "id_num": 439,
+  "slug": "covid-19-pandemic",
+  "status": "review",
+  "name": "COVID-19 pandemic",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 2019,
+  "end": 2023,
+  "location": "World",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/COVID-19",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Coronavirus._SARS-CoV-2.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "covid-19-pandemic",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Contemporary modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 4,
+    "generation_diff": 0,
+    "generations_end": 0,
+    "generations_start": 0,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 439,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/960px-Coronavirus._SARS-CoV-2.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/330px-Coronavirus._SARS-CoV-2.png",
+    "range_type": null,
+    "time_bp_end": 0,
+    "time_bp_start": 4,
+    "time_end": "2023 ",
+    "time_start": "2019 ",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}

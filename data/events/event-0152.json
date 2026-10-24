@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0152",
+  "id_num": 152,
+  "slug": "classical-greece",
+  "status": "review",
+  "name": "Classical Greece",
+  "short_desc": null,
+  "long_desc": "Classical Greece",
+  "start": -480,
+  "end": -300,
+  "location": "Greece",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Classical_Greece",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Parthenon_from_south.jpg/1280px-Parthenon_from_south.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-9c93ad439373"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "classical-greece",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 180,
+    "generation_diff": 9,
+    "generations_end": 116,
+    "generations_start": 125,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 152,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Parthenon_from_south.jpg/960px-Parthenon_from_south.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Parthenon_from_south.jpg/330px-Parthenon_from_south.jpg",
+    "range_type": null,
+    "time_bp_end": 2323,
+    "time_bp_start": 2503,
+    "time_end": "300 BCE",
+    "time_start": "480 BCE",
+    "location_info": {
+      "display_name": "Ελλάς",
+      "boundingbox": [
+        "34.7188863",
+        "41.7488889",
+        "19.1127535",
+        "29.68381"
+      ],
+      "osm_id": 192307,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9953683,
+        21.9877132
+      ]
+    }
+  }
+}

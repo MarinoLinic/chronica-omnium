@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0105",
+  "id_num": 105,
+  "slug": "ljubljana-marshes-wheel",
+  "status": "review",
+  "name": "Ljubljana Marshes Wheel",
+  "short_desc": "Ljubljana Marshes Wheel  oldest wooden wheel discovered",
+  "long_desc": "Ljubljana Marshes Wheel",
+  "start": -3130,
+  "end": null,
+  "location": "Slovenia",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg/1920px-Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-56059e7fb4e9"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "ljubljana-marshes-wheel",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 257,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 105,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg/960px-Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg/330px-Ljubljana_Marshes_Wheel_with_axle_%28oldest_wooden_wheel_yet_discovered%29.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 5100,
+    "time_end": null,
+    "time_start": "3130 BCE",
+    "location_info": {
+      "display_name": "Slovenija",
+      "boundingbox": [
+        "45.4214242",
+        "46.8766816",
+        "13.3754696",
+        "16.5968135"
+      ],
+      "osm_id": 218657,
+      "osm_type": "relation",
+      "coordinates": [
+        46.1199444,
+        14.8153333
+      ]
+    }
+  }
+}

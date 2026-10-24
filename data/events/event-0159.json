@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0159",
+  "id_num": 159,
+  "slug": "hellenistic-greece",
+  "status": "review",
+  "name": "Hellenistic Greece",
+  "short_desc": null,
+  "long_desc": "Hellenistic Greece",
+  "start": -323,
+  "end": -31,
+  "location": "Greece",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Hellenistic_Greece",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-9c93ad439373"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "hellenistic-greece",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 292,
+    "generation_diff": 15,
+    "generations_end": 102,
+    "generations_start": 117,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 159,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/3/39/Macedonia_and_the_Aegean_World_c.200.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macedonia_and_the_Aegean_World_c.200.png/330px-Macedonia_and_the_Aegean_World_c.200.png",
+    "range_type": null,
+    "time_bp_end": 2054,
+    "time_bp_start": 2346,
+    "time_end": "31 BCE",
+    "time_start": "323 BCE",
+    "location_info": {
+      "display_name": "Ελλάς",
+      "boundingbox": [
+        "34.7188863",
+        "41.7488889",
+        "19.1127535",
+        "29.68381"
+      ],
+      "osm_id": 192307,
+      "osm_type": "relation",
+      "coordinates": [
+        38.9953683,
+        21.9877132
+      ]
+    }
+  }
+}

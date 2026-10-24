@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0003",
+  "title": "Geological history of Earth",
+  "source": "https://en.wikipedia.org/wiki/Geological_history_of_Earth",
+  "revisionId": 1370736833,
+  "revisionTimestamp": "2026-08-22T20:52:53Z",
+  "fetchedAt": "2026-10-23T18:30:21.812Z",
+  "method": "mediawiki-intro-extract",
+  "license": "CC BY-SA 4.0; see source page for attribution and revision history",
+  "status": "review",
+  "text": "The geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed approximately 4.54 billion years ago through accretion from the solar nebula, a disk-shaped mass of dust and gas remaining from the formation of the Sun, which also formed the rest of the Solar System.\nInitially, Earth was molten due to extreme volcanism and frequent collisions with other bodies. Eventually, the outer layer of the planet cooled to form a solid crust when water began accumulating in the atmosphere. The Moon formed soon afterwards, possibly as a result of the impact of a protoplanet with Earth. Outgassing and volcanic activity produced the primordial atmosphere. Condensing water vapor, augmented by ice delivered from asteroids, produced the oceans. However, in 2020, researchers reported that sufficient water to fill the oceans may have always been on Earth since the beginning of the planet's formation.\nAs the surface continually reshaped itself over hundreds of millions of years, continents formed and broke apart. They migrated across the surface, occasionally combining to form a supercontinent. Roughly 750 million years ago, the earliest-known supercontinent Rodinia, began to break apart. The continents later recombined to form Pannotia, 600 to 540 million years ago, then finally Pangaea, which broke apart 200 million years ago.\nThe present pattern of ice ages began about 40 million years ago, then intensified at the end of the Pliocene. The polar regions have since undergone repeated cycles of glaciation and thawing, repeating every 40,000–100,000 years. The Last Glacial Period of the current ice age ended about 10,000 years ago."
+}

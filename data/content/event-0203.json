@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0203",
+  "text": "The plague of Justinian or Justinianic plague (541–549 AD) was the first recorded major outbreak of the first plague pandemic: the first Old World pandemic of plague, the contagious disease caused by the bacterium Yersinia pestis. The disease afflicted the entire Mediterranean Basin, Europe, and the Near East, severely affecting the Sasanian Empire and the Byzantine Empire and especially Constantinople. The plague is named for the Byzantine Emperor Justinian I (r. 527–565) who according to his court historian Procopius contracted the disease and recovered in 542, at the height of the epidemic which killed about a fifth of the population in the imperial capital. The contagion arrived in Roman Egypt in 541, spread around the Mediterranean Sea until 544, and persisted in Northern Europe and the Arabian Peninsula until 549. This first episode of the first plague pandemic had profound economic, social, and political effects across Europe and the Near East.\n\nIn 2013, researchers confirmed earlier speculation that the cause of the plague of Justinian was Yersinia pestis, the same bacterium responsible for the Black Death (1346-1353). Ancient and modern Yersinia pestis strains closely related to the ancestor of the Justinian plague strain have been found in the Tian Shan, a system of mountain ranges on the borders of Kyrgyzstan, Kazakhstan, and China, suggesting that the Justinian plague originated in or near that region.\n\n",
+  "source": "https://en.wikipedia.org/wiki/Plague_of_Justinian",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

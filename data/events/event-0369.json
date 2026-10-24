@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0369",
+  "id_num": 369,
+  "slug": "woodrow-wilson-in-office",
+  "status": "review",
+  "name": "Woodrow Wilson (in office)",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1913,
+  "end": 1921,
+  "location": "United States",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_-_black_and_white_%28cropped%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-49dca65f362f"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "woodrow-wilson-in-office",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 8,
+    "generation_diff": 0,
+    "generations_end": 5,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 369,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_-_black_and_white_%28cropped%29.jpg/960px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_-_black_and_white_%28cropped%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_-_black_and_white_%28cropped%29.jpg/330px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_-_black_and_white_%28cropped%29.jpg",
+    "range_type": null,
+    "time_bp_end": 102,
+    "time_bp_start": 110,
+    "time_end": "1921 ",
+    "time_start": "1913 ",
+    "location_info": {
+      "display_name": "United States",
+      "boundingbox": [
+        "-14.7608358",
+        "71.5889534",
+        "-180",
+        "180"
+      ],
+      "osm_id": 148838,
+      "osm_type": "relation",
+      "coordinates": [
+        39.7837304,
+        -100.445882
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0341",
+  "id_num": 341,
+  "slug": "sun-yat-sen",
+  "status": "review",
+  "name": "Sun Yat-sen",
+  "short_desc": "\"Father of the [Chinese] Nation\"",
+  "long_desc": null,
+  "start": 1866,
+  "end": 1925,
+  "location": "Southern China",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sun_Yat_Sen_portrait_2_%289to12%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-04bbc58734da"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "sun-yat-sen",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 59,
+    "generation_diff": 3,
+    "generations_end": 4,
+    "generations_start": 7,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 341,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sun_Yat_Sen_portrait_2_%289to12%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sun_Yat_Sen_portrait_2_%289to12%29.jpg/330px-Sun_Yat_Sen_portrait_2_%289to12%29.jpg",
+    "range_type": null,
+    "time_bp_end": 98,
+    "time_bp_start": 157,
+    "time_end": "1925 ",
+    "time_start": "1866 ",
+    "location_info": {
+      "display_name": "Southern China, 591, Warren C. Coleman Boulevard, Concord, Cabarrus County, North Carolina, 28025, United States",
+      "boundingbox": [
+        "35.3831183",
+        "35.3832183",
+        "-80.5810734",
+        "-80.5809734"
+      ],
+      "osm_id": 9905272974,
+      "osm_type": "node",
+      "coordinates": [
+        35.3831683,
+        -80.5810234
+      ]
+    }
+  }
+}

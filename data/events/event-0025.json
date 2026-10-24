@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0025",
+  "id_num": 25,
+  "slug": "the-icing-of-antarctica",
+  "status": "review",
+  "name": "The icing of Antarctica",
+  "short_desc": "The icing of Antarctica begins",
+  "long_desc": "The icing of Antarctica",
+  "start": -45500000,
+  "end": null,
+  "location": "Antarctica",
+  "type": "Event",
+  "field": "Archaeogenetics",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet#:~:text=The%20icing%20of%20Antarctica%20began,in%20the%20thousands%20of%20ppm.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antarctica_6400px_from_Blue_Marble.jpg/1920px-Antarctica_6400px_from_Blue_Marble.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-c43f33f0578d"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "the-icing-of-antarctica",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 4550000,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Paleogene",
+    "id_num": 25,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antarctica_6400px_from_Blue_Marble.jpg/960px-Antarctica_6400px_from_Blue_Marble.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Antarctica_6400px_from_Blue_Marble.jpg/330px-Antarctica_6400px_from_Blue_Marble.jpg",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 45500000,
+    "time_end": null,
+    "time_start": "45.5 million BCE",
+    "location_info": {
+      "display_name": "Antarctica",
+      "boundingbox": [
+        "-104.4063075",
+        "-54.4063075",
+        "-24.6850688",
+        "25.3149312"
+      ],
+      "osm_id": 36966060,
+      "osm_type": "node",
+      "coordinates": [
+        -79.4063075,
+        0.3149312
+      ]
+    }
+  }
+}

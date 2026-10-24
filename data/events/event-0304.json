@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0304",
+  "id_num": 304,
+  "slug": "immanuel-kant",
+  "status": "review",
+  "name": "Immanuel Kant",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1724,
+  "end": 1804,
+  "location": "Prussia",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Immanuel_Kant_-_Gemaelde_1.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-4126d8a52aef"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "immanuel-kant",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Early modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 80,
+    "generation_diff": 4,
+    "generations_end": 10,
+    "generations_start": 14,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 304,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/960px-Immanuel_Kant_-_Gemaelde_1.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/330px-Immanuel_Kant_-_Gemaelde_1.jpg",
+    "range_type": null,
+    "time_bp_end": 219,
+    "time_bp_start": 299,
+    "time_end": "1804 ",
+    "time_start": "1724 ",
+    "location_info": {
+      "display_name": "Prussia, Adair County, Iowa, United States",
+      "boundingbox": [
+        "41.3538765",
+        "41.3938765",
+        "-94.526357",
+        "-94.486357"
+      ],
+      "osm_id": 151940096,
+      "osm_type": "node",
+      "coordinates": [
+        41.3738765,
+        -94.506357
+      ]
+    }
+  }
+}

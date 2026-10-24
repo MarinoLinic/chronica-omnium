@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0079",
+  "id_num": 79,
+  "slug": "swastika-appears",
+  "status": "review",
+  "name": "Swastika appears",
+  "short_desc": null,
+  "long_desc": "Swastika appears",
+  "start": -10000,
+  "end": null,
+  "location": "Ukraine",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Swastika#:~:text=swastika%20is%20from-,10%2C000%20BCE,-%E2%80%93%20part%20of%20%22an",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Four-swastika_collage_%28transparent%29.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-580eedc669f3"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "swastika-appears",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": 667,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Pleistocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 79,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/960px-Four-swastika_collage_%28transparent%29.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Four-swastika_collage_%28transparent%29.png/330px-Four-swastika_collage_%28transparent%29.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 12000,
+    "time_end": null,
+    "time_start": "10 thousand BCE",
+    "location_info": {
+      "display_name": "Україна",
+      "boundingbox": [
+        "44.184598",
+        "52.3797464",
+        "22.137059",
+        "40.2275801"
+      ],
+      "osm_id": 60199,
+      "osm_type": "relation",
+      "coordinates": [
+        49.4871968,
+        31.2718321
+      ]
+    }
+  }
+}

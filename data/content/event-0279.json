@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0279",
+  "text": "The maritime European exploration of Australia consisted of several waves of European seafarers who sailed the edges of the Australian continent. Dutch navigators were the first Europeans known to have explored and mapped the Australian coastline. The first documented encounter was that of Dutch navigator Willem Janszoon, in 1606. Dutch seafarers also visited the west and north coasts of the continent, as did French explorers.\n\nThe most famous expedition was that of Royal Navy Lieutenant (later Captain) James Cook 164 years after Janszoon's sighting. After an assignment to make observations of the 1769 Transit of Venus, Cook followed Admiralty instructions to explore the south Pacific for the reported Terra Australis and on 19 April 1770 sighted the south-eastern coast of Australia and became the first recorded European to explore the eastern coastline. Explorers by land and sea continued to survey the continent for some years after settlement.\n\n",
+  "source": "https://en.wikipedia.org/wiki/European_maritime_exploration_of_Australia",
+  "title": null,
+  "revisionId": null,
+  "fetchedAt": null,
+  "method": "legacy-html-scrape",
+  "license": "Wikipedia text; verify original page and applicable attribution. Import date is not a retrieval date.",
+  "status": "review"
+}

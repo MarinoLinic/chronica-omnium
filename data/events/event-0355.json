@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0355",
+  "id_num": 355,
+  "slug": "adolf-hitler",
+  "status": "review",
+  "name": "Adolf Hitler",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1889,
+  "end": 1945,
+  "location": "Braunau am Inn",
+  "type": "Person",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hitler_portrait_crop.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0990414a2833"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "adolf-hitler",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 56,
+    "generation_diff": 3,
+    "generations_end": 3,
+    "generations_start": 6,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 355,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/960px-Hitler_portrait_crop.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hitler_portrait_crop.jpg/330px-Hitler_portrait_crop.jpg",
+    "range_type": null,
+    "time_bp_end": 78,
+    "time_bp_start": 134,
+    "time_end": "1945 ",
+    "time_start": "1889 ",
+    "location_info": {
+      "display_name": "Braunau am Inn, Bezirk Braunau am Inn, Oberösterreich, 5280, Österreich",
+      "boundingbox": [
+        "48.2002384",
+        "48.269329",
+        "12.9519826",
+        "13.0738484"
+      ],
+      "osm_id": 86330,
+      "osm_type": "relation",
+      "coordinates": [
+        48.253136,
+        13.039506
+      ]
+    }
+  }
+}

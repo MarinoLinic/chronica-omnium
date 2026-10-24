@@ -1,0 +1,383 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Chronica Omnium authored event v1",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "id_num",
+    "slug",
+    "status",
+    "name",
+    "short_desc",
+    "long_desc",
+    "start",
+    "end",
+    "location",
+    "type",
+    "field",
+    "relevance",
+    "source",
+    "image",
+    "casualties_low",
+    "casualties_high",
+    "dubious",
+    "date_kind",
+    "date_note",
+    "places",
+    "notes",
+    "legacy"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^event-[0-9]{4,}$"
+    },
+    "id_num": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 9007199254740991
+    },
+    "status": {
+      "enum": [
+        "stub",
+        "review",
+        "ready"
+      ]
+    },
+    "name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "short_desc": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "long_desc": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "start": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "not": {
+        "const": 0
+      },
+      "maximum": 9007199254740991,
+      "minimum": -9007199254740991
+    },
+    "end": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "not": {
+        "const": 0
+      },
+      "maximum": 9007199254740991,
+      "minimum": -9007199254740991
+    },
+    "date_kind": {
+      "enum": [
+        "point",
+        "span",
+        "uncertain",
+        "ongoing"
+      ]
+    },
+    "date_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "places": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "legacy": {
+      "type": "object"
+    },
+    "slug": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "type": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "field": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "location": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dubious": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "casualties_low": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 9007199254740991
+    },
+    "casualties_high": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 9007199254740991
+    },
+    "relevance": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "date_label": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "timeline_period": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "periods": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "label",
+          "kind",
+          "start",
+          "end",
+          "date_kind",
+          "date_note",
+          "source"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9-]*$"
+          },
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "enum": [
+              "life",
+              "office",
+              "active",
+              "other"
+            ]
+          },
+          "start": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "not": {
+              "const": 0
+            },
+            "maximum": 9007199254740991,
+            "minimum": -9007199254740991
+          },
+          "end": {
+            "type": [
+              "integer",
+              "null"
+            ],
+            "not": {
+              "const": 0
+            },
+            "maximum": 9007199254740991,
+            "minimum": -9007199254740991
+          },
+          "date_kind": {
+            "enum": [
+              "point",
+              "span",
+              "uncertain",
+              "ongoing"
+            ]
+          },
+          "date_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "date_kind": {
+                  "const": "point"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "end": {
+                  "type": "null"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "date_kind": {
+                  "const": "span"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "end": {
+                  "type": "integer"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "date_kind": {
+                  "const": "ongoing"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "start": {
+                  "type": "integer"
+                },
+                "end": {
+                  "type": "null"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "date_kind": {
+            "const": "point"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "end": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "date_kind": {
+            "const": "span"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "end": {
+            "type": "integer"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "date_kind": {
+            "const": "ongoing"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "start": {
+            "type": "integer"
+          },
+          "end": {
+            "type": "null"
+          }
+        }
+      }
+    }
+  ]
+}

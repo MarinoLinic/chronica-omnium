@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0098",
+  "id_num": 98,
+  "slug": "pit-comb-ware-culture-pccccc",
+  "status": "review",
+  "name": "Pit-Comb Ware culture (PCC/CCC)",
+  "short_desc": null,
+  "long_desc": "Pit-Comb Ware culture (PCC/CCC)",
+  "start": -4200,
+  "end": -2000,
+  "location": "Northeastern Europe",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Comb_Ceramic_culture",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Comb_Ceramic_Culture.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-0c2f42d1d1db"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "pit-comb-ware-culture-pccccc",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Copper Age",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 2200,
+    "generation_diff": 144,
+    "generations_end": 201,
+    "generations_start": 345,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 98,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Comb_Ceramic_Culture.jpg/960px-Comb_Ceramic_Culture.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Comb_Ceramic_Culture.jpg/330px-Comb_Ceramic_Culture.jpg",
+    "range_type": null,
+    "time_bp_end": 4000,
+    "time_bp_start": 6200,
+    "time_end": "2000 BCE",
+    "time_start": "4200 BCE",
+    "location_info": {
+      "display_name": "Североисточен СР, Северна Македонија",
+      "boundingbox": [
+        "41.9605432",
+        "42.3739044",
+        "21.4321605",
+        "22.5162744"
+      ],
+      "osm_id": 2570958,
+      "osm_type": "relation",
+      "coordinates": [
+        42.1670929,
+        22.0024679935
+      ]
+    }
+  }
+}

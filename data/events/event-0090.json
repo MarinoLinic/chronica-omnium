@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0090",
+  "id_num": 90,
+  "slug": "prehistoric-egypt",
+  "status": "review",
+  "name": "Prehistoric Egypt",
+  "short_desc": null,
+  "long_desc": "Prehistoric Egypt",
+  "start": -6000,
+  "end": -3000,
+  "location": "Egypt",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Prehistoric_Egypt",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Predynastic_collage_%28new_version%29.jpg/1920px-Predynastic_collage_%28new_version%29.jpg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-557c1599d9a0"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "prehistoric-egypt",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "Western European Neolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 3000,
+    "generation_diff": 194,
+    "generations_end": 251,
+    "generations_start": 445,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 90,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Predynastic_collage_%28new_version%29.jpg/960px-Predynastic_collage_%28new_version%29.jpg",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Predynastic_collage_%28new_version%29.jpg/330px-Predynastic_collage_%28new_version%29.jpg",
+    "range_type": null,
+    "time_bp_end": 5000,
+    "time_bp_start": 8000,
+    "time_end": "3000 BCE",
+    "time_start": "6000 BCE",
+    "location_info": {
+      "display_name": "مصر",
+      "boundingbox": [
+        "21.9936736",
+        "31.8330854",
+        "24.6499112",
+        "37.1153517"
+      ],
+      "osm_id": 1473947,
+      "osm_type": "relation",
+      "coordinates": [
+        26.2540493,
+        29.2675469
+      ]
+    }
+  }
+}

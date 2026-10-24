@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0088",
+  "id_num": 88,
+  "slug": "south-european-agriculture-begins",
+  "status": "review",
+  "name": "South European agriculture begins",
+  "short_desc": "Agriculture introduced in southern Europe",
+  "long_desc": "South European agriculture begins",
+  "start": -7000,
+  "end": -3000,
+  "location": "South Europe",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Agriculture#Origins",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/PivotWithDrops.JPG",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-c9d917736f72"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "south-european-agriculture-begins",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Prehistory",
+    "archeological": "European Mesolithic",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 4000,
+    "generation_diff": 250,
+    "generations_end": 251,
+    "generations_start": 501,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 88,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/960px-PivotWithDrops.JPG",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/PivotWithDrops.JPG/330px-PivotWithDrops.JPG",
+    "range_type": null,
+    "time_bp_end": 5000,
+    "time_bp_start": 9000,
+    "time_end": "3000 BCE",
+    "time_start": "7000 BCE",
+    "location_info": {
+      "display_name": "Europe, South Carriage Drive, Knightsbridge, London, Greater London, England, SW7 5ET, United Kingdom",
+      "boundingbox": [
+        "51.5022149",
+        "51.5022547",
+        "-0.177951",
+        "-0.1778868"
+      ],
+      "osm_id": 372965961,
+      "osm_type": "way",
+      "coordinates": [
+        51.5022348,
+        -0.1779189
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0383",
+  "id_num": 383,
+  "slug": "soviet-union",
+  "status": "review",
+  "name": "Soviet Union",
+  "short_desc": null,
+  "long_desc": null,
+  "start": 1922,
+  "end": 1991,
+  "location": "Soviet Union",
+  "type": "Unit",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Soviet_Union",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg/1920px-Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg.png",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "",
+  "places": [
+    "place-5338fc108450"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "soviet-union",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "Late modern period",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": 69,
+    "generation_diff": 4,
+    "generations_end": 1,
+    "generations_start": 5,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "Holocene",
+    "geologic_era": "Cenozoic",
+    "geologic_period": "Quarternary",
+    "id_num": 383,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg/960px-Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg/330px-Union_of_Soviet_Socialist_Republics_%28orthographic_projection%29.svg.png",
+    "range_type": null,
+    "time_bp_end": 32,
+    "time_bp_start": 101,
+    "time_end": "1991 ",
+    "time_start": "1922 ",
+    "location_info": {
+      "display_name": "Soviet Union, Strada Lacului, Slobozia, Ialomița, 920012, România",
+      "boundingbox": [
+        "44.5666034",
+        "44.5666642",
+        "27.3596807",
+        "27.3598921"
+      ],
+      "osm_id": 254256272,
+      "osm_type": "way",
+      "coordinates": [
+        44.56663335,
+        27.3597929697
+      ]
+    }
+  }
+}

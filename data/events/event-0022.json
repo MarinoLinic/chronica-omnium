@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0022",
+  "id_num": 22,
+  "slug": "permiantriassic-extinction-event-great-dying",
+  "status": "review",
+  "name": "PermianTriassic extinction event (Great Dying)",
+  "short_desc": null,
+  "long_desc": "PermianTriassic extinction event (Great Dying)",
+  "start": -252000000,
+  "end": null,
+  "location": "World",
+  "type": "Event",
+  "field": null,
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Extinction_intensity.svg",
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "",
+  "places": [
+    "place-78ae647dc554"
+  ],
+  "notes": "",
+  "legacy": {
+    "id": "permiantriassic-extinction-event-great-dying",
+    "Unnamed: 30": null,
+    "Unnamed: 31": null,
+    "anthropologic": "",
+    "archeological": "",
+    "bailey_link": null,
+    "city": null,
+    "climatic": "",
+    "country": null,
+    "country_map": null,
+    "curr_year": 2023,
+    "duration": null,
+    "generation_diff": null,
+    "generations_end": null,
+    "generations_start": null,
+    "geologic_eon": "Phanerozoic",
+    "geologic_epoch": "",
+    "geologic_era": "Mesozoic",
+    "geologic_period": "Triassic",
+    "id_num": 22,
+    "img_md": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Extinction_intensity.svg/960px-Extinction_intensity.svg.png",
+    "img_sm": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Extinction_intensity.svg/330px-Extinction_intensity.svg.png",
+    "range_type": null,
+    "time_bp_end": null,
+    "time_bp_start": 252000000,
+    "time_end": null,
+    "time_start": "252 million BCE",
+    "location_info": {
+      "display_name": "World, 179, Ponsonby Road, Three Lamps, Ponsonby, Auckland, Waitematā, Auckland, 1011, New Zealand/Aotearoa",
+      "boundingbox": [
+        "-36.8536212",
+        "-36.8535212",
+        "174.7456309",
+        "174.7457309"
+      ],
+      "osm_id": 1036654017,
+      "osm_type": "node",
+      "coordinates": [
+        -36.8535712,
+        174.7456809
+      ]
+    }
+  }
+}
