@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0793",
+  "id_num": 793,
+  "slug": null,
+  "status": "review",
+  "name": "Universal Declaration of Human Rights adopted",
+  "short_desc": "The UN General Assembly adopts a declaration setting out a common international standard of fundamental human rights.",
+  "long_desc": null,
+  "start": 1948,
+  "end": null,
+  "location": "Paris · Worldwide",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "priority": 2,
+  "source": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "Adopted in Paris on 10 December 1948 as General Assembly resolution 217 A (III). This was a declaration, rather than a binding treaty entering into force.",
+  "places": [
+    "place-5dd272b4f316",
+    "place-7aca9b2c4a36"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A major postwar rights framework with continuing influence beyond any single national constitution. Evidence and date rationale: Adopted in Paris on 10 December 1948 as General Assembly resolution 217 A (III). This records adoption of a declaration, not a binding treaty coming into force or the first appearance of ideas about rights. Primary evidence: https://www.un.org/en/about-us/universal-declaration-of-human-rights. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Adoption",
+  "periods": [],
+  "timeline_period": null
+}

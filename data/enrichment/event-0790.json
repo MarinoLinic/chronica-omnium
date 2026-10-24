@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0790",
+  "source": "https://en.wikipedia.org/wiki/History_of_the_United_Nations",
+  "revisionId": 1356416187,
+  "fetchedAt": "2026-10-24T20:55:18.997Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/UnitedNations.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/f/f8/UnitedNations.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/f/f8/UnitedNations.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:UnitedNations.gif",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://archive.org/details/Communis1952",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

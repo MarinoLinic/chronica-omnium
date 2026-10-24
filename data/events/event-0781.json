@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0781",
+  "id_num": 781,
+  "slug": null,
+  "status": "review",
+  "name": "Early Vedic traditions",
+  "short_desc": "Vedic hymns and rituals develop in South Asia, forming an important foundation of later Hindu traditions.",
+  "long_desc": null,
+  "start": -1500,
+  "end": null,
+  "location": "Punjab · Northern India",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://rpl.hds.harvard.edu/resource/hinduism",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "Circa 1500 BCE is an approximate horizon for early Vedic hymns and rituals, not a single founding date for Hinduism. The hymns circulated orally before written preservation.",
+  "places": [
+    "place-1b269162f8ee",
+    "place-e755eeaabf2e"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. Supplies a major missing religious foundation without falsely assigning all of Hinduism a single inventor or birthday. Evidence and date rationale: Circa 1500 BCE follows Harvard’s approximate dating of the Rig Veda and the emergence of clear Vedic textual and ritual evidence. This is an orientation marker for early Vedic traditions, not a single founding date for Hinduism or the start of all South Asian religion. The hymns circulated orally before later written preservation. Primary evidence: https://rpl.hds.harvard.edu/resource/hinduism. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Approximate early textual horizon",
+  "periods": [],
+  "timeline_period": null
+}

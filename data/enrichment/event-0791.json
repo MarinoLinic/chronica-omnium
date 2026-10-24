@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0791",
+  "source": "https://en.wikipedia.org/wiki/Partition_of_India",
+  "revisionId": 1376809023,
+  "fetchedAt": "2026-10-24T20:55:20.774Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brit_IndianEmpireReligions3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Brit_IndianEmpireReligions3.jpg/960px-Brit_IndianEmpireReligions3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Brit_IndianEmpireReligions3.jpg/330px-Brit_IndianEmpireReligions3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Brit_IndianEmpireReligions3.jpg",
+      "artist": "John George Bartholomew",
+      "credit": "The Imperial Gazetteer of India, Oxford University Press, 1909.  Scanned from personal copy and annotated by me (Fowler&fowler«Talk» 04:16, 19 March 2007 (UTC))",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

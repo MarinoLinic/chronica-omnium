@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0794",
+  "id_num": 794,
+  "slug": null,
+  "status": "review",
+  "name": "People’s Republic of China proclaimed",
+  "short_desc": "Mao Zedong proclaims the People’s Republic of China after Communist victories in the civil war.",
+  "long_desc": null,
+  "start": 1949,
+  "end": null,
+  "location": "Beijing",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "Proclaimed in Beijing on 1 October 1949. Civil-war fighting did not all end that day, and the Republic of China continued to exist.",
+  "places": [
+    "place-cc495debc1aa"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A central change in twentieth-century world politics missing between the catalog’s imperial dynasties and Mao-era campaigns. Evidence and date rationale: Proclaimed in Beijing on 1 October 1949. This is the establishment milestone, not a claim that all civil-war fighting ended that day or that the Republic of China ceased to exist. Primary evidence: https://history.state.gov/milestones/1945-1952/chinese-rev. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Proclamation",
+  "periods": [],
+  "timeline_period": null
+}

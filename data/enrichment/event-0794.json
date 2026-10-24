@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0794",
+  "source": "https://en.wikipedia.org/wiki/Proclamation_of_the_People's_Republic_of_China",
+  "revisionId": 1381719609,
+  "fetchedAt": "2026-10-24T20:55:27.212Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mao_Proclaiming_New_China.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mao_Proclaiming_New_China.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mao_Proclaiming_New_China.JPG/330px-Mao_Proclaiming_New_China.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Mao_Proclaiming_New_China.JPG",
+      "artist": "Orihara1",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

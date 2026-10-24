@@ -1,14 +1,14 @@
 {
   "authoredImages": 419,
-  "selectedImages": 754,
-  "wikipediaLeadImages": 335,
+  "selectedImages": 771,
+  "wikipediaLeadImages": 352,
   "counts": {
     "cached": 529,
     "missing": 2,
     "external": 15,
     "license-review": 12,
     "failed": 1,
-    "not-cached": 195
+    "not-cached": 212
   },
   "uniqueMappedFiles": 507,
   "uniqueMappedBytes": 160137971,
@@ -5289,6 +5289,125 @@
       "id": "event-0778",
       "status": "not-cached",
       "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bas_fourneau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0779",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/East_and_southern_africa_early_iron_age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0780",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Taiwanese_aborigines.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0781",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0782",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kamakura_Budda_Daibutsu_front_1885.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0783",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Caliphate_750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0784",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Congreso_de_C%C3%BAcuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0785",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0786",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kongokonferenz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0787",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0788",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fritz_Haber.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0789",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod%2C_1935_%289672239344%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0790",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/UnitedNations.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0791",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Brit_IndianEmpireReligions3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0793",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Eleanor_Roosevelt_UDHR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0794",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mao_Proclaiming_New_China.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0795",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Colonization_1945_Spanish_script.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+      "path": null,
+      "reason": null
+    },
+    {
+      "id": "event-0798",
+      "status": "not-cached",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Map_of_USSR_with_SSR_names.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
       "path": null,
       "reason": null
     }

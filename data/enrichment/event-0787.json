@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0787",
+  "source": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+  "revisionId": 1376208714,
+  "fetchedAt": "2026-10-24T20:55:14.106Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/960px-Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/330px-Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Decena_tr%C3%A1gica.JPG",
+      "artist": "Osuna",
+      "credit": "Historia Sexto grado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

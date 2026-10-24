@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0790",
+  "title": "History of the United Nations",
+  "source": "https://en.wikipedia.org/wiki/History_of_the_United_Nations",
+  "revisionId": 1356416187,
+  "revisionTimestamp": "2026-05-27T16:50:02Z",
+  "fetchedAt": "2026-10-24T20:55:18.997Z",
+  "method": "mediawiki-intro-extract",
+  "license": "CC BY-SA 4.0; see source page for attribution and revision history",
+  "status": "review",
+  "text": "The history of the United Nations has its origins in World War II, beginning with the Declaration of St James's Palace. Taking up the Wilsonian mantle in 1944–1945, US president Franklin D. Roosevelt pushed as his highest postwar priority the establishment of the United Nations to replace the defunct League of Nations. Roosevelt planned that it would be controlled by the United States, Soviet Union, United Kingdom and China. He expected this Big Four would resolve all major world problems at the powerful Security Council. Since then its aims and activities have expanded to make it the archetypal international body in the early 21st century."
+}

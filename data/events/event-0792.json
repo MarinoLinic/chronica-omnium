@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0792",
+  "id_num": 792,
+  "slug": null,
+  "status": "review",
+  "name": "First working transistor",
+  "short_desc": "John Bardeen and Walter Brattain build a working transistor at Bell Labs, laying a foundation for modern electronics.",
+  "long_desc": null,
+  "start": 1947,
+  "end": null,
+  "location": "Murray Hill, New Jersey",
+  "type": "Invention",
+  "field": "Science",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "The device showed amplification on 16 December 1947 and was demonstrated to Bell Labs officials on 23 December. The public announcement followed in June 1948.",
+  "places": [
+    "place-96540e28d34e"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. Supplies the missing hardware foundation between early computers and later personal-computing and web milestones. Evidence and date rationale: The point-contact device showed amplification on 16 December 1947 and was demonstrated to Bell Labs officials on 23 December. The public announcement came in June 1948; later junction and silicon transistors were separate developments. Primary evidence: https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Working demonstration",
+  "periods": [],
+  "timeline_period": null
+}

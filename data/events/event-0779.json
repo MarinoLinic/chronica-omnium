@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0779",
+  "id_num": 779,
+  "slug": null,
+  "status": "review",
+  "name": "Early Bantu expansion",
+  "short_desc": "Bantu-speaking communities begin a long expansion that reshapes languages, farming and populations across much of Africa.",
+  "long_desc": null,
+  "start": -4000,
+  "end": -2000,
+  "location": "Africa · Cameroon",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.nature.com/articles/s41586-023-06770-6",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "An approximate window for the beginning of the expansion, not the duration of later migrations. Routes and timing remain debated.",
+  "places": [
+    "place-3f5053b3ae70",
+    "place-1366ad341523"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A continent-scale demographic and linguistic transformation missing from a catalog with extensive European and Eurasian population history. Evidence and date rationale: The 2023 genomic study describes an expansion beginning 6,000–4,000 years ago. The stored 4000–2000 BCE bounds are a rounded calendar orientation for that uncertain onset, not the duration of later migrations and not a viewer-relative BP conversion. Routes and timing remain debated. Primary evidence: https://www.nature.com/articles/s41586-023-06770-6. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Approximate onset window",
+  "periods": [],
+  "timeline_period": null
+}

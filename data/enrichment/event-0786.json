@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0786",
+  "source": "https://en.wikipedia.org/wiki/Berlin_Conference",
+  "revisionId": 1380363924,
+  "fetchedAt": "2026-10-24T20:55:11.971Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kongokonferenz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/960px-Kongokonferenz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kongokonferenz.jpg/330px-Kongokonferenz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg",
+      "artist": "Adalbert von Roessler",
+      "credit": "Über Land und Meer. Allgemeine Illustrierte Zeitung, Jg. 27 (Oktober 1884-1885), Bd. 53, Nr. 14, 308).",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

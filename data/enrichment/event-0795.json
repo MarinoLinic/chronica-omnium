@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0795",
+  "source": "https://en.wikipedia.org/wiki/Year_of_Africa",
+  "revisionId": 1371377236,
+  "fetchedAt": "2026-10-24T20:55:28.842Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Colonization_1945_Spanish_script.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Colonization_1945_Spanish_script.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Colonization_1945_Spanish_script.png/330px-Colonization_1945_Spanish_script.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Colonization_1945_Spanish_script.png",
+      "artist": "Penarc",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

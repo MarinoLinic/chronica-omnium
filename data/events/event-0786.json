@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0786",
+  "id_num": 786,
+  "slug": null,
+  "status": "review",
+  "name": "Berlin Conference",
+  "short_desc": "Colonial powers agree rules for trade and territorial claims in Africa at a conference that excludes African representatives.",
+  "long_desc": null,
+  "start": 1884,
+  "end": 1885,
+  "location": "Berlin · Africa",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "priority": 2,
+  "source": "https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "Held from 15 November 1884 to 26 February 1885. The conference set rules for colonial claims and navigation; it did not draw every African border or begin all European colonization of Africa.",
+  "places": [
+    "place-dad114b6ed73",
+    "place-3f5053b3ae70"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. Adds a consequential colonial framework linking African history with nineteenth-century imperial expansion. Evidence and date rationale: Held in Berlin from 15 November 1884 to 26 February 1885. The conference established rules for colonial claims and navigation; it did not draw every African border or begin all European colonization of Africa. Primary evidence: https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Conference",
+  "periods": [],
+  "timeline_period": null
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0790",
+  "id_num": 790,
+  "slug": null,
+  "status": "review",
+  "name": "United Nations established",
+  "short_desc": "The United Nations is established to support international peace, cooperation and collective security after the Second World War.",
+  "long_desc": null,
+  "start": 1945,
+  "end": null,
+  "location": "San Francisco · Worldwide",
+  "type": "Event",
+  "field": "History",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.un.org/en/about-us/history-of-the-un",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "The Charter was signed in San Francisco on 26 June 1945 and entered into force on 24 October, the UN’s official establishment date. The conference location does not describe the institution’s full international scope.",
+  "places": [
+    "place-1a2290470e0a",
+    "place-7aca9b2c4a36"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A central institution of the postwar international order, separate from the existing League of Nations and World War II records. Evidence and date rationale: The Charter was signed in San Francisco on 26 June 1945 and entered into force on 24 October 1945, the UN’s official establishment date. San Francisco locates the founding conference; the institution and ratification process had an international scope. Primary evidence: https://www.un.org/en/about-us/history-of-the-un. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Establishment",
+  "periods": [],
+  "timeline_period": null
+}

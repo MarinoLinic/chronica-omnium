@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0781",
+  "source": "https://en.wikipedia.org/wiki/Historical_Vedic_religion",
+  "revisionId": 1378989715,
+  "fetchedAt": "2026-10-24T20:55:02.920Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png/960px-Late_Vedic_Culture_%281100-500_BCE%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Late_Vedic_Culture_%281100-500_BCE%29.png/330px-Late_Vedic_Culture_%281100-500_BCE%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png",
+      "artist": "Avantiputra7",
+      "credit": "Own work by Avantiputra7; see references section for used material",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0787",
+  "id_num": 787,
+  "slug": null,
+  "status": "review",
+  "name": "Mexican Revolution",
+  "short_desc": "Revolutionary factions overthrow the old regime and fight over Mexico’s government, land and social order.",
+  "long_desc": null,
+  "start": 1910,
+  "end": 1920,
+  "location": "Mexico",
+  "type": "War",
+  "field": "War",
+  "relevance": 1,
+  "priority": 2,
+  "source": "https://guides.loc.gov/chronicling-america-mexican-revolution",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "The conventional 1910–1920 frame covers the main armed revolutionary phase. Regional violence and revolutionary reforms continued beyond it.",
+  "places": [
+    "place-8be2978e3437"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A major Latin American social revolution absent from a catalog rich in European revolutions and civil wars. Evidence and date rationale: The conventional 1910–1920 frame runs from the uprising against Porfirio Díaz to the rise of Álvaro Obregón. It is not a claim that every locality became peaceful in 1920 or that later revolutionary reforms ended then. Primary evidence: https://guides.loc.gov/chronicling-america-mexican-revolution. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Main armed revolutionary phase",
+  "periods": [],
+  "timeline_period": null
+}

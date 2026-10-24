@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0797",
+  "id_num": 797,
+  "slug": null,
+  "status": "review",
+  "name": "Smallpox eradication declared",
+  "short_desc": "The World Health Assembly declares smallpox eradicated after a coordinated international vaccination and surveillance campaign.",
+  "long_desc": null,
+  "start": 1980,
+  "end": null,
+  "location": "Worldwide · Geneva",
+  "type": "Event",
+  "field": "Science",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.who.int/news-room/detail/08-05-2020-commemorating-smallpox-eradication-a-legacy-of-hope-for-covid-19-and-other-diseases",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "The World Health Assembly declared eradication on 8 May 1980. The last naturally occurring case was recorded in 1977; certification followed in 1979.",
+  "places": [
+    "place-7aca9b2c4a36",
+    "place-806b1459b451"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A major global public-health achievement, distinct from the existing 1796 vaccination experiment. Evidence and date rationale: The World Health Assembly declaration was adopted on 8 May 1980. The last naturally occurring case was recorded in 1977 and the certification commission reported in 1979; this point marks the formal declaration, not the date of the last infection. Primary evidence: https://www.who.int/news-room/detail/08-05-2020-commemorating-smallpox-eradication-a-legacy-of-hope-for-covid-19-and-other-diseases. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Eradication declaration",
+  "periods": [],
+  "timeline_period": null
+}

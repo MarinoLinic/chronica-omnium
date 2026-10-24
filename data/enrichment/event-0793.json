@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0793",
+  "source": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+  "revisionId": 1376139589,
+  "fetchedAt": "2026-10-24T20:55:23.878Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Eleanor_Roosevelt_UDHR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Eleanor_Roosevelt_UDHR.jpg/960px-Eleanor_Roosevelt_UDHR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Eleanor_Roosevelt_UDHR.jpg/330px-Eleanor_Roosevelt_UDHR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_UDHR.jpg",
+      "artist": "FDR Presidential Library & Museum",
+      "credit": "https://www.flickr.com/photos/fdrlibrary/27758131387/",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

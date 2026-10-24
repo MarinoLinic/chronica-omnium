@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0789",
+  "id_num": 789,
+  "slug": null,
+  "status": "review",
+  "name": "Discovery of penicillin",
+  "short_desc": "Alexander Fleming observes a mould that inhibits bacterial growth, beginning the research that leads to penicillin treatment.",
+  "long_desc": null,
+  "start": 1928,
+  "end": null,
+  "location": "St Mary's Hospital, London",
+  "type": "Event",
+  "field": "Science",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "Fleming’s observation at St Mary’s Hospital, London, dates to 1928. Florey, Chain and colleagues developed clinical treatment around 1940–1941; mass production followed later.",
+  "places": [
+    "place-fd63cd946b2d"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. Makes the discovery and its medical significance visible as a dated milestone instead of relying on a person’s lifespan. Evidence and date rationale: Fleming made the observation at St Mary’s Hospital, London, in 1928. Clinical development by Florey, Chain and colleagues followed around 1940–1941, with wartime mass production later. The discovery year is not the start of widespread antibiotic treatment. Primary evidence: https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Discovery",
+  "periods": [],
+  "timeline_period": null
+}

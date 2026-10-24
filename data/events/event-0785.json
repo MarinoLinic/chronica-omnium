@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0785",
+  "id_num": 785,
+  "slug": null,
+  "status": "review",
+  "name": "First Opium War",
+  "short_desc": "Britain defeats Qing forces and compels China to accept new trading concessions and the cession of Hong Kong Island.",
+  "long_desc": null,
+  "start": 1839,
+  "end": 1842,
+  "location": "China",
+  "type": "War",
+  "field": "War",
+  "relevance": 1,
+  "priority": 2,
+  "source": "https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "The first war ended with the Treaty of Nanjing in 1842. It is separate from the Second Opium War of 1856–1860.",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A central turning point in China’s nineteenth-century relations with imperial powers, missing despite substantial Qing and rebellion coverage. Evidence and date rationale: The first war ran from 1839 to 1842 and ended with the Treaty of Nanjing. It is separate from the Second Opium War of 1856–1860; this record does not bridge the intervening peace as one war. Primary evidence: https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "War",
+  "periods": [],
+  "timeline_period": null
+}

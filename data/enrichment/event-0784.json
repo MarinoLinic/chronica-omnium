@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0784",
+  "source": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+  "revisionId": 1380912010,
+  "fetchedAt": "2026-10-24T20:55:08.312Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Congreso_de_C%C3%BAcuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Congreso_de_C%C3%BAcuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Congreso_de_C%C3%BAcuta.jpg/330px-Congreso_de_C%C3%BAcuta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Congreso_de_C%C3%BAcuta.jpg",
+      "artist": "Ricardo Acevedo Bernal",
+      "credit": "Quinta Museo de Bolívar",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

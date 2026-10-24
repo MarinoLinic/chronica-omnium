@@ -4648,6 +4648,706 @@
       ],
       "geographySource": "https://en.wikipedia.org/wiki/Delhi",
       "geographyLevel": "region"
+    },
+    {
+      "id": "place-1366ad341523",
+      "label": "Cameroon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CM"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-fd8711d30c80",
+      "label": "Taiwan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "TW"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-939e97b9cdb0",
+      "label": "Oceania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Oceania"
+      ],
+      "geographyLevel": "continent",
+      "geographySource": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951936/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-d77d64b16e0b",
+      "label": "Merv",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "TM"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://whc.unesco.org/en/list/886",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-38e64378dcc9",
+      "label": "Syria",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "SY"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-7942e84ee77f",
+      "label": "Venezuela",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "VE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-c91bd9c288c0",
+      "label": "Colombia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CO"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-f4cb75e90ad0",
+      "label": "Ecuador",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "EC"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-d27c899eb5eb",
+      "label": "Bolivia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BO"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-c42f58010802",
+      "label": "Chile",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CL"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "South America"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-ab277d1f5475",
+      "label": "Oppau",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "DE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.basf.com/global/de/who-we-are/history/Carl-Bosch",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-fd63cd946b2d",
+      "label": "St Mary's Hospital, London",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GB"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-1a2290470e0a",
+      "label": "San Francisco",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.un.org/en/about-us/history-of-the-un",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-8e07df26128d",
+      "label": "Bangladesh",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BD"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-96540e28d34e",
+      "label": "Murray Hill, New Jersey",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "US"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "North America"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://www.nokia.com/blog/the-transistor-75-years-since-the-famed-nokia-bell-labs-invention-changed-the-world/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-cc495debc1aa",
+      "label": "Beijing",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "place",
+      "geographySource": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-7d6b68079d46",
+      "label": "Togo",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "TG"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-7d28ff3bd433",
+      "label": "Somalia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "SO"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-c94b56e02b7e",
+      "label": "Benin",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BJ"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-362234c02fd6",
+      "label": "Niger",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "NE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-0f9ea5841e71",
+      "label": "Burkina Faso",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BF"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-399ad54ce9d5",
+      "label": "Côte d’Ivoire",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CI"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-8b7874e4df78",
+      "label": "Central African Republic",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CF"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-7f48a600768b",
+      "label": "Republic of the Congo",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "CG"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-67e218f2bddb",
+      "label": "Gabon",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GA"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-4a724471c49b",
+      "label": "Senegal",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "SN"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-937aa06da838",
+      "label": "Mali",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "ML"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-3383e4237141",
+      "label": "Nigeria",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "NG"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-5f54f2d82d16",
+      "label": "Mauritania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "MR"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Africa"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-0b778819fc27",
+      "label": "Belarus",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "BY"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-1d5a04fbeace",
+      "label": "Armenia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AM"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-0c341736c12d",
+      "label": "Azerbaijan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "AZ"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-1b86d8f1ddff",
+      "label": "Georgia (country)",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "GE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-7275a5863bab",
+      "label": "Estonia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "EE"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-15bc5d87cc42",
+      "label": "Latvia",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "LV"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-2a200e0c356a",
+      "label": "Lithuania",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "LT"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-4451df5780fe",
+      "label": "Kazakhstan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KZ"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-92150179d1b6",
+      "label": "Kyrgyzstan",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "KG"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Asia"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
+    },
+    {
+      "id": "place-562017f663ea",
+      "label": "Moldova",
+      "aliases": [],
+      "status": "review",
+      "countryCodes": [
+        "MD"
+      ],
+      "coordinates": null,
+      "source": null,
+      "notes": "Associated geographic reference added during the 20-subject review. Map coordinates have not been approved.",
+      "continents": [
+        "Europe"
+      ],
+      "geographyLevel": "country",
+      "geographySource": "https://unstats.un.org/unsd/methodology/m49/overview/",
+      "geographyNote": "Present-day countries locate associated places; they do not define historical borders or an exhaustive event footprint."
     }
   ]
 }

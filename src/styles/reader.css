@@ -253,8 +253,7 @@ h3 {
   min-width: 0;
   border-left: 2px solid color-mix(in srgb,var(--era-color,var(--accent)) 60%,var(--paper));
   padding-left: 34px;
-  background: linear-gradient(90deg,color-mix(in srgb,var(--era-color,var(--accent)) 5%,transparent),transparent 70%);
-  transition: border-color .3s ease, background-color .3s ease;
+  transition: border-color .3s ease;
 }
 .period-divider {
   padding: 15px 0;

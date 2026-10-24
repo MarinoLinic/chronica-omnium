@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0779",
+  "source": "https://en.wikipedia.org/wiki/Bantu_expansion",
+  "revisionId": 1380028392,
+  "fetchedAt": "2026-10-24T20:54:59.194Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/East_and_southern_africa_early_iron_age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/03/East_and_southern_africa_early_iron_age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/East_and_southern_africa_early_iron_age.png/330px-East_and_southern_africa_early_iron_age.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:East_and_southern_africa_early_iron_age.png",
+      "artist": "",
+      "credit": "East&southern africa early iron age.gif",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

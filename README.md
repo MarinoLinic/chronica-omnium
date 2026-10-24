@@ -19,7 +19,9 @@ The chronicle has a compact period picker, previous/next period controls, search
 
 The list is virtualized and images load lazily in reserved spaces. Hovering, focusing or touching an event link prepares its route, article and selected image in a shared bounded cache. Dates show elapsed years and approximate generations ago, using 25 years per generation; the calculation is explained in Sources. Dates earlier than 10,000 BCE say “human generations” to clarify the comparison. Positive years omit CE; negative years retain BCE. Back to top and Go to bottom work with the virtual list.
 
-The left-hand time guide follows the visible story through geological units, broad archaeological and historical ages, and centuries. It folds away on mobile. The reference JSON supplies the guide colors, subtle chronicle tint and exported vertical age bands. “About these ages” retains the scope and regional qualifications.
+The left-hand time guide follows the visible story through geological units, broad archaeological and historical ages, and centuries. It folds away on mobile. The reference JSON supplies the guide colors, chronicle line color and exported vertical age bands. Event backgrounds keep the shared paper color. “About these ages” retains the scope and regional qualifications.
+
+[Twenty major additions](docs/MAJOR-ADDITIONS.md) fill gaps in migration, religious traditions, decolonization, international institutions, medicine and technology. The review explains each choice, its evidence and its priority.
 
 Event pages show the article and selected image together after loading. Sources, image credits, geographic evidence, revision/retrieval details and text download are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 

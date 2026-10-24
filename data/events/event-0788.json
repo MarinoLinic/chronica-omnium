@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0788",
+  "id_num": 788,
+  "slug": null,
+  "status": "review",
+  "name": "Industrial ammonia synthesis begins",
+  "short_desc": "The first industrial Haber–Bosch plant begins making ammonia, enabling large-scale production of synthetic nitrogen fertilizer.",
+  "long_desc": null,
+  "start": 1913,
+  "end": null,
+  "location": "Oppau",
+  "type": "Invention",
+  "field": "Science",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://www.basf.com/global/de/who-we-are/history/Carl-Bosch",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "point",
+  "date_note": "The first industrial ammonia plant opened at Oppau on 9 September 1913. Haber’s laboratory work preceded it; industrial ammonia also supplied explosives.",
+  "places": [
+    "place-ab277d1f5475"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A foundational change in the food system and chemical industry, distinct from the existing Fritz Haber biography. Evidence and date rationale: BASF’s first industrial ammonia synthesis plant opened at Oppau on 9 September 1913. This industrial milestone is distinct from Haber’s earlier laboratory work and later improvements; ammonia production also supplied explosives. Primary evidence: https://www.basf.com/global/de/who-we-are/history/Carl-Bosch. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "First industrial plant",
+  "periods": [],
+  "timeline_period": null
+}

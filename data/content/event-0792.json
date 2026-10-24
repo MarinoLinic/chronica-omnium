@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0792",
+  "title": "History of the transistor",
+  "source": "https://en.wikipedia.org/wiki/History_of_the_transistor",
+  "revisionId": 1375406020,
+  "revisionTimestamp": "2026-09-17T15:59:24Z",
+  "fetchedAt": "2026-10-24T20:55:22.446Z",
+  "method": "mediawiki-intro-extract",
+  "license": "CC BY-SA 4.0; see source page for attribution and revision history",
+  "status": "review",
+  "text": "A transistor is a semiconductor device with at least three terminals for connection to an electric circuit. In the common case, the third terminal controls the flow of current between the other two terminals. This can be used for amplification, as in the case of a radio receiver, or for rapid switching, as in the case of digital circuits. The transistor replaced the vacuum-tube triode, also called a (thermionic) valve, which was much larger in size and used significantly more power to operate. The first transistor was successfully demonstrated on December 23, 1947, at Bell Laboratories in Murray Hill, New Jersey. Bell Labs was the research arm of American Telephone and Telegraph (AT&T). The three individuals credited with the invention of the transistor were William Shockley, John Bardeen and Walter Brattain. The introduction of the transistor is often considered one of the most important inventions in history.\nTransistors are broadly classified into two categories: bipolar junction transistor (BJT) and field-effect transistor (FET).\nThe principle of a field-effect transistor was proposed by Julius Edgar Lilienfeld in 1925. John Bardeen, Walter Brattain and William Shockley invented the first working transistors at Bell Labs, the point-contact transistor in 1947. Shockley introduced the improved bipolar junction transistor in 1948, which entered production in the early 1950s and led to the first widespread use of transistors.\nThe MOSFET was invented at Bell Labs between 1955 and 1960, after Frosch and Derick discovered surface passivation by silicon dioxide and used their finding to create the first planar transistors, the first in which drain and source were adjacent at the same surface. This breakthrough led to mass-production of MOS transistors for a wide range of uses, becoming the basis of processors and solid memories. The MOSFET has since become the most widely manufactured device in history."
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0788",
+  "source": "https://en.wikipedia.org/wiki/Haber_process",
+  "revisionId": 1381278696,
+  "fetchedAt": "2026-10-24T20:55:15.611Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fritz_Haber.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fritz_Haber.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fritz_Haber.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fritz_Haber.png",
+      "artist": "The Nobel Foundation",
+      "credit": "http://nobelprize.org/chemistry/laureates/1918/index.html",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

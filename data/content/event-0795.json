@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0795",
+  "title": "Year of Africa",
+  "source": "https://en.wikipedia.org/wiki/Year_of_Africa",
+  "revisionId": 1371377236,
+  "revisionTimestamp": "2026-08-26T03:36:20Z",
+  "fetchedAt": "2026-10-24T20:55:28.842Z",
+  "method": "mediawiki-intro-extract",
+  "license": "CC BY-SA 4.0; see source page for attribution and revision history",
+  "status": "review",
+  "text": "The Year of Africa refers to a series of events that took place during the year 1960—mainly the independence of seventeen African nations—that highlighted the growing pan-African sentiments in the continent. The year brought about the culmination of African independence movements and the subsequent emergence of Africa as a major force in the United Nations. These rapid political developments led to speculation and hope about the future of Africa as a whole; yet at the same time, the continent was beginning to face the realities of post-colonial violence. This year also saw the beginning of armed opposition to South African apartheid government, with political ramifications across Africa and around the world. During the year, 17 colonies became independent, including 14 colonies from the French colonial empire, 2 from the British Empire and 1 from Belgium."
+}

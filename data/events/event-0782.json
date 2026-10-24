@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0782",
+  "id_num": 782,
+  "slug": null,
+  "status": "review",
+  "name": "Origins of Buddhism",
+  "short_desc": "A community develops around the Buddha’s teachings on suffering, ethical conduct and liberation in the northern Indian subcontinent.",
+  "long_desc": null,
+  "start": -600,
+  "end": -350,
+  "location": "Northern India · Nepal",
+  "type": "Religion",
+  "field": "History",
+  "relevance": 1,
+  "priority": 1,
+  "source": "https://pluralism.org/buddhism",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "uncertain",
+  "date_note": "A broad origins window reflecting disputed traditional and scholarly dates for the Buddha and early community. These are possible origin bounds, not the duration of Buddhism.",
+  "places": [
+    "place-e755eeaabf2e",
+    "place-e15a18aadcac"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. Adds the religious tradition as a historical development, distinct from the existing Buddha biography and later Asian states. Evidence and date rationale: The sixth-to-fourth-century BCE window is an editorial orientation covering differing traditional and scholarly chronologies for the Buddha and early community. Harvard notes the disputed dates; modern proposals can place the Buddha’s life around 460–380 BCE. These are possible origin bounds, not Buddhism’s duration. The existing Buddha biography retains its separate recorded chronology. Primary evidence: https://pluralism.org/buddhism. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Broad approximate origins window",
+  "periods": [],
+  "timeline_period": null
+}

@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-24",
+  "scope": "Twenty major gaps selected after reviewing existing names, summaries and related biographies. Editorial survey coverage, not an objective universal top twenty.",
+  "selectionCriteria": [
+    "Large and lasting consequences for populations, institutions, technology or belief.",
+    "Adds a distinct milestone beyond existing biographies, states or broad periods.",
+    "Improves geographic and thematic coverage without using a regional quota.",
+    "Dates and place associations checked against claim-specific institutional or academic sources."
+  ],
+  "priorityMethod": "docs/PRIORITY.md; 1 essential survey milestone, 2 major survey topic. Priority is separate from uncertainty, moral value and record status.",
+  "originalRecordsPreserved": 778,
+  "newPlaceIds": [
+    "place-1366ad341523",
+    "place-fd8711d30c80",
+    "place-939e97b9cdb0",
+    "place-d77d64b16e0b",
+    "place-38e64378dcc9",
+    "place-7942e84ee77f",
+    "place-c91bd9c288c0",
+    "place-f4cb75e90ad0",
+    "place-d27c899eb5eb",
+    "place-c42f58010802",
+    "place-ab277d1f5475",
+    "place-fd63cd946b2d",
+    "place-1a2290470e0a",
+    "place-8e07df26128d",
+    "place-96540e28d34e",
+    "place-cc495debc1aa",
+    "place-7d6b68079d46",
+    "place-7d28ff3bd433",
+    "place-c94b56e02b7e",
+    "place-362234c02fd6",
+    "place-0f9ea5841e71",
+    "place-399ad54ce9d5",
+    "place-8b7874e4df78",
+    "place-7f48a600768b",
+    "place-67e218f2bddb",
+    "place-4a724471c49b",
+    "place-937aa06da838",
+    "place-3383e4237141",
+    "place-5f54f2d82d16",
+    "place-0b778819fc27",
+    "place-1d5a04fbeace",
+    "place-0c341736c12d",
+    "place-1b86d8f1ddff",
+    "place-7275a5863bab",
+    "place-15bc5d87cc42",
+    "place-2a200e0c356a",
+    "place-4451df5780fe",
+    "place-92150179d1b6",
+    "place-562017f663ea"
+  ],
+  "additionalEvidence": [
+    {
+      "ids": [
+        "event-0782"
+      ],
+      "source": "https://iep.utm.edu/buddha/",
+      "scope": "Disputed Buddha chronology, including proposed death dates around 400–350 BCE."
+    },
+    {
+      "ids": [
+        "event-0795"
+      ],
+      "source": "https://www.ascleiden.nl/news/infosheets-17-african-countries-gained-independence-1960",
+      "scope": "Names of the seventeen African countries in the 1960 convention."
+    },
+    {
+      "ids": [
+        "event-0796"
+      ],
+      "source": "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/",
+      "scope": "Cultural Revolution chronology, 1966–1976."
+    }
+  ],
+  "entries": [
+    {
+      "id": "event-0779",
+      "name": "Early Bantu expansion",
+      "start": -4000,
+      "end": -2000,
+      "dateKind": "uncertain",
+      "dateLabel": "Approximate onset window",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "A continent-scale demographic and linguistic transformation missing from a catalog with extensive European and Eurasian population history.",
+      "source": "https://www.nature.com/articles/s41586-023-06770-6",
+      "dateRationale": "The 2023 genomic study describes an expansion beginning 6,000–4,000 years ago. The stored 4000–2000 BCE bounds are a rounded calendar orientation for that uncertain onset, not the duration of later migrations and not a viewer-relative BP conversion. Routes and timing remain debated.",
+      "places": [
+        {
+          "id": "place-3f5053b3ae70",
+          "label": "Africa"
+        },
+        {
+          "id": "place-1366ad341523",
+          "label": "Cameroon"
+        }
+      ],
+      "background": {
+        "requested": "Bantu expansion",
+        "title": "Bantu expansion",
+        "source": "https://en.wikipedia.org/wiki/Bantu_expansion",
+        "revisionId": 1380028392,
+        "fetchedAt": "2026-10-24T20:54:59.194Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0780",
+      "name": "Austronesian expansion out of Taiwan",
+      "start": -2000,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Approximate outward expansion",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "Connects otherwise isolated Madagascar and New Zealand settlement entries to a major maritime dispersal across the Indian and Pacific oceans.",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951936/",
+      "dateRationale": "Circa 2000 BCE is a rounded marker for departure from Taiwan, corresponding to the cited 2014 study’s estimate of roughly 4,000 years ago. It is not the date when all later destinations were reached. Later Pacific and Madagascar settlements follow different regional chronologies; migrations involved interaction with existing populations.",
+      "places": [
+        {
+          "id": "place-fd8711d30c80",
+          "label": "Taiwan"
+        },
+        {
+          "id": "place-a73ef7e2d61c",
+          "label": "Southeast Asia"
+        },
+        {
+          "id": "place-939e97b9cdb0",
+          "label": "Oceania"
+        },
+        {
+          "id": "place-d6804464c5f4",
+          "label": "Madagascar"
+        }
+      ],
+      "background": {
+        "requested": "Austronesian peoples",
+        "title": "Austronesian peoples",
+        "source": "https://en.wikipedia.org/wiki/Austronesian_peoples",
+        "revisionId": 1381258148,
+        "fetchedAt": "2026-10-24T20:55:01.137Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0781",
+      "name": "Early Vedic traditions",
+      "start": -1500,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Approximate early textual horizon",
+      "priority": 1,
+      "type": "Religion",
+      "field": "History",
+      "why": "Supplies a major missing religious foundation without falsely assigning all of Hinduism a single inventor or birthday.",
+      "source": "https://rpl.hds.harvard.edu/resource/hinduism",
+      "dateRationale": "Circa 1500 BCE follows Harvard’s approximate dating of the Rig Veda and the emergence of clear Vedic textual and ritual evidence. This is an orientation marker for early Vedic traditions, not a single founding date for Hinduism or the start of all South Asian religion. The hymns circulated orally before later written preservation.",
+      "places": [
+        {
+          "id": "place-1b269162f8ee",
+          "label": "Punjab"
+        },
+        {
+          "id": "place-e755eeaabf2e",
+          "label": "Northern India"
+        }
+      ],
+      "background": {
+        "requested": "Historical Vedic religion",
+        "title": "Historical Vedic religion",
+        "source": "https://en.wikipedia.org/wiki/Historical_Vedic_religion",
+        "revisionId": 1378989715,
+        "fetchedAt": "2026-10-24T20:55:02.920Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0782",
+      "name": "Origins of Buddhism",
+      "start": -600,
+      "end": -350,
+      "dateKind": "uncertain",
+      "dateLabel": "Broad approximate origins window",
+      "priority": 1,
+      "type": "Religion",
+      "field": "History",
+      "why": "Adds the religious tradition as a historical development, distinct from the existing Buddha biography and later Asian states.",
+      "source": "https://pluralism.org/buddhism",
+      "dateRationale": "The sixth-to-fourth-century BCE window is an editorial orientation covering differing traditional and scholarly chronologies for the Buddha and early community. Harvard notes the disputed dates; modern proposals can place the Buddha’s life around 460–380 BCE. These are possible origin bounds, not Buddhism’s duration. The existing Buddha biography retains its separate recorded chronology.",
+      "places": [
+        {
+          "id": "place-e755eeaabf2e",
+          "label": "Northern India"
+        },
+        {
+          "id": "place-e15a18aadcac",
+          "label": "Nepal"
+        }
+      ],
+      "background": {
+        "requested": "Buddhism",
+        "title": "Buddhism",
+        "source": "https://en.wikipedia.org/wiki/Buddhism",
+        "revisionId": 1380642272,
+        "fetchedAt": "2026-10-24T20:55:04.650Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0783",
+      "name": "Abbasid Revolution",
+      "start": 747,
+      "end": 750,
+      "dateKind": "span",
+      "dateLabel": "Revolution and conquest",
+      "priority": 2,
+      "type": "War",
+      "field": "War",
+      "why": "Explains the political transition into a major era of Islamic history rather than leaving the Islamic Golden Age disconnected from its institutional setting.",
+      "source": "https://islamicceramics.ashmolean.org/Abbasid/history.htm",
+      "dateRationale": "Open revolt began at Merv in 747 and the Abbasids defeated the Umayyads in 750. This records the revolution, not the entire later Abbasid period or the separate survival of Umayyad rule in al-Andalus.",
+      "places": [
+        {
+          "id": "place-d77d64b16e0b",
+          "label": "Merv"
+        },
+        {
+          "id": "place-de5008d194a7",
+          "label": "Iraq"
+        },
+        {
+          "id": "place-38e64378dcc9",
+          "label": "Syria"
+        }
+      ],
+      "background": {
+        "requested": "Abbasid Revolution",
+        "title": "Abbasid revolution",
+        "source": "https://en.wikipedia.org/wiki/Abbasid_revolution",
+        "revisionId": 1379728200,
+        "fetchedAt": "2026-10-24T20:55:06.506Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0784",
+      "name": "Spanish American wars of independence",
+      "start": 1809,
+      "end": 1825,
+      "dateKind": "span",
+      "dateLabel": "Main independence campaigns",
+      "priority": 1,
+      "type": "War",
+      "field": "War",
+      "why": "A major transformation of the political map of the Americas; the existing Bolívar biography covers only part of this wider process.",
+      "source": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546343865?login=false",
+      "dateRationale": "The 1809–1825 main-campaign window follows Natalia Sobrevilla Perea’s Oxford research overview. The 1808 crisis in Spain preceded it, and later resistance, recognition and settlements extend beyond these bounds. This is a collective regional conflict window, not uninterrupted fighting in every place. Brazil’s separation from Portugal is a different process.",
+      "places": [
+        {
+          "id": "place-64be0885bc3f",
+          "label": "North America"
+        },
+        {
+          "id": "place-1c583b195015",
+          "label": "South America"
+        },
+        {
+          "id": "place-8be2978e3437",
+          "label": "Mexico"
+        },
+        {
+          "id": "place-7942e84ee77f",
+          "label": "Venezuela"
+        },
+        {
+          "id": "place-c91bd9c288c0",
+          "label": "Colombia"
+        },
+        {
+          "id": "place-f4cb75e90ad0",
+          "label": "Ecuador"
+        },
+        {
+          "id": "place-fdc224c5d688",
+          "label": "Peru"
+        },
+        {
+          "id": "place-d27c899eb5eb",
+          "label": "Bolivia"
+        },
+        {
+          "id": "place-c42f58010802",
+          "label": "Chile"
+        },
+        {
+          "id": "place-ea0b937ea317",
+          "label": "Argentina"
+        }
+      ],
+      "background": {
+        "requested": "Spanish American wars of independence",
+        "title": "Spanish American wars of independence",
+        "source": "https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence",
+        "revisionId": 1380912010,
+        "fetchedAt": "2026-10-24T20:55:08.312Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0785",
+      "name": "First Opium War",
+      "start": 1839,
+      "end": 1842,
+      "dateKind": "span",
+      "dateLabel": "War",
+      "priority": 2,
+      "type": "War",
+      "field": "War",
+      "why": "A central turning point in China’s nineteenth-century relations with imperial powers, missing despite substantial Qing and rebellion coverage.",
+      "source": "https://www.nationalarchives.gov.uk/education/teaching-resources/hong-kong-and-the-opium-wars/",
+      "dateRationale": "The first war ran from 1839 to 1842 and ended with the Treaty of Nanjing. It is separate from the Second Opium War of 1856–1860; this record does not bridge the intervening peace as one war.",
+      "places": [
+        {
+          "id": "place-10436829032f",
+          "label": "China"
+        }
+      ],
+      "background": {
+        "requested": "First Opium War",
+        "title": "First Opium War",
+        "source": "https://en.wikipedia.org/wiki/First_Opium_War",
+        "revisionId": 1381616602,
+        "fetchedAt": "2026-10-24T20:55:10.271Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0786",
+      "name": "Berlin Conference",
+      "start": 1884,
+      "end": 1885,
+      "dateKind": "span",
+      "dateLabel": "Conference",
+      "priority": 2,
+      "type": "Event",
+      "field": "History",
+      "why": "Adds a consequential colonial framework linking African history with nineteenth-century imperial expansion.",
+      "source": "https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414",
+      "dateRationale": "Held in Berlin from 15 November 1884 to 26 February 1885. The conference established rules for colonial claims and navigation; it did not draw every African border or begin all European colonization of Africa.",
+      "places": [
+        {
+          "id": "place-dad114b6ed73",
+          "label": "Berlin"
+        },
+        {
+          "id": "place-3f5053b3ae70",
+          "label": "Africa"
+        }
+      ],
+      "background": {
+        "requested": "Berlin Conference",
+        "title": "Berlin Conference",
+        "source": "https://en.wikipedia.org/wiki/Berlin_Conference",
+        "revisionId": 1380363924,
+        "fetchedAt": "2026-10-24T20:55:11.971Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0787",
+      "name": "Mexican Revolution",
+      "start": 1910,
+      "end": 1920,
+      "dateKind": "span",
+      "dateLabel": "Main armed revolutionary phase",
+      "priority": 2,
+      "type": "War",
+      "field": "War",
+      "why": "A major Latin American social revolution absent from a catalog rich in European revolutions and civil wars.",
+      "source": "https://guides.loc.gov/chronicling-america-mexican-revolution",
+      "dateRationale": "The conventional 1910–1920 frame runs from the uprising against Porfirio Díaz to the rise of Álvaro Obregón. It is not a claim that every locality became peaceful in 1920 or that later revolutionary reforms ended then.",
+      "places": [
+        {
+          "id": "place-8be2978e3437",
+          "label": "Mexico"
+        }
+      ],
+      "background": {
+        "requested": "Mexican Revolution",
+        "title": "Mexican Revolution",
+        "source": "https://en.wikipedia.org/wiki/Mexican_Revolution",
+        "revisionId": 1376208714,
+        "fetchedAt": "2026-10-24T20:55:14.106Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0788",
+      "name": "Industrial ammonia synthesis begins",
+      "start": 1913,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "First industrial plant",
+      "priority": 1,
+      "type": "Invention",
+      "field": "Science",
+      "why": "A foundational change in the food system and chemical industry, distinct from the existing Fritz Haber biography.",
+      "source": "https://www.basf.com/global/de/who-we-are/history/Carl-Bosch",
+      "dateRationale": "BASF’s first industrial ammonia synthesis plant opened at Oppau on 9 September 1913. This industrial milestone is distinct from Haber’s earlier laboratory work and later improvements; ammonia production also supplied explosives.",
+      "places": [
+        {
+          "id": "place-ab277d1f5475",
+          "label": "Oppau"
+        }
+      ],
+      "background": {
+        "requested": "Haber process",
+        "title": "Haber process",
+        "source": "https://en.wikipedia.org/wiki/Haber_process",
+        "revisionId": 1381278696,
+        "fetchedAt": "2026-10-24T20:55:15.611Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0789",
+      "name": "Discovery of penicillin",
+      "start": 1928,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Discovery",
+      "priority": 1,
+      "type": "Event",
+      "field": "Science",
+      "why": "Makes the discovery and its medical significance visible as a dated milestone instead of relying on a person’s lifespan.",
+      "source": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html",
+      "dateRationale": "Fleming made the observation at St Mary’s Hospital, London, in 1928. Clinical development by Florey, Chain and colleagues followed around 1940–1941, with wartime mass production later. The discovery year is not the start of widespread antibiotic treatment.",
+      "places": [
+        {
+          "id": "place-fd63cd946b2d",
+          "label": "St Mary's Hospital, London"
+        }
+      ],
+      "background": {
+        "requested": "Discovery of penicillin",
+        "title": "Discovery of penicillin",
+        "source": "https://en.wikipedia.org/wiki/Discovery_of_penicillin",
+        "revisionId": 1380230756,
+        "fetchedAt": "2026-10-24T20:55:17.325Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0790",
+      "name": "United Nations established",
+      "start": 1945,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Establishment",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "A central institution of the postwar international order, separate from the existing League of Nations and World War II records.",
+      "source": "https://www.un.org/en/about-us/history-of-the-un",
+      "dateRationale": "The Charter was signed in San Francisco on 26 June 1945 and entered into force on 24 October 1945, the UN’s official establishment date. San Francisco locates the founding conference; the institution and ratification process had an international scope.",
+      "places": [
+        {
+          "id": "place-1a2290470e0a",
+          "label": "San Francisco"
+        },
+        {
+          "id": "place-7aca9b2c4a36",
+          "label": "Worldwide"
+        }
+      ],
+      "background": {
+        "requested": "History of the United Nations",
+        "title": "History of the United Nations",
+        "source": "https://en.wikipedia.org/wiki/History_of_the_United_Nations",
+        "revisionId": 1356416187,
+        "fetchedAt": "2026-10-24T20:55:18.997Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0791",
+      "name": "Independence and partition of British India",
+      "start": 1947,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Independence and partition",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "A major decolonization and population-displacement milestone absent despite existing Gandhi, Mughal and British-colonial subjects.",
+      "source": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/",
+      "dateRationale": "Independence came on 14–15 August 1947, with the boundary award published on 17 August. Present-day Bangladesh locates eastern Bengal, then part of Pakistan; Bangladesh did not become independent in 1947. Violence and migration extended beyond these formal milestones.",
+      "places": [
+        {
+          "id": "place-fb54e9062429",
+          "label": "India"
+        },
+        {
+          "id": "place-ad1d0a33d147",
+          "label": "Pakistan"
+        },
+        {
+          "id": "place-8e07df26128d",
+          "label": "Bangladesh"
+        }
+      ],
+      "background": {
+        "requested": "Partition of India",
+        "title": "Partition of India",
+        "source": "https://en.wikipedia.org/wiki/Partition_of_India",
+        "revisionId": 1376809023,
+        "fetchedAt": "2026-10-24T20:55:20.774Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0792",
+      "name": "First working transistor",
+      "start": 1947,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Working demonstration",
+      "priority": 1,
+      "type": "Invention",
+      "field": "Science",
+      "why": "Supplies the missing hardware foundation between early computers and later personal-computing and web milestones.",
+      "source": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/",
+      "dateRationale": "The point-contact device showed amplification on 16 December 1947 and was demonstrated to Bell Labs officials on 23 December. The public announcement came in June 1948; later junction and silicon transistors were separate developments.",
+      "places": [
+        {
+          "id": "place-96540e28d34e",
+          "label": "Murray Hill, New Jersey"
+        }
+      ],
+      "background": {
+        "requested": "History of the transistor",
+        "title": "History of the transistor",
+        "source": "https://en.wikipedia.org/wiki/History_of_the_transistor",
+        "revisionId": 1375406020,
+        "fetchedAt": "2026-10-24T20:55:22.446Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0793",
+      "name": "Universal Declaration of Human Rights adopted",
+      "start": 1948,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Adoption",
+      "priority": 2,
+      "type": "Event",
+      "field": "History",
+      "why": "A major postwar rights framework with continuing influence beyond any single national constitution.",
+      "source": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "dateRationale": "Adopted in Paris on 10 December 1948 as General Assembly resolution 217 A (III). This records adoption of a declaration, not a binding treaty coming into force or the first appearance of ideas about rights.",
+      "places": [
+        {
+          "id": "place-5dd272b4f316",
+          "label": "Paris"
+        },
+        {
+          "id": "place-7aca9b2c4a36",
+          "label": "Worldwide"
+        }
+      ],
+      "background": {
+        "requested": "Universal Declaration of Human Rights",
+        "title": "Universal Declaration of Human Rights",
+        "source": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+        "revisionId": 1376139589,
+        "fetchedAt": "2026-10-24T20:55:23.878Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0794",
+      "name": "People’s Republic of China proclaimed",
+      "start": 1949,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Proclamation",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "A central change in twentieth-century world politics missing between the catalog’s imperial dynasties and Mao-era campaigns.",
+      "source": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "dateRationale": "Proclaimed in Beijing on 1 October 1949. This is the establishment milestone, not a claim that all civil-war fighting ended that day or that the Republic of China ceased to exist.",
+      "places": [
+        {
+          "id": "place-cc495debc1aa",
+          "label": "Beijing"
+        }
+      ],
+      "background": {
+        "requested": "Proclamation of the People's Republic of China",
+        "title": "Proclamation of the People's Republic of China",
+        "source": "https://en.wikipedia.org/wiki/Proclamation_of_the_People's_Republic_of_China",
+        "revisionId": 1381719609,
+        "fetchedAt": "2026-10-24T20:55:27.212Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0795",
+      "name": "Year of Africa",
+      "start": 1960,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Independence milestones",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "Adds the continent-wide decolonization turning point instead of representing African independence through isolated conflicts alone.",
+      "source": "https://www.un.org/dppa/decolonization/history/former-trust-and-nsgts",
+      "dateRationale": "The seventeen-country convention refers to independence milestones during calendar year 1960, including Senegal and Mali after the Mali Federation and Somalia’s unification. It is not the beginning or completion of decolonization across Africa. Country labels are present-day geographic references.",
+      "places": [
+        {
+          "id": "place-3f5053b3ae70",
+          "label": "Africa"
+        },
+        {
+          "id": "place-1366ad341523",
+          "label": "Cameroon"
+        },
+        {
+          "id": "place-7d6b68079d46",
+          "label": "Togo"
+        },
+        {
+          "id": "place-d6804464c5f4",
+          "label": "Madagascar"
+        },
+        {
+          "id": "place-059bdf337a98",
+          "label": "DR Congo"
+        },
+        {
+          "id": "place-7d28ff3bd433",
+          "label": "Somalia"
+        },
+        {
+          "id": "place-c94b56e02b7e",
+          "label": "Benin"
+        },
+        {
+          "id": "place-362234c02fd6",
+          "label": "Niger"
+        },
+        {
+          "id": "place-0f9ea5841e71",
+          "label": "Burkina Faso"
+        },
+        {
+          "id": "place-399ad54ce9d5",
+          "label": "Côte d’Ivoire"
+        },
+        {
+          "id": "place-2dec26043f67",
+          "label": "Chad"
+        },
+        {
+          "id": "place-8b7874e4df78",
+          "label": "Central African Republic"
+        },
+        {
+          "id": "place-7f48a600768b",
+          "label": "Republic of the Congo"
+        },
+        {
+          "id": "place-67e218f2bddb",
+          "label": "Gabon"
+        },
+        {
+          "id": "place-4a724471c49b",
+          "label": "Senegal"
+        },
+        {
+          "id": "place-937aa06da838",
+          "label": "Mali"
+        },
+        {
+          "id": "place-3383e4237141",
+          "label": "Nigeria"
+        },
+        {
+          "id": "place-5f54f2d82d16",
+          "label": "Mauritania"
+        }
+      ],
+      "background": {
+        "requested": "Year of Africa",
+        "title": "Year of Africa",
+        "source": "https://en.wikipedia.org/wiki/Year_of_Africa",
+        "revisionId": 1371377236,
+        "fetchedAt": "2026-10-24T20:55:28.842Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0796",
+      "name": "Cultural Revolution in China",
+      "start": 1966,
+      "end": 1976,
+      "dateKind": "span",
+      "dateLabel": "Political campaign",
+      "priority": 2,
+      "type": "Event",
+      "field": "Politics",
+      "why": "A distinct large-scale political and social upheaval missing despite an existing Great Leap Forward record.",
+      "source": "https://www.nationalarchives.gov.uk/education/resources/the-cultural-revolution/",
+      "dateRationale": "The conventional 1966–1976 period follows the National Archives and Smithsonian chronology. This is a state-initiated political and social campaign with violent phases, rather than a separate interstate war merely because its name contains revolution.",
+      "places": [
+        {
+          "id": "place-10436829032f",
+          "label": "China"
+        }
+      ],
+      "background": {
+        "requested": "Cultural Revolution",
+        "title": "Cultural Revolution",
+        "source": "https://en.wikipedia.org/wiki/Cultural_Revolution",
+        "revisionId": 1380261480,
+        "fetchedAt": "2026-10-24T20:55:31.001Z"
+      },
+      "backgroundScopeNote": null
+    },
+    {
+      "id": "event-0797",
+      "name": "Smallpox eradication declared",
+      "start": 1980,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Eradication declaration",
+      "priority": 1,
+      "type": "Event",
+      "field": "Science",
+      "why": "A major global public-health achievement, distinct from the existing 1796 vaccination experiment.",
+      "source": "https://www.who.int/news-room/detail/08-05-2020-commemorating-smallpox-eradication-a-legacy-of-hope-for-covid-19-and-other-diseases",
+      "dateRationale": "The World Health Assembly declaration was adopted on 8 May 1980. The last naturally occurring case was recorded in 1977 and the certification commission reported in 1979; this point marks the formal declaration, not the date of the last infection.",
+      "places": [
+        {
+          "id": "place-7aca9b2c4a36",
+          "label": "Worldwide"
+        },
+        {
+          "id": "place-806b1459b451",
+          "label": "Geneva"
+        }
+      ],
+      "background": {
+        "requested": "Eradication of smallpox",
+        "title": "History of smallpox",
+        "source": "https://en.wikipedia.org/wiki/History_of_smallpox",
+        "revisionId": 1381596665,
+        "fetchedAt": "2026-10-24T20:55:32.448Z"
+      },
+      "backgroundScopeNote": "The requested eradication article redirects to History of smallpox; the cached introduction covers broader disease history. The specific 1980 milestone is established by WHO."
+    },
+    {
+      "id": "event-0798",
+      "name": "Dissolution of the Soviet Union",
+      "start": 1991,
+      "end": null,
+      "dateKind": "point",
+      "dateLabel": "Dissolution",
+      "priority": 1,
+      "type": "Event",
+      "field": "History",
+      "why": "A world-order transition distinct from the fall of the Berlin Wall, the Cold War period and the Soviet state’s existence span.",
+      "source": "https://www.bush41library.gov/digital-research-room/finding-aid/foia/records-dissolution-soviet-union",
+      "dateRationale": "Republic declarations and negotiations unfolded throughout 1991. Gorbachev resigned on 25 December and the remaining Soviet institutions formally acknowledged dissolution on 26 December. This point is the final state dissolution, not the whole reform process or a claim that every successor conflict ended.",
+      "places": [
+        {
+          "id": "place-5338fc108450",
+          "label": "Soviet Union"
+        },
+        {
+          "id": "place-4661bd5b4b1a",
+          "label": "Moscow"
+        },
+        {
+          "id": "place-33a3d8ed92b0",
+          "label": "Russia"
+        },
+        {
+          "id": "place-580eedc669f3",
+          "label": "Ukraine"
+        },
+        {
+          "id": "place-0b778819fc27",
+          "label": "Belarus"
+        },
+        {
+          "id": "place-1d5a04fbeace",
+          "label": "Armenia"
+        },
+        {
+          "id": "place-0c341736c12d",
+          "label": "Azerbaijan"
+        },
+        {
+          "id": "place-1b86d8f1ddff",
+          "label": "Georgia (country)"
+        },
+        {
+          "id": "place-7275a5863bab",
+          "label": "Estonia"
+        },
+        {
+          "id": "place-15bc5d87cc42",
+          "label": "Latvia"
+        },
+        {
+          "id": "place-2a200e0c356a",
+          "label": "Lithuania"
+        },
+        {
+          "id": "place-4451df5780fe",
+          "label": "Kazakhstan"
+        },
+        {
+          "id": "place-92150179d1b6",
+          "label": "Kyrgyzstan"
+        },
+        {
+          "id": "place-3c9e5562b466",
+          "label": "Tajikistan"
+        },
+        {
+          "id": "place-700530bf6ed3",
+          "label": "Turkmenistan"
+        },
+        {
+          "id": "place-1c438aa8cb19",
+          "label": "Uzbekistan"
+        },
+        {
+          "id": "place-562017f663ea",
+          "label": "Moldova"
+        }
+      ],
+      "background": {
+        "requested": "Dissolution of the Soviet Union",
+        "title": "Dissolution of the Soviet Union",
+        "source": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+        "revisionId": 1381681714,
+        "fetchedAt": "2026-10-24T20:55:34.109Z"
+      },
+      "backgroundScopeNote": null
+    }
+  ]
+}

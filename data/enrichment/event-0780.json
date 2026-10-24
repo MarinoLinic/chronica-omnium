@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0780",
+  "source": "https://en.wikipedia.org/wiki/Austronesian_peoples",
+  "revisionId": 1381258148,
+  "fetchedAt": "2026-10-24T20:55:01.137Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Taiwanese_aborigines.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Taiwanese_aborigines.JPG/960px-Taiwanese_aborigines.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Taiwanese_aborigines.JPG/330px-Taiwanese_aborigines.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Taiwanese_aborigines.JPG",
+      "artist": "Stanislav Kozlovskiy",
+      "credit": "Self-photographed",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

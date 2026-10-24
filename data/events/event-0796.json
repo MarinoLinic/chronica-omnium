@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0796",
+  "id_num": 796,
+  "slug": null,
+  "status": "review",
+  "name": "Cultural Revolution in China",
+  "short_desc": "Mao Zedong’s political campaign brings purges, mass persecution and severe disruption to Chinese society.",
+  "long_desc": null,
+  "start": 1966,
+  "end": 1976,
+  "location": "China",
+  "type": "Event",
+  "field": "Politics",
+  "relevance": 1,
+  "priority": 2,
+  "source": "https://www.nationalarchives.gov.uk/education/resources/the-cultural-revolution/",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "The conventional 1966–1976 period covers a political and social campaign with violent phases.",
+  "places": [
+    "place-10436829032f"
+  ],
+  "notes": "Added after a catalog gap review on 24 October 2026. A distinct large-scale political and social upheaval missing despite an existing Great Leap Forward record. Evidence and date rationale: The conventional 1966–1976 period follows the National Archives and Smithsonian chronology. This is a state-initiated political and social campaign with violent phases, rather than a separate interstate war merely because its name contains revolution. Primary evidence: https://www.nationalarchives.gov.uk/education/resources/the-cultural-revolution/. Cached Wikipedia introduction and lead image provide separately attributed background. Remains review, not comprehensive factual approval.",
+  "legacy": {},
+  "date_label": "Political campaign",
+  "periods": [],
+  "timeline_period": null
+}

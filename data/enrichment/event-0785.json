@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0785",
+  "source": "https://en.wikipedia.org/wiki/First_Opium_War",
+  "revisionId": 1381616602,
+  "fetchedAt": "2026-10-24T20:55:10.271Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg/960px-Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg/330px-Destroying_Chinese_war_junks%2C_by_E._Duncan_%281843%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Destroying_Chinese_war_junks,_by_E._Duncan_(1843).jpg",
+      "artist": "Edward Duncan",
+      "credit": "http://ocw.mit.edu/ans7870/21f/21f.027/opium_wars_01/ow1_gallery/pages/1841_0792_nemesis_jm_nmm.htm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}
