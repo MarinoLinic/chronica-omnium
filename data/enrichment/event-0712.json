@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0712",
+  "source": "https://en.wikipedia.org/wiki/Kanva_dynasty",
+  "revisionId": 1378254841,
+  "fetchedAt": "2026-10-24T15:59:58.206Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/India_in_50_bc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/2/25/India_in_50_bc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/India_in_50_bc.jpg/330px-India_in_50_bc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:India_in_50_bc.jpg",
+      "artist": "Thomas Lessman",
+      "credit": "https://www.worldhistorymaps.info/tal_aowh/images/East-Hem_050bc.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

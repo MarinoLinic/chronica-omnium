@@ -3,7 +3,13 @@ export function downloadBlob(blob, name) {
   link.href = url; link.download = name; link.click(); setTimeout(() => URL.revokeObjectURL(url), 1000)
 }
 export async function exportTimeline(svg, format) {
-  const source = new XMLSerializer().serializeToString(svg)
+  const standalone = svg.cloneNode(true), theme = getComputedStyle(svg)
+  // Keep the shared reader colours when an SVG is opened without the site's CSS.
+  for (const token of ['--age-earth','--age-tools','--age-human','--ink','--muted','--line']) {
+    const value = theme.getPropertyValue(token).trim()
+    if (value) standalone.style.setProperty(token,value)
+  }
+  const source = new XMLSerializer().serializeToString(standalone)
   const blob = new Blob([source], { type: 'image/svg+xml;charset=utf-8' })
   if (format === 'svg') { downloadBlob(blob, 'chronica-timeline.svg'); return blob }
   const url = URL.createObjectURL(blob)

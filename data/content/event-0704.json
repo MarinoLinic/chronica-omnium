@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0704",
+  "source": "https://en.wikipedia.org/wiki/Northern_Han",
+  "title": "Northern Han",
+  "revisionId": 1380980501,
+  "revisionTimestamp": "2026-10-19T06:11:14Z",
+  "fetchedAt": "2026-10-24T15:59:57.049Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Northern Han (simplified Chinese: 北汉; traditional Chinese: 北漢; pinyin: Běi Hàn) was a dynastic state of China and one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period. It was founded by Liu Min (Emperor Shizu) as a continuation of the Later Han dynasty founded by his brother Liu Zhiyuan (Emperor Gaozu). The Northern Han lasted from 951 to 979, when it was conquered by the Northern Song dynasty."
+}

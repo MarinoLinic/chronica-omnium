@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0747",
+  "source": "https://en.wikipedia.org/wiki/Chola_dynasty",
+  "revisionId": 1376291701,
+  "fetchedAt": "2026-10-24T16:00:01.517Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Thanjavur_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Thanjavur_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Thanjavur_temple.jpg/330px-Thanjavur_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Thanjavur_temple.jpg",
+      "artist": "The original uploader was Venu62 at English Wikipedia.",
+      "credit": "Transferred from en.wikipedia to Commons.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

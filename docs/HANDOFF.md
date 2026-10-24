@@ -8,6 +8,16 @@ This continuation started from commit `46fc4bf` (`Sol updates`), which already c
 
 ## Start here
 
+### Queue curation, catalog expansion and simple time guide
+
+The follow-up adds **112 records**, `event-0667`–`event-0778`, and clarifies 82 existing classifications/date meanings. The current total is **778 records: 748 dated and 30 undated**. It adds 82 Chinese/Indian states or dynastic phases, 14 selected battles, nine rebellions, three wars, the sealing of Magna Carta, the Spanish Inquisition and two ironworking developments. `Unit` is replaced by State or Civilization as appropriate, and battles/rebellions/sieges/campaigns are distinct filter types. Original IDs and archived exports remain intact.
+
+Read [CATALOG-CURATION.md](CATALOG-CURATION.md) for scope, coverage, chronology qualifications, source reports, backups, exact resume commands and remaining gaps. The cleaned private queue has 376 active candidates; 812 clear non-candidates are excluded, 288 doubtful subjects are retained separately, and 24 period/reference topics are routed away from event intake. This supersedes the broad pending list described in the first-batch notes below.
+
+The user explicitly requested **simple, approximate time scales close to the original scheme**, with accuracy improvements rather than many regional medieval/archaeological schemes. The canonical time-scale file now corrects obvious date-copy/zero/nesting errors and cites sources. It retains the rough original boundaries elsewhere. The new left-hand guide follows the visible chronicle story; mobile readers can expand it. Vertical charts include approximate age/century bands in PNG/SVG exports. Source notes and regional qualifications remain concise.
+
+`npm run data:build` and `npm run check` pass with **38 tests**, an offline production build, **zero validation errors and 451 warnings**. Desktop/mobile navigation and four full-chart exports were checked. There are now 776 article snapshots and 754 selected image choices; no new image-byte cache was downloaded. The three remaining regional time-scale range warnings are documented rather than silently resolved into a universal chronology. Use the current curation document rather than the earlier snapshot counts below.
+
 ### Discord Wikipedia intake, 24 October 2026
 
 The first intake batch adds **92 new records**, `event-0575`–`event-0666`: 78 people and 14 events, works, or periods. The catalog now contains **666 records, 636 dated and 30 undated**. Every one of the 574 pre-existing authored record files was checked byte-for-byte against its intake baseline and is unchanged.

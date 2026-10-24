@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0684",
+  "source": "https://en.wikipedia.org/wiki/Sui_dynasty",
+  "revisionId": 1378031675,
+  "fetchedAt": "2026-10-24T15:59:51.908Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cheui_Dynasty_581_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/2/29/Cheui_Dynasty_581_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Cheui_Dynasty_581_CE.png/330px-Cheui_Dynasty_581_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Cheui_Dynasty_581_CE.png",
+      "artist": "Ian Kiu",
+      "credit": "Own work",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

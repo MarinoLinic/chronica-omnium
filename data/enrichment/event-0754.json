@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0754",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+  "revisionId": 1380225409,
+  "fetchedAt": "2026-10-24T16:00:12.544Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/960px-Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/330px-Bayeux_Tapestry_scene57_Harold_death.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg",
+      "artist": "Myrabella",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

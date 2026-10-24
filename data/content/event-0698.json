@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0698",
+  "source": "https://en.wikipedia.org/wiki/Ma_Chu",
+  "title": "Ma Chu",
+  "revisionId": 1380986419,
+  "revisionTimestamp": "2026-10-19T07:23:06Z",
+  "fetchedAt": "2026-10-24T15:59:55.860Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Chu (Chinese: 楚; pinyin: Chǔ), known in historiography as Ma Chu (馬楚) or Southern Chu (南楚), was a dynastic state of China that existed from 907 to 951. It is counted as one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period of Chinese history."
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0718",
+  "source": "https://en.wikipedia.org/wiki/Kadamba_dynasty",
+  "revisionId": 1381346592,
+  "fetchedAt": "2026-10-24T16:00:00.158Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Indian_Kadamba_Empire_map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Indian_Kadamba_Empire_map.svg/960px-Indian_Kadamba_Empire_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Indian_Kadamba_Empire_map.svg/330px-Indian_Kadamba_Empire_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Kadamba_Empire_map.svg",
+      "artist": "w:user:Planemad",
+      "credit": "Own work\nInternational Borders: University of Texas map library - India Political map 2001\nDisputed Borders: University of Texas map library - China-India Borders - Eastern Sector 1988 & Western Sector 1988 - Kashmir Region 2004 - Kashmir Maps.\nState and District boundaries: Census of India - 2001 Census State Maps - Survey of India Maps.\nOther sources: US Army Map Service, Survey of India Map Explorer, Columbia University \n\nMap specific sources: \"The Kadamba Kula, A History of Ancient and Medieval Karnataka, Asian Educational Services, New Delhi, Madras, 1990 ISBN 81-206-0595-0\" page 47.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

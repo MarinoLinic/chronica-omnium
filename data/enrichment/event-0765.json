@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0765",
+  "source": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
+  "revisionId": 1381282222,
+  "fetchedAt": "2026-10-24T16:00:16.367Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Red_Turban.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Red_Turban.png/960px-Red_Turban.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Red_Turban.png/330px-Red_Turban.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Turban.png",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0732",
+  "source": "https://en.wikipedia.org/wiki/Seuna_dynasty",
+  "revisionId": 1378860854,
+  "fetchedAt": "2026-10-24T16:00:05.650Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Yadavas_of_Devagiri._Bhillama_V._1185-1193.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/4/45/Yadavas_of_Devagiri._Bhillama_V._1185-1193.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Yadavas_of_Devagiri._Bhillama_V._1185-1193.jpg/330px-Yadavas_of_Devagiri._Bhillama_V._1185-1193.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Yadavas_of_Devagiri._Bhillama_V._1185-1193.jpg",
+      "artist": "CNG Coins",
+      "credit": "CNG Coins Coin from Coin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Classical Numismatic Group, Inc. http://www.cngcoins.com"
+    }
+  }
+}

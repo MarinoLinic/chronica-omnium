@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0702",
+  "source": "https://en.wikipedia.org/wiki/Jingnan",
+  "title": "Jingnan",
+  "revisionId": 1380986338,
+  "revisionTimestamp": "2026-10-19T07:21:50Z",
+  "fetchedAt": "2026-10-24T15:59:56.536Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Jingnan (simplified Chinese: 荆南; traditional Chinese: 荊南; pinyin: Jīngnán), also known as Nanping (南平; alternatively written as Southern Ping) and Northern Chu (北楚) in historiography, was a dynastic state of China and one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period. Lasting from 924 to 963, it was located in south-central China."
+}

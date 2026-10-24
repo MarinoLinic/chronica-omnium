@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0764",
+  "source": "https://en.wikipedia.org/wiki/An_Lushan_rebellion",
+  "revisionId": 1377811389,
+  "fetchedAt": "2026-10-24T16:00:15.815Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/An_Lushan_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/An_Lushan_Rebellion.png/960px-An_Lushan_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/An_Lushan_Rebellion.png/330px-An_Lushan_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:An_Lushan_Rebellion.png",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0744",
+  "source": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+  "revisionId": 1381426478,
+  "fetchedAt": "2026-10-24T16:00:09.706Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vijayanagara_Empire_c.1485.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vijayanagara_Empire_c.1485.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Vijayanagara_Empire_c.1485.png/330px-Vijayanagara_Empire_c.1485.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Vijayanagara_Empire_c.1485.png",
+      "artist": "Avantiputra7",
+      "credit": "It is according to Burton Stein's History of India (2nd ed., 2010) p.135, Map 8",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

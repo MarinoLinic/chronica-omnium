@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0678",
+  "source": "https://en.wikipedia.org/wiki/Northern_Qi",
+  "title": "Northern Qi",
+  "revisionId": 1381472260,
+  "revisionTimestamp": "2026-10-22T19:11:39Z",
+  "fetchedAt": "2026-10-24T15:59:50.043Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Qi, known as the Northern Qi (traditional Chinese: 北齊; simplified Chinese: 北齐; pinyin: Běi Qí; Wade–Giles: Pei3-Ch'i2), Later Qi (後齊) or Gao Qi (高齊) in historiography, was a Chinese imperial dynasty and one of the Northern dynasties during the Northern and Southern dynasties era. It ruled the eastern part of northern China from 550 to 577 AD. The dynasty was founded by Gao Yang (Emperor Wenxuan), and was eventually conquered by the Xianbei-led Northern Zhou dynasty in 577 AD."
+}

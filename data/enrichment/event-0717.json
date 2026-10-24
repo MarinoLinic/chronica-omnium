@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0717",
+  "source": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+  "revisionId": 1376622490,
+  "fetchedAt": "2026-10-24T15:59:59.657Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Greater_Pallavas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Greater_Pallavas.png/960px-Greater_Pallavas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Greater_Pallavas.png/330px-Greater_Pallavas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Greater_Pallavas.png",
+      "artist": "Map created from DEMIS Mapserver, which are public domain. Koba-chan.\nReference: [1] \n\nBorders by Rawn3012",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": ""
+    }
+  }
+}

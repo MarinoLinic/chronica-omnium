@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0682",
+  "source": "https://en.wikipedia.org/wiki/Liang_dynasty",
+  "title": "Liang dynasty",
+  "revisionId": 1375279227,
+  "revisionTimestamp": "2026-09-16T21:50:26Z",
+  "fetchedAt": "2026-10-24T15:59:51.316Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Liang dynasty (Chinese: 梁朝; pinyin: Liáng Cháo), alternatively known as the Southern Liang (Chinese: 南梁; pinyin: Nán Liáng) or Xiao Liang (Chinese: 蕭梁; pinyin: Xiāo Liáng) in historiography, was an imperial dynasty of China and the third of the four Southern dynasties during the Northern and Southern dynasties period. It was preceded by the Southern Qi dynasty and succeeded by the Chen dynasty. The rump state of Western Liang existed until it was conquered in 587 AD by the Sui dynasty."
+}

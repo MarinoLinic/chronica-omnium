@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "event-0685",
+  "id_num": 685,
+  "slug": null,
+  "status": "review",
+  "name": "Tang dynasty",
+  "short_desc": "A Chinese dynasty builds a large empire and becomes a center of trade, literature and cultural exchange.",
+  "long_desc": null,
+  "start": 618,
+  "end": 907,
+  "location": null,
+  "type": "State",
+  "field": "History",
+  "relevance": 1,
+  "source": "https://en.wikipedia.org/wiki/Tang_dynasty",
+  "image": null,
+  "casualties_low": null,
+  "casualties_high": null,
+  "dubious": null,
+  "date_kind": "span",
+  "date_note": "Tang rule was interrupted by Wu Zetian’s Zhou dynasty in 690–705; the additional periods retain that interruption.",
+  "places": [],
+  "notes": "Initial article identity, date meaning and source review completed. Summary authored for this catalog; independent claim-specific citations remain open.",
+  "legacy": {},
+  "date_label": "Political existence",
+  "periods": [
+    {
+      "id": "first-tang",
+      "label": "First Tang rule",
+      "kind": "other",
+      "start": 618,
+      "end": 690,
+      "date_kind": "span",
+      "date_note": "Before Wu Zetian’s Zhou interregnum.",
+      "source": "https://en.wikipedia.org/wiki/Tang_dynasty"
+    },
+    {
+      "id": "restored-tang",
+      "label": "Restored Tang rule",
+      "kind": "other",
+      "start": 705,
+      "end": 907,
+      "date_kind": "span",
+      "date_note": "Restored in 705.",
+      "source": "https://en.wikipedia.org/wiki/Tang_dynasty"
+    }
+  ],
+  "timeline_period": null
+}

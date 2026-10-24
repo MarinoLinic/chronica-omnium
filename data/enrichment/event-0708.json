@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0708",
+  "source": "https://en.wikipedia.org/wiki/Southern_Ming",
+  "revisionId": 1379826636,
+  "fetchedAt": "2026-10-24T16:11:31.902Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Southern_Ming.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Southern_Ming.png/960px-Southern_Ming.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Southern_Ming.png/330px-Southern_Ming.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Southern_Ming.png",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

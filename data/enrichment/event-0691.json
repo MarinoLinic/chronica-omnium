@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0691",
+  "source": "https://en.wikipedia.org/wiki/Liao_dynasty",
+  "revisionId": 1380985806,
+  "fetchedAt": "2026-10-24T15:59:54.005Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Liao_circuits.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Liao_circuits.png/960px-Liao_circuits.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Liao_circuits.png/330px-Liao_circuits.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Liao_circuits.png",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

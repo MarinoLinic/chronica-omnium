@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0735",
+  "source": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
+  "revisionId": 1380266426,
+  "fetchedAt": "2026-10-24T16:00:07.156Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eastern_Ganga_fanam_Chodaganga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eastern_Ganga_fanam_Chodaganga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Eastern_Ganga_fanam_Chodaganga.png/330px-Eastern_Ganga_fanam_Chodaganga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Eastern_Ganga_fanam_Chodaganga.png",
+      "artist": "Amshpatten",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

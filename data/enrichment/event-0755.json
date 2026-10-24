@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0755",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+  "revisionId": 1380768828,
+  "fetchedAt": "2026-10-24T16:00:13.121Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Scene_of_the_Battle_of_Marathon.jpg/960px-Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Scene_of_the_Battle_of_Marathon.jpg/330px-Scene_of_the_Battle_of_Marathon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Scene_of_the_Battle_of_Marathon.jpg",
+      "artist": "John Steeple Davis",
+      "credit": "The story of the greatest nations, from the dawn of history to the twentieth century (published in 1900)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

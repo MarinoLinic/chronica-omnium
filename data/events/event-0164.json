@@ -10,7 +10,7 @@
   "start": -206,
   "end": 220,
   "location": "China",
-  "type": "Unit",
+  "type": "State",
   "field": "History",
   "relevance": 1,
   "source": "https://en.wikipedia.org/wiki/Han_dynasty",
@@ -19,7 +19,7 @@
   "casualties_high": null,
   "dubious": null,
   "date_kind": "span",
-  "date_note": "",
+  "date_note": "Han rule was interrupted by Wang Mang’s Xin dynasty. Separate periods distinguish Western Han and restored Eastern Han; the primary span is a broad envelope, not uninterrupted rule.",
   "places": [
     "place-10436829032f"
   ],
@@ -67,5 +67,28 @@
         104.999927
       ]
     }
-  }
+  },
+  "date_label": "Combined dynastic span",
+  "periods": [
+    {
+      "id": "western-han",
+      "label": "Western Han",
+      "kind": "other",
+      "start": -206,
+      "end": 9,
+      "date_kind": "span",
+      "date_note": "Before Wang Mang’s Xin dynasty.",
+      "source": "https://en.wikipedia.org/wiki/Han_dynasty"
+    },
+    {
+      "id": "eastern-han",
+      "label": "Eastern Han",
+      "kind": "other",
+      "start": 25,
+      "end": 220,
+      "date_kind": "span",
+      "date_note": "Restored Han rule from 25 CE.",
+      "source": "https://en.wikipedia.org/wiki/Han_dynasty"
+    }
+  ]
 }

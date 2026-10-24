@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0762",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+  "revisionId": 1380537907,
+  "fetchedAt": "2026-10-24T16:00:15.143Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/960px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg/330px-USS_Yorktown_%28CV-5%29_is_hit_by_a_torpedo_on_4_June_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:USS_Yorktown_(CV-5)_is_hit_by_a_torpedo_on_4_June_1942.jpg",
+      "artist": "USN, photographed from USS Pensacola (CA-24)",
+      "credit": "Official U.S. Navy Photograph 80-G-414423, U.S. National Archives.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

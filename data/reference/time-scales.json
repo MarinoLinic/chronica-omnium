@@ -1,397 +1,747 @@
 {
   "schemaVersion": 1,
   "metadata": {
-    "status": "legacy-needs-review",
-    "yearConvention": "Historical signed years, BCE negative, no year zero. Legacy deep time boundaries are retained.",
-    "scope": "Human period labels are regional conventions, not universal boundaries.",
-    "sources": [],
-    "notes": "Original numbers and spelling retained. Colors and some nesting/boundaries need source review."
+    "status": "rounded-guide-reviewed-2026-10-24",
+    "yearConvention": "Signed historical years; BCE negative; no year zero. Ranges are inclusive at whole-year display resolution.",
+    "scope": "Simple orientation scheme. Human ages are broad conventions, not simultaneous worldwide transitions.",
+    "sources": [
+      {
+        "title": "ICS International Chronostratigraphic Chart, June 2026",
+        "url": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf"
+      },
+      {
+        "title": "Stone Age",
+        "url": "https://en.wikipedia.org/wiki/Stone_Age"
+      },
+      {
+        "title": "Iron Age",
+        "url": "https://en.wikipedia.org/wiki/Iron_Age"
+      },
+      {
+        "title": "Middle Ages",
+        "url": "https://en.wikipedia.org/wiki/Middle_Ages"
+      }
+    ],
+    "notes": "Retains the original approximate scheme. Corrects copied Cenozoic epoch dates, missing zeroes in three Paleozoic ends, Quaternary spelling and misplaced metal ages. Ongoing units end at the viewer year; 2025 is a stored reference, not a predicted geological end. Climatic entries retain needs-source-review status. Original exports remain archived in src/resources/time_scales.json.",
+    "changes": [
+      {
+        "name": "Phanerozoic",
+        "before": [
+          -540000000,
+          800000000
+        ],
+        "after": [
+          -540000000,
+          2025
+        ]
+      },
+      {
+        "name": "Silurian",
+        "before": [
+          -444000000,
+          -41900001
+        ],
+        "after": [
+          -444000000,
+          -419000001
+        ]
+      },
+      {
+        "name": "Devonian",
+        "before": [
+          -419000000,
+          -35900001
+        ],
+        "after": [
+          -419000000,
+          -359000001
+        ]
+      },
+      {
+        "name": "Carboniferous",
+        "before": [
+          -359000000,
+          -29900001
+        ],
+        "after": [
+          -359000000,
+          -299000001
+        ]
+      },
+      {
+        "name": "Cenozoic",
+        "before": [
+          -66000000,
+          100000
+        ],
+        "after": [
+          -66000000,
+          2025
+        ]
+      },
+      {
+        "name": "Paleocene",
+        "before": [
+          -252000000,
+          -202000001
+        ],
+        "after": [
+          -66000000,
+          -56000001
+        ]
+      },
+      {
+        "name": "Eocene",
+        "before": [
+          -202000000,
+          -145000001
+        ],
+        "after": [
+          -56000000,
+          -34000001
+        ]
+      },
+      {
+        "name": "Oligocene",
+        "before": [
+          -145000000,
+          -66000001
+        ],
+        "after": [
+          -34000000,
+          -23000001
+        ]
+      },
+      {
+        "name": "Miocene",
+        "before": [
+          -252000000,
+          -202000001
+        ],
+        "after": [
+          -23000000,
+          -5300001
+        ]
+      },
+      {
+        "name": "Pliocene",
+        "before": [
+          -202000000,
+          -145000001
+        ],
+        "after": [
+          -5300000,
+          -2580001
+        ]
+      },
+      {
+        "name": "Quaternary",
+        "before": [
+          -2580000,
+          100000
+        ],
+        "after": [
+          -2580000,
+          2025
+        ]
+      },
+      {
+        "name": "Holocene",
+        "before": [
+          -9701,
+          100000
+        ],
+        "after": [
+          -9701,
+          2025
+        ]
+      },
+      {
+        "name": "Quaternary glaciation",
+        "before": [
+          -2580000,
+          100000
+        ],
+        "after": [
+          -2580000,
+          2025
+        ]
+      },
+      {
+        "name": "Holocene interglacial",
+        "before": [
+          -9701,
+          50000
+        ],
+        "after": [
+          -9701,
+          2025
+        ]
+      },
+      {
+        "name": "Prehistory",
+        "before": [
+          -34000000,
+          -3401
+        ],
+        "after": [
+          -3400000,
+          -3401
+        ]
+      },
+      {
+        "name": "Late Antiquity",
+        "beforeParent": "Classical Antiquity",
+        "afterParent": "Recorded history",
+        "reason": "An overlapping convention, not a child restricted to the classical-period endpoint."
+      },
+      {
+        "name": "Late Antique Little Ice Age",
+        "before": [
+          536,
+          560
+        ],
+        "after": [
+          536,
+          660
+        ],
+        "reason": "Corrects the shortened end to the approximate interval in the defining study."
+      },
+      {
+        "name": "Global Warming",
+        "before": [
+          1900,
+          2100
+        ],
+        "after": [
+          1900,
+          2025
+        ],
+        "reason": "An ongoing episode, not a forecast end in 2100."
+      }
+    ]
   },
   "time_scale": {
     "geologic": [
       {
         "name": "Hadean",
         "type": "Eon",
-        "color": "#",
+        "color": "#537d84",
         "start": -4600000000,
         "end": -4000000001,
-        "sub": []
+        "sub": [],
+        "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+        "precision": "approximate",
+        "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
       },
       {
         "name": "Archean",
         "type": "Eon",
-        "color": "#",
+        "color": "#537d84",
         "start": -4000000000,
         "end": -2500000001,
         "sub": [
           {
             "name": "Eoarchean",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -4000000000,
             "end": -3600000001,
-            "sub": []
+            "sub": [],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Paleoarchean",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -3600000000,
             "end": -3200000001,
-            "sub": []
+            "sub": [],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Mesoarchean",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -3200000000,
             "end": -2800000001,
-            "sub": []
+            "sub": [],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Neoarchean",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -2800000000,
             "end": -2500000001,
-            "sub": []
+            "sub": [],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           }
-        ]
+        ],
+        "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+        "precision": "approximate",
+        "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
       },
       {
         "name": "Proterozoic",
         "type": "Eon",
-        "color": "#",
+        "color": "#537d84",
         "start": -2500000000,
         "end": -540000001,
         "sub": [
           {
             "name": "Paleoproterozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -2500000000,
             "end": -1600000001,
             "sub": [
               {
                 "name": "Siderian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -2500000000,
                 "end": -2300000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Rhyacian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -2300000000,
                 "end": -2050000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Orosirian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -2050000000,
                 "end": -1800000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Statherian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -1800000000,
                 "end": -1600000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Mesoproterozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -1600000000,
             "end": -1000000001,
             "sub": [
               {
                 "name": "Calymmian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -1600000000,
                 "end": -1400000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Ectasian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -1400000000,
                 "end": -1200000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Stenian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -1200000000,
                 "end": -1000000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Neoproterozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -1000000000,
             "end": -540000001,
             "sub": [
               {
                 "name": "Tonian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -1000000000,
                 "end": -720000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Cryogenian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -720000000,
                 "end": -635000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Ediacaran",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -635000000,
                 "end": -540000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           }
-        ]
+        ],
+        "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+        "precision": "approximate",
+        "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
       },
       {
         "name": "Phanerozoic",
         "type": "Eon",
-        "color": "#",
+        "color": "#537d84",
         "start": -540000000,
-        "end": 800000000,
+        "end": 2025,
         "sub": [
           {
             "name": "Paleozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -540000000,
             "end": -252000001,
             "sub": [
               {
                 "name": "Cambrian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -540000000,
                 "end": -485000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Ordovician",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -485000000,
                 "end": -444000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Silurian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -444000000,
-                "end": -41900001,
-                "sub": []
+                "end": -419000001,
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Devonian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -419000000,
-                "end": -35900001,
-                "sub": []
+                "end": -359000001,
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Carboniferous",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -359000000,
-                "end": -29900001,
-                "sub": []
+                "end": -299000001,
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Permian",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -299000000,
                 "end": -252000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Mesozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -252000000,
             "end": -66000001,
             "sub": [
               {
                 "name": "Triassic",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -252000000,
                 "end": -202000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Jurassic",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -202000000,
                 "end": -145000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Cretaceous",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -145000000,
                 "end": -66000001,
-                "sub": []
+                "sub": [],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
           },
           {
             "name": "Cenozoic",
             "type": "Era",
-            "color": "#",
+            "color": "#537d84",
             "start": -66000000,
-            "end": 100000,
+            "end": 2025,
             "sub": [
               {
                 "name": "Paleogene",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -66000000,
                 "end": -23000001,
                 "sub": [
                   {
                     "name": "Paleocene",
                     "type": "Epoch",
-                    "color": "#",
-                    "start": -252000000,
-                    "end": -202000001,
-                    "sub": []
+                    "color": "#537d84",
+                    "start": -66000000,
+                    "end": -56000001,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   },
                   {
                     "name": "Eocene",
                     "type": "Epoch",
-                    "color": "#",
-                    "start": -202000000,
-                    "end": -145000001,
-                    "sub": []
+                    "color": "#537d84",
+                    "start": -56000000,
+                    "end": -34000001,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   },
                   {
                     "name": "Oligocene",
                     "type": "Epoch",
-                    "color": "#",
-                    "start": -145000000,
-                    "end": -66000001,
-                    "sub": []
+                    "color": "#537d84",
+                    "start": -34000000,
+                    "end": -23000001,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   }
-                ]
+                ],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
                 "name": "Neogene",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -23000000,
                 "end": -2580001,
                 "sub": [
                   {
                     "name": "Miocene",
                     "type": "Epoch",
-                    "color": "#",
-                    "start": -252000000,
-                    "end": -202000001,
-                    "sub": []
+                    "color": "#537d84",
+                    "start": -23000000,
+                    "end": -5300001,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   },
                   {
                     "name": "Pliocene",
                     "type": "Epoch",
-                    "color": "#",
-                    "start": -202000000,
-                    "end": -145000001,
-                    "sub": []
+                    "color": "#537d84",
+                    "start": -5300000,
+                    "end": -2580001,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   }
-                ]
+                ],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
               },
               {
-                "name": "Quarternary",
+                "name": "Quaternary",
                 "type": "Period",
-                "color": "#",
+                "color": "#537d84",
                 "start": -2580000,
-                "end": 100000,
+                "end": 2025,
                 "sub": [
                   {
                     "name": "Pleistocene",
                     "type": "Epoch",
-                    "color": "#",
+                    "color": "#537d84",
                     "start": -2580000,
                     "end": -9702,
-                    "sub": []
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates."
                   },
                   {
                     "name": "Holocene",
                     "type": "Epoch",
-                    "color": "#",
+                    "color": "#537d84",
                     "start": -9701,
-                    "end": 100000,
-                    "sub": []
+                    "end": 2025,
+                    "sub": [],
+                    "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                    "precision": "approximate",
+                    "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates.",
+                    "ongoing": true
                   }
-                ]
+                ],
+                "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+                "precision": "approximate",
+                "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates.",
+                "ongoing": true
               }
-            ]
+            ],
+            "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+            "precision": "approximate",
+            "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates.",
+            "ongoing": true
           }
-        ]
+        ],
+        "source": "https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf",
+        "precision": "approximate",
+        "note": "Rounded orientation bounds; numerical geological ages are approximate, not exact calendar dates.",
+        "ongoing": true
       }
     ],
     "climatic": [
       {
-        "name": "Quarternary glaciation",
+        "name": "Quaternary glaciation",
         "short_name": "",
         "alt_name": "Pleistocene glaciation",
         "type": "Glaciation",
-        "color": "#",
+        "color": "#6c839c",
         "start": -2580000,
-        "end": 100000,
+        "end": 2025,
         "sub": [
           {
             "name": "Eemian",
             "short_name": "",
             "alt_name": "",
             "type": "Interglacial period",
-            "color": "#",
+            "color": "#6c839c",
             "start": -128000,
             "end": -113001,
-            "sub": []
+            "sub": [],
+            "precision": "approximate",
+            "status": "needs-source-review",
+            "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
           },
           {
             "name": "Last Glacial Period",
             "short_name": "LGP",
             "alt_name": "Ice Age",
             "type": "Glacial period",
-            "color": "#",
+            "color": "#6c839c",
             "start": -113000,
             "end": -9702,
             "sub": [
@@ -400,115 +750,158 @@
                 "short_name": "LGM",
                 "alt_name": "",
                 "type": "Glacial maximum",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -31000,
                 "end": -12671,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Late Glacial Interstadial",
                 "short_name": "LGI",
                 "alt_name": "",
                 "type": "Interstadial period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -12670,
                 "end": -10891,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Younger Dryas",
                 "short_name": "",
                 "alt_name": "",
                 "type": "Postglacial period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -10890,
                 "end": -9702,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               }
-            ]
+            ],
+            "precision": "approximate",
+            "status": "needs-source-review",
+            "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
           },
           {
             "name": "Holocene interglacial",
             "short_name": "",
             "alt_name": "Holocene",
             "type": "Interglacial period",
-            "color": "#",
+            "color": "#6c839c",
             "start": -9701,
-            "end": 50000,
+            "end": 2025,
             "sub": [
               {
                 "name": "8.2-kiloyear cooling",
                 "short_name": "",
                 "alt_name": "",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -6400,
                 "end": -6100,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "4.2-kiloyear event",
                 "short_name": "",
                 "alt_name": "4.2-kiloyear aridification event",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -2200,
                 "end": -2100,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Roman Warm Period",
                 "short_name": "",
                 "alt_name": "Roman Climatic Optimum",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": -250,
                 "end": 400,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Late Antique Little Ice Age",
                 "short_name": "",
                 "alt_name": "",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": 536,
-                "end": 560,
-                "sub": []
+                "end": 660,
+                "sub": [],
+                "precision": "approximate",
+                "status": "reviewed-approximate",
+                "note": "Approximate Northern Hemisphere cooling interval described as 536 to around 660; regional effects differed.",
+                "source": "https://doi.org/10.1038/ngeo2652"
               },
               {
                 "name": "Medieval Warm Period",
                 "short_name": "MWP",
                 "alt_name": "Medieval Climatic Anomaly",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": 950,
                 "end": 1250,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Little Ice Age",
                 "short_name": "LIA",
                 "alt_name": "",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": 1400,
                 "end": 1850,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review."
               },
               {
                 "name": "Global Warming",
                 "short_name": "",
                 "alt_name": "Climate Change",
                 "type": "Climatic period",
-                "color": "#",
+                "color": "#6c839c",
                 "start": 1900,
-                "end": 2100,
-                "sub": []
+                "end": 2025,
+                "sub": [],
+                "precision": "approximate",
+                "status": "needs-source-review",
+                "note": "Retained rough climatic convention; extent and exact bounds need individual source review.",
+                "ongoing": true
               }
-            ]
+            ],
+            "precision": "approximate",
+            "status": "needs-source-review",
+            "note": "Retained rough climatic convention; extent and exact bounds need individual source review.",
+            "ongoing": true
           }
-        ]
+        ],
+        "precision": "approximate",
+        "status": "needs-source-review",
+        "note": "Retained rough climatic convention; extent and exact bounds need individual source review.",
+        "ongoing": true
       }
     ],
     "archeological": [
@@ -516,7 +909,7 @@
         "name": "Stone Age",
         "alt_name": "",
         "type": "",
-        "color": "#",
+        "color": "#92734a",
         "start": -3400000,
         "end": -4000,
         "sub": [
@@ -524,7 +917,7 @@
             "name": "Paleolithic",
             "alt_name": "Old Stone Age",
             "type": "",
-            "color": "#",
+            "color": "#92734a",
             "start": -3400000,
             "end": -10000,
             "sub": [
@@ -532,36 +925,48 @@
                 "name": "Lower Paleolithic",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#92734a",
                 "start": -3400000,
                 "end": -248000,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/Lower_Paleolithic"
               },
               {
                 "name": "Middle Paleolithic",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#92734a",
                 "start": -298000,
                 "end": -28000,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/Middle_Paleolithic"
               },
               {
                 "name": "Upper Paleolithic",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#92734a",
                 "start": -48000,
                 "end": -10000,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/Upper_Paleolithic"
               }
-            ]
+            ],
+            "precision": "approximate",
+            "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+            "source": "https://en.wikipedia.org/wiki/Paleolithic"
           },
           {
             "name": "Mesolithic",
             "alt_name": "Middle Stone Age",
             "type": "",
-            "color": "#",
+            "color": "#92734a",
             "start": -18000,
             "end": -5000,
             "sub": [
@@ -569,27 +974,36 @@
                 "name": "Southwest Asian Mesolithic",
                 "alt_name": "",
                 "type": "Asia",
-                "color": "#",
+                "color": "#92734a",
                 "start": -18000,
                 "end": -8000,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/Southwest_Asian_Mesolithic"
               },
               {
                 "name": "European Mesolithic",
                 "alt_name": "",
                 "type": "Europe",
-                "color": "#",
+                "color": "#92734a",
                 "start": -13000,
                 "end": -3000,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/European_Mesolithic"
               }
-            ]
+            ],
+            "precision": "approximate",
+            "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+            "source": "https://en.wikipedia.org/wiki/Mesolithic"
           },
           {
             "name": "Neolithic",
             "alt_name": "New Stone Age",
             "type": "",
-            "color": "#",
+            "color": "#92734a",
             "start": -8000,
             "end": -4500,
             "sub": [
@@ -597,51 +1011,72 @@
                 "name": "Western European Neolithic",
                 "alt_name": "",
                 "type": "Western Europe",
-                "color": "#",
+                "color": "#92734a",
                 "start": -6000,
                 "end": -2200,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+                "source": "https://en.wikipedia.org/wiki/Western_European_Neolithic"
               }
-            ]
-          },
-          {
-            "name": "Copper Age",
-            "alt_name": "Chalcolithic",
-            "type": "",
-            "color": "#",
-            "start": -5000,
-            "end": -2000,
-            "sub": []
-          },
-          {
-            "name": "Bronze Age",
-            "alt_name": "",
-            "type": "",
-            "color": "#",
-            "start": -3300,
-            "end": -1200,
-            "sub": [
-              {
-                "name": "Nordic Bronze Age",
-                "alt_name": "",
-                "type": "Scandinavia",
-                "color": "#",
-                "start": -1750,
-                "end": -500,
-                "sub": []
-              }
-            ]
-          },
-          {
-            "name": "Iron Age",
-            "alt_name": "",
-            "type": "",
-            "color": "#",
-            "start": -1199,
-            "end": -500,
-            "sub": []
+            ],
+            "precision": "approximate",
+            "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+            "source": "https://en.wikipedia.org/wiki/Neolithic"
           }
-        ]
+        ],
+        "precision": "approximate",
+        "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+        "source": "https://en.wikipedia.org/wiki/Stone_Age"
+      },
+      {
+        "name": "Copper Age",
+        "alt_name": "Chalcolithic",
+        "type": "",
+        "color": "#92734a",
+        "start": -5000,
+        "end": -2000,
+        "sub": [],
+        "precision": "approximate",
+        "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+        "source": "https://en.wikipedia.org/wiki/Chalcolithic"
+      },
+      {
+        "name": "Bronze Age",
+        "alt_name": "",
+        "type": "",
+        "color": "#92734a",
+        "start": -3300,
+        "end": -1200,
+        "sub": [
+          {
+            "name": "Nordic Bronze Age",
+            "alt_name": "",
+            "type": "Scandinavia",
+            "color": "#92734a",
+            "start": -1750,
+            "end": -500,
+            "sub": [],
+            "precision": "approximate",
+            "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+            "source": "https://en.wikipedia.org/wiki/Nordic_Bronze_Age"
+          }
+        ],
+        "precision": "approximate",
+        "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+        "source": "https://en.wikipedia.org/wiki/Bronze_Age"
+      },
+      {
+        "name": "Iron Age",
+        "alt_name": "",
+        "type": "",
+        "color": "#92734a",
+        "start": -1199,
+        "end": -500,
+        "sub": [],
+        "precision": "approximate",
+        "scope": "Simple Old World orientation; transitions vary by region and may overlap.",
+        "source": "https://en.wikipedia.org/wiki/Iron_Age"
       }
     ],
     "anthropologic": [
@@ -649,16 +1084,19 @@
         "name": "Prehistory",
         "alt_name": "",
         "type": "",
-        "color": "#",
-        "start": -34000000,
+        "color": "#23665d",
+        "start": -3400000,
         "end": -3401,
-        "sub": []
+        "sub": [],
+        "precision": "approximate",
+        "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+        "source": "https://en.wikipedia.org/wiki/Periodization"
       },
       {
         "name": "Recorded history",
         "alt_name": "History",
         "type": "",
-        "color": "#",
+        "color": "#23665d",
         "start": -3400,
         "end": 2025,
         "sub": [
@@ -666,26 +1104,31 @@
             "name": "Classical Antiquity",
             "alt_name": "Antiquity",
             "type": "",
-            "color": "#",
+            "color": "#23665d",
             "start": -800,
             "end": 499,
-            "sub": [
-              {
-                "name": "Late Antiquity",
-                "alt_name": "",
-                "type": "",
-                "color": "#",
-                "start": 284,
-                "end": 622,
-                "sub": []
-              }
-            ]
+            "sub": [],
+            "precision": "approximate",
+            "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+            "source": "https://en.wikipedia.org/wiki/Middle_Ages"
+          },
+          {
+            "name": "Late Antiquity",
+            "alt_name": "",
+            "type": "",
+            "color": "#23665d",
+            "start": 284,
+            "end": 622,
+            "sub": [],
+            "precision": "approximate",
+            "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+            "source": "https://en.wikipedia.org/wiki/Middle_Ages"
           },
           {
             "name": "Middle Ages",
             "alt_name": "Medieval period",
             "type": "",
-            "color": "#",
+            "color": "#23665d",
             "start": 500,
             "end": 1499,
             "sub": [
@@ -693,36 +1136,48 @@
                 "name": "Early Middle Ages",
                 "alt_name": "Early medieval period",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 500,
                 "end": 999,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Middle_Ages"
               },
               {
                 "name": "High Middle Ages",
                 "alt_name": "High medieval period",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 1000,
                 "end": 1299,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Middle_Ages"
               },
               {
                 "name": "Late Middle Ages",
                 "alt_name": "Late medieval period",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 1300,
                 "end": 1499,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Middle_Ages"
               }
-            ]
+            ],
+            "precision": "approximate",
+            "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+            "source": "https://en.wikipedia.org/wiki/Middle_Ages"
           },
           {
             "name": "Modern Era",
             "alt_name": "",
             "type": "",
-            "color": "#",
+            "color": "#23665d",
             "start": 1500,
             "end": 2025,
             "sub": [
@@ -730,38 +1185,56 @@
                 "name": "Early modern period",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 1500,
                 "end": 1799,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Periodization"
               },
               {
                 "name": "Late modern period",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 1800,
                 "end": 1944,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Periodization"
               },
               {
                 "name": "Contemporary modern period",
                 "alt_name": "",
                 "type": "",
-                "color": "#",
+                "color": "#23665d",
                 "start": 1945,
                 "end": 2025,
-                "sub": []
+                "sub": [],
+                "precision": "approximate",
+                "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+                "source": "https://en.wikipedia.org/wiki/Periodization",
+                "ongoing": true
               }
-            ]
+            ],
+            "precision": "approximate",
+            "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+            "source": "https://en.wikipedia.org/wiki/Periodization",
+            "ongoing": true
           }
-        ]
+        ],
+        "precision": "approximate",
+        "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+        "source": "https://en.wikipedia.org/wiki/Periodization",
+        "ongoing": true
       },
       {
         "name": "Future",
         "alt_name": "",
         "type": "",
-        "color": "#",
+        "color": "#23665d",
         "start": 2030,
         "end": 10000000000,
         "sub": [
@@ -769,12 +1242,20 @@
             "name": "Far future",
             "alt_name": "Distant future",
             "type": "",
-            "color": "#",
+            "color": "#23665d",
             "start": 10000,
             "end": 10000000000,
-            "sub": []
+            "sub": [],
+            "precision": "approximate",
+            "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+            "source": "https://en.wikipedia.org/wiki/Periodization",
+            "speculative": true
           }
-        ]
+        ],
+        "precision": "approximate",
+        "scope": "Broad conventional guide; medieval and modern labels follow a European convention.",
+        "source": "https://en.wikipedia.org/wiki/Periodization",
+        "speculative": true
       }
     ]
   }

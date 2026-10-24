@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0710",
+  "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
+  "revisionId": 1380719714,
+  "fetchedAt": "2026-10-24T15:59:57.766Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Maurya_Empire%2C_c.250_BCE_network_model_v01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Maurya_Empire%2C_c.250_BCE_network_model_v01.png/960px-Maurya_Empire%2C_c.250_BCE_network_model_v01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Maurya_Empire%2C_c.250_BCE_network_model_v01.png/330px-Maurya_Empire%2C_c.250_BCE_network_model_v01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE_network_model_v01.png",
+      "artist": "Joshua Jonathan",
+      "credit": "This image has been extracted from another file",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

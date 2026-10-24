@@ -6,59 +6,23 @@ import { filterData } from "./utils/functions";
 import SiteHeader from "./components/SiteHeader";
 import HomeEvent from "./components/HomeEvent";
 import BackToTop from "./components/BackToTop";
-function ordinal(n) {
-  if (n % 100 >= 11 && n % 100 <= 13) return `${n}th`;
-  const r = n % 10;
-  if (r === 1) return `${n}st`;
-  if (r === 2) return `${n}nd`;
-  if (r === 3) return `${n}rd`;
-  return `${n}th`;
-}
-
-function findArchaeological(year) {
-  for (const ts of timeScales.time_scale.archeological) {
-    if (year >= ts.start && year <= ts.end) {
-      for (const sub of ts.sub || []) {
-        if (year >= sub.start && year <= sub.end) return sub.name;
-      }
-      return ts.name;
-    }
-  }
-  return null;
-}
-
-function findGeologic(year) {
-  for (const ts of timeScales.time_scale.geologic) {
-    if (year >= ts.start && year <= ts.end) {
-      for (const sub of ts.sub || []) {
-        if (year >= sub.start && year <= sub.end) {
-          for (const ss of sub.sub || []) {
-            if (year >= ss.start && year <= ss.end) return ss.name;
-          }
-          return sub.name;
-        }
-      }
-      return ts.name;
-    }
-  }
-  return "Cosmic era";
-}
-
-function getPeriodLabel(year) {
-  if (year >= 1) return `${ordinal(Math.ceil(year / 100))} century`;
-  if (year >= -4999)
-    return `${ordinal(Math.ceil(-year / 1000))} millennium BCE`;
-  return findArchaeological(year) || findGeologic(year);
-}
-
+import TimeGuide from "./components/TimeGuide";
+import { periodLabel } from "./utils/time-scales";
 export default function Home() {
   const allData = useMemo(() => filterData(data), []),
-    virtuoso = useRef(null);
+    virtuoso = useRef(null), toolbar = useRef(null);
   const [query, setQuery] = useState(""),
     [type, setType] = useState(""),
     [field, setField] = useState(""),
     [filters, setFilters] = useState(false),
-    [current, setCurrent] = useState(0);
+    [current, setCurrent] = useState(0),
+    [visibleIndex, setVisibleIndex] = useState(0),
+    [toolbarHeight,setToolbarHeight] = useState(60);
+  useEffect(()=>{
+    const observer = new ResizeObserver(([entry])=>setToolbarHeight(entry.target.getBoundingClientRect().height));
+    if(toolbar.current)observer.observe(toolbar.current);
+    return ()=>observer.disconnect();
+  },[]);
   const records = useMemo(
     () =>
       allData.filter(
@@ -77,7 +41,7 @@ export default function Home() {
       counts = [],
       indices = [];
     for (const [i, r] of records.entries()) {
-      const label = getPeriodLabel(r.start);
+      const label = periodLabel(r.start, timeScales);
       if (label !== groups.at(-1)) {
         groups.push(label);
         counts.push(1);
@@ -105,15 +69,21 @@ export default function Home() {
           ...document.querySelectorAll("[data-period-index]"),
         ].find((el) => {
           const rect = el.getBoundingClientRect();
-          return rect.bottom > cutoff && rect.top < window.innerHeight;
+          const visibleHeight = Math.min(rect.bottom,window.innerHeight)-Math.max(rect.top,cutoff);
+          return visibleHeight >= Math.min(80,rect.height/2);
         });
-        if (visible) setCurrent(Number(visible.dataset.periodIndex));
+        if (visible) {
+          setCurrent(Number(visible.dataset.periodIndex));
+          setVisibleIndex(Number(visible.dataset.eventIndex));
+        }
       });
     };
     window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
     update();
     return () => {
       window.removeEventListener("scroll", update);
+      window.removeEventListener("resize", update);
       cancelAnimationFrame(frame);
     };
   }, [records]);
@@ -121,17 +91,21 @@ export default function Home() {
   const jump = (i) => {
     const next = Math.min(Math.max(0, i), groups.length - 1);
     if (next < 0) return;
-    setCurrent(next);
-    virtuoso.current?.scrollToIndex({
-      index: indices[next],
-      align: "start",
-      behavior: "auto",
-      offset: -82,
-    });
+    jumpToRecord(indices[next]);
   };
-  const top = () => setCurrent(0);
+  const jumpToRecord = (index) => {
+    if (!Number.isInteger(index) || !records[index]) return;
+    const group = indices.findLastIndex(i => i <= index);
+    setCurrent(Math.max(0, group));
+    setVisibleIndex(index);
+    const toolbar = document.querySelector(".chronicle-toolbar")?.getBoundingClientRect().height || 55;
+    const rail = window.innerWidth <= 760 ? document.querySelector(".period-rail")?.getBoundingClientRect().height || 0 : 0;
+    virtuoso.current?.scrollToIndex({index,align:"start",behavior:"auto",offset:-(toolbar+rail+30)});
+  };
+  useEffect(() => { setVisibleIndex(0); }, [query,type,field]);
+  const top = () => {setCurrent(0);setVisibleIndex(0);};
   return (
-    <div className="chronicle">
+    <div className="chronicle" style={{'--toolbar-size':`${toolbarHeight}px`}}>
       <SiteHeader />
       <section className="chronicle-hero">
         <p className="story-kicker">From the first light to the present</p>
@@ -145,7 +119,7 @@ export default function Home() {
           world.
         </p>
       </section>
-      <div className="chronicle-toolbar">
+      <div className="chronicle-toolbar" ref={toolbar}>
         <div>
           <input
             type="search"
@@ -169,6 +143,7 @@ export default function Home() {
             <label>
               Type{" "}
               <select
+                aria-label="Story type"
                 value={type}
                 onChange={(e) => {
                   setType(e.target.value);
@@ -184,6 +159,7 @@ export default function Home() {
             <label>
               Field{" "}
               <select
+                aria-label="Story field"
                 value={field}
                 onChange={(e) => {
                   setField(e.target.value);
@@ -243,11 +219,7 @@ export default function Home() {
               →
             </button>
           </div>
-          <p className="period-caption">
-            Move through time.
-            <br />
-            Follow what interests you.
-          </p>
+          <TimeGuide year={records[Math.min(visibleIndex, records.length-1)]?.start} scales={timeScales} records={records} onJump={jumpToRecord} />
         </aside>
         <main className="chronicle-list">
           {records.length ? (
@@ -261,7 +233,7 @@ export default function Home() {
                 <div className="period-divider">{groups[i]}</div>
               )}
               itemContent={(i, g) => (
-                <div data-period-index={g}>
+                <div data-period-index={g} data-event-index={i}>
                   <HomeEvent data={records[i]} />
                 </div>
               )}

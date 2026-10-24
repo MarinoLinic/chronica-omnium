@@ -6,6 +6,9 @@
   --wordmark-blue: #21306a;
   --wordmark-cyan: #00bfff;
   --line: #dce2da;
+  --age-earth: #e4eeec;
+  --age-tools: #f0e9db;
+  --age-human: #ebedf1;
   --serif: Georgia, "Times New Roman", serif;
   color: var(--ink);
   background: var(--paper);
@@ -197,7 +200,7 @@ h3 {
 }
 .period-rail {
   position: sticky;
-  top: 104px;
+  top: calc(var(--toolbar-size, 60px) + 44px);
   padding-top: 12px;
 }
 .period-controls {
@@ -223,6 +226,23 @@ h3 {
   color: var(--muted);
   margin-top: 24px;
 }
+.time-guide { margin-top: 20px; font-size: 12px; }
+.time-guide > summary { cursor: pointer; font-weight: 600; padding: 8px 0; }
+.time-guide > summary > span { float: right; color: var(--muted); font-weight: 400; }
+.time-guide-body { max-height: calc(100vh - 300px); overflow-y: auto; padding: 0 8px 8px 0; }
+.time-guide section { margin: 15px 0; }
+.time-guide h2 { font-size: 10px; text-transform: uppercase; letter-spacing: 1.5px; color: var(--muted); margin: 0 0 8px; }
+.time-guide-level { margin-left: calc(var(--depth) * 10px); border-left: 2px solid var(--line); padding: 3px 0 3px 10px; }
+.time-guide-level button { text-align: left; width: 100%; padding: 3px 0; }
+.time-guide-level button:not(:disabled):hover strong { text-decoration: underline; }
+.time-guide-level strong { display: block; font-weight: 500; line-height: 1.3; }
+.time-guide-level small { display: block; font-size: 9px; color: var(--muted); }
+.time-guide-lineage { font-size: 10px; color: var(--muted); line-height: 1.6; margin-bottom: 7px; }
+.time-guide-lineage button { font-size: inherit; }
+.time-guide-lineage button:hover { text-decoration: underline; }
+.time-guide-note, .time-guide-sources { font-size: 10px; color: var(--muted); line-height: 1.5; }
+.time-guide-sources summary { cursor: pointer; }
+.time-guide-sources a { text-decoration: underline; }
 .chronicle-list {
   min-width: 0;
   border-left: 1px solid var(--line);
@@ -568,7 +588,7 @@ h3 {
   }
   .period-rail {
     position: sticky;
-    top: 55px;
+    top: var(--toolbar-size, 60px);
     z-index: 25;
     background: var(--paper);
     padding: 0 0 12px;
@@ -591,6 +611,10 @@ h3 {
   .period-controls button {
     padding: 7px 12px;
   }
+  .time-guide { margin-top: 0; }
+  .time-guide > summary { font-size: 11px; padding: 5px 0; }
+  .time-guide-body { max-height: 32vh; }
+  .time-guide section { margin: 8px 0; }
   .chronicle-list {
     padding-left: 20px;
   }

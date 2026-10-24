@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0767",
+  "source": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+  "revisionId": 1381525011,
+  "fetchedAt": "2026-10-24T16:00:17.112Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Taku_Forts_Landing.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Taku_Forts_Landing.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Taku_Forts_Landing.JPG/330px-Taku_Forts_Landing.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Taku_Forts_Landing.JPG",
+      "artist": "Unknown authorUnknown author",
+      "credit": "Kaiserliche Marine",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

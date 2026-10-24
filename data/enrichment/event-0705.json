@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0705",
+  "source": "https://en.wikipedia.org/wiki/Wu_Zhou",
+  "revisionId": 1371637003,
+  "fetchedAt": "2026-10-24T16:11:30.158Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tang_Dynasty_circa_700_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tang_Dynasty_circa_700_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Tang_Dynasty_circa_700_CE.png/330px-Tang_Dynasty_circa_700_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Tang_Dynasty_circa_700_CE.png",
+      "artist": "Ian Kiu",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

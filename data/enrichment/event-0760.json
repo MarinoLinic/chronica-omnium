@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0760",
+  "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+  "revisionId": 1370618857,
+  "fetchedAt": "2026-10-24T16:00:14.256Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg/330px-The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm%2C_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:The_battle_of_Panipat_and_the_death_of_Sultan_Ibr%C4%81h%C4%ABm,_the_last_of_the_L%C5%8Dd%C4%AB_Sultans_of_Delhi.jpg",
+      "artist": "Ẓahīr ud-Dīn Muḥammad Bābur (1483-1530)\nIt contains 30 mostly full-page miniatures in fine Mughal style by at least two different artists.",
+      "credit": "http://art.thewalters.org/detail/14445/the-battle-of-panipat/\n\nhttp://www.oldindianarts.in/2011/10/illustrations-from-manuscript-of.html\nBāburnāma",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

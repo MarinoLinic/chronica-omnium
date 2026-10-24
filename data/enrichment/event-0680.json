@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0680",
+  "source": "https://en.wikipedia.org/wiki/Liu_Song_dynasty",
+  "revisionId": 1380913612,
+  "fetchedAt": "2026-10-24T15:59:50.606Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Northern_and_Southern_Dynasties_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Northern_and_Southern_Dynasties_1.png/960px-Northern_and_Southern_Dynasties_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Northern_and_Southern_Dynasties_1.png/330px-Northern_and_Southern_Dynasties_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Northern_and_Southern_Dynasties_1.png",
+      "artist": "SS",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

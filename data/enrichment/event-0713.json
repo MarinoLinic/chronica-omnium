@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0713",
+  "source": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+  "revisionId": 1380132565,
+  "fetchedAt": "2026-10-24T15:59:58.418Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vashishtiputra_Sri_Satakarni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Vashishtiputra_Sri_Satakarni.jpg/960px-Vashishtiputra_Sri_Satakarni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Vashishtiputra_Sri_Satakarni.jpg/330px-Vashishtiputra_Sri_Satakarni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Vashishtiputra_Sri_Satakarni.jpg",
+      "artist": "Uploadalt",
+      "credit": "Own work, photographed at British Museum",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

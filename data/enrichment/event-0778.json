@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0778",
+  "source": "https://en.wikipedia.org/wiki/Ferrous_metallurgy",
+  "revisionId": 1379687856,
+  "fetchedAt": "2026-10-24T16:00:32.839Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bas_fourneau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bas_fourneau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Bas_fourneau.png/330px-Bas_fourneau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bas_fourneau.png",
+      "artist": "",
+      "credit": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

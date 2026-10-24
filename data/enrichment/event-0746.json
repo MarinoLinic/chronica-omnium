@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0746",
+  "source": "https://en.wikipedia.org/wiki/Sikh_Empire",
+  "revisionId": 1369760139,
+  "fetchedAt": "2026-10-24T16:00:10.278Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Flag_of_the_Sikh_Empire.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_the_Sikh_Empire.svg/960px-Flag_of_the_Sikh_Empire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Flag_of_the_Sikh_Empire.svg/330px-Flag_of_the_Sikh_Empire.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Sikh_Empire.svg",
+      "artist": "AfghanTsakhtan",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

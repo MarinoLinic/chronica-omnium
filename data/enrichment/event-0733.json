@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0733",
+  "source": "https://en.wikipedia.org/wiki/Pushyabhuti_dynasty",
+  "revisionId": 1360822535,
+  "fetchedAt": "2026-10-24T16:00:06.272Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harshavardhana_Circa_AD_606-647.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/0/02/Harshavardhana_Circa_AD_606-647.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Harshavardhana_Circa_AD_606-647.jpg/330px-Harshavardhana_Circa_AD_606-647.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Harshavardhana_Circa_AD_606-647.jpg",
+      "artist": "CNG Coins",
+      "credit": "CNG Coins Coin from CNG coins. Used with permission (CNG coin [1]).  Coin [2]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Classical Numismatic Group, Inc. http://www.cngcoins.com"
+    }
+  }
+}

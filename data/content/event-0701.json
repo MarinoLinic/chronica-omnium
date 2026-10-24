@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0701",
+  "source": "https://en.wikipedia.org/wiki/Later_Shu",
+  "title": "Later Shu",
+  "revisionId": 1380986194,
+  "revisionTimestamp": "2026-10-19T07:19:58Z",
+  "fetchedAt": "2026-10-24T15:59:56.418Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Shu, referred to as Later Shu (traditional Chinese: 後蜀; simplified Chinese: 后蜀; pinyin: Hòu Shǔ) and Meng Shu (Chinese: 孟蜀) in historiography, was a dynastic state of China and one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period. It was located in present-day Sichuan with its capital in Chengdu and lasted from 934 to 965."
+}

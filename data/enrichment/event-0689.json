@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0689",
+  "source": "https://en.wikipedia.org/wiki/Later_Han_(Five_Dynasties)",
+  "revisionId": 1380985883,
+  "fetchedAt": "2026-10-24T15:59:53.422Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Later_Han.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Later_Han.png/960px-Later_Han.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Later_Han.png/330px-Later_Han.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Later_Han.png",
+      "artist": "SS",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0730",
+  "source": "https://en.wikipedia.org/wiki/Hoysala_Kingdom",
+  "revisionId": 1369823322,
+  "fetchedAt": "2026-10-24T16:00:05.007Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Map_of_Hoysala_Kingdom_at_its_apex.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Map_of_Hoysala_Kingdom_at_its_apex.png/960px-Map_of_Hoysala_Kingdom_at_its_apex.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Map_of_Hoysala_Kingdom_at_its_apex.png/330px-Map_of_Hoysala_Kingdom_at_its_apex.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_Hoysala_Kingdom_at_its_apex.png",
+      "artist": "Borders by Rawn3012 using Gimp",
+      "credit": "This image has been extracted from another file",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

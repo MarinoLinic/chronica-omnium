@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0776",
+  "source": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+  "revisionId": 1381073885,
+  "fetchedAt": "2026-10-24T16:00:31.756Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Inquisici%C3%B3n_espa%C3%B1ola.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Inquisici%C3%B3n_espa%C3%B1ola.svg/960px-Inquisici%C3%B3n_espa%C3%B1ola.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Inquisici%C3%B3n_espa%C3%B1ola.svg/330px-Inquisici%C3%B3n_espa%C3%B1ola.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Inquisici%C3%B3n_espa%C3%B1ola.svg",
+      "artist": "User:Di (they-them)",
+      "credit": "Own work",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

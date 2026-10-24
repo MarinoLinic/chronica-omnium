@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0751",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+  "revisionId": 1380614693,
+  "fetchedAt": "2026-10-24T16:00:11.598Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Steuben_-_Bataille_de_Poitiers.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/960px-Steuben_-_Bataille_de_Poitiers.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/330px-Steuben_-_Bataille_de_Poitiers.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Steuben_-_Bataille_de_Poitiers.png",
+      "artist": "Charles de Steuben",
+      "credit": "Unknown sourceUnknown source",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

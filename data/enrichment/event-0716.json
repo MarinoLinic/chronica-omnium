@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0716",
+  "source": "https://en.wikipedia.org/wiki/Vakataka_dynasty",
+  "revisionId": 1371166583,
+  "fetchedAt": "2026-10-24T15:59:59.533Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ajanta_Padmapani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ajanta_Padmapani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Ajanta_Padmapani.jpg/330px-Ajanta_Padmapani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ajanta_Padmapani.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "http://www.national-geographic.ru/ngm/200801/article_168/gallery_1394/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

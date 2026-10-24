@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0668",
+  "source": "https://en.wikipedia.org/wiki/Shang_dynasty",
+  "revisionId": 1381682769,
+  "fetchedAt": "2026-10-24T15:59:47.170Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Shang_dynasty.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Shang_dynasty.svg/960px-Shang_dynasty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Shang_dynasty.svg/330px-Shang_dynasty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Shang_dynasty.svg",
+      "artist": "Lamassu Design Gurdjieff (talk)",
+      "credit": "Image by Author",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

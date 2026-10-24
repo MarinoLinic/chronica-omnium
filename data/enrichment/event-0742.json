@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0742",
+  "source": "https://en.wikipedia.org/wiki/Lodi_dynasty",
+  "revisionId": 1380410073,
+  "fetchedAt": "2026-10-24T16:00:08.977Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Map_of_the_Lodis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Map_of_the_Lodis.png/960px-Map_of_the_Lodis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Map_of_the_Lodis.png/330px-Map_of_the_Lodis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Lodis.png",
+      "artist": "Maps created from DEMIS Mapserver, which are public domain. Koba-chan\n\nTerritorial area: पाटलिपुत्र (talk), per Schwartberg Atlas p.148",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

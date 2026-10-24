@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0721",
+  "source": "https://en.wikipedia.org/wiki/Western_Chalukya_Empire",
+  "revisionId": 1369649191,
+  "fetchedAt": "2026-10-24T16:00:00.707Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Indian_Western_Chalukya_Empire_map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Indian_Western_Chalukya_Empire_map.svg/960px-Indian_Western_Chalukya_Empire_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Indian_Western_Chalukya_Empire_map.svg/330px-Indian_Western_Chalukya_Empire_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Western_Chalukya_Empire_map.svg",
+      "artist": "Nikel3012",
+      "credit": "Kāmat, Sūryanātha U. (2001) (in English) A Concise History of Karnataka: From Pre-historic Times to the Present, Jupiter books, p. 328",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

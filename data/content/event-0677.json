@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0677",
+  "source": "https://en.wikipedia.org/wiki/Western_Wei",
+  "title": "Western Wei",
+  "revisionId": 1359702768,
+  "revisionTimestamp": "2026-06-16T18:38:05Z",
+  "fetchedAt": "2026-10-24T15:59:49.842Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Wei (), known in historiography as the Western Wei (Chinese: 西魏; pinyin: Xī Wèi), was an imperial dynasty of China that followed the disintegration of the Northern Wei. One of the Northern dynasties during the era of the Northern and Southern dynasties, it ruled the western part of northern China from 535 to 557 AD. As with the Northern Wei dynasty that preceded it, the ruling family of the Western Wei were members of the Tuoba clan of the Xianbei."
+}

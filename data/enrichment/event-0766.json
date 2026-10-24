@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0766",
+  "source": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+  "revisionId": 1381689456,
+  "fetchedAt": "2026-10-24T16:00:16.553Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/960px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/330px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Regaining_the_Provincial_City_Anqing2.jpg",
+      "artist": "Wu Youru",
+      "credit": "https://www.battle-of-qurman.com.cn/e/hist.htm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

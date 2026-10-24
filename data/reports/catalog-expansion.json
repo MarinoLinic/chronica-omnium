@@ -1,0 +1,1599 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-24",
+  "scope": "Focused battles, Chinese rebellions, Chinese dynastic states and major Indian ruling states; supplemental public Wikipedia articles fill identified gaps.",
+  "review": "Manual identity, chronology and summary review; records remain review. Dynasty coverage is broad, not an assertion of every local ruling house or claimant. No Discord message metadata is published.",
+  "added": [
+    {
+      "id": "event-0667",
+      "title": "Xia dynasty",
+      "article": "Xia dynasty",
+      "source": "https://en.wikipedia.org/wiki/Xia_dynasty",
+      "revisionId": 1381063948,
+      "dateNote": "Traditional approximate dates; the dynasty is not securely established by contemporary written evidence.",
+      "type": "State"
+    },
+    {
+      "id": "event-0668",
+      "title": "Shang dynasty",
+      "article": "Shang dynasty",
+      "source": "https://en.wikipedia.org/wiki/Shang_dynasty",
+      "revisionId": 1381682769,
+      "dateNote": "Approximate conventional bounds.",
+      "type": "State"
+    },
+    {
+      "id": "event-0669",
+      "title": "Zhou dynasty",
+      "article": "Zhou dynasty",
+      "source": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+      "revisionId": 1381693677,
+      "dateNote": "The Western and Eastern Zhou were distinct phases; royal existence did not mean continuous control over all China.",
+      "type": "State"
+    },
+    {
+      "id": "event-0670",
+      "title": "Xin dynasty",
+      "article": "Xin dynasty",
+      "source": "https://en.wikipedia.org/wiki/Xin_dynasty",
+      "revisionId": 1380483593,
+      "dateNote": "Han rule was restored after the Xin collapse; this is a separate dynastic state.",
+      "type": "State"
+    },
+    {
+      "id": "event-0671",
+      "title": "Cao Wei",
+      "article": "Cao Wei",
+      "source": "https://en.wikipedia.org/wiki/Cao_Wei",
+      "revisionId": 1362053611,
+      "dateNote": "Ends with the abdication in February 266; often summarized as ending in 265 in simplified chronologies.",
+      "type": "State"
+    },
+    {
+      "id": "event-0672",
+      "title": "Shu Han",
+      "article": "Shu Han",
+      "source": "https://en.wikipedia.org/wiki/Shu_Han",
+      "revisionId": 1362054195,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0673",
+      "title": "Eastern Wu",
+      "article": "Eastern Wu",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Wu",
+      "revisionId": 1362057685,
+      "dateNote": "Uses independence in 222, rather than the earlier vassal kingdom or imperial proclamation in 229.",
+      "type": "State"
+    },
+    {
+      "id": "event-0674",
+      "title": "Jin dynasty (266–420)",
+      "article": "Jin dynasty (266–420)",
+      "source": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)",
+      "revisionId": 1359294647,
+      "dateNote": "Western Jin ended in 316; Eastern Jin continued from 317 to 420. This combined span does not imply continuous control of northern China.",
+      "type": "State"
+    },
+    {
+      "id": "event-0675",
+      "title": "Northern Wei",
+      "article": "Northern Wei",
+      "source": "https://en.wikipedia.org/wiki/Northern_Wei",
+      "revisionId": 1381402756,
+      "dateNote": "The split began in 534; a western successor was established in 535.",
+      "type": "State"
+    },
+    {
+      "id": "event-0676",
+      "title": "Eastern Wei",
+      "article": "Eastern Wei",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Wei",
+      "revisionId": 1362820782,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0677",
+      "title": "Western Wei",
+      "article": "Western Wei",
+      "source": "https://en.wikipedia.org/wiki/Western_Wei",
+      "revisionId": 1359702768,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0678",
+      "title": "Northern Qi",
+      "article": "Northern Qi",
+      "source": "https://en.wikipedia.org/wiki/Northern_Qi",
+      "revisionId": 1381472260,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0679",
+      "title": "Northern Zhou",
+      "article": "Northern Zhou",
+      "source": "https://en.wikipedia.org/wiki/Northern_Zhou",
+      "revisionId": 1369701763,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0680",
+      "title": "Liu Song dynasty",
+      "article": "Liu Song dynasty",
+      "source": "https://en.wikipedia.org/wiki/Liu_Song_dynasty",
+      "revisionId": 1380913612,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0681",
+      "title": "Southern Qi",
+      "article": "Southern Qi",
+      "source": "https://en.wikipedia.org/wiki/Southern_Qi",
+      "revisionId": 1335224123,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0682",
+      "title": "Liang dynasty",
+      "article": "Liang dynasty",
+      "source": "https://en.wikipedia.org/wiki/Liang_dynasty",
+      "revisionId": 1375279227,
+      "dateNote": "Dates describe the main Southern Liang state; the Western Liang remnant continued separately.",
+      "type": "State"
+    },
+    {
+      "id": "event-0683",
+      "title": "Chen dynasty",
+      "article": "Chen dynasty",
+      "source": "https://en.wikipedia.org/wiki/Chen_dynasty",
+      "revisionId": 1375409742,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0684",
+      "title": "Sui dynasty",
+      "article": "Sui dynasty",
+      "source": "https://en.wikipedia.org/wiki/Sui_dynasty",
+      "revisionId": 1378031675,
+      "dateNote": "Founded in 581; conquest of Chen completed reunification in 589.",
+      "type": "State"
+    },
+    {
+      "id": "event-0685",
+      "title": "Tang dynasty",
+      "article": "Tang dynasty",
+      "source": "https://en.wikipedia.org/wiki/Tang_dynasty",
+      "revisionId": 1379356857,
+      "dateNote": "Tang rule was interrupted by Wu Zetian’s Zhou dynasty in 690–705; the additional periods retain that interruption.",
+      "type": "State"
+    },
+    {
+      "id": "event-0686",
+      "title": "Later Liang (Five Dynasties)",
+      "article": "Later Liang (Five Dynasties)",
+      "source": "https://en.wikipedia.org/wiki/Later_Liang_(Five_Dynasties)",
+      "revisionId": 1380984930,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0687",
+      "title": "Later Tang",
+      "article": "Later Tang",
+      "source": "https://en.wikipedia.org/wiki/Later_Tang",
+      "revisionId": 1380985226,
+      "dateNote": "The final ruler died in January 937; simplified dynastic charts often use 936.",
+      "type": "State"
+    },
+    {
+      "id": "event-0688",
+      "title": "Later Jin (Five Dynasties)",
+      "article": "Later Jin (Five Dynasties)",
+      "source": "https://en.wikipedia.org/wiki/Later_Jin_(Five_Dynasties)",
+      "revisionId": 1380985616,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0689",
+      "title": "Later Han (Five Dynasties)",
+      "article": "Later Han (Five Dynasties)",
+      "source": "https://en.wikipedia.org/wiki/Later_Han_(Five_Dynasties)",
+      "revisionId": 1380985883,
+      "dateNote": "Uses the formal dynastic succession in 951, rather than the last emperor’s death in 950.",
+      "type": "State"
+    },
+    {
+      "id": "event-0690",
+      "title": "Later Zhou",
+      "article": "Later Zhou",
+      "source": "https://en.wikipedia.org/wiki/Later_Zhou",
+      "revisionId": 1380985972,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0691",
+      "title": "Liao dynasty",
+      "article": "Liao dynasty",
+      "source": "https://en.wikipedia.org/wiki/Liao_dynasty",
+      "revisionId": 1380985806,
+      "dateNote": "Uses the imperial foundation in 916; predecessor Khitan rule began earlier.",
+      "type": "State"
+    },
+    {
+      "id": "event-0692",
+      "title": "Western Xia",
+      "article": "Western Xia",
+      "source": "https://en.wikipedia.org/wiki/Western_Xia",
+      "revisionId": 1381436298,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0693",
+      "title": "Jin dynasty (1115–1234)",
+      "article": "Jin dynasty (1115–1234)",
+      "source": "https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)",
+      "revisionId": 1381322354,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0694",
+      "title": "Yuan dynasty",
+      "article": "Yuan dynasty",
+      "source": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+      "revisionId": 1379512616,
+      "dateNote": "Uses the Yuan dynastic proclamation in 1271; conquest of Southern Song ended in 1279. Northern Yuan rule continued after the loss of China.",
+      "type": "State"
+    },
+    {
+      "id": "event-0695",
+      "title": "Yang Wu",
+      "article": "Yang Wu",
+      "source": "https://en.wikipedia.org/wiki/Yang_Wu",
+      "revisionId": 1380986522,
+      "dateNote": "Some accounts begin the state with Yang Xingmi’s princely title in 902; this uses the post-Tang state from 907.",
+      "type": "State"
+    },
+    {
+      "id": "event-0696",
+      "title": "Wuyue",
+      "article": "Wuyue",
+      "source": "https://en.wikipedia.org/wiki/Wuyue",
+      "revisionId": 1380987483,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0697",
+      "title": "Min (Ten Kingdoms)",
+      "article": "Min (Ten Kingdoms)",
+      "source": "https://en.wikipedia.org/wiki/Min_(Ten_Kingdoms)",
+      "revisionId": 1380986979,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0698",
+      "title": "Ma Chu",
+      "article": "Ma Chu",
+      "source": "https://en.wikipedia.org/wiki/Ma_Chu",
+      "revisionId": 1380986419,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0699",
+      "title": "Southern Han",
+      "article": "Southern Han",
+      "source": "https://en.wikipedia.org/wiki/Southern_Han",
+      "revisionId": 1373683267,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0700",
+      "title": "Former Shu",
+      "article": "Former Shu",
+      "source": "https://en.wikipedia.org/wiki/Former_Shu",
+      "revisionId": 1380987608,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0701",
+      "title": "Later Shu",
+      "article": "Later Shu",
+      "source": "https://en.wikipedia.org/wiki/Later_Shu",
+      "revisionId": 1380986194,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0702",
+      "title": "Jingnan",
+      "article": "Jingnan",
+      "source": "https://en.wikipedia.org/wiki/Jingnan",
+      "revisionId": 1380986338,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0703",
+      "title": "Southern Tang",
+      "article": "Southern Tang",
+      "source": "https://en.wikipedia.org/wiki/Southern_Tang",
+      "revisionId": 1380986945,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0704",
+      "title": "Northern Han",
+      "article": "Northern Han",
+      "source": "https://en.wikipedia.org/wiki/Northern_Han",
+      "revisionId": 1380980501,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0705",
+      "title": "Wu Zhou dynasty",
+      "article": "Zhou dynasty (690–705)",
+      "source": "https://en.wikipedia.org/wiki/Wu_Zhou",
+      "revisionId": 1371637003,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0706",
+      "title": "Western Liao (Qara Khitai)",
+      "article": "Western Liao",
+      "source": "https://en.wikipedia.org/wiki/Qara_Khitai",
+      "revisionId": 1376996991,
+      "dateNote": "Uses the westward establishment around 1124; a usurper ruled in the final years before Mongol conquest.",
+      "type": "State"
+    },
+    {
+      "id": "event-0707",
+      "title": "Northern Yuan",
+      "article": "Northern Yuan",
+      "source": "https://en.wikipedia.org/wiki/Northern_Yuan",
+      "revisionId": 1381478696,
+      "dateNote": "Dates describe a changing Mongolian successor state, not continued Yuan rule over China.",
+      "type": "State"
+    },
+    {
+      "id": "event-0708",
+      "title": "Southern Ming",
+      "article": "Southern Ming",
+      "source": "https://en.wikipedia.org/wiki/Southern_Ming",
+      "revisionId": 1379826636,
+      "dateNote": "A succession of overlapping loyalist regimes; resistance claiming Ming legitimacy continued in Taiwan after 1662.",
+      "type": "State"
+    },
+    {
+      "id": "event-0709",
+      "title": "Nanda Empire",
+      "article": "Nanda Empire",
+      "source": "https://en.wikipedia.org/wiki/Nanda_Empire",
+      "revisionId": 1380248044,
+      "dateNote": "Approximate conventional dates; the foundation is also placed earlier by some accounts.",
+      "type": "State"
+    },
+    {
+      "id": "event-0710",
+      "title": "Maurya Empire",
+      "article": "Maurya Empire",
+      "source": "https://en.wikipedia.org/wiki/Maurya_Empire",
+      "revisionId": 1380719714,
+      "dateNote": "Founded around 320 BCE; 321 is a conventional approximate coordinate, not a securely established foundation year.",
+      "type": "State"
+    },
+    {
+      "id": "event-0711",
+      "title": "Shunga Empire",
+      "article": "Shunga Empire",
+      "source": "https://en.wikipedia.org/wiki/Shunga_Empire",
+      "revisionId": 1379193617,
+      "dateNote": "Chronologies vary: the source also gives approximately 187–75 BCE.",
+      "type": "State"
+    },
+    {
+      "id": "event-0712",
+      "title": "Kanva dynasty",
+      "article": "Kanva dynasty",
+      "source": "https://en.wikipedia.org/wiki/Kanva_dynasty",
+      "revisionId": 1378254841,
+      "dateNote": "Conventional chronology; alternative accounts shift the endpoints by a few years.",
+      "type": "State"
+    },
+    {
+      "id": "event-0713",
+      "title": "Satavahana dynasty",
+      "article": "Satavahana dynasty",
+      "source": "https://en.wikipedia.org/wiki/Satavahana_dynasty",
+      "revisionId": 1380132565,
+      "dateNote": "Approximate coordinate for a disputed foundation in the late second or first century BCE; some chronologies begin earlier. End around the early third century CE.",
+      "type": "State"
+    },
+    {
+      "id": "event-0714",
+      "title": "Kushan Empire",
+      "article": "Kushan Empire",
+      "source": "https://en.wikipedia.org/wiki/Kushan_Empire",
+      "revisionId": 1379330676,
+      "dateNote": "Approximate conventional bounds; territory and power changed substantially over the period.",
+      "type": "State"
+    },
+    {
+      "id": "event-0715",
+      "title": "Western Satraps",
+      "article": "Western Satraps",
+      "source": "https://en.wikipedia.org/wiki/Western_Satraps",
+      "revisionId": 1373700412,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0716",
+      "title": "Vakataka dynasty",
+      "article": "Vakataka dynasty",
+      "source": "https://en.wikipedia.org/wiki/Vakataka_dynasty",
+      "revisionId": 1371166583,
+      "dateNote": "Approximate endpoints.",
+      "type": "State"
+    },
+    {
+      "id": "event-0717",
+      "title": "Pallava dynasty",
+      "article": "Pallava dynasty",
+      "source": "https://en.wikipedia.org/wiki/Pallava_dynasty",
+      "revisionId": 1376622490,
+      "dateNote": "Conventional dynastic bounds; its strongest territorial phase began later.",
+      "type": "State"
+    },
+    {
+      "id": "event-0718",
+      "title": "Kadamba dynasty",
+      "article": "Kadamba dynasty",
+      "source": "https://en.wikipedia.org/wiki/Kadamba_dynasty",
+      "revisionId": 1381346592,
+      "dateNote": "Approximate political span of the main Banavasi dynasty; later branches continued.",
+      "type": "State"
+    },
+    {
+      "id": "event-0719",
+      "title": "Badami Chalukya dynasty",
+      "article": "Chalukya dynasty",
+      "source": "https://en.wikipedia.org/wiki/Chalukya_dynasty",
+      "revisionId": 1380536255,
+      "dateNote": "This record dates the Badami branch; the Eastern and Western Chalukyas have separate records.",
+      "type": "State"
+    },
+    {
+      "id": "event-0720",
+      "title": "Rashtrakuta Empire",
+      "article": "Rashtrakuta dynasty",
+      "source": "https://en.wikipedia.org/wiki/Rashtrakuta_Empire",
+      "revisionId": 1375859727,
+      "dateNote": "The main imperial line declined before its final conventional endpoint.",
+      "type": "State"
+    },
+    {
+      "id": "event-0721",
+      "title": "Western Chalukya Empire",
+      "article": "Western Chalukya Empire",
+      "source": "https://en.wikipedia.org/wiki/Western_Chalukya_Empire",
+      "revisionId": 1369649191,
+      "dateNote": "Uses the source’s sovereign phase, 973–1184; vassal origins date to 957, and a final restoration attempt continued to 1189.",
+      "type": "State"
+    },
+    {
+      "id": "event-0722",
+      "title": "Eastern Chalukyas",
+      "article": "Eastern Chalukyas",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Chalukyas",
+      "revisionId": 1381416261,
+      "dateNote": "Broad dynastic span; independent sovereignty ended earlier, and later rulers continued under Chola influence.",
+      "type": "State"
+    },
+    {
+      "id": "event-0723",
+      "title": "Chera dynasty",
+      "article": "Chera dynasty",
+      "source": "https://en.wikipedia.org/wiki/Chera_dynasty",
+      "revisionId": 1376682116,
+      "dateNote": "Very approximate early-historic bounds, from the third century BCE to around the fifth century CE; later Chera-related houses are distinct.",
+      "type": "State"
+    },
+    {
+      "id": "event-0724",
+      "title": "Pala Empire",
+      "article": "Pala Empire",
+      "source": "https://en.wikipedia.org/wiki/Pala_Empire",
+      "revisionId": 1380700178,
+      "dateNote": "Approximate foundation around 750.",
+      "type": "State"
+    },
+    {
+      "id": "event-0725",
+      "title": "Sena dynasty",
+      "article": "Sena dynasty",
+      "source": "https://en.wikipedia.org/wiki/Sena_dynasty",
+      "revisionId": 1378370476,
+      "dateNote": "Broad dynastic bounds include an early phase before its main territorial ascendancy.",
+      "type": "State"
+    },
+    {
+      "id": "event-0726",
+      "title": "Pratihara dynasty",
+      "article": "Gurjara-Pratihara dynasty",
+      "source": "https://en.wikipedia.org/wiki/Pratihara_dynasty",
+      "revisionId": 1381408952,
+      "dateNote": "Approximate foundation around 730.",
+      "type": "State"
+    },
+    {
+      "id": "event-0727",
+      "title": "Chandela Empire",
+      "article": "Chandela",
+      "source": "https://en.wikipedia.org/wiki/Chandela_Empire",
+      "revisionId": 1381118167,
+      "dateNote": "Approximate early foundation; political independence and territory varied over time.",
+      "type": "State"
+    },
+    {
+      "id": "event-0728",
+      "title": "Paramara dynasty",
+      "article": "Paramara dynasty",
+      "source": "https://en.wikipedia.org/wiki/Paramara_dynasty",
+      "revisionId": 1374711949,
+      "dateNote": "Uses the main political period from 948; the ruling house had earlier origins.",
+      "type": "State"
+    },
+    {
+      "id": "event-0729",
+      "title": "Chaulukya dynasty",
+      "article": "Chaulukya dynasty",
+      "source": "https://en.wikipedia.org/wiki/Chaulukya_dynasty",
+      "revisionId": 1356446448,
+      "dateNote": "Approximate conventional bounds; distinct from the similarly named Chalukyas of the Deccan.",
+      "type": "State"
+    },
+    {
+      "id": "event-0730",
+      "title": "Hoysala Kingdom",
+      "article": "Hoysala Empire",
+      "source": "https://en.wikipedia.org/wiki/Hoysala_Kingdom",
+      "revisionId": 1369823322,
+      "dateNote": "Broad dynastic bounds include early local rulers; independent Hoysala power developed later. The last major king died in 1343, with a successor continuing to 1346.",
+      "type": "State"
+    },
+    {
+      "id": "event-0731",
+      "title": "Kakatiya dynasty",
+      "article": "Kakatiya dynasty",
+      "source": "https://en.wikipedia.org/wiki/Kakatiya_dynasty",
+      "revisionId": 1380410583,
+      "dateNote": "Uses the sovereign phase from 1163; the dynasty previously served as feudatories.",
+      "type": "State"
+    },
+    {
+      "id": "event-0732",
+      "title": "Seuna dynasty",
+      "article": "Seuna (Yadava) dynasty",
+      "source": "https://en.wikipedia.org/wiki/Seuna_dynasty",
+      "revisionId": 1378860854,
+      "dateNote": "Approximate sovereign phase; the dynasty’s feudatory origins were earlier.",
+      "type": "State"
+    },
+    {
+      "id": "event-0733",
+      "title": "Pushyabhuti dynasty",
+      "article": "Pushyabhuti dynasty",
+      "source": "https://en.wikipedia.org/wiki/Pushyabhuti_dynasty",
+      "revisionId": 1360822535,
+      "dateNote": "Approximate dynastic bounds; Harsha’s reign was only the final phase.",
+      "type": "State"
+    },
+    {
+      "id": "event-0734",
+      "title": "Western Ganga dynasty",
+      "article": "Western Ganga dynasty",
+      "source": "https://en.wikipedia.org/wiki/Western_Ganga_dynasty",
+      "revisionId": 1379826456,
+      "dateNote": "Approximate foundation around 350.",
+      "type": "State"
+    },
+    {
+      "id": "event-0735",
+      "title": "Eastern Ganga dynasty",
+      "article": "Eastern Ganga dynasty",
+      "source": "https://en.wikipedia.org/wiki/Eastern_Ganga_dynasty",
+      "revisionId": 1380266426,
+      "dateNote": "Approximate main Kalinga political span, ending with the rise of the Gajapatis; surviving branches continued much later. Sources differ between 1434 and 1436 for the dynastic transition.",
+      "type": "State"
+    },
+    {
+      "id": "event-0736",
+      "title": "Gajapati Empire",
+      "article": "Gajapati Empire",
+      "source": "https://en.wikipedia.org/wiki/Gajapati_Empire",
+      "revisionId": 1380766853,
+      "dateNote": "Dates refer to the main Suryavamsa Gajapati state.",
+      "type": "State"
+    },
+    {
+      "id": "event-0737",
+      "title": "Delhi Sultanate",
+      "article": "Delhi Sultanate",
+      "source": "https://en.wikipedia.org/wiki/Delhi_Sultanate",
+      "revisionId": 1381738449,
+      "dateNote": "An umbrella political span; the five main ruling dynasties are separate records and are not five additional simultaneous empires.",
+      "type": "State"
+    },
+    {
+      "id": "event-0738",
+      "title": "Mamluk dynasty (Delhi)",
+      "article": "Mamluk dynasty (Delhi)",
+      "source": "https://en.wikipedia.org/wiki/Mamluk_dynasty_(Delhi)",
+      "revisionId": 1381739820,
+      "dateNote": "A phase of the Delhi Sultanate, not a separate concurrent empire.",
+      "type": "State"
+    },
+    {
+      "id": "event-0739",
+      "title": "Khalji dynasty",
+      "article": "Khalji dynasty",
+      "source": "https://en.wikipedia.org/wiki/Khalji_dynasty",
+      "revisionId": 1376007006,
+      "dateNote": "A dynastic phase within the Delhi Sultanate.",
+      "type": "State"
+    },
+    {
+      "id": "event-0740",
+      "title": "Tughlaq dynasty",
+      "article": "Tughlaq dynasty",
+      "source": "https://en.wikipedia.org/wiki/Tughlaq_dynasty",
+      "revisionId": 1377248541,
+      "dateNote": "Uses the last Tughlaq ruler’s death in 1413; some umbrella chronologies extend this phase to the Sayyid takeover in 1414.",
+      "type": "State"
+    },
+    {
+      "id": "event-0741",
+      "title": "Sayyid dynasty",
+      "article": "Sayyid dynasty",
+      "source": "https://en.wikipedia.org/wiki/Sayyid_dynasty",
+      "revisionId": 1375173045,
+      "dateNote": "A dynastic phase within the Delhi Sultanate.",
+      "type": "State"
+    },
+    {
+      "id": "event-0742",
+      "title": "Lodi dynasty",
+      "article": "Lodi dynasty",
+      "source": "https://en.wikipedia.org/wiki/Lodi_dynasty",
+      "revisionId": 1380410073,
+      "dateNote": "The final dynastic phase of the Delhi Sultanate.",
+      "type": "State"
+    },
+    {
+      "id": "event-0743",
+      "title": "Bahmani Kingdom",
+      "article": "Bahmani Sultanate",
+      "source": "https://en.wikipedia.org/wiki/Bahmani_Kingdom",
+      "revisionId": 1381222966,
+      "dateNote": "Later Bahmani rulers retained a diminished or nominal authority as successor sultanates emerged.",
+      "type": "State"
+    },
+    {
+      "id": "event-0744",
+      "title": "Vijayanagara Empire",
+      "article": "Vijayanagara Empire",
+      "source": "https://en.wikipedia.org/wiki/Vijayanagara_Empire",
+      "revisionId": 1381426478,
+      "dateNote": "The empire continued under later capitals after the defeat at Talikota in 1565.",
+      "type": "State"
+    },
+    {
+      "id": "event-0745",
+      "title": "Maratha Empire",
+      "article": "Maratha Empire",
+      "source": "https://en.wikipedia.org/wiki/Maratha_Empire",
+      "revisionId": 1381640087,
+      "dateNote": "Uses Shivaji’s coronation in 1674 and the defeat of the Peshwa in 1818; some constituent princely states continued.",
+      "type": "State"
+    },
+    {
+      "id": "event-0746",
+      "title": "Sikh Empire",
+      "article": "Sikh Empire",
+      "source": "https://en.wikipedia.org/wiki/Sikh_Empire",
+      "revisionId": 1369760139,
+      "dateNote": "",
+      "type": "State"
+    },
+    {
+      "id": "event-0747",
+      "title": "Medieval Chola Empire",
+      "article": "Chola dynasty",
+      "source": "https://en.wikipedia.org/wiki/Chola_dynasty",
+      "revisionId": 1376291701,
+      "dateNote": "Approximate medieval imperial phase from the revival under Vijayalaya around 850; early Cholas are documented centuries earlier, but not as one continuous empire.",
+      "type": "State"
+    },
+    {
+      "id": "event-0748",
+      "title": "Later Pandya Empire",
+      "article": "Pandya dynasty",
+      "source": "https://en.wikipedia.org/wiki/Pandya_dynasty",
+      "revisionId": 1376808278,
+      "dateNote": "This record dates the later imperial phase, not the dynasty’s much earlier origins or surviving Tenkasi branch.",
+      "type": "State"
+    },
+    {
+      "id": "event-0749",
+      "title": "Battle of Cannae",
+      "article": "Battle of Cannae",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Cannae",
+      "revisionId": 1376557158,
+      "dateNote": "2 August 216 BCE.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0750",
+      "title": "Battle of Talas",
+      "article": "Battle of Talas",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Talas",
+      "revisionId": 1381545201,
+      "dateNote": "The clash is conventionally dated to 751; the source differs on its precise month. It did not by itself end all Chinese influence in Central Asia.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0751",
+      "title": "Battle of Tours",
+      "article": "Battle of Tours",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Tours",
+      "revisionId": 1380614693,
+      "dateNote": "Conventionally dated to October 732; its wider significance is debated.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0752",
+      "title": "Battle of Vukovar",
+      "article": "Battle of Vukovar",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Vukovar",
+      "revisionId": 1375698459,
+      "dateNote": "25 August to 18 November 1991; an extended battle and siege within one calendar year.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0753",
+      "title": "Battle of Waterloo",
+      "article": "Battle of Waterloo",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+      "revisionId": 1380652941,
+      "dateNote": "18 June 1815.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0754",
+      "title": "Battle of Hastings",
+      "article": "Battle of Hastings",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Hastings",
+      "revisionId": 1380225409,
+      "dateNote": "14 October 1066.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0755",
+      "title": "Battle of Marathon",
+      "article": "Battle of Marathon",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Marathon",
+      "revisionId": 1380768828,
+      "dateNote": "490 BCE; exact modern-calendar conversion of the day is uncertain.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0756",
+      "title": "Battle of Salamis",
+      "article": "Battle of Salamis",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Salamis",
+      "revisionId": 1376844093,
+      "dateNote": "September 480 BCE; the exact day is disputed.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0757",
+      "title": "Battle of Gaugamela",
+      "article": "Battle of Gaugamela",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+      "revisionId": 1373255873,
+      "dateNote": "1 October 331 BCE.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0758",
+      "title": "Battle of Red Cliffs",
+      "article": "Battle of Red Cliffs",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+      "revisionId": 1370587339,
+      "dateNote": "Winter 208–209 CE; the two year labels reflect calendar conversion, not a two-year campaign.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0759",
+      "title": "Battle of Plassey",
+      "article": "Battle of Plassey",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+      "revisionId": 1381150568,
+      "dateNote": "23 June 1757.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0760",
+      "title": "First Battle of Panipat",
+      "article": "First Battle of Panipat",
+      "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+      "revisionId": 1370618857,
+      "dateNote": "21 April 1526.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0761",
+      "title": "Battle of Stalingrad",
+      "article": "Battle of Stalingrad",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+      "revisionId": 1381448910,
+      "dateNote": "July 1942 to 2 February 1943; some military chronologies begin the urban battle in August.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0762",
+      "title": "Battle of Midway",
+      "article": "Battle of Midway",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+      "revisionId": 1380537907,
+      "dateNote": "4–7 June 1942; the year-only span represents several days.",
+      "type": "Battle"
+    },
+    {
+      "id": "event-0763",
+      "title": "Yellow Turban Rebellion",
+      "article": "Yellow Turban Rebellion",
+      "source": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion",
+      "revisionId": 1379207817,
+      "dateNote": "The main uprising began in 184 and was suppressed by 185; resistance and related uprisings continued to 205.",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0764",
+      "title": "An Lushan rebellion",
+      "article": "An Lushan rebellion",
+      "source": "https://en.wikipedia.org/wiki/An_Lushan_rebellion",
+      "revisionId": 1377811389,
+      "dateNote": "",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0765",
+      "title": "Red Turban Rebellions",
+      "article": "Red Turban Rebellions",
+      "source": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
+      "revisionId": 1381282222,
+      "dateNote": "",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0766",
+      "title": "Taiping Rebellion",
+      "article": "Taiping Rebellion",
+      "source": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+      "revisionId": 1381689456,
+      "dateNote": "Some accounts begin with the Jintian uprising in January 1851; the movement’s armed revolt developed in late 1850.",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0767",
+      "title": "Boxer Rebellion",
+      "article": "Boxer Rebellion",
+      "source": "https://en.wikipedia.org/wiki/Boxer_Rebellion",
+      "revisionId": 1381525011,
+      "dateNote": "",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0768",
+      "title": "Dungan Revolt (1862–1877)",
+      "article": "Dungan Revolt (1862–1877)",
+      "source": "https://en.wikipedia.org/wiki/Dungan_Revolt_(1862%E2%80%931877)",
+      "revisionId": 1380996247,
+      "dateNote": "This entry follows the source’s northwestern scope, rather than merging the separate Panthay Rebellion in Yunnan.",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0769",
+      "title": "Nian Rebellion",
+      "article": "Nian Rebellion",
+      "source": "https://en.wikipedia.org/wiki/Nian_Rebellion",
+      "revisionId": 1379009563,
+      "dateNote": "",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0770",
+      "title": "White Lotus Rebellion",
+      "article": "White Lotus Rebellion",
+      "source": "https://en.wikipedia.org/wiki/White_Lotus_Rebellion",
+      "revisionId": 1380762211,
+      "dateNote": "The main war is conventionally dated 1796–1804; the source describes earlier disturbances from 1794.",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0771",
+      "title": "Indian Rebellion of 1857",
+      "article": "Indian Rebellion of 1857",
+      "source": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+      "revisionId": 1381519053,
+      "dateNote": "May 1857 to November 1858; residual resistance continued beyond the principal campaign.",
+      "type": "Rebellion"
+    },
+    {
+      "id": "event-0772",
+      "title": "Napoleonic Wars",
+      "article": "Napoleonic Wars",
+      "source": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+      "revisionId": 1381727424,
+      "dateNote": "",
+      "type": "War"
+    },
+    {
+      "id": "event-0773",
+      "title": "Crimean War",
+      "article": "Crimean War",
+      "source": "https://en.wikipedia.org/wiki/Crimean_War",
+      "revisionId": 1381656881,
+      "dateNote": "",
+      "type": "War"
+    },
+    {
+      "id": "event-0774",
+      "title": "English Civil War",
+      "article": "English Civil War",
+      "source": "https://en.wikipedia.org/wiki/English_Civil_War",
+      "revisionId": 1381664704,
+      "dateNote": "A composite conflict within the wider Wars of the Three Kingdoms; separate campaigns and intervals are not a single continuous battle.",
+      "type": "War"
+    },
+    {
+      "id": "event-0775",
+      "title": "Sealing of Magna Carta",
+      "article": "Magna Carta",
+      "source": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "revisionId": 1381090004,
+      "dateNote": "15 June 1215; this dates the sealing, not the later history of the document.",
+      "type": "Event"
+    },
+    {
+      "id": "event-0776",
+      "title": "Spanish Inquisition",
+      "article": "Spanish Inquisition",
+      "source": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "revisionId": 1381073885,
+      "dateNote": "Authorized in 1478; inquisitors were appointed in 1480. Abolished and restored more than once before final abolition in 1834; the overall bounds are institutional, not an uninterrupted series of trials.",
+      "type": "Institution"
+    },
+    {
+      "id": "event-0777",
+      "title": "Early blast-furnace iron production in China",
+      "article": "Blast furnace",
+      "source": "https://en.wikipedia.org/wiki/Blast_furnace",
+      "revisionId": 1381428830,
+      "dateNote": "Approximate fifth-century BCE development described in the source; the precise first furnace and location remain uncertain.",
+      "type": "Invention"
+    },
+    {
+      "id": "event-0778",
+      "title": "Spread of iron smelting",
+      "article": "Ferrous metallurgy",
+      "source": "https://en.wikipedia.org/wiki/Ferrous_metallurgy",
+      "revisionId": 1379687856,
+      "dateNote": "Approximate coordinate near the end of the second millennium BCE. The first smelting of iron is uncertain; earlier iron objects could use meteoritic metal, and this is not an assertion of one inventor or universal start.",
+      "type": "Invention"
+    }
+  ],
+  "categoryChanges": [
+    {
+      "id": "event-0087",
+      "title": "Archaic Maya",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0106",
+      "title": "Ancient Egypt",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0112",
+      "title": "Minoan Greece",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0113",
+      "title": "Old Kingdom of Egypt",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0116",
+      "title": "Phoenician civilization",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0118",
+      "title": "Akkadian Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0120",
+      "title": "Assyria",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0122",
+      "title": "Preclassic Maya",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0123",
+      "title": "Babylonian Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0126",
+      "title": "Mycenaean Greece",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0134",
+      "title": "Kingdom of Judah (south)",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0135",
+      "title": "Neo-Assyrian Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0137",
+      "title": "Kingdom of Israel (north)",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0138",
+      "title": "Ancient Carthage",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0139",
+      "title": "Archaic Greece",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0142",
+      "title": "Independent Carthage",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0149",
+      "title": "Achaemenid Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0150",
+      "title": "Establishment of the Roman Republic",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0151",
+      "title": "Greco-Persian Wars",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0152",
+      "title": "Classical Greece",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0154",
+      "title": "Peloponnesian Wars",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0159",
+      "title": "Hellenistic Greece",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0160",
+      "title": "Punic Wars",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0161",
+      "title": "Parthian Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0162",
+      "title": "Qin dynasty (beginning of Imperial China)",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0164",
+      "title": "Han dynasty",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": true
+    },
+    {
+      "id": "event-0169",
+      "title": "Siege of Jerusalem",
+      "oldType": "Event",
+      "type": "Siege",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0171",
+      "title": "Gallic Wars",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0178",
+      "title": "Roman Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0182",
+      "title": "Boudica's uprising",
+      "oldType": "Event",
+      "type": "Rebellion",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0183",
+      "title": "Siege of Jerusalem",
+      "oldType": "Event",
+      "type": "Siege",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0188",
+      "title": "Classic Maya",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0193",
+      "title": "Byzantine Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0199",
+      "title": "Francia",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0207",
+      "title": "Carolingian dynasty",
+      "oldType": "Family",
+      "type": "Dynasty",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0209",
+      "title": "Umayyad Caliphate",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0213",
+      "title": "Al-Andalus",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0217",
+      "title": "Khmer Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0219",
+      "title": "Kievan Rus'",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0221",
+      "title": "Postclassic Maya",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0223",
+      "title": "Song dynasty",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0224",
+      "title": "Holy Roman Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0225",
+      "title": "Norse Greenland",
+      "oldType": "Unit",
+      "type": "Settlement",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0230",
+      "title": "Mongol Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0231",
+      "title": "Golden Horde",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0234",
+      "title": "Habsburg Monarchy",
+      "oldType": "Family",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0235",
+      "title": "The Ottoman Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0237",
+      "title": "Hundred Years' War",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0240",
+      "title": "Ming dynasty",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0244",
+      "title": "Inca Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0263",
+      "title": "Prussia",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0265",
+      "title": "Mughal Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0266",
+      "title": "Siege of Vienna (1529)",
+      "oldType": "Event",
+      "type": "Siege",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0271",
+      "title": "Polish-Lithuanian Commonwealth",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0280",
+      "title": "Thirteen Colonies",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0287",
+      "title": "Qing dynasty",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0312",
+      "title": "American Revolution",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0316",
+      "title": "American Revolutionary War",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0318",
+      "title": "French Revolution",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0321",
+      "title": "Haitian Revolution",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0324",
+      "title": "Napoleonic France",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0339",
+      "title": "American Civil War",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0342",
+      "title": "Austria-Hungary",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0349",
+      "title": "German Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0370",
+      "title": "World War I",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0372",
+      "title": "October Revolution",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0373",
+      "title": "Weimar Republic",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0375",
+      "title": "Yugoslavia",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0376",
+      "title": "Czechoslovakia",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0383",
+      "title": "Soviet Union",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0395",
+      "title": "Nazi Germany",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0396",
+      "title": "World War II",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0404",
+      "title": "West Germany",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0407",
+      "title": "Vietnam War",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0431",
+      "title": "War in Afghanistan",
+      "oldType": "Event",
+      "type": "War",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0458",
+      "title": "Hungarian Revolution of 1956",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0462",
+      "title": "Cuban Revolution",
+      "oldType": "War",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0467",
+      "title": "Battle of France",
+      "oldType": "Event",
+      "type": "Campaign",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0471",
+      "title": "Gupta Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0476",
+      "title": "Aztec Empire",
+      "oldType": "Unit",
+      "type": "State",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0555",
+      "title": "Etruscan civilization",
+      "oldType": "Unit",
+      "type": "Civilization",
+      "dateMeaningClarified": false
+    },
+    {
+      "id": "event-0572",
+      "title": "Colour revolutions",
+      "oldType": "Event",
+      "type": "Revolution",
+      "dateMeaningClarified": false
+    }
+  ],
+  "queueCuration": {
+    "sourceArticleCount": 1817,
+    "candidate": 376,
+    "exclude": 812,
+    "review": 288,
+    "guide": 24
+  }
+}

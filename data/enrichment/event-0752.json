@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0752",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Vukovar",
+  "revisionId": 1375698459,
+  "fetchedAt": "2026-10-24T16:00:11.908Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/83/Vukovar-watertower-after-war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Vukovar-watertower-after-war.jpg/330px-Vukovar-watertower-after-war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Vukovar-watertower-after-war.jpg",
+      "artist": "anjči from London, UK",
+      "credit": "Vukovar water tower\n\nUploaded by Taavetti",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "attribution": ""
+    }
+  }
+}

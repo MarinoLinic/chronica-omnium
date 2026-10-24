@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0696",
+  "source": "https://en.wikipedia.org/wiki/Wuyue",
+  "revisionId": 1380987483,
+  "fetchedAt": "2026-10-24T15:59:55.483Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/L.LIANG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/L.LIANG.jpg/960px-L.LIANG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/L.LIANG.jpg/330px-L.LIANG.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:L.LIANG.jpg",
+      "artist": "Pavo Xie",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

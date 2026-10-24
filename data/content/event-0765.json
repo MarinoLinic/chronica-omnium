@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0765",
+  "source": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
+  "title": "Red Turban Rebellions",
+  "revisionId": 1381282222,
+  "revisionTimestamp": "2026-10-21T08:18:45Z",
+  "fetchedAt": "2026-10-24T16:00:16.367Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Red Turban Rebellions (Chinese: 紅巾起義; pinyin: Hóngjīn Qǐyì) were uprisings against the Yuan dynasty between 1351 and 1368, eventually leading to its collapse. Remnants of the Yuan imperial court retreated northwards and is thereafter known as the Northern Yuan in historiography."
+}

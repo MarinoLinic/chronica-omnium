@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0777",
+  "source": "https://en.wikipedia.org/wiki/Blast_furnace",
+  "title": "Blast furnace",
+  "revisionId": 1381428830,
+  "revisionTimestamp": "2026-10-22T12:22:12Z",
+  "fetchedAt": "2026-10-24T16:00:32.429Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "A blast furnace is a type of metallurgical furnace used for smelting to produce industrial metals, generally pig iron, but also others such as lead or copper.  Blast refers to the combustion air being supplied above atmospheric pressure. \nIn a blast furnace, fuel (coke), ores, and flux (limestone) are continuously supplied through the top of the furnace, while a hot blast of (sometimes oxygen-enriched) air is blown into the lower section of the furnace through a series of pipes called tuyeres, so that the chemical reactions take place throughout the furnace as the material falls downward. The end products are usually molten metal and slag phases tapped from the bottom, and flue gases exiting from the top. The downward flow of the ore along with the flux in contact with an upflow of hot, carbon monoxide-rich combustion gases is a countercurrent exchange and chemical reaction process.\nIn contrast, air furnaces (such as reverberatory furnaces) are naturally aspirated, usually by the convection of hot gases in a chimney flue. According to this broad definition, bloomeries for iron, blowing houses for tin, and smelt mills for lead would be classified as blast furnaces. However, the term has usually been limited to those used for smelting iron ore to produce pig iron, an intermediate material used in the production of commercial iron and steel, and the shaft furnaces used in combination with sinter plants in base metals smelting.\nThe process of using blast furnaces has its origin in as early as 5th century BC China, but only spread to the rest of Eurasia in the middle ages. They only became the dominant form of metal smelting with advances in Coking and furnace design during the Early Modern period. Blast furnaces are estimated to have been responsible for over 4% of global greenhouse gas emissions between 1900 and 2015, and are difficult to decarbonize."
+}

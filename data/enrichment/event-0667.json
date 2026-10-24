@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0667",
+  "source": "https://en.wikipedia.org/wiki/Xia_dynasty",
+  "revisionId": 1381063948,
+  "fetchedAt": "2026-10-24T15:59:47.120Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/Xia_dynasty.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/960px-Xia_dynasty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/330px-Xia_dynasty.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg",
+      "artist": "w:en:User:Gurdjieff (Lamassu Design)",
+      "credit": "w:en:File:Xia dynasty.svg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

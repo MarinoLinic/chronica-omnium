@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0674",
+  "source": "https://en.wikipedia.org/wiki/Jin_dynasty_(266%E2%80%93420)",
+  "revisionId": 1359294647,
+  "fetchedAt": "2026-10-24T15:59:48.848Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Western_Jeun_Dynasty_280_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Western_Jeun_Dynasty_280_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Western_Jeun_Dynasty_280_CE.png/330px-Western_Jeun_Dynasty_280_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Western_Jeun_Dynasty_280_CE.png",
+      "artist": "Ian Kiu",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

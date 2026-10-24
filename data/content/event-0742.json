@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0742",
+  "source": "https://en.wikipedia.org/wiki/Lodi_dynasty",
+  "title": "Lodi dynasty",
+  "revisionId": 1380410073,
+  "revisionTimestamp": "2026-10-15T15:28:33Z",
+  "fetchedAt": "2026-10-24T16:00:08.977Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Lodi dynasty was a dynasty that ruled the Sultanate of Delhi from 1451 to 1526. It was the fifth and final dynasty of the Delhi Sultanate, with three rulers ascending to throne, and was founded by Bahlul Lodi when he replaced the Sayyid dynasty."
+}

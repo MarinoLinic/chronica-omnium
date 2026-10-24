@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0763",
+  "source": "https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion",
+  "revisionId": 1379207817,
+  "fetchedAt": "2026-10-24T16:00:15.702Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Yellow_Turban_Rebellion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Yellow_Turban_Rebellion.jpg/960px-Yellow_Turban_Rebellion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Yellow_Turban_Rebellion.jpg/330px-Yellow_Turban_Rebellion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Yellow_Turban_Rebellion.jpg",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

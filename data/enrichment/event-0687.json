@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0687",
+  "source": "https://en.wikipedia.org/wiki/Later_Tang",
+  "revisionId": 1380985226,
+  "fetchedAt": "2026-10-24T15:59:52.909Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png/960px-%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png/330px-%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:%E4%BA%94%E4%BB%A3%E5%90%8E%E5%94%90%EF%BC%88%E7%B9%81%EF%BC%89.png",
+      "artist": "玖巧仔",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

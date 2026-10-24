@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0704",
+  "source": "https://en.wikipedia.org/wiki/Northern_Han",
+  "revisionId": 1380980501,
+  "fetchedAt": "2026-10-24T15:59:57.049Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Northern_Han_Kingdom%2C_951.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Northern_Han_Kingdom%2C_951.svg/960px-Northern_Han_Kingdom%2C_951.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Northern_Han_Kingdom%2C_951.svg/330px-Northern_Han_Kingdom%2C_951.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Northern_Han_Kingdom,_951.svg",
+      "artist": "Wangyefurichard",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "attribution": ""
+    }
+  }
+}

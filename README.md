@@ -17,11 +17,15 @@ Open the printed loopback URL, normally `http://127.0.0.1:5173`. The first insta
 
 The chronicle has a compact period picker, previous/next period controls, search, and type/field filters. The list is virtualized and images load lazily in reserved spaces. Hover, focus, or tap a date for elapsed years and approximate generations ago, at **25 years per generation**. Event pages also show this beneath the date. Positive years omit CE; negative years retain BCE.
 
+The left-hand time guide follows the visible story through geological units, broad archaeological and historical ages, and centuries. It folds away on mobile. These are approximate orientation labels; human ages vary by region. The original simple period scheme is retained, with clear date and nesting errors corrected.
+
 Event pages show the article and selected image together after loading. Sources, image credits, revision/retrieval details, text download, and print controls are under a closed **Sources & reading copies** disclosure. Uncertainty that affects historical interpretation stays beside the date.
 
 The header keeps the original animated blue/cyan gradient, with reduced-motion support. The original large title and percentage-based Back to Top designs are preserved in [legacy/designs/](legacy/designs/README.md), including a standalone preview. Event pictures retain their size limits without a coloured frame behind them.
 
 `/timeline` supports horizontal and vertical linear charts, subject grouping or chronological packing, filters, presets, pan/zoom, and full-chart PNG/SVG exports. Context charts use the same SVG/export approach and appear only for populated categories in a useful human-history window. Text lists remain available.
+
+Vertical timelines include age bands to the left of the events, including in exports. Filter battles, rebellions, sieges and wars separately. **State** covers kingdoms, empires, republics and dynastic states; **Civilization** covers broader cultural groupings. The [catalog curation notes](docs/CATALOG-CURATION.md) explain the current intake and coverage.
 
 ## Authoring
 

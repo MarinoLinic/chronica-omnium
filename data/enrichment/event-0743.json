@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0743",
+  "source": "https://en.wikipedia.org/wiki/Bahmani_Kingdom",
+  "revisionId": 1381222966,
+  "fetchedAt": "2026-10-24T16:00:09.212Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/960px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bahmanis_in_1390.png/330px-Bahmanis_in_1390.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bahmanis_in_1390.png",
+      "artist": "Beylarbey",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

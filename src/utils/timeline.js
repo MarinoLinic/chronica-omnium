@@ -2,6 +2,11 @@ import { ordinalYear, historicalYear } from "./dates.js";
 export const colors = {
   "People":"#0d766e", "Society & conflict":"#974437", "Civilizations & institutions":"#616a98", "Ideas & discoveries":"#8b6528", "Earth & life":"#366d84", "Events & culture":"#705679",
   Unit: "#6172b8",
+  State: "#6172b8",
+  Civilization: "#6172b8",
+  Battle: "#974437",
+  Rebellion: "#974437",
+  Siege: "#974437",
   Person: "#0d766e",
   Event: "#b45309",
   Period: "#7c3aed",
@@ -10,9 +15,9 @@ export const colors = {
 export const colorFor = (type) => colors[type] || "#475569";
 export function trackFor(record) {
   if (record.type === "Person") return "People";
-  if (["War", "Revolution", "Movement", "Religion"].includes(record.type))
+  if (["War", "Battle", "Siege", "Rebellion", "Revolution", "Movement", "Religion"].includes(record.type))
     return "Society & conflict";
-  if (["Unit", "Period", "Company"].includes(record.type))
+  if (["Unit", "State", "Civilization", "Dynasty", "Settlement", "Institution", "Period", "Company"].includes(record.type))
     return "Civilizations & institutions";
   if (
     ["Invention", "Discovery"].includes(record.type) ||
@@ -62,7 +67,9 @@ export function layoutTimeline(
         { start, end, orientation, pixels },
       );
       heads.push({ label, lane: lanes });
-      lanes++;
+      // Horizontal headings occupy their own row. Vertical headings sit above
+      // their first event column and must not reserve an empty 260px column.
+      if (orientation === "horizontal") lanes++;
       items.push(...base.items.map((r) => ({ ...r, lane: r.lane + lanes })));
       lanes += base.lanes;
     }

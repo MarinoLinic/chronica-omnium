@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0697",
+  "source": "https://en.wikipedia.org/wiki/Min_(Ten_Kingdoms)",
+  "title": "Min (Ten Kingdoms)",
+  "revisionId": 1380986979,
+  "revisionTimestamp": "2026-10-19T07:31:07Z",
+  "fetchedAt": "2026-10-24T15:59:55.590Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Min (Chinese: 閩; pinyin: Mǐn) was a dynastic state of China and one of the Ten Kingdoms in existence between the years of 909 and 945. It existed in a mountainous region of modern-day Fujian province of China and had a history of quasi-independent rule. Its capital was Fuzhou. It was founded by Wang Shenzhi (Emperor Taizu)."
+}

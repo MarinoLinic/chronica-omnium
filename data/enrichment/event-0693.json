@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0693",
+  "source": "https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)",
+  "revisionId": 1381322354,
+  "fetchedAt": "2026-10-24T15:59:54.753Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/330px-Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jin_Dynasty_1141_(no_borders).png",
+      "artist": "Ian Kiu",
+      "credit": "Own work using:\n\nFile:Sung Dynasty 1141.png, itself based on a map in Albert Herrmann (1935). History and Commercial Atlas of China. Harvard University Press.",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

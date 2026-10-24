@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0757",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+  "revisionId": 1373255873,
+  "fetchedAt": "2026-10-24T16:00:13.788Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg/960px-Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg/330px-Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_da_Cortona_-_Battle_of_Alexander_versus_Darius_-_Google_Art_Project.jpg",
+      "artist": "Pietro da Cortona",
+      "credit": "Google Arts & Culture  — TAFxS-oMiYzUyA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

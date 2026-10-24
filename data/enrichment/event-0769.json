@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0769",
+  "source": "https://en.wikipedia.org/wiki/Nian_Rebellion",
+  "revisionId": 1379009563,
+  "fetchedAt": "2026-10-24T16:00:17.694Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Nian_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Nian_Rebellion.png/960px-Nian_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Nian_Rebellion.png/330px-Nian_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Nian_Rebellion.png",
+      "artist": "SY",
+      "credit": "Own work",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

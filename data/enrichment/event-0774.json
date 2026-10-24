@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0774",
+  "source": "https://en.wikipedia.org/wiki/English_Civil_War",
+  "revisionId": 1381664704,
+  "fetchedAt": "2026-10-24T16:00:19.802Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg/960px-Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg/330px-Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Naseby,_hand-coloured_copper_engraving.jpg",
+      "artist": "Unknown authorUnknown author",
+      "credit": "https://warfarehistorynetwork.com/article/battle-of-naseby-royalist-reckoning/",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0768",
+  "source": "https://en.wikipedia.org/wiki/Dungan_Revolt_(1862%E2%80%931877)",
+  "revisionId": 1380996247,
+  "fetchedAt": "2026-10-24T16:00:17.304Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Battle_at_the_Wei_River_%28Weihe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Battle_at_the_Wei_River_%28Weihe%29.jpg/960px-Battle_at_the_Wei_River_%28Weihe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Battle_at_the_Wei_River_%28Weihe%29.jpg/330px-Battle_at_the_Wei_River_%28Weihe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_at_the_Wei_River_(Weihe).jpg",
+      "artist": "Qingkuan",
+      "credit": "http://www.battle-of-qurman.com.cn/e/hist.htm",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

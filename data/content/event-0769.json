@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0769",
+  "source": "https://en.wikipedia.org/wiki/Nian_Rebellion",
+  "title": "Nian Rebellion",
+  "revisionId": 1379009563,
+  "revisionTimestamp": "2026-10-07T10:14:34Z",
+  "fetchedAt": "2026-10-24T16:00:17.694Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The Nian Rebellion (Chinese: 捻亂; pinyin: Niǎn Luàn) was an insurrection against the Qing dynasty in northern China from 1851 to 1868, contemporaneously with the Taiping Rebellion (1850–1864) in southern China. The rebellion was suppressed, but the population and economic losses contributed to the collapse of the empire in the early 20th century."
+}

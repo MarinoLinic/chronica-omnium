@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0756",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Salamis",
+  "revisionId": 1376844093,
+  "fetchedAt": "2026-10-24T16:00:13.225Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Battle_of_salamis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Battle_of_salamis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Battle_of_salamis.png/330px-Battle_of_salamis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_of_salamis.png",
+      "artist": "The Department of History, United States Military Academy",
+      "credit": "The Department of History, United States Military Academy  [1]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

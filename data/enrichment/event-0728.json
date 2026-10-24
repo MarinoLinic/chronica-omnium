@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0728",
+  "source": "https://en.wikipedia.org/wiki/Paramara_dynasty",
+  "revisionId": 1374711949,
+  "fetchedAt": "2026-10-24T16:00:04.359Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Map_of_the_Paramaras.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_the_Paramaras.png/960px-Map_of_the_Paramaras.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Map_of_the_Paramaras.png/330px-Map_of_the_Paramaras.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Paramaras.png",
+      "artist": "Map created from DEMIS Mapserver, which are public domain. Koba-chan.\n\nReference: [1]",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

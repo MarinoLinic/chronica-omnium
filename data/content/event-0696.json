@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0696",
+  "source": "https://en.wikipedia.org/wiki/Wuyue",
+  "title": "Wuyue",
+  "revisionId": 1380987483,
+  "revisionTimestamp": "2026-10-19T07:37:41Z",
+  "fetchedAt": "2026-10-24T15:59:55.483Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Wuyue (simplified Chinese: 吴越; traditional Chinese: 吳越; pinyin: Wúyuè; Wu Chinese pronunciation: [ŋu²³³.ɦyøʔ²³]) was a dynastic state of China and one of the Ten Kingdoms during the Five Dynasties and Ten Kingdoms period of Chinese history. It was ruled by the Qian clan of Haiyan (海鹽錢氏), whose family name remains widespread in the kingdom's former territory."
+}

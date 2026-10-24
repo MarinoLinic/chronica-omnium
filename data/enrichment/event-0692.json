@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0692",
+  "source": "https://en.wikipedia.org/wiki/Western_Xia",
+  "revisionId": 1381436298,
+  "fetchedAt": "2026-10-24T15:59:54.172Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Song-Liao-Xixia-1111.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Song-Liao-Xixia-1111.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Song-Liao-Xixia-1111.png/330px-Song-Liao-Xixia-1111.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Song-Liao-Xixia-1111.png",
+      "artist": "Douglasfrankfort",
+      "credit": "zh:File:Songliaoxixia.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

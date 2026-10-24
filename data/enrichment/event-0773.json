@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0773",
+  "source": "https://en.wikipedia.org/wiki/Crimean_War",
+  "revisionId": 1381656881,
+  "fetchedAt": "2026-10-24T16:00:19.203Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/960px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/330px-William_Simpson_-_Attack_on_the_Malakoff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:William_Simpson_-_Attack_on_the_Malakoff.jpg",
+      "artist": "William Simpson, artist (1823-1899)\nE[dmond]. Morin, lithographer (1824 - 1882), working for \"Day & Son, lithrs. to the Queen\"\nPublished by:\n\nPaul & Dominic Colnaghi & Co., 13 & 14 Pall Mall East, publishers to Her Majesty\nParis : Goupil & Cie.\nLeipzig: Otto Weigel",
+      "credit": "This image  is available from the United States Library of Congress's Prints and Photographs division under the digital ID pga.03644.This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

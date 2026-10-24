@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0745",
+  "source": "https://en.wikipedia.org/wiki/Maratha_Empire",
+  "revisionId": 1381640087,
+  "fetchedAt": "2026-10-24T16:00:10.144Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/India1760_1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/India1760_1905.jpg/960px-India1760_1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/India1760_1905.jpg/330px-India1760_1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:India1760_1905.jpg",
+      "artist": "",
+      "credit": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

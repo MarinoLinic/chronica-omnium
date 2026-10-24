@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0771",
+  "source": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+  "revisionId": 1381519053,
+  "fetchedAt": "2026-10-24T16:00:18.564Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Indian_Rebellion_of_1857.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Indian_Rebellion_of_1857.jpg/960px-Indian_Rebellion_of_1857.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Indian_Rebellion_of_1857.jpg/330px-Indian_Rebellion_of_1857.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Indian_Rebellion_of_1857.jpg",
+      "artist": "Unknown authorUnknown author Cambridge University Press; Stanford's Geogl. Estabt..",
+      "credit": "Perry-Castañeda Library Map Collection Website.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

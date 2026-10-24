@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0760",
+  "source": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+  "title": "First Battle of Panipat",
+  "revisionId": 1370618857,
+  "revisionTimestamp": "2026-08-22T03:18:52Z",
+  "fetchedAt": "2026-10-24T16:00:14.256Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "The First Battle of Panipat, on 21 April 1526 was fought between the invading forces of Babur against Ibrahim Khan Lodi, the Sultan of Delhi, in North India. Babur's forces, employing gunpowder firearms and cannons, defeated Ibrahim. This was one of the earliest battles involving gunpowder arms on the Indian subcontinent. The victory marked the beginning of Mughal rule in India."
+}

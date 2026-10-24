@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0753",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+  "revisionId": 1380652941,
+  "fetchedAt": "2026-10-24T16:00:12.373Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/Battle_of_Waterloo_1815.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/960px-Battle_of_Waterloo_1815.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/330px-Battle_of_Waterloo_1815.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Battle_of_Waterloo_1815.PNG",
+      "artist": "William Sadler",
+      "credit": "Napoleon.org.pl",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

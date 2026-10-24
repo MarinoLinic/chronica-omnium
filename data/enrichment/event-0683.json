@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0683",
+  "source": "https://en.wikipedia.org/wiki/Chen_dynasty",
+  "revisionId": 1375409742,
+  "fetchedAt": "2026-10-24T15:59:51.365Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/S-Chen_576.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/S-Chen_576.png/960px-S-Chen_576.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/S-Chen_576.png/330px-S-Chen_576.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:S-Chen_576.png",
+      "artist": "长官司",
+      "credit": "Own work",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

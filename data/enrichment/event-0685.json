@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0685",
+  "source": "https://en.wikipedia.org/wiki/Tang_dynasty",
+  "revisionId": 1379356857,
+  "fetchedAt": "2026-10-24T15:59:52.457Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tang_outline_map%2C_661.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Tang_outline_map%2C_661.svg/960px-Tang_outline_map%2C_661.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Tang_outline_map%2C_661.svg/330px-Tang_outline_map%2C_661.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Tang_outline_map,_661.svg",
+      "artist": "Kanguole",
+      "credit": "Own work\n\nBoundaries from\nTwitchett, Denis (2000), \"Tibet in Tang's Grand Strategy\", in Hans van de Ven (ed.), Warfare in Chinese History, Leiden: Koninklijke Brill, p. 118,119 ISBN 978-90-04-11774-7\nBlunden, Caroline and Elvin, Mark (1983), Cultural Atlas of China, Oxford: Phaidon Press, ISBN 0-7148-2309-0, pp. 26, 92–93.\nShin, Michael D., ed.  (2014)  Korean History in Maps, Cambridge University Press, pp. 39, 47  ISBN:  978-1-107-09846-6.  (pre-conquest extent of Baekje, approximating the extent of the Ungjin Commandery)\nCoastline and lakes from Natural Earth 1:50m Physical Vectors\nConversion to SVG using svgis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

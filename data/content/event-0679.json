@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0679",
+  "source": "https://en.wikipedia.org/wiki/Northern_Zhou",
+  "title": "Northern Zhou",
+  "revisionId": 1369701763,
+  "revisionTimestamp": "2026-08-16T16:31:27Z",
+  "fetchedAt": "2026-10-24T15:59:50.407Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Zhou (), known in historiography as the Northern Zhou (Chinese: 北周; pinyin: Běi Zhōu), was a Xianbei-led dynasty of China (founded by member of Yuwen tribe of Xiongnu origin) that lasted from 557 to 581 AD. One of the Northern dynasties of China's Northern and Southern dynasties period, it succeeded the Western Wei dynasty and was eventually overthrown by the Sui dynasty."
+}

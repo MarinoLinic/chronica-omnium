@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0759",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Plassey",
+  "revisionId": 1381150568,
+  "fetchedAt": "2026-10-24T16:00:14.403Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg/960px-Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg/330px-Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Lord_Clive_meeting_with_Mir_Jafar_after_the_Battle_of_Plassey.jpg",
+      "artist": "Francis Hayman",
+      "credit": "http://www.sterlingtimes.org/memorable_images56.htm (http://www.sterlingtimes.org/clive_of_india.jpg) \nNPG link: http://www.npg.org.uk/collections/search/portrait/mw01347/Robert-Clive-and-Mir-Jafar-after-the-Battle-of-Plassey-1757 \n\nCurrent image source [1]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

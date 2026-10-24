@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0734",
+  "source": "https://en.wikipedia.org/wiki/Western_Ganga_dynasty",
+  "revisionId": 1379826456,
+  "fetchedAt": "2026-10-24T16:00:06.473Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Western-ganga-empire-map.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Western-ganga-empire-map.svg/960px-Western-ganga-empire-map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Western-ganga-empire-map.svg/330px-Western-ganga-empire-map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Western-ganga-empire-map.svg",
+      "artist": "Mlpkr",
+      "credit": "Own work",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

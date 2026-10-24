@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0727",
+  "source": "https://en.wikipedia.org/wiki/Chandela_Empire",
+  "revisionId": 1381118167,
+  "fetchedAt": "2026-10-24T16:00:03.971Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg/960px-Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg/330px-Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Chandelas_of_Jejakabhukti._Sallakshana_Varman._Circa_1120-1135_CE.jpg",
+      "artist": "CNG coins",
+      "credit": "CNG Coins Coin from Coin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": "Classical Numismatic Group, Inc. http://www.cngcoins.com"
+    }
+  }
+}

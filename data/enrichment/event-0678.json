@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0678",
+  "source": "https://en.wikipedia.org/wiki/Northern_Qi",
+  "revisionId": 1381472260,
+  "fetchedAt": "2026-10-24T15:59:50.043Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Map_of_the_Northern_Qi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Map_of_the_Northern_Qi.png/960px-Map_of_the_Northern_Qi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Map_of_the_Northern_Qi.png/330px-Map_of_the_Northern_Qi.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Map_of_the_Northern_Qi.png",
+      "artist": "naturalearthdata.com, offered to the Public Domain per Terms of Use",
+      "credit": "This image has been extracted from another file",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "attribution": ""
+    }
+  }
+}

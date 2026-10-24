@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0690",
+  "source": "https://en.wikipedia.org/wiki/Later_Zhou",
+  "title": "Later Zhou",
+  "revisionId": 1380985972,
+  "revisionTimestamp": "2026-10-19T07:16:59Z",
+  "fetchedAt": "2026-10-24T15:59:53.420Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Zhou, known as the Later Zhou (; simplified Chinese: 后周; traditional Chinese: 後周; pinyin: Hòu Zhōu) in historiography, was a short-lived Chinese imperial dynasty and the last of the Five Dynasties that controlled most of northern China during the Five Dynasties and Ten Kingdoms period. Founded by Guo Wei (Emperor Taizu), it was preceded by the Later Han dynasty and succeeded by the Northern Song dynasty."
+}

@@ -11,6 +11,9 @@ import { selectEvents, layoutTimeline, colorFor,trackFor } from "../utils/timeli
 import { formatYear, ordinalYear, historicalYear } from "../utils/dates";
 import { exportTimeline } from "../utils/export-image";
 import { timelinePeriods, dateModes } from "../utils/periods";
+import timeScales from "../generated/time-scales.json";
+import { timeBands } from "../utils/time-scales";
+import TimeScaleBands from "./TimeScaleBands";
 
 const viewerYear = new Date().getFullYear();
 const presets = [
@@ -103,6 +106,8 @@ export default function Timeline() {
     () => layoutTimeline(records, { start, end, orientation, pixels, grouped }),
     [records, start, end, orientation, pixels, grouped],
   );
+  const guideColumns = useMemo(() => orientation === 'vertical' ? timeBands(timeScales,start,end,pixels,viewerYear) : [], [orientation,start,end,pixels]);
+  const guideWidth = guideColumns.length ? guideColumns.length * 66 + 14 : 0;
   const download = async (format) => {
     setBusy(true);
     setMessage("");
@@ -132,6 +137,7 @@ export default function Timeline() {
             time. Each bar shows a recorded span; dashed bars show uncertain
             date bounds. Deep time compresses recent history, so narrow the
             range to see more.
+            {orientation === 'vertical' && ' The left bands show approximate geological ages, human periods and centuries. Human ages overlap and follow broad conventions.'}
           </p>
           <div className="mt-4 flex flex-wrap gap-2">
             {presets.map(([label, s, e]) => (
@@ -326,8 +332,8 @@ export default function Timeline() {
         <svg
           ref={svgRef}
           xmlns="http://www.w3.org/2000/svg"
-          viewBox={`0 0 ${layout.width} ${layout.height}`}
-          width={layout.width}
+          viewBox={`0 0 ${layout.width + guideWidth} ${layout.height}`}
+          width={layout.width + guideWidth}
           height={layout.height}
           role="img"
           aria-label={`Timeline from ${formatYear(start)} to ${formatYear(end)}, ${records.length} periods`}
@@ -346,7 +352,10 @@ export default function Timeline() {
           <text x="24" y={layout.height - 15} fontSize="11" fill="#64748b">
             Solid: recorded span / point · Dashed: uncertain bounds · Arrows:
             continues beyond window
+            {guideWidth > 0 && ' · Bands: approximate ages; human periods vary by region'}
           </text>
+          {guideWidth > 0 && <TimeScaleBands columns={guideColumns} height={layout.height} />}
+          <g transform={`translate(${guideWidth},0)`}>
           {layout.ticks.map((t) =>
             orientation === "horizontal" ? (
               <g key={t.year}>
@@ -471,6 +480,7 @@ export default function Timeline() {
               No records match this range and these filters.
             </text>
           )}
+          </g>
         </svg>
       </div>
       <details className="m-4 rounded border border-slate-200 bg-white p-4">

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0772",
+  "source": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+  "revisionId": 1381727424,
+  "fetchedAt": "2026-10-24T16:00:19.081Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/960px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Napoleonic_Wars_(revision).jpg",
+      "artist": "Ruedi33a",
+      "credit": "Wikipedia/Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

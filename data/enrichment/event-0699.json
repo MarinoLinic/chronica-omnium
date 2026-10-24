@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0699",
+  "source": "https://en.wikipedia.org/wiki/Southern_Han",
+  "revisionId": 1373683267,
+  "fetchedAt": "2026-10-24T15:59:55.962Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Five_Dynasties_Ten_Kingdoms_923_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Five_Dynasties_Ten_Kingdoms_923_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Five_Dynasties_Ten_Kingdoms_923_CE.png/330px-Five_Dynasties_Ten_Kingdoms_923_CE.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Five_Dynasties_Ten_Kingdoms_923_CE.png",
+      "artist": "Ian Kiu",
+      "credit": "Own work",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "attribution": ""
+    }
+  }
+}

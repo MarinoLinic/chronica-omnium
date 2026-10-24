@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0669",
+  "source": "https://en.wikipedia.org/wiki/Zhou_dynasty",
+  "revisionId": 1381693677,
+  "fetchedAt": "2026-10-24T15:59:47.868Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zhou_dynasty_1000_BC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zhou_dynasty_1000_BC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://upload.wikimedia.org/wikipedia/commons/8/89/Zhou_dynasty_1000_BC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Zhou_dynasty_1000_BC.png",
+      "artist": "Territories_of_Dynasties_in_China.gif: Ian Kiu",
+      "credit": "Territories_of_Dynasties_in_China.gif: Albert Herrmann (1935). History and Commercial Atlas of China. Harvard University Press. from \"The Chou Dynasty, 11th-9th Centuries B.C.\"",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

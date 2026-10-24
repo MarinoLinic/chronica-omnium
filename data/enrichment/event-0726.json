@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0726",
+  "source": "https://en.wikipedia.org/wiki/Pratihara_dynasty",
+  "revisionId": 1381408952,
+  "fetchedAt": "2026-10-24T16:00:03.069Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pratihara_bhoja.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pratihara_bhoja.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pratihara_bhoja.JPG/330px-Pratihara_bhoja.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pratihara_bhoja.JPG",
+      "artist": "User:Ancientcoinsofindia1, English Wikipedia",
+      "credit": "Coins of India website\n\n( Uploaded By owner Amol N. Bankar , ancientcoinsofindia@yahoo.co.in )",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "attribution": ""
+    }
+  }
+}

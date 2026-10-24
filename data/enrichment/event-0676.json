@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0676",
+  "source": "https://en.wikipedia.org/wiki/Eastern_Wei",
+  "revisionId": 1362820782,
+  "fetchedAt": "2026-10-24T15:59:49.367Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Eastern_Wei_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Wei_map.jpg/960px-Eastern_Wei_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Wei_map.jpg/330px-Eastern_Wei_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Eastern_Wei_map.jpg",
+      "artist": "SS",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

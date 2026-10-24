@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0775",
+  "source": "https://en.wikipedia.org/wiki/Magna_Carta",
+  "revisionId": 1381090004,
+  "fetchedAt": "2026-10-24T16:00:19.962Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/330px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+      "artist": "Original authors were the barons and King John of England. Uploaded by Earthsound.",
+      "credit": "This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack It is also made available on a British Library website.\nCatalogue entry: Cotton MS Augustus II 106",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "attribution": ""
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0758",
+  "source": "https://en.wikipedia.org/wiki/Battle_of_Red_Cliffs",
+  "revisionId": 1370587339,
+  "fetchedAt": "2026-10-24T16:00:13.799Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chibi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chibi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chibi.jpg/330px-Chibi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Chibi.jpg",
+      "artist": "User Jie on en.wikipedia",
+      "credit": "Originally from en.wikipedia; description page is (was) here\n\n08:26, 29 August 2004 Jie 416x350 (24,260 bytes) (Photo of the traditional site of Chibi, north of Wulin, taken in 2003.)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "attribution": ""
+    }
+  }
+}

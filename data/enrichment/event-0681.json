@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0681",
+  "source": "https://en.wikipedia.org/wiki/Southern_Qi",
+  "revisionId": 1335224123,
+  "fetchedAt": "2026-10-24T15:59:50.668Z",
+  "image": {
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Southern_Qi_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "display": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Southern_Qi_map.jpg/960px-Southern_Qi_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "small": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Southern_Qi_map.jpg/330px-Southern_Qi_map.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "credit": {
+      "source": "https://commons.wikimedia.org/wiki/File:Southern_Qi_map.jpg",
+      "artist": "SS",
+      "credit": "This image has been extracted from another file",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": ""
+    }
+  }
+}

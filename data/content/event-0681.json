@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "eventId": "event-0681",
+  "source": "https://en.wikipedia.org/wiki/Southern_Qi",
+  "title": "Southern Qi",
+  "revisionId": 1335224123,
+  "revisionTimestamp": "2026-01-28T01:49:21Z",
+  "fetchedAt": "2026-10-24T15:59:50.668Z",
+  "method": "mediawiki-intro-extract",
+  "status": "review",
+  "license": "CC BY-SA 4.0; see source history and contributors",
+  "text": "Qi, known in historiography as the Southern Qi (traditional Chinese: 南齊; simplified Chinese: 南齐; pinyin: Nán Qí or 南朝齊; 南朝齐; Nán Cháo Qí) or Xiao Qi (蕭齊; 萧齐; Xiāo Qí), was a Chinese imperial dynasty and the second of the four Southern dynasties during the Northern and Southern dynasties era. It followed the Liu Song dynasty and was succeeded by the Liang dynasty. The main polity to its north was the Northern Wei."
+}
