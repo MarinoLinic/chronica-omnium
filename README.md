@@ -1,5 +1,13 @@
 # Chronica Omnium
 
+## Screenshots
+
+| Chronicle | Timeline |
+| --- | --- |
+| ![Chronicle](docs/screenshots/desktop.png) | ![Timeline](docs/screenshots/detail.png) |
+
+![Chronica Omnium workflow diagram](docs/overview.svg)
+
 A history of the world, from deep time to the present. A static React reader is built from ordinary local JSON records, attributed article snapshots, and an image cache. Research tools stay under **Tools → Local catalog** (`/catalog`).
 
 ## Run locally
